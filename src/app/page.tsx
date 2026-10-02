@@ -3,6 +3,7 @@ import { collectionNotes, countries, dataset, measures, settings } from '@/lib/d
 import { europeShapes } from '@/lib/map';
 import { CountryCode } from '@/lib/schema';
 import { cleanDomain } from '@/lib/benchmark';
+import { examples } from '@/lib/examples';
 
 const MAP = { width: 520, height: 640 };
 
@@ -42,6 +43,7 @@ export default async function Home({ searchParams }: { searchParams: Search }) {
         shapes={europeShapes(MAP.width, MAP.height)}
         mapSize={MAP}
         initial={initial}
+        examples={examples}
       />
 
       <section className="method" id="method">

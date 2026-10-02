@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import type { Connection, Country, CountryCode, Dataset, Settings } from '@/lib/schema';
 import type { Measure } from '@/lib/data';
 import type { MapShape } from '@/lib/map';
+import type { Example } from '@/lib/examples';
 import { benchmark, cleanDomain, findEditor, forCategory, withSubject, type Subject } from '@/lib/benchmark';
 import { activeIn, averageCoverage, confidence } from '@/scoring';
 import { EuropeMap } from './EuropeMap';
@@ -18,13 +19,14 @@ type Props = {
   shapes: MapShape[];
   mapSize: { width: number; height: number };
   initial: { domain: string; countries: CountryCode[]; category: string };
+  examples: Record<string, Example[]>;
 };
 
 type ScanState = { status: 'idle' } | { status: 'reading'; domain: string } | { status: 'error'; message: string };
 
 const MAX_COUNTRIES = 3;
 
-export function Benchmark({ dataset, countries, settings, measures, shapes, mapSize, initial }: Props) {
+export function Benchmark({ dataset, countries, settings, measures, shapes, mapSize, initial, examples }: Props) {
   const [picked, setPicked] = useState(initial.category);
   const [selected, setSelected] = useState<CountryCode[]>(initial.countries);
   const [active, setActive] = useState<CountryCode>(initial.countries[0]);
@@ -115,6 +117,14 @@ export function Benchmark({ dataset, countries, settings, measures, shapes, mapS
     setActive(code);
   };
 
+  // An example opens on the vendor's row, in the country where its gap shows.
+  const tryExample = (ex: Example) => {
+    setDomainInput(ex.domain);
+    if (!selected.includes(ex.country)) setSelected([ex.country, ...selected.filter((c) => c !== ex.country)].slice(0, MAX_COUNTRIES));
+    setActive(ex.country);
+    void resolve(ex.domain);
+  };
+
   const activeCountry = countries.find((c) => c.code === active)!;
   const subjectName = subject
     ? subject.kind === 'editor'
@@ -181,6 +191,16 @@ export function Benchmark({ dataset, countries, settings, measures, shapes, mapS
               {scan.status === 'reading' ? 'Reading…' : 'Show my gaps'}
             </button>
           </div>
+          {(examples[view.category] ?? []).length > 0 && (
+            <p className="examples">
+              <span>No domain in mind? Try</span>
+              {(examples[view.category] ?? []).map((ex) => (
+                <button key={ex.domain} type="button" className="example" onClick={() => tryExample(ex)} title={`${ex.domain}, shown in ${countries.find((c) => c.code === ex.country)?.name}`}>
+                  {ex.name}
+                </button>
+              ))}
+            </p>
+          )}
         </form>
       </section>
 
