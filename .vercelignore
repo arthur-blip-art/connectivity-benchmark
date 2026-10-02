@@ -7,3 +7,4 @@ collector/raw/*.pdf
 collector/raw/whitepaper*.txt
 collector/raw/peppol-be-*.jsonl
 .env.local
+.internal-key

@@ -11,3 +11,4 @@ tsconfig.tsbuildinfo
 next-env.d.ts
 collector/raw/*.pdf
 collector/raw/whitepaper*.txt
+.internal-key
