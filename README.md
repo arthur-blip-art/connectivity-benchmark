@@ -9,6 +9,11 @@ it. Here, a vendor picks its vertical and sees how its accounting coverage compa
 
 Scope: nine verticals, the ten countries of Chift's State of European Accounting Tech 2026.
 
+**Live:** https://connectivity-benchmark-ag.vercel.app (try `/?domain=mooncard.co&countries=DE,BE`).
+The hosted demo keeps leads in each serverless instance's `/tmp`, so a lead may not show in the internal view
+served by another instance, and nothing survives a redeploy. The internal view opens with `?key=` (set by
+`INTERNAL_KEY`). Run it locally for the full lead and routing flow; production would put the store in Postgres.
+
 ## Run it
 
 ```bash
