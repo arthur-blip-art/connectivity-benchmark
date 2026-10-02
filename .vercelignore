@@ -1,0 +1,8 @@
+# Never uploaded: local data, the white paper PDF and its text, raw scraping outputs
+.data
+.env
+.next
+node_modules
+collector/raw/*.pdf
+collector/raw/whitepaper*.txt
+collector/raw/peppol-be-*.jsonl

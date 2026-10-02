@@ -1,0 +1,845 @@
+{
+ "verified_at": "2026-10-01",
+ "rows": [
+  {
+   "editorId": "agicap",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage 50",
+   "note": "Sage 50 listed under ERP & Buchhaltung on the DE integrations page; no mechanism given, consistent with kind unknown."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Die Daten werden über verschlüsselte API-Verbindungen übertragen.",
+   "note": "DATEV page describes bidirectional flows over encrypted API connections."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Relevante Daten und offene Rechnungen werden automatisiert und in Echtzeit von Ihrer Buchhaltungssoftware in die Liquiditätsplanung übermittelt.",
+   "note": "lexoffice integration set up in-app with automatic real-time transfer, consistent with a direct API sync."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Ihre Aufträge und Rechnungen synchronisiert Agicap automatisch",
+   "note": "sevdesk integration set up in-app with automatic sync, consistent with a direct API sync."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "sage-intacct",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage Intacct",
+   "note": "Sage Intacct listed under ERP & Accounting on the EN integrations page; no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Data flows through encrypted API or SFTP connections.",
+   "note": "QuickBooks page states encrypted API or SFTP data flows."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Data flows through encrypted API or SFTP connections.",
+   "note": "NetSuite page states encrypted API or SFTP data flows."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Data flows through encrypted API or SFTP connections.",
+   "note": "Xero page states encrypted API or SFTP data flows."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "sage-200",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "El conector oficial Win4Sync, desarrollado en exclusiva por el business partner tecnológico Winfor Consulting",
+   "note": "Sage 200 connection runs through partner connector Win4Sync (Winfor Consulting)."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "a3-erp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "A3erp",
+   "note": "A3erp listed under ERP & Contabilidad on the ES integrations page; no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "acd",
+   "verdict": "wrong_kind",
+   "suggested_kind": "unknown",
+   "quote": "ACD",
+   "note": "ACD is only listed under ERP & Comptabilité with no mechanism; this page does not mention Chift or any partner."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cegid Quadra",
+   "note": "Cegid Quadra listed under ERP & Comptabilité on the FR integrations page; no mechanism."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "EBP",
+   "note": "EBP listed under ERP & Comptabilité on the FR integrations page; no mechanism."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "holded",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Holded",
+   "note": "Holded listed under ERP & Comptabilité on the FR integrations page; no mechanism."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Dynamics 365 - Business Central",
+   "note": "Dynamics 365 Business Central listed under ERP & Comptabilité; no mechanism."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les données circulent via des connexions API chiffrées ou SFTP.",
+   "note": "Odoo page states encrypted API or SFTP flows; Chift not mentioned on the page."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les données circulent via des connexions API chiffrées ou SFTP.",
+   "note": "Pennylane page states encrypted API or SFTP flows; Chift not mentioned on the page."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les données circulent via des connexions API chiffrées ou SFTP.",
+   "note": "Sage 100 page states encrypted API or SFTP flows."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "datev-koinos",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Datev Koinos",
+   "note": "Datev Koinos listed under ERP & Contabilità on the IT integrations page; no mechanism."
+  },
+  {
+   "editorId": "agicap",
+   "softwareId": "profis",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sistemi – PROFIS",
+   "note": "Sistemi PROFIS listed under ERP & Contabilità on the IT integrations page; no mechanism."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "ACD http://help.chift.app/articles/9297801393-acd?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "afas",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "AFAS (beta) https://help.chift.app/articles/1524023590-afas?lang=en",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cegid Loop https://help.chift.app/articles/8678889120-cegid-loop?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exact Online FR https://help.chift.app/articles/8093104901-exact-online-fr?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "freeagent",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "FreeAgent https://help.chift.app/articles/6982450548-freeagent?lang=en",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Fulll https://help.chift.app/articles/6036788417-fulll?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Inqom https://help.chift.app/articles/1602400380-inqom?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Dynamics 365 Business Central (beta) https://help.chift.app/articles/9709526268-dynamics-365-business-central?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "MyUnisoft https://help.chift.app/articles/7397218254-myunisoft?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Odoo https://help.chift.app/articles/7508001423-odoo?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pennylane https://help.chift.app/articles/9277286785-pennylane?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Quickbooks Accounting https://help.chift.app/articles/1919343388-quickbooks-accounting?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage 100 https://help.chift.app/articles/3664395354-sage-100-fr?lang=en",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "sage-bob-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage BOB 50 https://help.chift.app/articles/8852915584-sage-bob-50?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage Génération Experts https://help.chift.app/articles/7376953121-sage-g-n-ration-experts?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Tiime https://help.chift.app/articles/9349828140-tiime?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Xero https://help.chift.app/articles/9332701143-xero?lang=fr",
+   "note": "Listed in the API-connection compatible software table (transmits entries without a file), setup guide hosted on help.chift.app (page read rendered in browser); via Chift."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Ces options de formatage sont généralement utilisées pour les fichiers à longueur fixe tels que les formats natifs de SAGE et de CEGID.",
+   "note": "Export-format templates page names CEGID native file formats but not Quadra specifically."
+  },
+  {
+   "editorId": "lucca",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Générez toutes les écritures de comptabilité générale ou analytique de vos notes de frais",
+   "note": "EBP shown in the accounting-software logo strip with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "ACD | Transactions | Jedeclare",
+   "note": "Transactions synced through Jedeclare, a third party."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "billy",
+   "verdict": "not_supported",
+   "suggested_kind": "",
+   "quote": "Hey Billy | Factures | API directe",
+   "note": "The page names Hey Billy, which looks like a different product from Billy (Ageras, Denmark); Billy itself isn't listed."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "cegid-experts",
+   "verdict": "wrong_kind",
+   "suggested_kind": "via_partner",
+   "quote": "Cegid Expert | Transactions | Jedeclare",
+   "note": "Cegid Expert gets transactions via Jedeclare (third party), not a direct API."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "cegid-loop",
+   "verdict": "wrong_kind",
+   "suggested_kind": "via_partner",
+   "quote": "Cegid Loop | Transactions | Jedeclare, TransfertBANQUE",
+   "note": "Cegid Loop gets transactions via Jedeclare/TransfertBANQUE (third parties), not a direct API."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cegid Quadra | Transactions | Jedeclare, TransfertBANQUE",
+   "note": "Transactions via Jedeclare or TransfertBANQUE, third parties."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "EBP | Transactions | Jedeclare, Powens",
+   "note": "Transactions via Jedeclare or Powens, third parties."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Fulll | Transactions | Jedeclare",
+   "note": "Transactions via Jedeclare, a third party."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "indy",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Indy | Transactions, factures | API directe",
+   "note": "Direct API for transactions and invoices."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Inqom | Transactions | Jedeclare, Bridge",
+   "note": "Transactions via Jedeclare or Bridge, third parties."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "isacompta",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Agiris | Transactions | Jedeclare, TransfertBANQUE",
+   "note": "Page names Agiris (Isacompta's publisher) rather than Isacompta; via Jedeclare/TransfertBANQUE."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "MyUnisoft | Transactions | Jedeclare, TransfertBANQUE",
+   "note": "Transactions via Jedeclare or TransfertBANQUE, third parties."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pennylane | Transactions, Factures | API directe",
+   "note": "Direct API for transactions and invoices."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage 100 | Transactions | TransfertBANQUE",
+   "note": "Transactions via TransfertBANQUE, a third party."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage 50 Ciel | Transactions | Bridge, TransfertBANQUE",
+   "note": "Transactions via Bridge or TransfertBANQUE, third parties."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage Génération Experts | Transactions | Jedeclare, TransfertBANQUE",
+   "note": "Transactions via Jedeclare or TransfertBANQUE, third parties."
+  },
+  {
+   "editorId": "shine",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Tiime | Transactions | Jedeclare, Powens",
+   "note": "Transactions via Jedeclare or Powens, third parties."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "cegid-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "L'export fait depuis Libeo se présente sous format .zip, il faut d'abord extraire l'ensemble des fichiers",
+   "note": "Export with the Cegid templates (.zip with a .TRA file), then import into Cegid Expert via ComSx."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cliquez sur l'onglet « Comptabilité » ; Cliquez sur l'onglet « Export comptable »",
+   "note": "Export entries with the Sage 50 template as a CSV file, then import it into Sage 50 via configurable imports."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Déroulez le menu « Outils », choisissez « Suivi du dossier » puis cliquez sur « Import Ascii Compta »",
+   "note": "Export with the Quadratus templates, then import into QuadraCompta via Import Ascii."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Dans « Fichier à importer », sélectionner le fichier .txt généré depuis Libeo",
+   "note": "Export with the EBP templates, then import the .txt file into EBP."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "L'intégration par API Libeo x Inqom vous permet de récupérer les factures et les avoirs de vos clients",
+   "note": "API integration; Chift isn't mentioned on the page."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "isacompta",
+   "verdict": "wrong_kind",
+   "suggested_kind": "unknown",
+   "quote": "Intégrer dans Agiris/Isagri/Isacompta les écritures comptables avec pièces et ou analytique",
+   "note": "The collection page only lists an article title naming Isacompta, with no mechanism stated."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les pièces et écritures comptables sont envoyées par API dans ACD",
+   "note": "Entries sent by API; Chift isn't mentioned on the page."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les pièces et écritures comptables sont envoyées par API dans Cegid Loop.",
+   "note": "Entries sent by API."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les pièces et écritures comptables sont envoyées par API dans MyUnisoft.",
+   "note": "Entries sent by API (an import e-mail is also offered); Chift isn't mentioned."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les pièces et écritures comptables sont envoyées par API dans Odoo",
+   "note": "Entries sent by API using an Odoo API key; Chift isn't mentioned."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les pièces et écritures comptables sont envoyées par API dans Pennylane",
+   "note": "Entries sent by API; Chift isn't mentioned."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les pièces et écritures comptables sont envoyées par API dans Sage 100.",
+   "note": "Entries sent by API."
+  },
+  {
+   "editorId": "libeo",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les pièces et écritures comptables sont envoyées par API dans Sage Génération Experts.",
+   "note": "Entries sent by API; Chift isn't mentioned."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Doxis offers an integration with DATEV to easily synchronize your data via an API.",
+   "note": "Two-way API integration (the page brands the product as Doxis)."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Create booking proposals to Microsoft Dynamics via real-time integration",
+   "note": "Real-time two-way integration with Dynamics 365 Business Central, consistent with a direct sync."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Doxis offers a NetSuite integration to easily synchronize your data via an API.",
+   "note": "Two-way API integration."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Quickbooks and Doxis are official partners and offer a link an integration to synchronise your data.",
+   "note": "Official two-way, real-time integration, consistent with a direct sync."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Doxis offers an integration with Xero to easily synchronize your data via an API.",
+   "note": "Two-way API integration."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "afas",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "De koppeling werkt via een API-integratie die Doxis SpendControl realtime verbindt met AFAS.",
+   "note": "Real-time API integration."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "De koppeling werkt via een API-integratie die Doxis realtime verbindt met Exact Online.",
+   "note": "Real-time API integration."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "minox",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Middels een API-koppeling met Minox boek je vanuit Doxis eenvoudig declaraties en facturen in het ERP-pakket.",
+   "note": "API link that books expenses and invoices into Minox."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "De koppeling werkt via een API-integratie die Doxis realtime verbindt met Odoo.",
+   "note": "Real-time API integration."
+  },
+  {
+   "editorId": "klippa",
+   "softwareId": "twinfield",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "De koppeling werkt via een API-integratie die Doxis SpendControl realtime verbindt met Twinfield.",
+   "note": "Real-time API integration."
+  },
+  {
+   "editorId": "payfit",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Synchronisation directe et fluide entre Payfit et la base de données Odoo via le connecteur Sodexis",
+   "note": "Payroll data goes to Odoo Accounting through the connector built by Sodexis, a third party."
+  },
+  {
+   "editorId": "payfit",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cette intégration permet de synchroniser automatiquement les écritures comptables générées par Payfit aux écritures comptables de Pennylane.",
+   "note": "Automatic monthly sync after OAuth activation (page read rendered in browser)."
+  },
+  {
+   "editorId": "payfit",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Click \"Change your accounting software\" to select the export format (Xero, Sage 50, QuickBooks or NetSuite).",
+   "note": "A journal file is generated monthly in the chosen export format (page read rendered in browser)."
+  },
+  {
+   "editorId": "payfit",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Click \"Change your accounting software\" to select the export format (Xero, Sage 50, QuickBooks or NetSuite).",
+   "note": "A journal file is generated monthly in the chosen export format."
+  },
+  {
+   "editorId": "payfit",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Click \"Change your accounting software\" to select the export format (Xero, Sage 50, QuickBooks or NetSuite).",
+   "note": "A journal file is generated monthly in the chosen export format."
+  },
+  {
+   "editorId": "payfit",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Click \"Change your accounting software\" to select the export format (Xero, Sage 50, QuickBooks or NetSuite).",
+   "note": "A journal file is generated monthly in the chosen export format."
+  },
+  {
+   "editorId": "payfit",
+   "softwareId": "holded",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "encontrarás un informe llamado \"Resumen de Nóminas - Holded\". Descarga ese fichero",
+   "note": "Download the payroll report file from Payfit and import it in Holded (page read rendered in browser)."
+  },
+  {
+   "editorId": "commitly",
+   "softwareId": "fastbill",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Offene Posten aus FastBill laufen in die Planung.",
+   "note": "FastBill listed among integrations whose open items flow automatically into planning, consistent with a native sync."
+  },
+  {
+   "editorId": "commitly",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Die Anbindung wird gepflegt und läuft über die offizielle Schnittstelle — nicht über einen nachgebauten Zugang",
+   "note": "Official interface with one-time authorization and automatic sync, no file export."
+  },
+  {
+   "editorId": "commitly",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Die Verbindung ist eine Freigabe, kein Datei-Export.",
+   "note": "Authorization-based automatic read sync of open items."
+  },
+  {
+   "editorId": "commitly",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "DATEV-Zugriff wird über OAuth2 hergestellt; Tokens werden automatisch aktualisiert.",
+   "note": "Invoice PDFs pushed to DATEV via Rechnungsdatenservice over OAuth2."
+  },
+  {
+   "editorId": "commitly",
+   "softwareId": "agenda",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Lade Deine OPOS-Liste aus Agenda herunter",
+   "note": "Agenda OPOS list exported as a file and uploaded via the Agenda button."
+  },
+  {
+   "editorId": "finom",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Accounting: DATEV (DE), Lexware, sevDesk, Xero, QuickBooks.",
+   "note": "Listed under accounting integrations with no mechanism."
+  },
+  {
+   "editorId": "finom",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Accounting: DATEV (DE), Lexware, sevDesk, Xero, QuickBooks.",
+   "note": "Listed under accounting integrations with no mechanism."
+  },
+  {
+   "editorId": "finom",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Accounting: DATEV (DE), Lexware, sevDesk, Xero, QuickBooks.",
+   "note": "Listed under accounting integrations with no mechanism."
+  },
+  {
+   "editorId": "finom",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "automatically syncs your settled Finom transactions with Lexware Office",
+   "note": "Two automatic syncs (documents and PSD2 transactions), consistent with a direct sync."
+  },
+  {
+   "editorId": "finom",
+   "softwareId": "datev",
+   "verdict": "wrong_kind",
+   "suggested_kind": "via_partner",
+   "quote": "forwarded to a page from finAPI. This service is being used to connect DATEV and FINOM.",
+   "note": "DATEV connection is a PSD2/XS2A bank feed through finAPI, a third party; no Belegbilderservice upload is mentioned."
+  },
+  {
+   "editorId": "jenji",
+   "softwareId": "isacompta",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Agiris",
+   "note": "The grid shows Agiris (Isacompta's publisher), not Isacompta itself; no mechanism per software."
+  },
+  {
+   "editorId": "jenji",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Microsoft Dynamics",
+   "note": "Logo in the ERP & Comptabilité grid; the page only says connectors use file transfers or APIs, with no mechanism per software."
+  },
+  {
+   "editorId": "jenji",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Quickbooks",
+   "note": "Logo in the ERP & Comptabilité grid; no mechanism per software."
+  },
+  {
+   "editorId": "jenji",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Xero",
+   "note": "Logo in the ERP & Comptabilité grid; no mechanism per software."
+  },
+  {
+   "editorId": "tidely",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Die Daten werden ab jetzt jeden Morgen zu Tidely synchronisiert",
+   "note": "Microsoft login authorizes a direct daily sync."
+  },
+  {
+   "editorId": "tidely",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Die Datenübertragung erfolgt Ende-zu-Ende verschlüsselt über einen offiziellen, zertifizierten DATEV-Schnittstellenpartner.",
+   "note": "OPOS synced through an unnamed certified DATEV interface partner."
+  },
+  {
+   "editorId": "tidely",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "autorisiere die Verbindung zu Lexware Office",
+   "note": "Authorized connection with automatic sync, consistent with a direct sync."
+  },
+  {
+   "editorId": "tidely",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Dort wählst du sevDesk aus und gibst anschließend den API-Key ein.",
+   "note": "Connection via a sevDesk API key, with automatic sync of open items."
+  },
+  {
+   "editorId": "mooncard",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Quickbooks is compatible with Mooncard management software.",
+   "note": "Named as compatible with no specific mechanism."
+  },
+  {
+   "editorId": "mooncard",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Compatible avec Mooncard, il permet l’intégration automatique des données comptables",
+   "note": "Named as compatible with automatic integration, but no mechanism given."
+  }
+ ]
+}

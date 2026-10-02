@@ -1,0 +1,629 @@
+{
+  "verified_at": "2026-10-01",
+  "rows": [
+    {
+      "editorId": "circula",
+      "softwareId": "addison",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Circula integriert direkt mit ADDISON OneClick.",
+      "note": "Help article describes \"Übertragung zu ADDISON\" with ADDISON login; the \"API-Integration\" tag from the evidence is not on this page but direct transfer is described."
+    },
+    {
+      "editorId": "circula",
+      "softwareId": "datev",
+      "verdict": "unreadable",
+      "suggested_kind": "",
+      "quote": "",
+      "note": "Cloudflare challenge page (HTTP 403, 'Just a moment...'); not bypassed"
+    },
+    {
+      "editorId": "circula",
+      "softwareId": "exact-online",
+      "verdict": "unreadable",
+      "suggested_kind": "",
+      "quote": "",
+      "note": "Cloudflare challenge page (HTTP 403, 'Just a moment...'); not bypassed"
+    },
+    {
+      "editorId": "expensya",
+      "softwareId": "cegid-loop",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "Connectez facilement Expensya à Cegid et aux différentes solutions de Cegid",
+      "note": "Cegid brand cited; Loop not named. Mechanism: dedicated export tool or .TRA file."
+    },
+    {
+      "editorId": "expensya",
+      "softwareId": "cegid-quadra",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "solutions de Cegid (dont Quadra et Quadratus)",
+      "note": "Stronger than family: page names Quadra and Quadratus explicitly (evidence prefix is inaccurate). Export tool or .TRA file -> file_export coherent."
+    },
+    {
+      "editorId": "expensya",
+      "softwareId": "fulll",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "exporter toutes les factures d'Expensya directement vers fulll en un seul clic",
+      "note": "Page speaks of \"format d'exportation directe\"; file_export is the cautious reading."
+    },
+    {
+      "editorId": "expensya",
+      "softwareId": "sage-100",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Sage x100 ... en utilisant des modèles d'exportation CSV/XLS prédéfinis",
+      "note": "Page writes \"Sage x100\" in a list of Sage products."
+    },
+    {
+      "editorId": "expensya",
+      "softwareId": "sage-generation-experts",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Sage Ciel, Sage Coala ou Sage 17, en utilisant des modèles d'exportation CSV/XLS",
+      "note": "Named as \"Sage Coala\" (former name)."
+    },
+    {
+      "editorId": "jenji",
+      "softwareId": "cegid-loop",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "logo alt=\"Cegid\" under \"ERP & Comptabilité\"",
+      "note": "Logo names are only in image alt text; Cegid logo present. Loop not named."
+    },
+    {
+      "editorId": "jenji",
+      "softwareId": "cegid-quadra",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "logo alt=\"Quadratus\" under \"ERP & Comptabilité\"",
+      "note": "Stronger than family: a separate \"Quadratus\" logo is on the page (evidence prefix is inaccurate). Mechanism not specified -> unknown coherent."
+    },
+    {
+      "editorId": "jenji",
+      "softwareId": "datev",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "logo alt=\"Datev\" under \"ERP & Comptabilité\"",
+      "note": "Logo only; page says connectors are file transfer or API without saying which -> unknown coherent."
+    },
+    {
+      "editorId": "jenji",
+      "softwareId": "odoo",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "logo alt=\"Odoo\" under \"ERP & Comptabilité\"",
+      "note": "Logo only; unknown coherent."
+    },
+    {
+      "editorId": "jenji",
+      "softwareId": "sage-100",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "logo alt=\"Sage\" under \"ERP & Comptabilité\"",
+      "note": "Sage logo only (a \"Ciel\" logo also present); no product named."
+    },
+    {
+      "editorId": "jenji",
+      "softwareId": "sage-generation-experts",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "logo alt=\"Sage\" under \"ERP & Comptabilité\"",
+      "note": "Sage logo only; no product named."
+    },
+    {
+      "editorId": "mooncard",
+      "softwareId": "cegid-loop",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "formats de fichiers référencés par Mooncard (ex. Sage, Cegid, Quadratus…)",
+      "note": "Cegid named as export file format; Loop not named."
+    },
+    {
+      "editorId": "mooncard",
+      "softwareId": "cegid-quadra",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "formats de fichiers référencés par Mooncard (ex. Sage, Cegid, Quadratus…)",
+      "note": "Stronger than family: \"Quadratus\" is named explicitly as a file format."
+    },
+    {
+      "editorId": "mooncard",
+      "softwareId": "ebp",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Paramétrez le format d’import selon vos besoins",
+      "note": "Page also says \"compatibilité 100 % native ... automatise le déversement\"; file mechanism is implied by \"format d'import\", not spelled out."
+    },
+    {
+      "editorId": "mooncard",
+      "softwareId": "exact-online",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Mooncard déverse automatiquement vos données comptables pré-complétées dans Exact Online",
+      "note": "Exact Online named; page says \"intégration directe\" and \"paramétrez l'import\" without mechanism -> unknown coherent."
+    },
+    {
+      "editorId": "mooncard",
+      "softwareId": "pennylane",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Depuis la page Paramètres > Connectivité, générez un token API",
+      "note": "Fragile: article is about connecting the Pennylane e-invoicing account (RFE), not a classic accounting export. It does say invoices and expense data flow and accounting is centralised in Pennylane. Keep only if an e-invoicing-driven API link counts."
+    },
+    {
+      "editorId": "mooncard",
+      "softwareId": "sage-100",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "importer directement votre fichier d’écritures comptables dans votre logiciel Sage",
+      "note": "Sage brand cited with file import. Only product named is the umbrella \"Sage Business Cloud\"; Sage 100 is not named."
+    },
+    {
+      "editorId": "mooncard",
+      "softwareId": "sage-generation-experts",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "importer directement votre fichier d’écritures comptables dans votre logiciel Sage",
+      "note": "Sage brand cited with file import. Only product named is the umbrella \"Sage Business Cloud\"; Génération Experts/Coala not named."
+    },
+    {
+      "editorId": "moss",
+      "softwareId": "addison",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Moss prepares your spend data in an Addison-compatible CSV format",
+      "note": "Covers OneClick and Akte (tse:nit)."
+    },
+    {
+      "editorId": "moss",
+      "softwareId": "datev",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Moss connects your company directly with DATEV Unternehmen Online or Rechnungswesen",
+      "note": "Official DATEV interface partner; listing labels DATEV \"API\"."
+    },
+    {
+      "editorId": "moss",
+      "softwareId": "exact-online",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Exact Online API",
+      "note": "Listing under \"Accounting Tools\"; Exact Globe is a separate card."
+    },
+    {
+      "editorId": "moss",
+      "softwareId": "lexware-office",
+      "verdict": "not_supported",
+      "suggested_kind": "",
+      "quote": "Lexware CSV",
+      "note": "Card says only \"Lexware\" (CSV), no detail page; neither \"Lexware Office\" nor \"lexoffice\" appears anywhere on the page. Product not identifiable (could be classic desktop Lexware)."
+    },
+    {
+      "editorId": "moss",
+      "softwareId": "odoo",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Odoo API",
+      "note": "Listing under \"Accounting Tools\"."
+    },
+    {
+      "editorId": "moss",
+      "softwareId": "sap-business-one",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Moss connects to SAP B1 via API.",
+      "note": ""
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "acd",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "N2F s’intègre à ACD",
+      "note": "Dedicated page, generic template text, no mechanism -> unknown coherent."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "addison",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Addison",
+      "note": "Card with Addison logo on the German integrations listing, no link, no detail -> unknown coherent."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "agenda",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Agenda",
+      "note": "Card with Agenda logo on the German integrations listing, no link, no detail -> unknown coherent."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "cegid-loop",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "logiciels comptables et ERP du marché : Sage, Cegid, SAP, EBP",
+      "note": "Cegid brand cited on accounting-export page; Loop not named."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "cegid-quadra",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "logiciels comptables et ERP du marché : Sage, Cegid, SAP, EBP",
+      "note": "Cegid brand cited on accounting-export page; Quadra not named."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "datev",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "offiziell zugelassenen DATEV-Konnektor (Rechnungsdatenservice 1.0)",
+      "note": ""
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "ebp",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "logiciels comptables et ERP du marché : Sage, Cegid, SAP, EBP",
+      "note": "EBP named; entries generated \"au format accepté\" -> file_export coherent."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "exact-online",
+      "verdict": "not_supported",
+      "suggested_kind": "",
+      "quote": "N2F s’intègre à Exact",
+      "note": "Page names only the brand \"Exact\"; \"Exact Online\" never appears (could be Exact Globe or other). Brand-only case, not covered by the accepted Sage/Cegid exception."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "fulll",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "N2F s’intègre à fulll",
+      "note": "Dedicated page, generic template text -> unknown coherent."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "lexware-office",
+      "verdict": "not_supported",
+      "suggested_kind": "",
+      "quote": "Buchhaltungs- und ERP-Systeme wie SAP, DATEV oder Lexware",
+      "note": "Page names only \"Lexware\"; neither \"Lexware Office\" nor \"lexoffice\" appears. Product not identifiable."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "myunisoft",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "N2F s’intègre à MyUnisoft",
+      "note": "Dedicated page, generic template text -> unknown coherent."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "odoo",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "N2F integrates with odoo",
+      "note": "Dedicated page, generic template text -> unknown coherent."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "pennylane",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "N2F s’intègre à pennylane",
+      "note": "Dedicated page, generic template text -> unknown coherent."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "sage-100",
+      "verdict": "wrong_kind",
+      "suggested_kind": "unknown",
+      "quote": "Export au format natif Sage (fichiers compatibles, API ou connecteurs tiers)",
+      "note": "Sage 100 is named (\"solutions Sage (Sage 100, Sage FRP, ...)\") but the mechanism is given as files, API or third-party connectors without saying which applies to Sage 100; \"api\" is not established."
+    },
+    {
+      "editorId": "n2f",
+      "softwareId": "sage-generation-experts",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "logiciels comptables et ERP du marché : Sage, Cegid, SAP, EBP",
+      "note": "Sage brand cited on accounting-export page; Génération Experts not named."
+    },
+    {
+      "editorId": "payhawk",
+      "softwareId": "cegid-loop",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "Export data from Payhawk to Cegid with our predefined CSV/XLS export templates.",
+      "note": "Cegid card (Accounting); description is in the card image alt / page data. Loop not named."
+    },
+    {
+      "editorId": "payhawk",
+      "softwareId": "cegid-quadra",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "Export data from Payhawk to Cegid with our predefined CSV/XLS export templates.",
+      "note": "Cegid card (Accounting); Quadra not named."
+    },
+    {
+      "editorId": "payhawk",
+      "softwareId": "datev",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "sync live with DATEV Unternehmen Online",
+      "note": "Native integration, on DATEV Marketplace."
+    },
+    {
+      "editorId": "payhawk",
+      "softwareId": "exact-online",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "listed on the Exact Online Marketplace",
+      "note": "Page describes a \"direct integration\" with automatic sync."
+    },
+    {
+      "editorId": "payhawk",
+      "softwareId": "odoo",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Seamlessly connect Payhawk with Odoo through our partner-built integration.",
+      "note": "via_partner coherent, but the partner is not named on this page."
+    },
+    {
+      "editorId": "payhawk",
+      "softwareId": "pennylane",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Payhawk’s bi-directional Pennylane integration",
+      "note": "Native integration, real-time export."
+    },
+    {
+      "editorId": "payhawk",
+      "softwareId": "sage-100",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Export data from Payhawk to Sage 100 with our predefined CSV/XLS export templates.",
+      "note": "Sage 100 card distinct from Sage 50 and Sage 200."
+    },
+    {
+      "editorId": "payhawk",
+      "softwareId": "sap-business-one",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Export data from Payhawk to SAP Business One with our predefined CSV/XLS export templates.",
+      "note": "Distinct card from SAP S/4HANA and Business ByDesign."
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "acd",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "PLEO Solution de gestion des dépenses professionnelles.",
+      "note": "Row added to the file during verification. Source is ACD's own partners page: PLEO card under \"INTERFACES TECHNOLOGIQUES / Nos interconnexions\"; no mechanism -> unknown coherent."
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "addison",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Use Pleo’s custom CSV template for ADDISON OneClick",
+      "note": ""
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "cegid-loop",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Export your Pleo expenses right into Cegid Loop in a click",
+      "note": "Automatic sync, journals synchronised; \"Developers: Pleo\"."
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "datev",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Our DATEV KR (Buchungsdatenservice) integration automatically pushes every transaction",
+      "note": "KR and UO integrations described."
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "exact-online",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Every Pleo expense is instantly exported to Exact Online",
+      "note": ""
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "lexware-office",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "synced to Lexoffice in real time",
+      "note": "Page uses the former name \"Lexoffice\" (= Lexware Office); syncs GL accounts and tax rates."
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "myunisoft",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Synchronisez votre compte Pleo avec le reste de vos outils professionnels",
+      "note": "Row added to the file during verification. Source is MyUnisoft's own partner page \"Partenaire Pleo\"; text is generic and gives no mechanism -> unknown coherent."
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "odoo",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Pleo syncs tags, VAT codes, and Analytics Plans from Odoo",
+      "note": ""
+    },
+    {
+      "editorId": "pleo",
+      "softwareId": "sap-business-one",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "automatically syncing your accounting master data, purchase invoices, and payments",
+      "note": "SAP Business One named; \"No more CSVs\"."
+    },
+    {
+      "editorId": "pliant",
+      "softwareId": "buchhaltungsbutler",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "imported as Pliant’ standard CSV bank statement or in DATEV format",
+      "note": "Plus receipt forwarding by email; listing labels it \"File export/import (CSV)\"."
+    },
+    {
+      "editorId": "pliant",
+      "softwareId": "datev",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "DATEV integration via DATEV Rechnungsdatenservice 1.0 to DATEV Unternehmen Online (DUO)",
+      "note": "Official DATEV integration partner."
+    },
+    {
+      "editorId": "pliant",
+      "softwareId": "lexware-office",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "automatically import your GL accounts from Lexware Office into Pliant",
+      "note": "Lexware Office named explicitly; the \"API integration\" label is on the listing page, the detail page describes the sync."
+    },
+    {
+      "editorId": "pliant",
+      "softwareId": "scopevisio",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Cloud-based ERP software for SMEs",
+      "note": "Scopevisio card with type \"API integration\" is in the page data (behind \"See all\", not in the first six visible cards); it links to scopevisio.com, no Pliant detail page."
+    },
+    {
+      "editorId": "rydoo",
+      "softwareId": "datev",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Direct API: sync expense data directly to DATEV via API.",
+      "note": "Uses Buchungsdatenservice."
+    },
+    {
+      "editorId": "rydoo",
+      "softwareId": "exact-online",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "connecting your current Exact Online account to your Rydoo account",
+      "note": "Page title is \"Exact\" but body names Exact Online; \"direct integration\"."
+    },
+    {
+      "editorId": "rydoo",
+      "softwareId": "sage-100",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "exported to Sage in a CSV or Excel file format",
+      "note": "Sage brand only; file via SFTP or email link."
+    },
+    {
+      "editorId": "rydoo",
+      "softwareId": "sage-generation-experts",
+      "verdict": "ok_family",
+      "suggested_kind": "",
+      "quote": "exported to Sage in a CSV or Excel file format",
+      "note": "Sage brand only; file via SFTP or email link."
+    },
+    {
+      "editorId": "rydoo",
+      "softwareId": "sap-business-one",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "connector is developed, owned, and supported by N'ware Technologies",
+      "note": ""
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "acd",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Developed by - Spendesk via Chift",
+      "note": "Native ACD integration with 2-way sync."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "cegid-loop",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "importer le journal d’achats Spendesk dans Cegid Loop",
+      "note": "Manual file import steps."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "cegid-quadra",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Vérifiez votre export personnalisé Cegid Quadra sur Spendesk",
+      "note": "CSV export; page notes Quadra needs the Qimport macro to convert CSV to its .ASCII format."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "datev",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Spendesk exports data to DATEV UO via Rechnungsdatenservice 1.0.",
+      "note": "Payables pushed natively; settlements only via CSV."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "ebp",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "importer votre journal d'achats Spendesk dans EBP",
+      "note": "Article title reads \"Cegid EBP Compta\"; zip file import."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "exact-online",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Developed by - Spendesk via Chift",
+      "note": "Exact Online named; two-way syncing."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "odoo",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Developed by - Spendesk via Chift",
+      "note": "Native two-way integration."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "pennylane",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "The Pennylane integration is an API integration built and maintained by Pennylane.",
+      "note": "api coherent; note it is built by Pennylane itself (the accounting vendor), not by Spendesk and not by a third party."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "sage-100",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Developed by - Spendesk via Chift",
+      "note": "Sage 100 named; \"Native API Imports\", settlements via CSV."
+    },
+    {
+      "editorId": "spendesk",
+      "softwareId": "sage-generation-experts",
+      "verdict": "ok",
+      "suggested_kind": "",
+      "quote": "Sage Coala / Sage Generation Experts Connect",
+      "note": "Manual file import steps."
+    }
+  ]
+}

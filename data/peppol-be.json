@@ -1,0 +1,416 @@
+{
+  "collected_at": "2026-10-01",
+  "method": "Random valid Belgian enterprise numbers (scheme 0208) resolved on the Peppol SML by DNS; for a random sub-sample, the access point certificate (OpenPeppol) names the service provider.",
+  "numbers_drawn": 43000,
+  "on_peppol": 5534,
+  "identified": 879,
+  "not_identified": 21,
+  "by_smp_host": [
+    {
+      "name": "smp.myflowin.com",
+      "n": 1473
+    },
+    {
+      "name": "smp.billit.be",
+      "n": 923
+    },
+    {
+      "name": "smp.peppol.storecove.com",
+      "n": 880
+    },
+    {
+      "name": "smp.horus-software.be",
+      "n": 434
+    },
+    {
+      "name": "smp.dokapi.io",
+      "n": 303
+    },
+    {
+      "name": "smp.crossinx.com",
+      "n": 294
+    },
+    {
+      "name": "peppol-smp.odoo.com",
+      "n": 284
+    },
+    {
+      "name": "smp.tradeinterop.com",
+      "n": 172
+    },
+    {
+      "name": "smp.octopus.be",
+      "n": 148
+    },
+    {
+      "name": "smp.peppol.comax.be",
+      "n": 105
+    },
+    {
+      "name": "smp.onfact.be",
+      "n": 80
+    },
+    {
+      "name": "peppol-smp-prod.digiteal.eu",
+      "n": 73
+    },
+    {
+      "name": "smp.tickstar.com",
+      "n": 49
+    },
+    {
+      "name": "smp.netropolix.be",
+      "n": 35
+    },
+    {
+      "name": "smp.routty.eu",
+      "n": 33
+    },
+    {
+      "name": "esmp.efact.be",
+      "n": 32
+    },
+    {
+      "name": "smp.scrada.be",
+      "n": 31
+    },
+    {
+      "name": "smp.b2brouter.net",
+      "n": 20
+    },
+    {
+      "name": "fe.babelway.net",
+      "n": 18
+    },
+    {
+      "name": "peppol-smp.adisoft.app",
+      "n": 13
+    },
+    {
+      "name": "as4.ademico-software.com",
+      "n": 11
+    },
+    {
+      "name": "smp.btx.eu.banqup.com",
+      "n": 9
+    },
+    {
+      "name": "pppl.ntgrl.net",
+      "n": 8
+    },
+    {
+      "name": "ar.babelway.net",
+      "n": 8
+    },
+    {
+      "name": "smp.peppolint.tech",
+      "n": 8
+    },
+    {
+      "name": "smp.econnect.eu",
+      "n": 7
+    },
+    {
+      "name": "smp.net.recommand.com",
+      "n": 7
+    },
+    {
+      "name": "smp.nymus.eu",
+      "n": 6
+    },
+    {
+      "name": "smp.peppol.klippa.com",
+      "n": 6
+    },
+    {
+      "name": "peppol-smp.eforge.be",
+      "n": 6
+    },
+    {
+      "name": "peppol-smp.prod.maventa.com",
+      "n": 5
+    },
+    {
+      "name": "smp.e-invoice.be",
+      "n": 5
+    },
+    {
+      "name": "peppol-smp.effectcloud.be",
+      "n": 4
+    },
+    {
+      "name": "smp.soluz.io",
+      "n": 4
+    },
+    {
+      "name": "smp.peppol.tigron.be",
+      "n": 4
+    },
+    {
+      "name": "eu1.babelway.net",
+      "n": 4
+    },
+    {
+      "name": "peppol-smp.edi-esker.de",
+      "n": 3
+    },
+    {
+      "name": "peppol.sedeb2b.com",
+      "n": 3
+    },
+    {
+      "name": "smp.peppol.descartes.com",
+      "n": 2
+    },
+    {
+      "name": "smp.fidbee.be",
+      "n": 2
+    },
+    {
+      "name": "smp.service.afasonline.com",
+      "n": 2
+    },
+    {
+      "name": "smp.prd.peppol.cronos.be",
+      "n": 2
+    },
+    {
+      "name": "sml.ion-smp.net",
+      "n": 2
+    },
+    {
+      "name": "smp.docnova.ai",
+      "n": 2
+    },
+    {
+      "name": "smp.indicom.biz",
+      "n": 1
+    },
+    {
+      "name": "smp-peppol.viaadvalvas.com",
+      "n": 1
+    },
+    {
+      "name": "smp.netfly.eu.com",
+      "n": 1
+    },
+    {
+      "name": "peppol-smp.digtechs.com",
+      "n": 1
+    },
+    {
+      "name": "api.superpdp.tech",
+      "n": 1
+    },
+    {
+      "name": "smp.winfakt.app",
+      "n": 1
+    },
+    {
+      "name": "eu-link.tradeshift.com",
+      "n": 1
+    },
+    {
+      "name": "smp.dataccount.lu",
+      "n": 1
+    },
+    {
+      "name": "smp.peppol-archive.eu",
+      "n": 1
+    },
+    {
+      "name": "smp.saphety.com",
+      "n": 1
+    },
+    {
+      "name": "as2bizlinkp12.tgms.gxs.com",
+      "n": 1
+    },
+    {
+      "name": "cbs-smp.sybycegedim.com",
+      "n": 1
+    },
+    {
+      "name": "smp.accai.be",
+      "n": 1
+    },
+    {
+      "name": "peppol-smp.easybox.com",
+      "n": 1
+    }
+  ],
+  "by_access_point": [
+    {
+      "name": "Wolters Kluwer Belgium NV",
+      "n": 235
+    },
+    {
+      "name": "Billit nv",
+      "n": 153
+    },
+    {
+      "name": "Storecove (Datajust B.V.)",
+      "n": 120
+    },
+    {
+      "name": "Horus Software",
+      "n": 72
+    },
+    {
+      "name": "Banqup SA",
+      "n": 47
+    },
+    {
+      "name": "Odoo SA",
+      "n": 46
+    },
+    {
+      "name": "Dokapi",
+      "n": 31
+    },
+    {
+      "name": "4CEE",
+      "n": 31
+    },
+    {
+      "name": "Teamleader NV",
+      "n": 25
+    },
+    {
+      "name": "Octopus NV",
+      "n": 24
+    },
+    {
+      "name": "WINAUDITOR.NET",
+      "n": 17
+    },
+    {
+      "name": "Digiteal",
+      "n": 16
+    },
+    {
+      "name": "Scrada BV",
+      "n": 7
+    },
+    {
+      "name": "NTX BV",
+      "n": 5
+    },
+    {
+      "name": "Infinwebs",
+      "n": 5
+    },
+    {
+      "name": "Expert Vision SPRL",
+      "n": 4
+    },
+    {
+      "name": "Tradeshift",
+      "n": 4
+    },
+    {
+      "name": "B2Brouter Global SL",
+      "n": 3
+    },
+    {
+      "name": "Eforge BV",
+      "n": 2
+    },
+    {
+      "name": "Routty NV",
+      "n": 2
+    },
+    {
+      "name": "Integral Software",
+      "n": 2
+    },
+    {
+      "name": "Klippa App BV",
+      "n": 2
+    },
+    {
+      "name": "Continia Software A/S",
+      "n": 2
+    },
+    {
+      "name": "eConnect International B.V.",
+      "n": 2
+    },
+    {
+      "name": "Arco Information",
+      "n": 2
+    },
+    {
+      "name": "Lyanthe B.V",
+      "n": 2
+    },
+    {
+      "name": "adibox SA",
+      "n": 2
+    },
+    {
+      "name": "AFAS Software BV",
+      "n": 1
+    },
+    {
+      "name": "Basware Corporation",
+      "n": 1
+    },
+    {
+      "name": "Ademico Software",
+      "n": 1
+    },
+    {
+      "name": "Spark IT BV",
+      "n": 1
+    },
+    {
+      "name": "SAP SE",
+      "n": 1
+    },
+    {
+      "name": "ITESOFT",
+      "n": 1
+    },
+    {
+      "name": "Digital Technologies",
+      "n": 1
+    },
+    {
+      "name": "opentext",
+      "n": 1
+    },
+    {
+      "name": "Apro Software Solutions",
+      "n": 1
+    },
+    {
+      "name": "Avalara Europe Ltd.",
+      "n": 1
+    },
+    {
+      "name": "MELASOFT GmbH",
+      "n": 1
+    },
+    {
+      "name": "Winfakt BV",
+      "n": 1
+    },
+    {
+      "name": "Tigron BV",
+      "n": 1
+    },
+    {
+      "name": "Visma Software International AS",
+      "n": 1
+    },
+    {
+      "name": "BRBX BV",
+      "n": 1
+    },
+    {
+      "name": "Descartes Systems NV",
+      "n": 1
+    }
+  ]
+}

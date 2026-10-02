@@ -1,0 +1,845 @@
+{
+ "verified_at": "2026-10-01",
+ "rows": [
+  {
+   "editorId": "qonto",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Verbinden Sie Ihr Qonto Geschäftskonto mit Ihrem bevorzugten Buchhaltungsprogramm wie z. B. DATEV , sevdesk oder Lexware Office",
+   "note": "sevdesk named as connectable accounting program, no mechanism stated, consistent with kind unknown."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "addison",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "indem die Bankkontoumsätze von Ihrem Qonto Bankkonto übertragen und Überweisungen aus dem ADDISON OneClick-Portal heraus getätigt werden können",
+   "note": "Dedicated integration page; bank transactions synced automatically to ADDISON OneClick, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "agenda",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "gebuchte Umsätze Ihres Qonto Kontos in Ihr Agenda Online Konto importieren - sicher und effizient dank PSD2",
+   "note": "Direct PSD2 bank-data connection to Agenda Online, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exportiert automatisch Transaktionsanhänge (z. B. Belege/Rechnungen) einmal täglich nach DATEV Unternehmen online",
+   "note": "Automated daily push of receipts to DATEV Unternehmen online (Belegbilderservice); Qonto states it is a DATEV partner."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "fastbill",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "FastBill Integration: Mit Qonto verbinden ... Synchronisieren Sie Qonto Daten mit Buchhaltungstools",
+   "note": "FastBill listed as Qonto integration without technical mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "gebuchte Umsätze Ihres Qonto Kontos in Ihr Lexware Office Konto importieren - sicher und effizient dank PSD2",
+   "note": "Direct PSD2 connection to Lexware Office (cloud only), consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "sage-bob-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage BOB 50 (Sync Supplier Invoices) Synchronize (without limits) your supplier invoices to Qonto",
+   "note": "Listed integration syncing supplier invoices from Sage BOB 50 into Qonto (direction: BOB 50 to Qonto)."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "sage-despachos",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Asientos contables y documentos adjuntos se transfieren cada día de Regate by Qonto a Sage",
+   "note": "Regate by Qonto daily transfer to Sage Despachos; page says API co-developed with Sage."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "horus",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les informations de transaction de votre compte Qonto sont automatiquement transférées vers votre plateforme de comptabilité.",
+   "note": "Horus (Sync Transactions) integration page; automatic transaction transfer, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Grâce à notre connecteur, les journaux générés sur Regate by Qonto sont déversés au bon format vers ACD",
+   "note": "Regate by Qonto connector pushes journals to ACD iSuite in real time; page also mentions API."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "isacompta",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Grâce à notre connecteur avec Agiris, déversez les journaux générés sur Regate by Qonto en un clic",
+   "note": "Page names the vendor Agiris (publisher of Isacompta) but never names Isacompta itself."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Grâce à notre API, le déversement des écritures déclenche également l'export des tiers et des justificatifs depuis Regate by Qonto vers Quadra",
+   "note": "Regate by Qonto API integration with Cegid Quadra."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Grâce à notre API avec MyUnisoft, les journaux générés sur Regate by Qonto sont déversés au bon format",
+   "note": "Regate by Qonto API integration with MyUnisoft, daily or on demand."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "grâce à notre API temps réel, accélérez le traitement des données comptables de vos clients",
+   "note": "Regate by Qonto x Sage GE real-time API integration."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les écritures, mais aussi les tiers et les justificatifs sont ensuite déversés quotidiennement de Regate by Qonto vers Sage 100",
+   "note": "Regate by Qonto daily push to Sage 100, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "cegid-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Intégration Cegid Expert (via jedeclare) ... Mettez en place la liaison EBICS entre Qonto et jedeclare.com en 24 heures",
+   "note": "Cegid Expert connected through the third-party jedeclare.com EBICS link, consistent with via_partner."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Intégration Microsoft Dynamics 365 – relevés bancaires et virements SEPA via EBICS",
+   "note": "Direct EBICS connection for bank statements and SEPA transfers with Dynamics 365, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Intégration EBP (via jedeclare) ... Mettez en place la liaison EBICS entre Qonto et jedeclare.com en 24 heures",
+   "note": "EBP connected through the third-party jedeclare.com EBICS link, consistent with via_partner."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Intégration Fulll (via jedeclare) ... Mettez en place la liaison EBICS entre Qonto et jedeclare.com en 24 heures",
+   "note": "Fulll connected through the third-party jedeclare.com EBICS link, consistent with via_partner."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Une fois par jour, l’intégration Cegid Loop synchronise et récupère à votre place les reçus et les factures",
+   "note": "Dedicated Cegid Loop integration with automated daily sync, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Intégration NetSuite – relevés bancaires et virements SEPA via EBICS",
+   "note": "Direct EBICS connection for bank statements and SEPA transfers with NetSuite, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Intégration Odoo – relevés bancaires et virements SEPA via EBICS",
+   "note": "Direct EBICS connection for bank statements and SEPA transfers with Odoo, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "toutes vos transactions Qonto et leurs pièces justificatives sont automatiquement synchronisées vers Pennylane 3 fois par jour",
+   "note": "Automated sync to Pennylane three times a day, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Synchronisez avec Tiime vos transactions et justificatifs chargés dans votre espace Qonto",
+   "note": "Dedicated Tiime integration syncing transactions and receipts, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Importez automatiquement toutes vos transactions Qonto dans Xero.",
+   "note": "Dedicated Xero integration with automatic transaction import, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "teamsystem-azienda",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Grazie all'integrazione con Qonto puoi accedere a nuovi servizi per la gestione digitale dei pagamenti: incasso, pagamento e accesso ai conti",
+   "note": "Page names only TeamSystem (via the TeamSystem Pay module), never TeamSystem Azienda; no mechanism stated."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "teamsystem-gamma",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Grazie all'integrazione con Qonto puoi accedere a nuovi servizi per la gestione digitale dei pagamenti: incasso, pagamento e accesso ai conti",
+   "note": "Page names only TeamSystem (via the TeamSystem Pay module), never TeamSystem Gamma; no mechanism stated."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "teamsystem-studio",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Grazie all'integrazione con Qonto puoi accedere a nuovi servizi per la gestione digitale dei pagamenti: incasso, pagamento e accesso ai conti",
+   "note": "Page names only TeamSystem (via the TeamSystem Pay module), never TeamSystem Studio; no mechanism stated."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "visma-eaccounting",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Je kunt koppelen met o.a.: Exact Online Moneybird AFAS e-Boekhouden.nl Twinfield Visma eAccounting",
+   "note": "Visma eAccounting listed among direct links where transactions are forwarded automatically, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "afas",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "AFAS (Transacties synchroniseren) ... Transactiegegevens van uw Qonto-rekening worden automatisch overgedragen naar uw boekhoudtool.",
+   "note": "Dedicated AFAS transaction-sync integration, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exact Online NL (Transacties synchroniseren) ... Transactiegegevens van uw Qonto-rekening worden automatisch overgedragen naar uw boekhoudtool.",
+   "note": "Dedicated Exact Online NL transaction-sync integration, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "minox",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Minox (Transacties synchroniseren) ... Transactiegegevens van uw Qonto-rekening worden automatisch overgedragen naar uw boekhoudtool.",
+   "note": "Dedicated Minox transaction-sync integration, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "moneybird",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Moneybird (Transacties synchroniseren) ... Transactiegegevens van uw Qonto-rekening worden automatisch overgedragen naar uw boekhoudtool.",
+   "note": "Dedicated Moneybird transaction-sync integration, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "octopus",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Octopus (Transacties synchroniseren) ... Transactiegegevens van uw Qonto-rekening worden automatisch overgedragen naar uw boekhoudtool.",
+   "note": "Dedicated Octopus transaction-sync integration, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "twinfield",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Twinfield (Transacties synchroniseren) ... Transactiegegevens van uw Qonto-rekening worden automatisch overgedragen naar uw boekhoudtool.",
+   "note": "Dedicated Twinfield transaction-sync integration, consistent with api."
+  },
+  {
+   "editorId": "qonto",
+   "softwareId": "yuki",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yuki (Transacties synchroniseren) ... Transactiegegevens van uw Qonto-rekening worden automatisch overgedragen naar uw boekhoudtool.",
+   "note": "Dedicated Yuki transaction-sync integration, consistent with api."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "afas",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Webhook-driven export kicks off the moment an export job is created in Pleo. ... Developers Present Connection",
+   "note": "AFAS Profit connector is listed with third-party developer Present Connection, consistent with via_partner."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "billy",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Easily send purchase data, receipts, account numbers and notes directly to the desired cash journal in Billy.",
+   "note": "Direct sync integration with Billy, consistent with api."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "dinero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pleo’s direct integration with Dinero enables you to seamlessly export your spending data right into your accounting system in a click",
+   "note": "Direct integration developed by Pleo, consistent with api."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "fortnox",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Follow the onscreen instructions to get your API integration code in Fortnox and copy it into Pleo.",
+   "note": "API-based Fortnox integration."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "freeagent",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Automatically send expenses, receipts, and card transactions from Pleo to FreeAgent—fully categorized, with VAT and attachments included.",
+   "note": "Automated sync to FreeAgent, consistent with api."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "holded",
+   "verdict": "wrong_kind",
+   "suggested_kind": "unknown",
+   "quote": "Holded is a business management software with top-class invoicing, accounting, inventory and CRM with projects",
+   "note": "Page is titled Holded Integration with Pleo (developer Pleo) but its body describes the Xledger sync; no Holded mechanism is stated."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Benefit from Pleo’s direct integration with Microsoft Dynamics 365 Business Central to easily import key accounting data",
+   "note": "Direct integration with Dynamics 365 Business Central, developer Pleo."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Close your books faster with the NetSuite & Pleo direct integration",
+   "note": "Direct NetSuite integration activated via SuiteApp, consistent with api."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Say goodbye to .csv or manual exports to QuickBooks. ... Complete purchase data is pushed to QuickBooks",
+   "note": "Direct sync integration with QuickBooks, consistent with api."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "sage-intacct",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pleo exports every card expense, receipt, reimbursement, or invoice directly to Sage Intacct in real time.",
+   "note": "Direct real-time Sage Intacct integration."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "sage-200",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Export your Pleo spending data to Sage 200 with our custom CSV template",
+   "note": "CSV template export, consistent with file_export."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Export your spending data to Sage 50 with our custom CSV template",
+   "note": "CSV template export, consistent with file_export."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "twinfield",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Enjoy an error-free month-end with our direct API integration. No more manual data entry, CSV imports or missing receipts.",
+   "note": "Direct API integration with Twinfield."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "uniconta",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pleo’s direct integration with Uniconta enables you to seamlessly export your spending data right into your ERP system in a click",
+   "note": "Direct integration with Uniconta, developer Pleo."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "visma-spiris",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Easily send purchase data, receipts, VAT codes and notes directly to the desired account in Visma eEkonomi.",
+   "note": "Page names Visma eEkonomi, the former name of Visma Spiris (rebranded); direct sync, consistent with api."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "visma-e-conomic",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Benefit from Pleo’s direct integration with Visma e-conomic to easily import key accounting data from your accounting system",
+   "note": "Direct integration with Visma e-conomic."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Spending data synced in real time ... Integrate Pleo with Xero and expenses sync automatically.",
+   "note": "Real-time sync with Xero, consistent with api."
+  },
+  {
+   "editorId": "pleo",
+   "softwareId": "xledger",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Every transaction is tagged by project, department, or location and synced to Xledger",
+   "note": "Xledger (UK only) sync integration, consistent with api."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels actuellement connectés en API : ... Voici les logiciels actuellement compatibles : ACD Fulll Pennylane Inqom Sage Génération Experts MyUnisoft",
+   "note": "ACD listed among software connected via API."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "cegid-loop",
+   "verdict": "wrong_kind",
+   "suggested_kind": "file_export",
+   "quote": "logiciels compatibles en import manuel : Tiime Teogest Netexcom IsaCompta Sage Coala Sage 50* Sage 100* Quadratus MyUnisoft Loop Cegid Cegid 11 EBP",
+   "note": "Loop appears only in the manual import (entries file) list, not in the API list."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les intégrations suivantes viennent d’être ajoutées et sont désormais disponibles : Cegid – Quadra",
+   "note": "Cegid Quadra listed as a newly available API connection."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "logiciels compatibles en import manuel : Tiime Teogest Netexcom IsaCompta Sage Coala Sage 50* Sage 100* Quadratus MyUnisoft Loop Cegid Cegid 11 EBP",
+   "note": "EBP listed under manual import of entries file, consistent with file_export."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels actuellement connectés en API : ... Voici les logiciels actuellement compatibles : ACD Fulll Pennylane Inqom Sage Génération Experts MyUnisoft",
+   "note": "Fulll listed among software connected via API."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels actuellement connectés en API : ... Voici les logiciels actuellement compatibles : ACD Fulll Pennylane Inqom Sage Génération Experts MyUnisoft",
+   "note": "Inqom listed among software connected via API."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "isacompta",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "logiciels compatibles en import manuel : Tiime Teogest Netexcom IsaCompta Sage Coala Sage 50* Sage 100* Quadratus MyUnisoft Loop Cegid Cegid 11 EBP",
+   "note": "IsaCompta listed under manual import of entries file, consistent with file_export."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels actuellement connectés en API : ... Voici les logiciels actuellement compatibles : ACD Fulll Pennylane Inqom Sage Génération Experts MyUnisoft",
+   "note": "MyUnisoft listed among software connected via API (also in manual import list)."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels actuellement connectés en API : ... Voici les logiciels actuellement compatibles : ACD Fulll Pennylane Inqom Sage Génération Experts MyUnisoft",
+   "note": "Pennylane listed among software connected via API."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "imports depuis Sage 50 et Sage 100 , les écritures comptables sont correctement importées, mais les pièces jointes associées ne sont actuellement pas récupérées",
+   "note": "Sage 100 listed under manual import; attachments not transferred, consistent with file_export."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "imports depuis Sage 50 et Sage 100 , les écritures comptables sont correctement importées, mais les pièces jointes associées ne sont actuellement pas récupérées",
+   "note": "Sage 50 listed under manual import; attachments not transferred, consistent with file_export."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels actuellement connectés en API : ... Voici les logiciels actuellement compatibles : ACD Fulll Pennylane Inqom Sage Génération Experts MyUnisoft",
+   "note": "Sage Génération Experts listed among software connected via API."
+  },
+  {
+   "editorId": "chaintrust",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "logiciels compatibles en import manuel : Tiime Teogest Netexcom IsaCompta Sage Coala Sage 50* Sage 100* Quadratus MyUnisoft Loop Cegid Cegid 11 EBP",
+   "note": "Tiime listed under manual import of entries file, consistent with file_export."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Synchronisez vos données entre Sellsy et EBP grâce à EdiConnect , un connecteur flexible et personnalisable",
+   "note": "EBP connection runs through the third-party EdiConnect connector (Big Data Consulting/Anexys), consistent with via_partner."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Synchronisation unidirectionnelle ou bidirectionnelle entre Sellsy et EBP, Sage 50, Sage 100 ou Sage 1000",
+   "note": "Sage 50 synced through the partner connector EdiConnect (Big Data Consulting/Anexys), consistent with via_partner."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Développée par Le partenaire ... Fréquence de synchronisation Temps réel",
+   "note": "Real-time sync developed by Inqom, consistent with api; the page does not mention Chift."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Synchronisez vos factures, paiements et contacts entre Sellsy et Pennylane automatiquement, toutes les 12 heures, sans ressaisie.",
+   "note": "Automated sync every 12 hours, developed by Pennylane, consistent with api."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Accédez à la Marketplace pour connecter Sage 100 en cliquant ici",
+   "note": "Activation links point to marketplaces.chift.app/sellsy and setup video is titled Sellsy x Chift Comptabilité; via Chift."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Vous serez redirigé vers l'interface sécurisée Chift. ... Puis, autoriser la connexion via Chift en cliquant sur « Autoriser ».",
+   "note": "ACD connection is activated and authenticated through Chift; via Chift."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Vous serez redirigé vers l'interface sécurisée Chift. ... Puis, autoriser la connexion via Chift en cliquant sur « Autoriser ».",
+   "note": "Cegid Loop connection is activated and authenticated through Chift; via Chift."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Vous serez redirigé vers l'interface sécurisée Chift. ... Puis, autoriser la connexion via Chift en cliquant sur « Autoriser ».",
+   "note": "MyUnisoft connection is activated and authenticated through Chift; via Chift."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Vous serez redirigé vers l'interface sécurisée Chift. ... Puis, autoriser la connexion via Chift en cliquant sur « Autoriser ».",
+   "note": "Tiime connection is activated and authenticated through Chift; via Chift."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "L’application Chift/Sellsy doit être activée sur le compte du cabinet de votre expert-comptable.",
+   "note": "Fulll connection runs through the Chift/Sellsy application; via Chift."
+  },
+  {
+   "editorId": "sellsy",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "vous devez activer l'application publique « Chift » afin que l'échange de données avec Sage Génération Experts fonctionne.",
+   "note": "Sage Génération Experts connection requires the public Chift application; via Chift."
+  },
+  {
+   "editorId": "payhawk",
+   "softwareId": "afas",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Partner-built AFAS INTEGRATION ... Partner-built integrations are developed by Payhawk partners, leveraging the Payhawk Developer APIs.",
+   "note": "AFAS integration is built and supported by a Payhawk partner, consistent with via_partner."
+  },
+  {
+   "editorId": "payhawk",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Payhawk brings your cards, expenses, and invoices into one system - fully synced with Dynamics 365 Business Central in real time.",
+   "note": "Real-time sync with Dynamics 365 Business Central, consistent with api."
+  },
+  {
+   "editorId": "payhawk",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Leverage a real-time bidirectional connection ... real-time payment reconciliation",
+   "note": "Real-time bidirectional NetSuite connection, consistent with api."
+  },
+  {
+   "editorId": "payhawk",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Our QuickBooks integration works directly via their API, and lets you seamlessly export expenses, payments, and deposits in seconds.",
+   "note": "Direct API integration with QuickBooks."
+  },
+  {
+   "editorId": "payhawk",
+   "softwareId": "sage-intacct",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "NATIVE SAGE INTACCT INTEGRATION Real-time Sage Intacct integration for faster close",
+   "note": "Native real-time Sage Intacct sync, consistent with api."
+  },
+  {
+   "editorId": "payhawk",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "NATIVE XERO INTEGRATION ... Sync your Payhawk expenses with Xero in real-time and be on top of your spending with automatic bank feed.",
+   "note": "Native real-time Xero sync, consistent with api."
+  },
+  {
+   "editorId": "payhawk",
+   "softwareId": "sage-200",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Export data from Payhawk to Sage 200 with our predefined CSV/XLS export templates.",
+   "note": "Sage 200 card on integrations page: CSV/XLS export templates, consistent with file_export."
+  },
+  {
+   "editorId": "payhawk",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Export data from Payhawk to Sage 50 with our predefined CSV/XLS export templates.",
+   "note": "Sage 50 card on integrations page: CSV/XLS export templates, consistent with file_export."
+  },
+  {
+   "editorId": "easybill",
+   "softwareId": "addison",
+   "verdict": "unreadable",
+   "suggested_kind": "",
+   "quote": "",
+   "note": "support.easybill.de returns a Cloudflare 403 challenge; no other page on easybill.de covering the ADDISON export was found."
+  },
+  {
+   "editorId": "easybill",
+   "softwareId": "lexware-office",
+   "verdict": "unreadable",
+   "suggested_kind": "",
+   "quote": "",
+   "note": "support.easybill.de returns a Cloudflare 403 challenge; the one alternate tried (easybill.de/en/blog/easybill-and-lexoffice-the-perfect-connection-for-your-finances) redirects to a generic guide index."
+  },
+  {
+   "editorId": "easybill",
+   "softwareId": "agenda",
+   "verdict": "unreadable",
+   "suggested_kind": "",
+   "quote": "",
+   "note": "support.easybill.de returns a Cloudflare 403 challenge; no other page on easybill.de covering the AGENDA export was found."
+  },
+  {
+   "editorId": "easybill",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Dank DATEV Rechnungsdatenservice lassen sich deine Daten direkt übermitteln.",
+   "note": "DATEV Rechnungsdatenservice 1.0 interface (page title: Belege per API übertragen), consistent with api."
+  },
+  {
+   "editorId": "easybill",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Ausgangsrechnungen automatisiert nach GetMyInvoices exportieren. Somit stehen sämtliche Belege ... in Buchhaltungssysteme wie DATEV, lexoffice oder sevDesk übertragen werden.",
+   "note": "Guest article (by GetMyInvoices) on easybill.de: sevDesk reached only through third-party GetMyInvoices, consistent with via_partner."
+  },
+  {
+   "editorId": "holvi",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "DATEV Bankdatenservice ... via RZ-Bankinfo",
+   "note": "Selected interface developed with partners, bank data synced via RZ-Bankinfo, consistent with api (page also lists a PIN/TAN PSD2 option)."
+  },
+  {
+   "editorId": "holvi",
+   "softwareId": "fastbill",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Diese Tools können über die standardisierte PSD2-Schnittstelle mit Holvi verbunden werden.",
+   "note": "FastBill listed under Weitere Schnittstellen connected via standard PSD2, consistent with api."
+  },
+  {
+   "editorId": "holvi",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Ausgewählte Schnittstellen — Diese Buchhaltungs-Schnittstellen wurden zusammen von Holvi und Partnern entwickelt ... werden deine Finanzdaten komfortabel und nahtlos synchronisiert.",
+   "note": "lexware Office card sits in the selected interfaces section with automatic sync, consistent with api."
+  },
+  {
+   "editorId": "holvi",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Diese Tools können über die standardisierte PSD2-Schnittstelle mit Holvi verbunden werden.",
+   "note": "Sevdesk listed under Weitere Schnittstellen connected via standard PSD2, consistent with api."
+  },
+  {
+   "editorId": "holvi",
+   "softwareId": "finago",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Yhdistä Holvi Finago Procountoriin muutamalla painalluksella.",
+   "note": "Page names Finago products (Procountor bank connection, eTasku, Isolta) but never 24SevenOffice."
+  },
+  {
+   "editorId": "kontist",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "With the help of the PSD2 interface, you can link your Kontist account to accounting or other financial software",
+   "note": "DATEV link via PSD2/XS2A interface explicitly covered, consistent with api."
+  },
+  {
+   "editorId": "kontist",
+   "softwareId": "fastbill",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Kontist and FastBill present the first realtime accounting integration into a business bank account",
+   "note": "Real-time FastBill sync, consistent with api."
+  },
+  {
+   "editorId": "kontist",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "indem du Kontist mit Tools wie lexoffice oder sevDesk verbindest. Deine Transaktionen werden automatisch in dein Buchhaltungssystem übertragen.",
+   "note": "Page names lexoffice (former name of Lexware Office); automatic transaction transfer, consistent with api."
+  },
+  {
+   "editorId": "kontist",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "kannst du dein Kontist Geschäftskonto direkt in sevdesk verknüpfen. Transaktionen werden automatisch importiert",
+   "note": "Direct link between Kontist and sevdesk with automatic import, consistent with api."
+  },
+  {
+   "editorId": "trezy",
+   "softwareId": "cegid-loop",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Integrations Overview CEGID Integration OpenPaye Integration",
+   "note": "Documentation index names only a generic CEGID Integration (article content loads dynamically, not visible); Cegid Loop is never named."
+  },
+  {
+   "editorId": "trezy",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Integrations Overview CEGID Integration OpenPaye Integration",
+   "note": "Documentation index names only a generic CEGID Integration (article content loads dynamically, not visible); Cegid Quadra is never named."
+  },
+  {
+   "editorId": "trezy",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Trezy est un partenaire certifié de Pennylane ... Trezy et Pennylane synchronisent et catégorisent 100% de vos transactions automatiquement.",
+   "note": "Certified Pennylane partner with automatic read-only sync, consistent with api."
+  },
+  {
+   "editorId": "trezy",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Trezy integrates with QuickBooks Online via secure OAuth, providing a seamless connection that syncs your accounting data automatically.",
+   "note": "OAuth API connection to QuickBooks Online."
+  },
+  {
+   "editorId": "combo",
+   "softwareId": "cegid-quadra",
+   "verdict": "not_supported",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles : Openpaye, Paie & RH, PayFit, QuadraPaie, Sigma, SILAE ... Les logiciels comme Sage, ADP, Cegid ... ne disposent pas de connecteur natif.",
+   "note": "Page covers payroll software only (QuadraPaie payroll connector); it states Cegid has no native connector and never covers Cegid Quadra accounting."
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+editor_id,software_id,status,kind,source_url,evidence
+# One line per correction made after reading the source. status "remove" deletes the connection.
+jenji,ebp,remove,,,"EBP logo sits in the HR and payroll tab only, not under accounting"
+mooncard,datev,remove,,,"Only source is a staff interview on the blog, not a product page"
+expensya,fulll,declared,file_export,https://www.expensya.com/fr/solutions/integrations/,"Page describes a direct export format to fulll, not a two-way connection"
+# Second pass, 1 October 2026: every connection re-read at its source (collector/raw/verification.json).
+moss,lexware-office,remove,,,"Card says Lexware CSV: the desktop product, not Lexware Office"
+n2f,lexware-office,remove,,,"Page names Lexware only, not Lexware Office"
+n2f,exact-online,remove,,,"Page says Exact, never Exact Online"
+circula,exact-online,remove,,,"circula.com refuses automated reading: the page could not be re-read"
+circula,datev,confirmed,api,https://help.circula.com/de/collections/1403752-fi-bu-export,"Export to DATEV with the DATEV Rechnungsdatenservice 1.0 (help centre)"
+n2f,sage-100,confirmed,unknown,https://www.n2f.com/fr/nos-integrations/sage/,"Sage 100 is named; the page says files, API or third-party connectors without choosing"
+factorial,a3-innuva,remove,,,"Connector to a3innuva Nómina, the payroll product, not a3innuva accounting"
+factorial,sage-100,remove,,,"Connector to Sage 100 Paie, the payroll product, not Sage 100 accounting"
+factorial,sage-despachos,remove,,,"GMIntegra connector syncs HR and payroll data only"
+factorial,teamsystem-azienda,remove,,,"DWAY connector to TeamSystem payroll, no accounting product named"
+factorial,teamsystem-gamma,remove,,,"DWAY connector to TeamSystem payroll, no accounting product named"
+factorial,teamsystem-studio,remove,,,"DWAY connector to TeamSystem payroll, no accounting product named"
+factorial,ago-infinity,remove,,,"File export for Zucchetti payroll import, not AGO Infinity accounting"
+personio,datev,remove,,,"Payroll data and documents to DATEV, not a ledger connection"
+personio,addison,remove,,,"ADDISON OneClick payroll documents, not a ledger connection"
+personio,afas,remove,,,"AFAS payroll software, not AFAS accounting"
+personio,xero,remove,,,"Employee and payroll data to Xero Payroll"

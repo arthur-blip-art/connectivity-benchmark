@@ -1,0 +1,973 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "agicap",
+   "name": "Agicap",
+   "domain": "agicap.com",
+   "hq_country": "FR",
+   "integrations_url": "https://agicap.com/fr/nos-integrations/",
+   "pages_read": [
+    "https://agicap.com/fr/nos-integrations/",
+    "https://agicap.com/de/unsere-integrationen/",
+    "https://agicap.com/en/our-integrations/",
+    "https://agicap.com/en-us/our-integrations/",
+    "https://agicap.com/es/nuestras-integraciones/",
+    "https://agicap.com/it/le-nostre-integrazioni/",
+    "https://agicap.com/fr/nos-integrations/pennylane/",
+    "https://agicap.com/fr/nos-integrations/sage100/",
+    "https://agicap.com/fr/nos-integrations/odoo/",
+    "https://agicap.com/fr/nos-integrations/oraclenetsuite/",
+    "https://agicap.com/de/unsere-integrationen/datev/",
+    "https://agicap.com/de/unsere-integrationen/odoo/",
+    "https://agicap.com/de/unsere-integrationen/lexoffice/",
+    "https://agicap.com/de/unsere-integrationen/sevdesk/",
+    "https://agicap.com/de/unsere-integrationen/buchhaltungsbutler/",
+    "https://agicap.com/de/unsere-integrationen/weclapp/",
+    "https://agicap.com/de/unsere-integrationen/xentral/",
+    "https://agicap.com/en/our-integrations/xero/",
+    "https://agicap.com/en/our-integrations/intuit-quickbooks/",
+    "https://agicap.com/en/our-integrations/oraclenetsuite/",
+    "https://agicap.com/it/le-nostre-integrazioni/fatture-in-cloud/",
+    "https://agicap.com/fr/article/connecter-erp-agicap/",
+    "https://agicap.com/fr/produits/connectivite-bancaire-et-erp/",
+    "https://agicap.com/fr/article/accelerer-integration-erp/",
+    "https://agicap.com/fr/article/partenariat-agicap-pennylane/",
+    "https://agicap.com/es/articulo/gestion-tesoreria-sage-200-conector-agicap/",
+    "https://agicap.com/en/support/",
+    "https://agicap.com/sitemap-FR.xml",
+    "https://agicap.com/sitemap-DE.xml",
+    "https://agicap.com/sitemap-EN.xml",
+    "https://agicap.com/sitemap-ES.xml",
+    "https://agicap.com/sitemap-IT.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.agicap.com/",
+     "reason": "Help centre root returns 404; robots.txt disallows /[helpCenterIdentifier]/; not crawled"
+    },
+    {
+     "url": "https://agicap.com/fr/integrations/",
+     "reason": "404 (real path is /fr/nos-integrations/)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://agicap.com/fr/nos-integrations/pennylane/",
+     "evidence": "Bi-directional flows; data via encrypted API or SFTP",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://agicap.com/fr/nos-integrations/sage100/",
+     "evidence": "Payment files synced automatically to Agicap via API",
+     "kind": "api",
+     "countries_stated": [
+      "FR",
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://agicap.com/fr/nos-integrations/odoo/",
+     "evidence": "Bi-directional flows; encrypted API or SFTP connections",
+     "kind": "api",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB",
+      "US",
+      "ES",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Oracle Netsuite",
+     "source_url": "https://agicap.com/en/our-integrations/oraclenetsuite/",
+     "evidence": "Data flows through encrypted API or SFTP connections",
+     "kind": "api",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB",
+      "US",
+      "ES",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Datev",
+     "source_url": "https://agicap.com/de/unsere-integrationen/datev/",
+     "evidence": "Bidirectional data flows over encrypted API connections",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://agicap.com/en/our-integrations/xero/",
+     "evidence": "Sync workflow; encrypted API or SFTP connections",
+     "kind": "api",
+     "countries_stated": [
+      "GB",
+      "US",
+      "FR",
+      "DE",
+      "ES",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Quickbooks",
+     "source_url": "https://agicap.com/en/our-integrations/intuit-quickbooks/",
+     "evidence": "Sync workflow; encrypted API or SFTP connections",
+     "kind": "api",
+     "countries_stated": [
+      "GB",
+      "US",
+      "DE",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "lexoffice",
+     "source_url": "https://agicap.com/de/unsere-integrationen/lexoffice/",
+     "evidence": "Interface transfers invoices automatically in real time",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "sevDesk",
+     "source_url": "https://agicap.com/de/unsere-integrationen/sevdesk/",
+     "evidence": "Agicap syncs sevdesk orders and invoices automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Buchhaltungsbutler",
+     "source_url": "https://agicap.com/de/unsere-integrationen/buchhaltungsbutler/",
+     "evidence": "Agicap fetches payments via secure API interface",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "weclapp",
+     "source_url": "https://agicap.com/de/unsere-integrationen/weclapp/",
+     "evidence": "Real-time import with native weclapp interface",
+     "kind": "api",
+     "countries_stated": [
+      "DE",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Xentral",
+     "source_url": "https://agicap.com/de/unsere-integrationen/xentral/",
+     "evidence": "API interface between Xentral and Agicap syncs automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Fatture in Cloud",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/fatture-in-cloud/",
+     "evidence": "Integration shows issued/received invoices in real time",
+     "kind": "api",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Sage 200",
+     "source_url": "https://agicap.com/es/articulo/gestion-tesoreria-sage-200-conector-agicap/",
+     "evidence": "Automated connector by Win4Sync (partner)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "ES",
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Dynamics 365 - Business Central",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB",
+      "US",
+      "ES",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics Navision",
+     "source_url": "https://agicap.com/de/unsere-integrationen/",
+     "evidence": "Listed under ERP & Buchhaltung, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Cegid XRP Flex",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Holded",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Sage FRP1000",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Sage X3",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB",
+      "US",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "SAP S4 HANA",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB",
+      "US",
+      "ES",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed under ERP & Comptabilite, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB",
+      "US",
+      "ES",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Zohobooks",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed on integrations page, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB",
+      "US",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Workday",
+     "source_url": "https://agicap.com/fr/nos-integrations/",
+     "evidence": "Listed on integrations page, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "GB",
+      "US",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://agicap.com/de/unsere-integrationen/",
+     "evidence": "Listed under ERP & Buchhaltung, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE",
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Sage Intacct",
+     "source_url": "https://agicap.com/en/our-integrations/",
+     "evidence": "Listed under ERP & Accounting, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "US",
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Billomat",
+     "source_url": "https://agicap.com/de/unsere-integrationen/",
+     "evidence": "Listed under ERP & Buchhaltung, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Acumatica",
+     "source_url": "https://agicap.com/en-us/our-integrations/",
+     "evidence": "Listed under ERP & Accounting, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "A3erp",
+     "source_url": "https://agicap.com/es/nuestras-integraciones/",
+     "evidence": "Listed under ERP & Contabilidad, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "TeamSystem – Gamma Enterprise",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "TeamSystem – Alyante",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Sistemi – eSolver",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Sistemi – PROFIS",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Passepartout – Mexal",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Wolters Kluwer – Arca Evolution",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Oracle – JD Edwards",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Centro Software – SAM ERP2",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Panthera",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Sanmarco Informatica – Jgalileo",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "NTS – Business Cube",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Datev Koinos",
+     "source_url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "evidence": "Listed under ERP & Contabilita, no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    }
+   ],
+   "notes": "Marketing lists differ per locale; countries_stated = locales of the pages listing the tool (FR, DE, GB=/en, US=/en-us, ES, IT), not an explicit country statement. Most tools are logos without mechanism (unknown). Pages also offer custom import, public API and SFTP for any tool. /fr/article/connecter-erp-agicap/ says purchase-journal export goes through 'un outil partenaire appele Shift' connecting many ERPs/accounting tools (likely Chift, spelled Shift; no software named, so no row). Sage 200: ES article names Win4Sync connector. lexoffice, sevdesk, BuchhaltungsButler, weclapp, Xentral pages are older DE landing pages still live but no longer linked from the DE list. Not found on agicap.com: Cegid Loop, Cegid Expert, MyUnisoft, Inqom, Fulll, Tiime, Isacompta, Indy, Exact Online, Twinfield, AFAS, Moneybird, Yuki, WinBooks, Octopus, FreeAgent, Zucchetti, Danea. Skipped non-accounting entries (IBM AS400, Bill, banks, PSP, Sharepoint, Excel). Help centre not readable, so list may be incomplete."
+  },
+  {
+   "id": "fygr",
+   "name": "Fygr (rebranded Okimia)",
+   "domain": "fygr.io",
+   "hq_country": "FR",
+   "integrations_url": "https://www.okimia.com/fr/integrations",
+   "pages_read": [
+    "https://www.okimia.com/fr/integrations",
+    "https://www.okimia.com/en/integrations",
+    "https://www.okimia.com/fr/integrations/pennylane",
+    "https://www.okimia.com/fr/integrations/sage-100",
+    "https://www.okimia.com/fr/integrations/myunisoft",
+    "https://www.okimia.com/fr/integrations/finthesis",
+    "https://www.okimia.com/fr/integrations/cegid-xrp-sprint",
+    "https://www.okimia.com/fr/integrations/cegid-xrp-flex",
+    "https://www.okimia.com/fr/integrations/acd",
+    "https://www.okimia.com/fr/integrations/microsoft-business-central",
+    "https://www.okimia.com/fr/integrations/exact",
+    "https://www.okimia.com/fr/integrations/odoo",
+    "https://www.okimia.com/fr/integrations/holded",
+    "https://www.okimia.com/fr/integrations/zoho-books",
+    "https://www.okimia.com/fr/integrations/dolibarr",
+    "https://www.okimia.com/fr/integrations/evoliz",
+    "https://www.okimia.com/fr/integrations/henrri",
+    "https://www.okimia.com/fr/integrations/axonaut",
+    "https://www.okimia.com/fr/integrations/sellsy",
+    "https://www.okimia.com/fr/produits/automatisation-comptable",
+    "https://www.okimia.com/fr/partenaires/experts-comptables",
+    "https://help.okimia.com/fr/",
+    "https://help.okimia.com/fr/collections/16762664-integrations",
+    "https://help.okimia.com/fr/collections/16762714-fygr-rca",
+    "https://help.okimia.com/fr/articles/9113684-comment-fonctionne-l-integration-entre-okimia-et-pennylane",
+    "https://help.okimia.com/fr/articles/8831851-comment-fonctionne-l-integration-entre-okimia-et-myunisoft",
+    "https://help.okimia.com/fr/articles/10437208-comment-fonctionne-l-integration-entre-okimia-et-sage-100",
+    "https://help.okimia.com/fr/articles/10437370-comment-fonctionne-l-integration-entre-okimia-et-cegid-xrp-sprint",
+    "https://help.okimia.com/fr/articles/10437270-comment-fonctionne-l-integration-entre-okimia-et-cegid-xrp-flex",
+    "https://help.okimia.com/fr/articles/15260978-comment-fonctionne-l-integration-entre-okimia-et-microsoft-business-central",
+    "https://help.okimia.com/fr/articles/9173875-comment-fonctionne-l-integration-entre-okimia-et-odoo",
+    "https://help.okimia.com/fr/articles/10201094-comment-fonctionne-l-integration-entre-okimia-et-holded",
+    "https://help.okimia.com/fr/articles/10438074-comment-fonctionne-l-integration-entre-okimia-et-zoho-books",
+    "https://help.okimia.com/fr/articles/12882952-comment-connecter-un-autre-outil",
+    "https://help.okimia.com/fr/articles/12891121-integrations-ftp-pourquoi-et-comment",
+    "https://www.okimia.com/sitemap.xml"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://help.okimia.com/fr/articles/9113684-comment-fonctionne-l-integration-entre-okimia-et-pennylane",
+     "evidence": "Help 'Integrations via API': Pennylane API token",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://help.okimia.com/fr/articles/8831851-comment-fonctionne-l-integration-entre-okimia-et-myunisoft",
+     "evidence": "MyUnisoft API key pasted in Okimia; syncs 512/411/401",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Business Central",
+     "source_url": "https://help.okimia.com/fr/articles/15260978-comment-fonctionne-l-integration-entre-okimia-et-microsoft-business-central",
+     "evidence": "Help 'Integrations via API'; invoices retrieved",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://help.okimia.com/fr/articles/9173875-comment-fonctionne-l-integration-entre-okimia-et-odoo",
+     "evidence": "Help 'Integrations via API'; automatic invoice retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Holded",
+     "source_url": "https://help.okimia.com/fr/articles/10201094-comment-fonctionne-l-integration-entre-okimia-et-holded",
+     "evidence": "Help 'Integrations via API'; invoices retrieved",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Zoho Books",
+     "source_url": "https://help.okimia.com/fr/articles/10438074-comment-fonctionne-l-integration-entre-okimia-et-zoho-books",
+     "evidence": "Help 'Integrations via API'; invoices retrieved",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact",
+     "source_url": "https://www.okimia.com/fr/integrations/exact",
+     "evidence": "Invoices import automatically once accounts connected",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://www.okimia.com/fr/integrations/acd",
+     "evidence": "Accounts 401, 411, 512 sync automatically with Okimia",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://help.okimia.com/fr/articles/10437208-comment-fonctionne-l-integration-entre-okimia-et-sage-100",
+     "evidence": "Help 'Autres integrations' (not API); setup by appointment",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid XRP Sprint",
+     "source_url": "https://help.okimia.com/fr/articles/10437370-comment-fonctionne-l-integration-entre-okimia-et-cegid-xrp-sprint",
+     "evidence": "Help 'Autres integrations' (not API); setup by appointment",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid XRP Flex",
+     "source_url": "https://help.okimia.com/fr/articles/10437270-comment-fonctionne-l-integration-entre-okimia-et-cegid-xrp-flex",
+     "evidence": "Help 'Autres integrations' (not API); setup by appointment",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Dolibarr",
+     "source_url": "https://www.okimia.com/fr/integrations/dolibarr",
+     "evidence": "Invoices import automatically; help lists it under API",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://www.okimia.com/fr/integrations/evoliz",
+     "evidence": "Invoices import automatically; help lists it under API",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Axonaut",
+     "source_url": "https://www.okimia.com/fr/integrations/axonaut",
+     "evidence": "Invoices import automatically; help lists it under API",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sellsy",
+     "source_url": "https://www.okimia.com/fr/integrations/sellsy",
+     "evidence": "Invoices import automatically; help lists it under API",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "fygr.io 301-redirects to okimia.com: Fygr is now Okimia ('Fygr devient Okimia'). Help centre splits 'Integrations via API' from 'Autres integrations' (Sage 100, Cegid XRP Sprint/Flex: set up by appointment, mechanism not stated, a generic FTP integration also exists) hence kind unknown for those although marketing pages describe automatic sync of accounts 401/411/512. ACD and Exact have marketing pages only (no help article). 'Exact' is written without product name. MyUnisoft marketing sub-page is empty; evidence from help centre. FAQ also says Okimia connects to 'Pennylane, Sage, Cegid' generically. Skipped non-accounting tools listed (Finthesis forecasting, MEG, Henrri, VosFactures, Zoho Invoice, Yooz, Libeo, Qonto, CRM, construction, payment tools). Not found: Cegid Loop/Quadra/Expert, Sage 50, EBP, Inqom, Fulll, Tiime, Isacompta, Indy, QuickBooks, Xero, DATEV, NetSuite."
+  },
+  {
+   "id": "trezy",
+   "name": "Trezy",
+   "domain": "trezy.io",
+   "hq_country": "FR",
+   "integrations_url": "https://www.trezy.io/integrations",
+   "pages_read": [
+    "https://www.trezy.io/integrations",
+    "https://www.trezy.io/pennylane-partnership",
+    "https://www.trezy.io/quickbooks-integration",
+    "https://www.trezy.io/documentation",
+    "https://www.trezy.io/fr/documentation",
+    "https://www.trezy.io/js/documentation-content-en.js",
+    "https://www.trezy.io/pricing",
+    "https://www.trezy.io/tools/xero",
+    "https://www.trezy.io/sitemap.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.trezy.io/fr/integrations",
+     "reason": "404, no French integrations page"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://www.trezy.io/pennylane-partnership",
+     "evidence": "Certified Pennylane partner; data synced automatically (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "QuickBooks Online",
+     "source_url": "https://www.trezy.io/quickbooks-integration",
+     "evidence": "Integrates with QuickBooks Online via secure OAuth, read-only",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CEGID",
+     "source_url": "https://www.trezy.io/documentation",
+     "evidence": "Docs: CEGID credentials, read-only sync of entries, balances",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ],
+   "notes": "Integrations page states only two accounting integrations: QuickBooks Online and Pennylane (both read-only). Documentation (content loaded by JS from /js/documentation-content-en.js) adds a 'CEGID' integration (no product name given) and a generic FEC file import (any French accounting software), plus OpenPaye (payroll). /tools/* pages (Xero, Sage, Odoo, QuickBooks) are a software directory, not integrations; the Xero page only mentions bank sync and data exports. Exports are Excel/CSV/PDF, not software-specific. hq_country FR not stated on pages read (assumed)."
+  },
+  {
+   "id": "tidely",
+   "name": "Tidely",
+   "domain": "tidely.com",
+   "hq_country": "DE",
+   "integrations_url": "https://www.tidely.com/integrationen",
+   "pages_read": [
+    "https://www.tidely.com/integrationen",
+    "https://www.tidely.com/en/integrations",
+    "https://www.tidely.com/integrationen/datev",
+    "https://www.tidely.com/integrationen/sevdesk-integration",
+    "https://www.tidely.com/integrationen/lexoffice",
+    "https://www.tidely.com/integrationen/buchhaltungsbutler",
+    "https://www.tidely.com/integrationen/microsoft-dynamics",
+    "https://www.tidely.com/integrationen/weclapp",
+    "https://www.tidely.com/integrationen/xentral",
+    "https://www.tidely.com/integrationen/billomat",
+    "https://www.tidely.com/integrationen/easybill",
+    "https://faq.tidely.com/de",
+    "https://faq.tidely.com/de/integrationen",
+    "https://faq.tidely.com/de/ms-dynamics",
+    "https://faq.tidely.com/de/bookman-daten-exportieren",
+    "https://www.tidely.com/sitemap.xml"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.tidely.com/integrationen/datev",
+     "evidence": "OPOS synced via certified DATEV interface partner (unnamed)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "sevDesk",
+     "source_url": "https://www.tidely.com/integrationen/sevdesk-integration",
+     "evidence": "Select sevDesk, enter API key; open items synced",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://www.tidely.com/integrationen/lexoffice",
+     "evidence": "Authorize connection; accounting data synced automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "BuchhaltungsButler",
+     "source_url": "https://www.tidely.com/integrationen/buchhaltungsbutler",
+     "evidence": "Link account via API key",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://faq.tidely.com/de/ms-dynamics",
+     "evidence": "Microsoft login redirect; invoices synced every morning",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "weclapp",
+     "source_url": "https://www.tidely.com/integrationen/weclapp",
+     "evidence": "Enter API key; weclapp data synced automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Xentral",
+     "source_url": "https://www.tidely.com/integrationen/xentral",
+     "evidence": "Enter API key; invoice data synced automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Billomat",
+     "source_url": "https://www.tidely.com/integrationen/billomat",
+     "evidence": "Enter API key; Billomat data synced automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "easybill",
+     "source_url": "https://www.tidely.com/integrationen/easybill",
+     "evidence": "Enter API key; invoice data synced automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Bookman",
+     "source_url": "https://faq.tidely.com/de/bookman-daten-exportieren",
+     "evidence": "Manual Excel export from Bookman, uploaded to Tidely",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ],
+   "notes": "German-market list only; DE and EN pages show the same tools. DATEV runs through an unnamed 'zertifizierter DATEV Schnittstellenpartner' (paid add-on; manual Excel OPOS upload also possible). Marketing page says 'Microsoft Dynamics'; help centre specifies Dynamics 365 Business Central. Bookman is only a manual Excel export/upload guide. Other tools reachable via open API, Zapier, Make, Synesty. Skipped non-accounting entries (GetMyInvoices, MOCO, Pleo, Pliant, Qonto, Banxware, abcfinance). Not found: Addison, Agenda, SAP, Scopevisio, Sage, Xero, Odoo, Exact Online, NetSuite."
+  },
+  {
+   "id": "commitly",
+   "name": "Commitly",
+   "domain": "commitly.com",
+   "hq_country": "DE",
+   "integrations_url": "https://commitly.com/funktionen/integrationen/",
+   "pages_read": [
+    "https://commitly.com/funktionen/integrationen/",
+    "https://commitly.com/en/features/integrations/",
+    "https://commitly.com/it/funzioni/integrazioni/",
+    "https://commitly.com/funktionen/integrationen/datev-uploader/",
+    "https://commitly.com/funktionen/integrationen/lexoffice-integration/",
+    "https://commitly.com/funktionen/integrationen/sevdesk-integration/",
+    "https://commitly.com/funktionen/integrationen/buchhaltungsbutler-integration/",
+    "https://commitly.com/funktionen/integrationen/zoho-books-integration/",
+    "https://help.commitly.com/de/",
+    "https://help.commitly.com/de/collections/1449774-erweiterungen",
+    "https://help.commitly.com/de/collections/12911610-commitly-bills-add-on",
+    "https://help.commitly.com/de/articles/13333624-datev-belegbilderservice-rechnungswesen",
+    "https://help.commitly.com/de/articles/7032978-datev-offene-posten-laden",
+    "https://help.commitly.com/de/articles/14107264-agenda-uploader",
+    "https://help.commitly.com/de/articles/4276457-lexware-integration",
+    "https://commitly.com/sitemap-0.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.commitly.com/integrationen",
+     "reason": "404 (real path is /funktionen/integrationen/)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://help.commitly.com/de/articles/13333624-datev-belegbilderservice-rechnungswesen",
+     "evidence": "PDF export via DATEV Rechnungsdatenservice (OAuth); OPOS by file upload",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Lexware Office (lexoffice)",
+     "source_url": "https://commitly.com/funktionen/integrationen/lexoffice-integration/",
+     "evidence": "Official interface; authorization, not a file export",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "sevdesk",
+     "source_url": "https://commitly.com/funktionen/integrationen/sevdesk-integration/",
+     "evidence": "Authorization, not file export; open items sync automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "BuchhaltungsButler",
+     "source_url": "https://commitly.com/funktionen/integrationen/buchhaltungsbutler-integration/",
+     "evidence": "Connect once; open items arrive continuously",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "weclapp",
+     "source_url": "https://commitly.com/funktionen/integrationen/",
+     "evidence": "Open items from the ERP flow automatically into planning",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Zoho Books",
+     "source_url": "https://commitly.com/funktionen/integrationen/zoho-books-integration/",
+     "evidence": "Authorization, not file export; open items sync automatically",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FastBill",
+     "source_url": "https://commitly.com/funktionen/integrationen/",
+     "evidence": "Open items from FastBill flow into planning",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Billomat",
+     "source_url": "https://commitly.com/funktionen/integrationen/",
+     "evidence": "Open items from Billomat flow into planning",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "easybill",
+     "source_url": "https://commitly.com/funktionen/integrationen/",
+     "evidence": "Open items from easybill flow into planning",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://help.commitly.com/de/articles/14107264-agenda-uploader",
+     "evidence": "Agenda Uploader: export OPOS list, upload file",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ],
+   "notes": "DE, EN and IT pages list the same German-market tools. DATEV: inbound open items are a file upload (OPOS list, 'DATEV-Uploader'); outbound invoice PDFs go directly via DATEV Rechnungsdatenservice / Belegbilderservice (kept as api, strongest mode). Agenda is a file uploader only (help centre). Help centre article is titled 'Lexware' (= Lexware Office, ex lexoffice). Any other system via Commitly API, MCP server, Zapier, Make. Skipped non-accounting entries (GetMyInvoices, MOCO, Candis, MOSS, Alasco, adam, unitplus, KSV1870, payment and card tools). Not found: Addison, SAP, Scopevisio, Sage, Xero, QuickBooks, Odoo, NetSuite, Dynamics, Italian software."
+  }
+ ]
+}

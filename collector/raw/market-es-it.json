@@ -1,0 +1,550 @@
+{
+ "collected_at": "2026-10-01",
+ "study_countries": [
+  "FR",
+  "IT",
+  "ES",
+  "DE",
+  "BE",
+  "NL",
+  "NO",
+  "SE",
+  "DK",
+  "GB"
+ ],
+ "study": {
+  "title": "State of European Accounting Tech 2026",
+  "publisher": "Chift",
+  "sample": "1,400 companies with 3 to 200 employees across 10 countries; respondents: in-house accountants 41%, finance leaders 35%, executive management 15%, external chartered accountants 9%.",
+  "country_share_of_sample": "Five countries at 14% each (200 respondents), two at 7%, three at 5%. Spain 200 and Italy 200 are stated on their country pages.",
+  "caveats": "Chift states that no public data exists on software market share, that it reports trends rather than exact figures, that country-level samples carry a non-negligible margin of error, and that some chart data was adjusted by internal analysis. Per-tool percentages are only shown as chart images and were not extracted.",
+  "how_read": "Public blog posts opened on 2026-10-01, plus the white paper PDF read from the local copy collector/raw/Chift_StateOfAccountingTech2026.pdf (68 pages; methodology p.7, Spain pp.32-34, Italy pp.35-36). The PDF is gated behind a form on the landing page.",
+  "sources": [
+   "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+   "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+   "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+   "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors"
+  ]
+ },
+ "importance_method": "Proposed tiers, not market shares. dominant = named by the Chift 2026 study as the leading ecosystem in its layer. important = named by the Chift study as a main tool, or sizeable vendor-declared base. secondary = small declared base, niche, or pre-accounting tool. Vendor-declared figures are unaudited. single_source=true means the tier rests on one publisher (Chift pages count as one). url_checked=false means the vendor page returned HTTP 403 to the fetcher and was not read.",
+ "countries": {
+  "ES": {
+   "channel": {
+    "value": "accountant",
+    "explanation": "Chift 2026 study: around 80% of Spanish SMEs outsource bookkeeping and tax filing to an asesoria, and many never see the accounting software (figure comes from an interview with the co-founder of inco AI, quoted in the study). Caveat: Chift's earlier Spain guide, still online, says 64% of Spanish SMEs handle accounting in-house, the highest rate it surveyed; the two Chift figures conflict.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+     "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025"
+    ]
+   },
+   "reform": {
+    "summary": "Two parallel reforms. (1) Veri*Factu: invoicing software must meet the certified-records regulation before 1 January 2027 for corporate income taxpayers and before 1 July 2027 for other taxpayers (Real Decreto-ley 15/2025). (2) Mandatory B2B e-invoicing (Ley 18/2022 'Crea y Crece', developed by Real Decreto 238/2026, BOE 31 March 2026): applies 12 months after the Ministry of Finance order on the public solution enters into force for businesses above EUR 8M turnover, 24 months after for all others. The draft order (public consultation opened 17 April 2026) sets its entry into force on 1 October 2026, which would give 1 October 2027 and 1 October 2028. Publication of the final order in the BOE was not confirmed in the sources read.",
+    "milestones": [
+     {
+      "date": "2022-09-28",
+      "what": "Ley 18/2022 (Crea y Crece) creates the B2B e-invoicing obligation."
+     },
+     {
+      "date": "2026-03-31",
+      "what": "Real Decreto 238/2026 published in the BOE; in force 20 days later, application deferred to the ministerial order."
+     },
+     {
+      "date": "2026-10-01",
+      "what": "Entry into force of the ministerial order on the public e-invoicing solution, according to the April 2026 draft; final publication not confirmed."
+     },
+     {
+      "date": "2027-01-01",
+      "what": "Veri*Factu deadline for corporate income taxpayers (invoicing software must be adapted before this date)."
+     },
+     {
+      "date": "2027-07-01",
+      "what": "Veri*Factu deadline for all other taxpayers."
+     },
+     {
+      "date": "2027-10-01",
+      "what": "Projected: B2B e-invoicing mandatory for businesses above EUR 8M turnover (12 months after the order). During their first 12 months they must attach a PDF."
+     },
+     {
+      "date": "2028-10-01",
+      "what": "Projected: B2B e-invoicing mandatory for all other businesses and professionals (24 months after the order)."
+     },
+     {
+      "date": "2029-10-01",
+      "what": "Projected: invoice-status reporting required from natural persons and income-attribution entities (36 months after the order)."
+     }
+    ],
+    "network": "Hybrid model: interconnected private exchange platforms plus a free public e-invoicing solution run by the tax agency (AEAT). Accepted syntaxes: UBL, CII, EDIFACT and Facturae; UBL is the reference syntax and a UBL copy of every invoice issued outside the public solution must be sent to it. Recipients must report acceptance/rejection and full payment (within 4 business days). Not a Peppol mandate.",
+    "sources": [
+     "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7295",
+     "https://sede.agenciatributaria.gob.es/static_files/Sede/Actualidad/Novedades/2026/Nota_informativa_RD_Facturacion.pdf",
+     "https://www.hacienda.gob.es/sgt/normativadoctrina/proyectos/16042026-proyecto-pom-factura-electronica.pdf",
+     "https://sede.agenciatributaria.gob.es/Sede/iva/sistemas-informaticos-facturacion-verifactu/nota-informativa-ampliacion-plazo-adaptacion-facturacion.html"
+    ]
+   },
+   "note": {
+    "text": "Chift 2026 study: a two-track market where advisor-grade stacks (Wolters Kluwer a3, Sage) are the systems of record and SME tools such as Holded stay secondary; as companies scale they move to Odoo, Microsoft Business Central or NetSuite. Chift warns its Spanish survey reflects tool visibility rather than systems of record, with a3 likely under-reported.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+   },
+   "display": {
+    "channel": "The accounting practice (asesoria) chooses: around 80% of Spanish SMEs outsource bookkeeping and tax filing, and many never open the software themselves.",
+    "reform": "B2B e-invoicing is expected to become mandatory on 1 October 2027 for companies above EUR 8M turnover and on 1 October 2028 for everyone else. Certified invoicing software (Veri*Factu) is due from 1 January 2027 for companies and 1 July 2027 for other taxpayers.",
+    "network": "Private exchange platforms plus a free public solution run by the tax agency (AEAT). UBL, CII, EDIFACT and Facturae are accepted, with a UBL copy of each invoice sent to the public solution.",
+    "note": "Sage and Wolters Kluwer's a3 run most accounting firms; SME tools such as Holded sit on top of that channel rather than replace it."
+   },
+   "survey_sample": "200 respondents (Chift State of European Accounting Tech 2026); 20 accounting tools named.",
+   "software": [
+    {
+     "id": "a3asesor-a3innuva",
+     "name": "a3ASESOR / a3innuva",
+     "vendor": "Wolters Kluwer Tax & Accounting Espana",
+     "target": "firm",
+     "url": "https://www.wolterskluwer.com/es-es/solutions/a3",
+     "url_checked": false,
+     "marketplace_url": "https://a3marketplace.wolterskluwer.es/",
+     "importance": "dominant",
+     "evidence": "Chift 2026 study: Wolters Kluwer's a3 suite and the Sage ecosystem dominate the accountant channel and are the core systems of record for accounting firms. Quipu's integrations page lists only A3 and Sage as the accounting software it syncs with (indirect corroboration). No customer count found; vendor pages returned 403.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://getquipu.com/es/integraciones",
+      "https://guiacanaltic.channelpartner.es/wolters-kluwer/",
+      "https://a3marketplace.wolterskluwer.es/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "sage-despachos",
+     "name": "Sage Despachos Connected",
+     "vendor": "Sage",
+     "target": "firm",
+     "url": "https://www.sage.com/es-es/software-asesorias-y-despachos/",
+     "url_checked": false,
+     "marketplace_url": "not_found",
+     "importance": "dominant",
+     "evidence": "Chift 2026 study: the Sage ecosystem, with a3, dominates the accountant channel; 'Sage Despachos' appears in the study's Spain chart and in Chift's Spain integration guide as the product for asesores fiscales. Quipu lists Sage and A3 as the accounting software it syncs with. No customer count found; vendor pages returned 403.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://getquipu.com/es/integraciones",
+      "https://software.dantia.es/productos/sage-despachos-connected/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "sage-50",
+     "name": "Sage 50 (formerly ContaPlus)",
+     "vendor": "Sage",
+     "target": "sme",
+     "url": "https://www.sage.com/es-es/productos/sage-contaplus/",
+     "url_checked": false,
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Named in the Chift 2026 Spain chart as 'Sage 50 (Contaplus)' and in Chift's Spain integration guide as Sage's product for smaller companies. No Spain customer count read (vendor pages returned 403).",
+     "sources": [
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "sage-200",
+     "name": "Sage 200",
+     "vendor": "Sage",
+     "target": "sme",
+     "url": "https://www.sage.com/es-es/productos/sage-200/",
+     "url_checked": false,
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Named in the Chift 2026 Spain chart and in Chift's Spain integration guide as Sage's product for slightly larger small companies. No Spain customer count read (vendor pages returned 403).",
+     "sources": [
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "a3erp",
+     "name": "a3ERP / a3innuva ERP",
+     "vendor": "Wolters Kluwer Tax & Accounting Espana",
+     "target": "sme",
+     "url": "https://www.wolterskluwer.com/es-es/solutions/a3innuva-erp",
+     "url_checked": false,
+     "marketplace_url": "https://a3marketplace.wolterskluwer.es/",
+     "importance": "important",
+     "evidence": "Chift 2026 study names 'A3ERP' in its Spain chart and says a3 is likely under-reported in the survey (especially A3ERP). Channel Partner guide: a3ERP is Wolters Kluwer's integrated management solution for SMEs, sold through 300+ authorised partners. a3ERP and a3innuva ERP are both listed on a3Marketplace.",
+     "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+      "https://guiacanaltic.channelpartner.es/wolters-kluwer/",
+      "https://a3marketplace.wolterskluwer.es/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "holded",
+     "name": "Holded",
+     "vendor": "Holded (Visma group since 2021)",
+     "target": "sme",
+     "url": "https://www.holded.com/es",
+     "url_checked": true,
+     "marketplace_url": "https://www.holded.com/es/integraciones",
+     "importance": "important",
+     "evidence": "Vendor homepage: 'mas de 900.000 usuarios'. Emprendedores (25 Sept 2026): 1,266 accounting firms manage 21,000+ companies on Holded; ARR EUR 35.5M in 2025. Chift 2026 study: lightweight tool used directly by tech-savvy entrepreneurs, secondary to accountant-managed workflows.",
+     "sources": [
+      "https://www.holded.com/es",
+      "https://emprendedores.es/gestion/holded-decimo-aniversario/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+      "https://en.wikipedia.org/wiki/Holded"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "contasol",
+     "name": "TeamSystem Contasol (Software DELSOL)",
+     "vendor": "Software DELSOL (TeamSystem group since 2021)",
+     "target": "both",
+     "url": "https://www.sdelsol.com/programa-contabilidad-contasol/",
+     "url_checked": true,
+     "marketplace_url": "https://www.sdelsol.com/integraciones/",
+     "importance": "important",
+     "evidence": "Vendor: 'Mas de 50.000 pymes y autonomos confian en nosotros' (all Software DELSOL products, not Contasol alone); Contasol targets SMEs, freelancers and accounting firms, desktop or cloud. 'Software Delsol' appears in the Chift 2026 Spain chart; Chift's Spain guide calls it widely adopted. TeamSystem bought 100% in March 2021.",
+     "sources": [
+      "https://www.sdelsol.com/software-delsol/",
+      "https://www.sdelsol.com/programa-contabilidad-contasol/",
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.revistacloudcomputing.com/2021/03/teamsystem-se-incorpora-al-mercado-espanol-comprando-software-delsol-y-billin/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "anfix",
+     "name": "Anfix",
+     "vendor": "Anfix Software S.L.",
+     "target": "both",
+     "url": "https://www.anfix.com/",
+     "url_checked": true,
+     "marketplace_url": "not_found",
+     "importance": "secondary",
+     "evidence": "Vendor homepage: '+30.000 usuarios confian en nosotros'; cloud accounting for freelancers, companies and accounting firms. Named in Chift's Spain integration guide (API-first); not shown in the Chift 2026 Spain chart.",
+     "sources": [
+      "https://www.anfix.com/",
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "quipu",
+     "name": "Quipu",
+     "vendor": "Quipu (TeamSystem group, per site footer)",
+     "target": "sme",
+     "url": "https://getquipu.com/es",
+     "url_checked": true,
+     "marketplace_url": "https://getquipu.com/es/integraciones",
+     "importance": "secondary",
+     "evidence": "Vendor homepage: '+20.000 negocios'. Invoicing and pre-accounting tool rather than a ledger: its integrations page says it syncs with the accounting software of the gestoria (A3, Sage). Named in Chift's Spain integration guide; not in the Chift 2026 Spain chart.",
+     "sources": [
+      "https://getquipu.com/es",
+      "https://getquipu.com/es/integraciones",
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025"
+     ],
+     "single_source": false
+    }
+   ],
+   "other_candidates": [
+    {
+     "id": "factusol",
+     "name": "TeamSystem Factusol",
+     "vendor": "Software DELSOL (TeamSystem)",
+     "reason_excluded": "Invoicing and stock program, not an accounting ledger; same vendor and integrations directory as Contasol.",
+     "sources": [
+      "https://www.sdelsol.com/software-delsol/",
+      "https://www.sdelsol.com/integraciones/"
+     ]
+    },
+    {
+     "id": "cegid-contasimple",
+     "name": "Cegid Contasimple",
+     "vendor": "Cegid",
+     "reason_excluded": "Listed by Chift only as an example of the fragmented long tail (with Contanet and Geyce Software); vendor page not read.",
+     "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025"
+     ]
+    },
+    {
+     "id": "odoo",
+     "name": "Odoo",
+     "vendor": "Odoo",
+     "reason_excluded": "ERP adopted as companies scale, per Chift; not Spain-specific. Appears in the Chift 2026 Spain chart.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ]
+    },
+    {
+     "id": "microsoft-dynamics-365-business-central",
+     "name": "Microsoft Dynamics 365 Business Central",
+     "vendor": "Microsoft",
+     "reason_excluded": "ERP adopted as companies scale, per Chift; not Spain-specific. Appears in the Chift 2026 Spain chart (all Dynamics products merged).",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ]
+    }
+   ]
+  },
+  "IT": {
+   "channel": {
+    "value": "accountant",
+    "explanation": "Chift 2026 study: commercialisti handle bookkeeping, tax, payroll, statutory accounts and compliance for the large majority of Italian SMEs and effectively determine software adoption; accounting suites are built around the firm workflow and the accountant channel remains dominant even as companies scale into ERPs. Only Chift states this explicitly.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+   },
+   "reform": {
+    "summary": "No pending reform: e-invoicing is already mandatory. Since 1 January 2019 all invoices between parties resident or established in Italy (B2B and B2C) must be electronic, in structured XML, and transmitted through the Sistema di Interscambio (SdI) run by the Agenzia delle Entrate; B2G has been mandatory since 31 March 2015. An invoice sent outside SdI or not in XML is treated as not issued. Flat-rate (forfettari) taxpayers below EUR 25,000 lost their exemption on 1 January 2024 (non-official source).",
+    "milestones": [
+     {
+      "date": "2015-03-31",
+      "what": "E-invoicing mandatory for invoices to the public administration (B2G)."
+     },
+     {
+      "date": "2019-01-01",
+      "what": "E-invoicing mandatory for all domestic B2B and B2C invoices, via SdI (Legge di Bilancio 2018)."
+     },
+     {
+      "date": "2024-01-01",
+      "what": "Obligation extended to all flat-rate (forfettari) taxpayers, including those under EUR 25,000 (DL 36/2022; InfoCert article, not checked on an official page)."
+     }
+    ],
+    "network": "Sistema di Interscambio (SdI): a single central clearance platform operated by the Agenzia delle Entrate. Invoices are structured XML files following the agency's technical specifications (provvedimento of 24 November 2022); delivery by recipient code (codice destinatario, 7 characters) or certified email (PEC). Not Peppol.",
+    "sources": [
+     "https://www.agenziaentrate.gov.it/portale/documents/d/guest/la_fattura_elettronica",
+     "https://futurodigitale.infocert.it/pillole-normative/fatturazione-elettronica/regime-forfettario-e-fattura-elettronica-obbligatoria-2024/",
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors"
+    ]
+   },
+   "note": {
+    "text": "Chift 2026 study: Italy has the lowest multi-software rate of the ten countries, only 19% of respondents use more than one tool. Chift advises reading the market by software family (TeamSystem, Zucchetti, Wolters Kluwer) rather than by product.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+   },
+   "display": {
+    "channel": "The commercialista chooses: accounting firms handle bookkeeping, tax and payroll for the large majority of Italian SMEs and set the software.",
+    "reform": "Already in force: e-invoicing has been mandatory for all domestic B2B and B2C invoices since 1 January 2019, and for all flat-rate taxpayers since 1 January 2024.",
+    "network": "Sistema di Interscambio (SdI), the tax agency's central platform. Every invoice is a structured XML file routed through it; an invoice sent any other way counts as not issued.",
+    "note": "Three software families run the market: TeamSystem, Zucchetti and Wolters Kluwer. Only 19% of Italian respondents use more than one accounting tool, the lowest rate of the ten countries surveyed."
+   },
+   "survey_sample": "200 respondents (Chift State of European Accounting Tech 2026); 14 accounting tools named.",
+   "software": [
+    {
+     "id": "teamsystem-studio",
+     "name": "TeamSystem Studio",
+     "vendor": "TeamSystem",
+     "target": "firm",
+     "url": "https://www.teamsystem.com/studio/",
+     "url_checked": true,
+     "marketplace_url": "not_found",
+     "importance": "dominant",
+     "evidence": "Chift 2026 study: TeamSystem is one of three dominant ecosystems; Studio is its accountant production tool. Vendor homepage: 'Piu di 3 milioni di clienti' (group-wide, all products). Software B2B (2026): EUR 1bn revenue in 2024, 2.5M+ customers. No Studio-only figure found; teamsystem.com/store is the vendor's own shop, not a partner marketplace.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+      "https://www.teamsystem.com/",
+      "https://www.teamsystem.com/studio/",
+      "https://softwareb2b.it/teamsystem-zucchetti-duopolio-gestionale/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "zucchetti-ago-infinity",
+     "name": "AGO Infinity",
+     "vendor": "Zucchetti",
+     "target": "firm",
+     "url": "https://www.zucchetti.it/it/cms/professionisti/contabilita-fisco-finanza/gestione-contabile-fiscale/ago-infinity/software-gestionale-per-commercialisti.html",
+     "url_checked": true,
+     "marketplace_url": "not_found",
+     "importance": "dominant",
+     "evidence": "Chift 2026 study: Zucchetti is one of three dominant ecosystems; AGO Infinity is its web/cloud accountant platform 'with a large installed base among commercialisti'. Zucchetti factsheet: first Italian software group (IDC), EUR 1.25bn revenue, 9,500 staff. No AGO-only customer figure found.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+      "https://www.zucchetti.it/it/dms/zucchetti-it/gruppo/chi-siamo/factsheet2025_ok.pdf",
+      "https://www.zucchetti.it/it/cms/professionisti/contabilita-fisco-finanza/gestione-contabile-fiscale/ago-infinity/software-gestionale-per-commercialisti.html",
+      "https://softwareb2b.it/teamsystem-zucchetti-duopolio-gestionale/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "wolters-kluwer-genya-bpoint",
+     "name": "Genya / B.Point",
+     "vendor": "Wolters Kluwer Tax & Accounting Italia",
+     "target": "firm",
+     "url": "https://www.wolterskluwer.com/it-it/solutions/genya/genya-per-commercialisti",
+     "url_checked": false,
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Chift 2026 study: Wolters Kluwer is the third dominant ecosystem, with B.Point (legacy on-premise accountant suite) and Genya (cloud-native), both for accounting firms. LineaEDP (2023) describes Genya as a multi-tenant cloud platform for commercialisti. No customer figure found; vendor pages returned 403.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.lineaedp.it/featured/genya-studio-di-wolters-kluwer-gestisce-gli-studi-commercialisti/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "teamsystem-enterprise",
+     "name": "TeamSystem company suites (Azienda, Gamma, Alyante, Enterprise)",
+     "vendor": "TeamSystem",
+     "target": "sme",
+     "url": "https://www.teamsystem.com/",
+     "url_checked": true,
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Chift 2026 study: Azienda (SME accounting), Gamma (mid-market) and Alyante (larger companies) 'account for a substantial share of the market across every segment'. The vendor homepage now markets TeamSystem Enterprise as its modular ERP. No per-product customer figure found.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.teamsystem.com/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "fatture-in-cloud",
+     "name": "Fatture in Cloud",
+     "vendor": "TeamSystem",
+     "target": "sme",
+     "url": "https://www.fattureincloud.it/",
+     "url_checked": true,
+     "marketplace_url": "https://www.fattureincloud.it/software-fatturazione/integrazioni/",
+     "importance": "important",
+     "evidence": "Vendor homepage: 'Utilizzato da 600.000+ Partite IVA' and 40,000+ commercialisti connected; invoicing with cash book, purchase register and bank reconciliation, public API (developers.fattureincloud.it). Not named in the Chift 2026 Italy chart, so the tier rests on the vendor's figure.",
+     "sources": [
+      "https://www.fattureincloud.it/",
+      "https://www.fattureincloud.it/software-fatturazione/integrazioni/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "sistemi-profis",
+     "name": "PROFIS",
+     "vendor": "Sistemi S.p.A.",
+     "target": "firm",
+     "url": "https://www.sistemi.com/",
+     "url_checked": true,
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Vendor homepage: 34,165 professional firms, companies and associations work with Sistemi software, and 442,587 micro-businesses and professionals use its cloud e-invoicing. 'Profis (Sistemi)' appears as an accountant suite in the Chift 2026 Italy chart.",
+     "sources": [
+      "https://www.sistemi.com/",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "passepartout",
+     "name": "Passcom / Mexal",
+     "vendor": "Passepartout",
+     "target": "both",
+     "url": "https://www.passepartout.net/",
+     "url_checked": true,
+     "marketplace_url": "not_found",
+     "importance": "secondary",
+     "evidence": "Vendor homepage: 'Oltre 240.000 Utenti'; Passcom for accounting firms, Mexal for companies. Chift 2026 study lists Passcom / Mexal among ERP systems for larger SMEs.",
+     "sources": [
+      "https://www.passepartout.net/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "datev-koinos",
+     "name": "DATEV KOINOS (DK Set Studio)",
+     "vendor": "Datev Koinos (DATEV group)",
+     "target": "firm",
+     "url": "https://www.datevkoinos.it/",
+     "url_checked": true,
+     "marketplace_url": "not_found",
+     "importance": "secondary",
+     "evidence": "Vendor homepage: '5.000 studi professionali'. Chift 2026 study: serves specific accountant-firm niches.",
+     "sources": [
+      "https://www.datevkoinos.it/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "danea-easyfatt",
+     "name": "Danea Easyfatt",
+     "vendor": "TeamSystem (Danea)",
+     "target": "sme",
+     "url": "https://www.danea.it/software/easyfatt/",
+     "url_checked": true,
+     "marketplace_url": "not_found",
+     "importance": "secondary",
+     "evidence": "Vendor page: invoicing and warehouse program 'usato da oltre 100.000 imprese italiane', desktop and cloud. Invoicing tool, not an accounting ledger; not named in the Chift 2026 study.",
+     "sources": [
+      "https://www.danea.it/software/easyfatt/"
+     ],
+     "single_source": true
+    }
+   ],
+   "other_candidates": [
+    {
+     "id": "aruba-fatturazione-elettronica",
+     "name": "Aruba Fatturazione Elettronica",
+     "vendor": "Aruba",
+     "reason_excluded": "E-invoicing service, not accounting software, though large: vendor says 1,000,000 VAT numbers chose it, with accountant delegation (Supervisore360). Not named in the Chift 2026 study.",
+     "sources": [
+      "https://www.pec.it/acquista-fatturazione-elettronica.aspx"
+     ]
+    },
+    {
+     "id": "ranocchi-gis",
+     "name": "Ranocchi GIS",
+     "vendor": "Ranocchi",
+     "reason_excluded": "Named by Chift as a niche accountant suite; vendor page not read.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors"
+     ]
+    },
+    {
+     "id": "teamsystem-reviso",
+     "name": "Reviso",
+     "vendor": "TeamSystem",
+     "reason_excluded": "Listed by Chift among ERP systems for larger or international SMEs; vendor page not read.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ]
+    },
+    {
+     "id": "microsoft-dynamics-365-business-central",
+     "name": "Microsoft Dynamics 365 Business Central",
+     "vendor": "Microsoft",
+     "reason_excluded": "ERP for larger SMEs per Chift; not Italy-specific.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors"
+     ]
+    }
+   ]
+  }
+ },
+ "not_found": [
+  "Per-tool survey percentages for Spain and Italy (shown only as chart images in the Chift white paper).",
+  "Any public market-share figure for Spain or Italy; none is reported here.",
+  "Customer counts for Sage (Spain), Wolters Kluwer a3 (Spain) and Wolters Kluwer Genya/B.Point (Italy): sage.com and wolterskluwer.com returned HTTP 403.",
+  "A Sage Spain marketplace URL; third-party marketplace pages for TeamSystem Studio/Enterprise, Zucchetti, Sistemi, Passepartout, Datev Koinos, Anfix.",
+  "Confirmation that the Spanish ministerial order on the public e-invoicing solution was published in the BOE (only the April 2026 draft was read).",
+  "A second, independent source for the accountant-led channel in Spain and Italy (Chift only; for Spain an older Chift page gives a conflicting 64% in-house figure).",
+  "An official page for the 1 January 2024 flat-rate extension in Italy (date taken from an InfoCert article)."
+ ]
+}

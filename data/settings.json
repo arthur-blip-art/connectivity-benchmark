@@ -1,0 +1,60 @@
+{
+  "collectedAt": "2026-10-01",
+  "gapMinCompetitorShare": 0.5,
+  "connectorCost": {
+    "low": 22000,
+    "high": 44000,
+    "currency": "EUR",
+    "basis": "first year, build and maintenance; the high end applies when the software is installed on premise",
+    "sources": [
+      {
+        "who": "Chift",
+        "url": "https://www.chift.eu/blog/how-much-does-an-api-integration-cost",
+        "quote": "Total ≈ €22k per integration"
+      }
+    ]
+  },
+  "routing": {
+    "aeThreshold": 70,
+    "nurtureThreshold": 40
+  },
+  "reviewNote": "A second automated pass re-read 624 vendor-sourced connections at their source: 595 held, 13 were removed, 16 were corrected. 47 more are not re-read yet. connect-compta listings are taken as Chift publishes them. Review by a person: pending.",
+  "categories": [
+    {
+      "id": "expense",
+      "label": "Expense & spend management"
+    },
+    {
+      "id": "banking",
+      "label": "Business banking"
+    },
+    {
+      "id": "cash",
+      "label": "Cash management"
+    },
+    {
+      "id": "payables",
+      "label": "Pre-accounting & payables"
+    },
+    {
+      "id": "invoicing",
+      "label": "Invoicing & business management"
+    },
+    {
+      "id": "pos",
+      "label": "Payments & point of sale"
+    },
+    {
+      "id": "hr",
+      "label": "HR & payroll"
+    },
+    {
+      "id": "construction",
+      "label": "Construction & field service"
+    },
+    {
+      "id": "vertical",
+      "label": "Other vertical software"
+    }
+  ]
+}

@@ -1,0 +1,2483 @@
+{
+ "softwares": [
+  {
+   "id": "pennylane",
+   "name": "Pennylane",
+   "letter": "P"
+  },
+  {
+   "id": "myunisoft",
+   "name": "MyUnisoft",
+   "letter": "M"
+  },
+  {
+   "id": "inqom",
+   "name": "Inqom",
+   "letter": "I"
+  },
+  {
+   "id": "cegid-loop",
+   "name": "Cegid Loop",
+   "letter": "C"
+  },
+  {
+   "id": "cegid-quadra",
+   "name": "Cegid Quadra",
+   "letter": "Q"
+  },
+  {
+   "id": "cegid-experts",
+   "name": "Cegid Experts",
+   "letter": "C"
+  },
+  {
+   "id": "sage-generation-experts",
+   "name": "Sage Gén. Experts",
+   "letter": "S"
+  },
+  {
+   "id": "fulll",
+   "name": "Fulll",
+   "letter": "F"
+  },
+  {
+   "id": "acd",
+   "name": "ACD",
+   "letter": "A"
+  },
+  {
+   "id": "isacompta",
+   "name": "Isacompta",
+   "letter": "I"
+  },
+  {
+   "id": "tiime",
+   "name": "Tiime",
+   "letter": "T"
+  },
+  {
+   "id": "indy",
+   "name": "Indy",
+   "letter": "I"
+  },
+  {
+   "id": "odoo",
+   "name": "Odoo",
+   "letter": "O"
+  },
+  {
+   "id": "Bobbee",
+   "name": "Bobbee",
+   "letter": "B"
+  }
+ ],
+ "caisses": [
+  {
+   "name": "Abill",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Addictill",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Apitic",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "inqom": "chift"
+   }
+  },
+  {
+   "name": "Atilla",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "BDP",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "CarrePOS",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Cashmag",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Cashpad",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Cegid Retail",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Clyo Systems",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Connectill",
+   "site": "",
+   "secteur": "Industrie & Fabrication",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Fastmag",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Fulleapps",
+   "site": "",
+   "secteur": "Ecommerce & Tech",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "HelloCash",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Hiboutik",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Innovorder",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Jalia - JDC",
+   "site": "",
+   "secteur": "Industrie & Fabrication",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "L'addition",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Last.app",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "sage-generation-experts": "chift"
+   }
+  },
+  {
+   "name": "Leo2",
+   "site": "",
+   "secteur": "Restauration & Hotellerie",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Lightspeed (POS)",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Odoo POS",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift",
+    "odoo": "direct"
+   }
+  },
+  {
+   "name": "PI Electronique",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Planity",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Popina",
+   "site": "",
+   "secteur": "Restauration & Hotellerie",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Restomax",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "ShopCaisse",
+   "site": "",
+   "secteur": "Industrie & Fabrication",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Shopify POS",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Simphony",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Square",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "sage-generation-experts": "chift"
+   }
+  },
+  {
+   "name": "SumUp POS",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift"
+   }
+  },
+  {
+   "name": "Synapsy",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Tactilpad",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Tiller",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift"
+   }
+  },
+  {
+   "name": "Toporder | myPOS Cash Register",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "sage-generation-experts": "chift"
+   }
+  },
+  {
+   "name": "Trivec",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Zelty",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-quadra": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Zettle",
+   "site": "",
+   "secteur": "",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "sage-generation-experts": "chift"
+   }
+  },
+  {
+   "name": "Biborne",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Breeze POS",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Caisse.enregistreuse.fr (kash.click)",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Cash Systèmes Industrie",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Clictill",
+   "site": "",
+   "secteur": "Tout secteur",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Force7 by Cashmag",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Genius by Neosystems",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Hairnet by Cashmag",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "JDC (caisse et monétique) - Sans BO",
+   "site": "",
+   "secteur": "Restauration & Hotellerie",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Kerawen",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Kezia II by JDC",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Kwisatz",
+   "site": "",
+   "secteur": "Tout secteur",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Locatouch",
+   "site": "",
+   "secteur": "Restauration & Hotellerie",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "LS Coiffure bu Cashmag",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Macxiphone",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Neosystems",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Nova by JDC",
+   "site": "",
+   "secteur": "Restauration & Hotellerie",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "One-touch encaissement",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Rezomatic (TGM Commerce)",
+   "site": "",
+   "secteur": "Tout secteur",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Popina K by JDC",
+   "site": "",
+   "secteur": "Restauration & Hotellerie",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Smart Caisse",
+   "site": "",
+   "secteur": "Tout secteur",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Solumag (EasyCommerce et SydevCamp)",
+   "site": "",
+   "secteur": "Restauration & Hotellerie,Services professionnels",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Solutions PDV",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Sora",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Synergie 73 Informatique",
+   "site": "",
+   "secteur": "Services professionnels",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Weshop",
+   "site": "",
+   "secteur": "Tout secteur",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "oui",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Crisalid",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  }
+ ],
+ "tools": [
+  {
+   "name": "Abby",
+   "site": "abby.fr",
+   "secteur": "facturation",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immat. définitive (29/01/2026)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Axonaut",
+   "site": "axonaut.com",
+   "secteur": "facturation",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "immat. définitive (08/01/2026)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "acd": "chift",
+    "tiime": "integre",
+    "cegid-quadra": "integre"
+   }
+  },
+  {
+   "name": "Billit",
+   "site": "billit.eu",
+   "secteur": "facturation",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "PA agréée FR (présente liste DGFiP) — éditeur belge infra Peppol",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Boondmanager",
+   "site": "boondmanager.com",
+   "secteur": "ERP",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "B2BRouter (PA intégrée nativement) + Pennylane (option), Factur-X/CII",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "integre",
+    "myunisoft": "direct"
+   }
+  },
+  {
+   "name": "Dashdoc",
+   "site": "dashdoc.eu",
+   "secteur": "TMS transport",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "non-PA, infra en développement (absent liste DGFiP)",
+   "emi": "oui",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "PA propre non confirmée",
+   "conns": {
+    "pennylane": "chift"
+   }
+  },
+  {
+   "name": "Dolibarr",
+   "site": "dolibarr.org",
+   "secteur": "ERP open source",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "EsaLink/Hubtimize, module externe bêta, GA ~T3 2026",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "module externe, GA ~T3 2026",
+   "conns": {
+    "pennylane": "integre",
+    "myunisoft": "direct",
+    "cegid-quadra": "direct"
+   }
+  },
+  {
+   "name": "EBP GesCom",
+   "site": "ebp.com",
+   "secteur": "Facturation/gestion",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "PA Cegid (PDP partagée gamme EBP)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "myunisoft": "direct",
+    "cegid-quadra": "direct",
+    "cegid-experts": "direct",
+    "cegid-loop": "direct",
+    "pennylane": "chift"
+   }
+  },
+  {
+   "name": "Evoliz",
+   "site": "evoliz.com",
+   "secteur": "facturation/gestion",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Chaintrust/Visma (officielle, déf. 18/12/2025)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "integre",
+    "myunisoft": "integre",
+    "inqom": "integre",
+    "acd": "integre",
+    "cegid-quadra": "direct"
+   }
+  },
+  {
+   "name": "Facnote",
+   "site": "facnote.com",
+   "secteur": "Pré-comptabilité",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PDP sous réserve (via CSMART), date non publiée",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "immat. sous réserve",
+   "conns": {}
+  },
+  {
+   "name": "Factomos",
+   "site": "factomos.com",
+   "secteur": "facturation",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "eFacture/Cecurity, réception factures achat déclarée",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Graneet",
+   "site": "graneet.com",
+   "secteur": "Facturation BTP",
+   "chift": "oui",
+   "pa": "adossee",
+   "partner": "Pennylane",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "integre",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "Henrri",
+   "site": "henrri.com",
+   "secteur": "facturation",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Pennylane (officielle, déf. 11/12/2025)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "integre"
+   }
+  },
+  {
+   "name": "jefacture.com",
+   "site": "jefacture.com",
+   "secteur": "facturation",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "n°0055 (ECMA), déf. 18/12/2025",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "acd": "direct",
+    "isacompta": "direct"
+   }
+  },
+  {
+   "name": "Kolecto",
+   "site": "kolecto.fr",
+   "secteur": "facturation",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "immatriculée PA n°0039 (groupe Crédit Agricole)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "acd": "chift",
+    "tiime": "chift"
+   }
+  },
+  {
+   "name": "Libeo",
+   "site": "libeo.io",
+   "secteur": "Gestion/facturation/précomptabilité",
+   "chift": "oui",
+   "pa": "adossee",
+   "partner": "Docaposte SÉRÈS (officielle, déf. 11/12/2025)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "direct",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "acd": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "Lucca",
+   "site": "lucca.fr",
+   "secteur": "RH/finance",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PA, liste DGFiP du 9 septembre 2026",
+   "emi": "inconnu",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "fulll": "chift",
+    "acd": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "Obat",
+   "site": "obat.fr",
+   "secteur": "Facturation BTP",
+   "chift": "oui",
+   "pa": "adossee",
+   "partner": "Iopole",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "fulll": "chift",
+    "acd": "chift"
+   }
+  },
+  {
+   "name": "Odoo",
+   "site": "odoo.com",
+   "secteur": "ERP",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "PA agréée (immatriculée 15/04/2026)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "chift",
+    "odoo": "integre",
+    "inqom": "chift"
+   }
+  },
+  {
+   "name": "Organilog",
+   "site": "organilog.com",
+   "secteur": "services terrain",
+   "chift": "oui",
+   "pa": "adossee",
+   "partner": "Solution Compatible adossée à une PA partenaire (non nommée sur le site)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "Pennylane",
+   "site": "pennylane.com",
+   "secteur": "facturation/banque",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "PA agréée (immatriculée 11/12/2025)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "integre",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "acd": "chift",
+    "odoo": "direct"
+   }
+  },
+  {
+   "name": "Qonto",
+   "site": "qonto.com",
+   "secteur": "banque/facturation",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "PA Olinda/Qonto, déf. 18/12/2025",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "cegid-loop": "direct",
+    "sage-generation-experts": "direct",
+    "acd": "direct",
+    "cegid-quadra": "direct",
+    "inqom": "chift"
+   }
+  },
+  {
+   "name": "Sage 100 Gestion Commerciale",
+   "site": "sage.com",
+   "secteur": "gestion/facturation",
+   "chift": "oui",
+   "pa": "adossee",
+   "partner": "Sage Network, déf. 22/12/2025",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "sage-generation-experts": "chift",
+    "pennylane": "chift"
+   }
+  },
+  {
+   "name": "Sage 50 Gestion Commerciale",
+   "site": "sage.com",
+   "secteur": "gestion/facturation",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Sage Network, déf. 22/12/2025",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Sage Batigest",
+   "site": "sage.com",
+   "secteur": "gestion/facturation",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Sage Network, déf. 22/12/2025 (émission V10)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "émission V10 / réception v9.10",
+   "conns": {}
+  },
+  {
+   "name": "Sellsy",
+   "site": "sellsy.com",
+   "secteur": "Gestion/facturation/crm",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "immat. définitive (24/12/2025)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "tiime": "chift",
+    "acd": "chift"
+   }
+  },
+  {
+   "name": "Seqino",
+   "site": "seqino.com",
+   "secteur": "e-facturation",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "n°0048, déf. 15/01/2026",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "acd": "chift"
+   }
+  },
+  {
+   "name": "Tiime",
+   "site": "tiime.fr",
+   "secteur": "compta+facturation",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "immat. définitive (18/12/2025)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "tiime": "integre",
+    "pennylane": "chift"
+   }
+  },
+  {
+   "name": "Toolcie",
+   "site": "toolcie.com",
+   "secteur": "facturation",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Invopop (PA FR, présente liste DGFiP)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "flux via Invopop/Peppol",
+   "conns": {}
+  },
+  {
+   "name": "Vertuoza",
+   "site": "vertuoza.com",
+   "secteur": "Facturation BTP",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "non-PA (émission + réception via Peppol, absent liste DGFiP)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "acd": "chift",
+    "tiime": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "Vosfactures",
+   "site": "vosfactures.fr",
+   "secteur": "facturation",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immat. définitive (15/04/2026)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Costructor",
+   "site": "costructor.co",
+   "secteur": "Facturation BTP",
+   "chift": "oui",
+   "pa": "adossee",
+   "partner": "Pennylane, superpdp",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "acd": "chift"
+   }
+  },
+  {
+   "name": "ProGbat",
+   "site": "progbat.com",
+   "secteur": "facturation",
+   "chift": "oui",
+   "pa": "adossee",
+   "partner": "Superpdp, Pennylane, Qonto",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "acd": "chift"
+   }
+  },
+  {
+   "name": "MygestionFinancière by MyUnisoft",
+   "site": "myunisoft.fr",
+   "secteur": "gestion/facturation",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "MyUnisoft",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "myunisoft": "integre"
+   }
+  },
+  {
+   "name": "Inqom Gestion",
+   "site": "inqom.com",
+   "secteur": "gestion/facturation",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Chaintrust",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "inqom": "integre"
+   }
+  },
+  {
+   "name": "Agicap",
+   "site": "agicap.com",
+   "secteur": "finance",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "Agicap",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "cegid-experts": "chift",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "acd": "chift",
+    "tiime": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "Shine",
+   "site": "shine.fr",
+   "secteur": "gestion/facturation",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PA, liste DGFiP du 9 septembre 2026 (groupe Société Générale)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "cegid-loop": "direct",
+    "cegid-experts": "direct",
+    "indy": "direct"
+   }
+  },
+  {
+   "name": "Indy",
+   "site": "indy.fr",
+   "secteur": "gestion/facturation",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PA (31/03/2026)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Digiforma",
+   "site": "digiforma.com",
+   "secteur": "ERP",
+   "chift": "oui",
+   "pa": "inconnu",
+   "partner": "PA partenaire non nommée publiquement",
+   "emi": "oui",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "cegid-loop": "chift",
+    "sage-generation-experts": "chift",
+    "fulll": "chift",
+    "acd": "chift",
+    "tiime": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "Chaintrust",
+   "site": "chaintrust.io",
+   "secteur": "Pré-comptabilité",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "Chaintrust PA",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "inqom": "direct",
+    "cegid-loop": "direct",
+    "sage-generation-experts": "direct",
+    "fulll": "direct",
+    "acd": "direct",
+    "cegid-quadra": "direct",
+    "cegid-experts": "direct"
+   }
+  },
+  {
+   "name": "Dext",
+   "site": "dext.com",
+   "secteur": "Pré-comptabilité",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PA (liste DGFiP)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "cegid-loop": "direct",
+    "sage-generation-experts": "direct",
+    "fulll": "direct",
+    "acd": "direct",
+    "cegid-quadra": "direct",
+    "isacompta": "direct",
+    "cegid-experts": "direct"
+   }
+  },
+  {
+   "name": "Ipaidthat",
+   "site": "ipaidthat.io",
+   "secteur": "Logiciel de gestion/facturation",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PA (liste DGFiP)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "myunisoft": "direct",
+    "inqom": "direct",
+    "sage-generation-experts": "direct",
+    "acd": "direct"
+   }
+  },
+  {
+   "name": "N2F",
+   "site": "n2f.com",
+   "secteur": "Spendmanagement",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PA (juillet 2025)",
+   "emi": "inconnu",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "cegid-loop": "direct",
+    "sage-generation-experts": "direct",
+    "acd": "direct",
+    "isacompta": "direct",
+    "tiime": "direct",
+    "cegid-quadra": "direct",
+    "cegid-experts": "direct"
+   }
+  },
+  {
+   "name": "Dougs",
+   "site": "dougs.fr",
+   "secteur": "facturation/outil comptable",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PA (liste DGFiP)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Spendesk",
+   "site": "spendesk.com",
+   "secteur": "Spendmanagement",
+   "chift": "oui",
+   "pa": "pa",
+   "partner": "immatriculée PA (15/01/2026, réception)",
+   "emi": "inconnu",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "acd": "chift",
+    "odoo": "chift"
+   }
+  },
+  {
+   "name": "MEG",
+   "site": "",
+   "secteur": "GESCOM facturation",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "PA LVC – Le Village Connecté (immat. 08/01/2026)",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "inqom": "direct",
+    "acd": "direct",
+    "cegid-quadra": "direct",
+    "cegid-experts": "direct",
+    "fulll": "direct",
+    "myunisoft": "direct",
+    "pennylane": "direct",
+    "sage-generation-experts": "direct"
+   }
+  },
+  {
+   "name": "Zoho",
+   "site": "zoho.com",
+   "secteur": "",
+   "chift": "non",
+   "pa": "inconnu",
+   "partner": "international, absent liste DGFiP",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "inqom": "chift"
+   }
+  },
+  {
+   "name": "Team System facture",
+   "site": "teamsystemfacture.fr",
+   "secteur": "facturation gescom",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Sellsy (PA du groupe TeamSystem)",
+   "emi": "inconnu",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Yooz",
+   "site": "getyooz.com",
+   "secteur": "Pré-comptabilité",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "immatriculée PA (déf. 17/12/2025)",
+   "emi": "inconnu",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "cegid-loop": "direct",
+    "cegid-experts": "direct",
+    "odoo": "direct",
+    "cegid-quadra": "direct"
+   }
+  },
+  {
+   "name": "Teledec",
+   "site": "https://www.teledec.fr/presentation/solutions/telefacture",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Sinari",
+   "site": "sinari.com",
+   "secteur": "Logistique et transport",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "INFast",
+   "site": "https://intia.fr/fr/facturation-electronique/",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "inconnu",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "myunisoft": "direct"
+   }
+  },
+  {
+   "name": "Amarris",
+   "site": "https://www.amarris.fr/",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "acd": "direct"
+   }
+  },
+  {
+   "name": "Freebe",
+   "site": "https://www.freebe.me/",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Invoicing.plus",
+   "site": "https://invoicing.plus/",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "fulll": "direct",
+    "acd": "direct"
+   }
+  },
+  {
+   "name": "Menlog",
+   "site": "https://menlog.fr/",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "inconnu",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "isacompta": "direct",
+    "sage-generation-experts": "direct",
+    "cegid-loop": "direct",
+    "cegid-quadra": "direct",
+    "cegid-experts": "direct",
+    "fulll": "direct"
+   }
+  },
+  {
+   "name": "Gestav",
+   "site": "https://gestav.com/",
+   "secteur": "",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {}
+  },
+  {
+   "name": "Sufatech",
+   "site": "https://aide.soli.tech/fr/articles/16083529-la-facturation-electronique-avec-sufatech-et-pennylane",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Pennylane",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "Septeo",
+   "site": "https://www.ingeneo.septeo.com/plateforme-agreee-facturation-electronique",
+   "secteur": "",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "cegid-loop": "direct",
+    "cegid-quadra": "direct",
+    "cegid-experts": "direct",
+    "sage-generation-experts": "direct",
+    "isacompta": "direct",
+    "acd": "direct",
+    "inqom": "direct",
+    "tiime": "direct",
+    "fulll": "direct"
+   }
+  },
+  {
+   "name": "Kalitics",
+   "site": "https://www.kalitics.com/",
+   "secteur": "BTP",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Pennylane et Iopole",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct"
+   }
+  },
+  {
+   "name": "FULL",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "inqom": "direct",
+    "pennylane": "direct",
+    "acd": "direct",
+    "cegid-experts": "direct",
+    "cegid-quadra": "direct",
+    "sage-generation-experts": "direct",
+    "isacompta": "direct"
+   }
+  },
+  {
+   "name": "WeInvoice by Weproc",
+   "site": "https://weinvoice.fr/",
+   "secteur": "",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "myunisoft": "direct",
+    "sage-generation-experts": "direct",
+    "fulll": "direct",
+    "cegid-loop": "direct",
+    "cegid-quadra": "direct",
+    "cegid-experts": "direct"
+   }
+  },
+  {
+   "name": "Isaeta",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "isacompta": "integre",
+    "Bobbee": "integre"
+   }
+  },
+  {
+   "name": "Isavigne",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "isacompta": "integre",
+    "Bobbee": "integre"
+   }
+  },
+  {
+   "name": "Bobbee",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "isacompta": "integre",
+    "Bobbee": "integre"
+   }
+  },
+  {
+   "name": "Wineriz",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Pennylane / Inqom",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "direct",
+    "sage-generation-experts": "direct",
+    "isacompta": "direct",
+    "inqom": "direct",
+    "cegid-quadra": "direct",
+    "cegid-loop": "direct",
+    "cegid-experts": "direct"
+   }
+  },
+  {
+   "name": "Open Bee",
+   "site": "https://www.openbee.com/",
+   "secteur": "",
+   "chift": "non",
+   "pa": "pa",
+   "partner": "",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "acd": "direct",
+    "cegid-experts": "direct",
+    "sage-generation-experts": "direct"
+   }
+  },
+  {
+   "name": "Isafact",
+   "site": "",
+   "secteur": "",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Cecurity",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "isacompta": "integre"
+   }
+  },
+  {
+   "name": "Manerty",
+   "site": "https://manerty.com/",
+   "secteur": "Outil de facturation / Immobilier",
+   "chift": "non",
+   "pa": "adossee",
+   "partner": "Jedeclare",
+   "emi": "oui",
+   "rec": "oui",
+   "erep": "inconnu",
+   "notes": "",
+   "conns": {
+    "pennylane": "chift",
+    "myunisoft": "chift",
+    "inqom": "chift",
+    "acd": "chift",
+    "cegid-loop": "chift",
+    "fulll": "chift",
+    "sage-generation-experts": "chift",
+    "tiime": "chift"
+   }
+  }
+ ]
+}

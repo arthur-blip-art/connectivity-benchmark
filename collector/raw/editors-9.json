@@ -1,0 +1,529 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "sellsy",
+   "name": "Sellsy",
+   "domain": "sellsy.com",
+   "hq_country": "FR",
+   "integrations_url": "https://go.sellsy.com/marketplace",
+   "pages_read": [
+    "https://go.sellsy.com/marketplace",
+    "https://go.sellsy.com/marketplace?category=comptabilite",
+    "https://go.sellsy.com/sitemap.xml",
+    "https://help.sellsy.com/fr/collections/3289361-connecteurs-externes",
+    "https://help.sellsy.com/fr/articles/11829354-la-reforme-sellsy-et-mon-expert-comptable",
+    "https://help.sellsy.com/fr/articles/15457201-connecter-sellsy-et-acd",
+    "https://help.sellsy.com/fr/articles/15477351-connecter-sellsy-et-cegid-loop",
+    "https://help.sellsy.com/fr/articles/15478608-connecter-sellsy-et-myunisoft",
+    "https://help.sellsy.com/fr/articles/15479499-connecter-sellsy-et-tiime",
+    "https://help.sellsy.com/fr/articles/15480364-connecter-sellsy-et-fulll",
+    "https://help.sellsy.com/fr/articles/15480642-connecter-sellsy-et-inexweb-in-extenso",
+    "https://help.sellsy.com/fr/articles/15480890-connecter-sellsy-et-sage-generation-experts",
+    "https://help.sellsy.com/fr/articles/8142187-connecter-sellsy-et-inqom",
+    "https://go.sellsy.com/applications/sage-100",
+    "https://go.sellsy.com/applications/sage-1000",
+    "https://go.sellsy.com/applications/pennylane",
+    "https://go.sellsy.com/applications/ebp",
+    "https://go.sellsy.com/applications/cegid-loop",
+    "https://go.sellsy.com/applications/inqom",
+    "https://go.sellsy.com/applications/tiime",
+    "https://go.sellsy.com/applications/myunisoft",
+    "https://go.sellsy.com/applications/clementine-fr",
+    "https://go.sellsy.com/applications/edi-connect"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.sellsy.com/integrations",
+     "reason": "HTTP 404 (site moved to go.sellsy.com)"
+    },
+    {
+     "url": "https://help.sellsy.com/fr/articles/9685281-connexion-outils-comptables-via-chift",
+     "reason": "HTTP 404 (article indexed by search but no longer online)"
+    },
+    {
+     "url": "https://go.sellsy.com/en/marketplace",
+     "reason": "HTTP 404 (no English marketplace found)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "ACD",
+     "source_url": "https://help.sellsy.com/fr/articles/15457201-connecter-sellsy-et-acd",
+     "evidence": "via Chift: 'Vous serez redirigé vers l'interface sécurisée Chift'",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://help.sellsy.com/fr/articles/15477351-connecter-sellsy-et-cegid-loop",
+     "evidence": "via Chift: activation link marketplaces.chift.app/fr/sellsy/apps/8011",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://help.sellsy.com/fr/articles/15478608-connecter-sellsy-et-myunisoft",
+     "evidence": "via Chift: 'Vous serez redirigé vers l'interface sécurisée Chift'",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://help.sellsy.com/fr/articles/15479499-connecter-sellsy-et-tiime",
+     "evidence": "via Chift: 'Vous serez redirigé vers l'interface sécurisée Chift'",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://help.sellsy.com/fr/articles/15480364-connecter-sellsy-et-fulll",
+     "evidence": "via Chift: 'Vous serez redirigé vers l'interface sécurisée Chift'",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "InexWeb (In Extenso)",
+     "source_url": "https://help.sellsy.com/fr/articles/15480642-connecter-sellsy-et-inexweb-in-extenso",
+     "evidence": "via Chift: activation link marketplaces.chift.app/fr/sellsy/apps/8022",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://help.sellsy.com/fr/articles/15480890-connecter-sellsy-et-sage-generation-experts",
+     "evidence": "via Chift: must activate public application 'Chift' in Sage Génération Experts",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://go.sellsy.com/applications/sage-100",
+     "evidence": "via Chift: connect through marketplaces.chift.app/sellsy; developed by Sellsy",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://go.sellsy.com/applications/pennylane",
+     "evidence": "Auto sync invoices, payments, contacts every 12h; developed by partner",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://go.sellsy.com/applications/inqom",
+     "evidence": "Real-time synchronisation; developed by the partner; no third party named",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Clementine.fr",
+     "source_url": "https://go.sellsy.com/applications/clementine-fr",
+     "evidence": "Daily one-way invoice sync, developed by partner, marked beta",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://go.sellsy.com/applications/ebp",
+     "evidence": "via EdiConnect (Big Data Consulting): 'grâce à EdiConnect, un connecteur flexible'",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 1000",
+     "source_url": "https://go.sellsy.com/applications/sage-1000",
+     "evidence": "via EdiConnect connector by Big Data Consulting, one- or two-way sync",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://go.sellsy.com/applications/edi-connect",
+     "evidence": "via EdiConnect: sync 'entre Sellsy et EBP, Sage 50, Sage 100 ou Sage 1000'",
+     "kind": "via_partner",
+     "countries_stated": []
+    }
+   ],
+   "notes": "13 accounting apps in marketplace sitemap (acd, cegid-loop, clementine-fr, ebp, fulll, in-extenso, inqom, myunisoft, pennylane, sage-100, sage-1000, sage-generation-experts, tiime) plus edi-connect multi-connector. 8 connectors run through Chift (help articles redirect to marketplaces.chift.app). Help article 11829354 states Sage 50, Dext and Cegid Quadra have no native connector yet (API limits); Cegid Quadra therefore has no line. Generic FEC/CSV accounting export also exists (not software-specific). Marketplace is French only; no per-country list. No page found for Cegid Expert, Isacompta, Indy, Odoo, QuickBooks, Xero, DATEV, NetSuite, SAP (probed /applications/<slug>: 404)."
+  },
+  {
+   "id": "axonaut",
+   "name": "Axonaut",
+   "domain": "axonaut.com",
+   "hq_country": "FR",
+   "integrations_url": "https://axonaut.com/portail-comptable",
+   "pages_read": [
+    "https://axonaut.com/integration",
+    "https://axonaut.com/portail-comptable",
+    "https://support.axonaut.com/gerez-votre-comptabilite/le-portail-comptable-axonaut/",
+    "https://support.axonaut.com/gerez-votre-comptabilite/realiser-ses-exports-comptables/",
+    "https://support.axonaut.com/configurer-votre-compte/exporter-ses-donnees-depuis-axonaut/",
+    "https://axonaut.com/blog/axonaut-cegid/",
+    "https://axonaut.com/blog/axonaut-pennylane/",
+    "https://axonaut.com/blog/axonaut-inqom/",
+    "https://axonaut.com/blog/axonaut-acd/",
+    "https://axonaut.com/blog/axonaut-myunisoft/",
+    "https://axonaut.com/blog/export-comptable/",
+    "https://axonaut.com/content/logiciel-comptabilite",
+    "https://axonaut.com/content/logiciel-gestion-expert-comptable",
+    "https://axonaut.com/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://axonaut.com/integrations",
+     "reason": "HTTP 404 (correct URL is /integration)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://axonaut.com/blog/axonaut-pennylane/",
+     "evidence": "'Sélectionnez Pennylane et renseignez le nom de la connexion et la clé API'",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://axonaut.com/blog/axonaut-cegid/",
+     "evidence": "'intégration directe avec les logiciels comptables de Cegid (Loop et Quadra Plus)'",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Quadra Plus",
+     "source_url": "https://axonaut.com/blog/axonaut-cegid/",
+     "evidence": "'vous pourrez vous connecter à Cegid Loop et Cegid Quadra Plus'",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://axonaut.com/blog/axonaut-myunisoft/",
+     "evidence": "Connect MyUnisoft in accounting portal with folder name and API key",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://axonaut.com/blog/axonaut-acd/",
+     "evidence": "'les factures clients et fournisseurs sont transmises automatiquement ... au logiciel ACD'",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://axonaut.com/blog/axonaut-inqom/",
+     "evidence": "'Inqom se connecte à la solution de comptabilité Axonaut'",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://support.axonaut.com/gerez-votre-comptabilite/le-portail-comptable-axonaut/",
+     "evidence": "Listed for 'remontée automatique des écritures' via accounting portal",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "SAGE",
+     "source_url": "https://support.axonaut.com/gerez-votre-comptabilite/le-portail-comptable-axonaut/",
+     "evidence": "Listed for 'remontée automatique des écritures'; Sage product not specified",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "SAGE 1000",
+     "source_url": "https://axonaut.com/content/logiciel-comptabilite",
+     "evidence": "Predefined export format: 'formes prédéfinies (SAGE 1000, Ibiza, CEGID…)'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ibiza",
+     "source_url": "https://axonaut.com/content/logiciel-comptabilite",
+     "evidence": "Predefined export format: 'formes prédéfinies (SAGE 1000, Ibiza, CEGID…)'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CEGID",
+     "source_url": "https://axonaut.com/content/logiciel-comptabilite",
+     "evidence": "Predefined export format: 'formes prédéfinies (SAGE 1000, Ibiza, CEGID…)'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ebp",
+     "source_url": "https://axonaut.com/portail-comptable",
+     "evidence": "'formats d'exports (prédéfinis pour sage, ebp, cegid, ...)'",
+     "kind": "file_export",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Accounting links live in the 'Portail Comptable', not in the /integration marketplace (20 apps, none accounting; Zapier and Make present). Portail page also says 'Liaison native avec votre outil de production (ACD, Pennylane, Quadra, etc.)'. No third party (Chift or other) is named on Axonaut pages; setup is by API key in the portal. 'SAGE' is listed without product name. Not found on public pages: Fulll, Sage Génération Experts, Cegid Expert, Sage 100/50 (by name), Isacompta, Indy, or any non-French software. French site only. Expert-comptable page claims compatibility with 'tous les logiciels comptables du marché' without naming them."
+  },
+  {
+   "id": "billomat",
+   "name": "Billomat",
+   "domain": "billomat.com",
+   "hq_country": "DE",
+   "integrations_url": "https://www.billomat.com/add-ons/",
+   "pages_read": [
+    "https://www.billomat.com/",
+    "https://www.billomat.com/add-ons/",
+    "https://www.billomat.com/en/billomat-add-ons/",
+    "https://www.billomat.com/add-ons/datev-buchungsdatenservice/",
+    "https://www.billomat.com/magazin/buchhaltungsexport-fuer-datev-und-agenda-2/",
+    "https://www.billomat.com/steuerberater/",
+    "https://www.billomat.com/zusammenarbeit-mit-steuerberatern/",
+    "https://www.billomat.com/onboarding/add-ons/",
+    "https://www.billomat.com/onboarding/datev-steuerberaterzugang/",
+    "https://support.aifinyo.de/hc/de/",
+    "https://support.aifinyo.de/hc/de/categories/17745426520604-Schnittstellen-und-Add-Ons",
+    "https://support.aifinyo.de/hc/de/categories/17745473815836-Buchhaltung-und-Finanzen",
+    "https://support.aifinyo.de/hc/de/articles/22581583550236-Wie-funktioniert-der-DATEV-Export",
+    "https://support.aifinyo.de/hc/de/articles/22629792903452-Add-Ons-f%C3%BCr-Billomat",
+    "https://support.aifinyo.de/hc/de/search?query=Agenda"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.billomat.com/schnittstellen/",
+     "reason": "HTTP 404 (add-ons page is /add-ons/)"
+    },
+    {
+     "url": "https://faq.billomat.com/de/wie-kann-ich-meine-daten-dem-steuerberater-zukommen-lassen",
+     "reason": "301 to support.aifinyo.de help center home; original article not reached directly (help center returned 403 to the fetch tool, readable in a normal browser)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.billomat.com/add-ons/datev-buchungsdatenservice/",
+     "evidence": "DATEV Buchungsdatenservice add-on: 'per Klick direkt an das DATEV Rechenzentrum'",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://www.billomat.com/magazin/buchhaltungsexport-fuer-datev-und-agenda-2/",
+     "evidence": "Accounting export in 'DATEV und / oder Agenda freundliches Datenformat'",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ],
+   "notes": "Only DATEV (direct Buchungsdatenservice interface plus DATEV-format export) and Agenda (export format) are named. Add-ons list (12 items) has no other accounting/ERP software; help center 'Schnittstellen und Add-Ons' sections: DATEV, Shopify, WooCommerce, Mollie, mite, EMAILBRIEF, Elbe Inkasso, API. English add-ons page lists no named add-on. Help center now hosted at support.aifinyo.de (Billomat belongs to aifinyo). No mention found of Lexware Office, sevdesk, Addison, SAP, Scopevisio, BuchhaltungsButler or any non-German software."
+  },
+  {
+   "id": "fastbill",
+   "name": "FastBill",
+   "domain": "fastbill.com",
+   "hq_country": "DE",
+   "integrations_url": "https://www.fastbill.com/partner",
+   "pages_read": [
+    "https://www.fastbill.com/",
+    "https://www.fastbill.com/partner",
+    "https://www.fastbill.com/datev",
+    "https://www.fastbill.com/funktionen",
+    "https://www.fastbill.com/steuerberater",
+    "https://support.fastbill.com/hc/de/",
+    "https://support.fastbill.com/hc/de/sections/4404390965522-Schnittstellen",
+    "https://support.fastbill.com/hc/de/sections/4404390945042-Datenexporte-Reports",
+    "https://support.fastbill.com/hc/de/articles/360016868180-%C3%9Cbertragung-an-Addison-Agenda",
+    "https://support.fastbill.com/hc/de/articles/360001515813-DATEV-Export-DATEV-Format",
+    "https://support.fastbill.com/hc/de/articles/8342000947868-%C3%9Cbersicht-Partner-und-Schnittstellen",
+    "https://support.fastbill.com/hc/de/articles/360014501160-Daten%C3%BCbertragung-von-Mandant-zu-Steuerberater"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.fastbill.com/integrationen",
+     "reason": "HTTP 404 (partner list is /partner)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.fastbill.com/datev",
+     "evidence": "Rechnungsdatenservice 1.0 interface to DATEV Unternehmen online; DATEV-format export also available",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Addison",
+     "source_url": "https://support.fastbill.com/hc/de/articles/360016868180-%C3%9Cbertragung-an-Addison-Agenda",
+     "evidence": "'Addison hat eine Integration aufgebaut'; interface provided and supported by Addison",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://support.fastbill.com/hc/de/articles/360016868180-%C3%9Cbertragung-an-Addison-Agenda",
+     "evidence": "Via DATEV Format Export; 'Eine direkte Schnittstelle gibt es hierfür jedoch nicht'",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ],
+   "notes": "Partner page lists DATEV and ADDISON (Wolters Kluwer, ADDISON OneClick setup guide attached in help center) as the only accounting/tax software; other partners are time tracking, shops, CRM, banking (Kontist, Qonto), document tools, Zapier. Help center also mentions a generic 'ANSI-Export'. support.fastbill.com returned 403 to the fetch tool but opened normally in a browser. No mention found of Lexware Office, sevdesk (only as competitor comparison), SAP, Scopevisio, BuchhaltungsButler or non-German software. German site only."
+  },
+  {
+   "id": "easybill",
+   "name": "easybill",
+   "domain": "easybill.de",
+   "hq_country": "DE",
+   "integrations_url": "https://www.easybill.de/partner/",
+   "pages_read": [
+    "https://www.easybill.de/",
+    "https://www.easybill.de/partner/",
+    "https://www.easybill.de/partner/datev/",
+    "https://www.easybill.de/partner/lexware/",
+    "https://www.easybill.de/partner/addison/",
+    "https://www.easybill.de/partner/taxdoo/",
+    "https://www.easybill.de/funktionen/datev/",
+    "https://www.easybill.de/easybill-support-fuer-steuerberater/",
+    "https://www.easybill.de/en/features/preparatory-accounting/",
+    "https://www.easybill.de/easybill-lexware-office-vergleich",
+    "https://www.easybill.de/ratgeber/buchhaltungssoftware/",
+    "https://www.easybill.de/ratgeber/so-sparen-sie-bei-der-buchhaltung-bis-zu-80-prozent-der-kosten/",
+    "https://support.easybill.de/hc/de/",
+    "https://support.easybill.de/hc/de/sections/202406369-Auswertungen-Export-Statistiken",
+    "https://support.easybill.de/hc/de/categories/201692389-Dienste",
+    "https://support.easybill.de/hc/de/categories/15299323474332-Steuerberatung",
+    "https://support.easybill.de/hc/de/articles/115004333985-Export-f%C3%BCr-den-Steuerberater-f%C3%BCr-DATEV-u-Lexware",
+    "https://support.easybill.de/hc/de/articles/6973468981660-Export-f%C3%BCr-AGENDA",
+    "https://support.easybill.de/hc/de/articles/360021491119-Export-f%C3%BCr-ADDISON",
+    "https://support.easybill.de/hc/de/articles/360021632740-Export-f%C3%BCr-BMD",
+    "https://support.easybill.de/hc/de/articles/4408484542994-Lexware-Office-mit-easybill-verbinden"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.easybill.de/schnittstellen",
+     "reason": "HTTP 404 (interfaces page is /partner/)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.easybill.de/funktionen/datev/",
+     "evidence": "DATEV Rechnungsdatenservice 1.0 interface; DATEV ASCII and XML exports also offered",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://support.easybill.de/hc/de/articles/4408484542994-Lexware-Office-mit-easybill-verbinden",
+     "evidence": "'können Rechnungen via Schnittstelle an Lexware Office übertragen werden'",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Lexware buchhalter",
+     "source_url": "https://support.easybill.de/hc/de/articles/115004333985-Export-f%C3%BCr-den-Steuerberater-f%C3%BCr-DATEV-u-Lexware",
+     "evidence": "Export format option 'Lexware buchhalter' for outgoing invoices",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "ADDISON OneClick",
+     "source_url": "https://support.easybill.de/hc/de/articles/360021491119-Export-f%C3%BCr-ADDISON",
+     "evidence": "Export in DATEV XML format for ADDISON OneClick / ADDISON SMART Connect",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "AGENDA",
+     "source_url": "https://support.easybill.de/hc/de/articles/6973468981660-Export-f%C3%BCr-AGENDA",
+     "evidence": "AGENDA imports easybill exports in DATEV ASCII (Version 7) or DATEV XML",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "BMD",
+     "source_url": "https://support.easybill.de/hc/de/articles/360021632740-Export-f%C3%BCr-BMD",
+     "evidence": "BMD can process easybill's DATEV ASCII-Export (Version 7); extra BMD licence",
+     "kind": "file_export",
+     "countries_stated": [
+      "AT"
+     ]
+    },
+    {
+     "software_raw": "Simba-SCS",
+     "source_url": "https://support.easybill.de/hc/de/articles/115004333985-Export-f%C3%BCr-den-Steuerberater-f%C3%BCr-DATEV-u-Lexware",
+     "evidence": "'Kunden-Stammdaten im Format Simba-SCS herunterladen'",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "sevDesk",
+     "source_url": "https://www.easybill.de/ratgeber/so-sparen-sie-bei-der-buchhaltung-bis-zu-80-prozent-der-kosten/",
+     "evidence": "via GetMyInvoices: documents passed on to 'DATEV, lexoffice oder sevDesk'",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ],
+   "notes": "Partner directory shows 58 partners; accounting/tax software among them: DATEV, Lexware Office, Wolters Kluwer (ADDISON OneClick). Help center export formats: DATEV ASCII, DATEV ASCII v7, Lexware buchhalter, DATEV XML online, Taxdoo CSV, Simba-SCS; plus Dekodi Nexus settings and Taxdoo CSV (middleware/tax compliance, not listed as accounting software). support.easybill.de returned 403 to the fetch tool but opened normally in a browser. Help center search returned nothing for sevdesk or Scopevisio; no SAP, BuchhaltungsButler (named only in a comparison guide) or non-DACH accounting software found. Site has /en pages but same integration list."
+  }
+ ]
+}

@@ -1,0 +1,2473 @@
+[
+  {
+    "id": "pleo",
+    "name": "Pleo",
+    "domain": "pleo.io",
+    "category": "expense",
+    "hq": "DK",
+    "integrationsUrl": "https://www.pleo.io/en/integrations",
+    "unreadable": [
+      {
+        "url": "https://help.pleo.io/en/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://help.pleo.io/en/support/solutions/folders/103000630935",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.pleo.io/en/integrations/sage-1",
+        "reason": "HTTP 404 (URL returned by web search)"
+      },
+      {
+        "url": "https://integrations.pleo.io/category/accounting",
+        "reason": "Redirects to https://www.pleo.io/en/integrations (no separate marketplace page)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT",
+      "DK",
+      "SE",
+      "NO"
+    ]
+  },
+  {
+    "id": "spendesk",
+    "name": "Spendesk",
+    "domain": "spendesk.com",
+    "category": "expense",
+    "hq": "FR",
+    "integrationsUrl": "https://www.spendesk.com/integrations/",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "payhawk",
+    "name": "Payhawk",
+    "domain": "payhawk.com",
+    "category": "expense",
+    "hq": "GB",
+    "integrationsUrl": "https://payhawk.com/integrations",
+    "unreadable": [
+      {
+        "url": "https://payhawk.com/help/datev",
+        "reason": "Help category page renders content in JavaScript; no article text in HTML"
+      },
+      {
+        "url": "https://payhawk.com/de/integrations",
+        "reason": "HTTP 404 (German listing lives at /de/integrationen)"
+      },
+      {
+        "url": "https://payhawk.com/nl/integrations",
+        "reason": "HTTP 404 (Dutch listing lives at /nl/integraties)"
+      },
+      {
+        "url": "https://payhawk.com/en-be/integrations",
+        "reason": "HTTP 404 (no Belgian locale)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "rydoo",
+    "name": "Rydoo",
+    "domain": "rydoo.com",
+    "category": "expense",
+    "hq": "BE",
+    "integrationsUrl": "https://www.rydoo.com/integrations/",
+    "unreadable": [
+      {
+        "url": "https://help.rydoo.com/hc/en-be",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.rydoo.com/fr/integrations/",
+        "reason": "Redirects to the English page; no localized integration list (same for /de/integrationen/, /nl/integraties/)"
+      }
+    ],
+    "markets": [
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "IT"
+    ]
+  },
+  {
+    "id": "mooncard",
+    "name": "Mooncard",
+    "domain": "mooncard.co",
+    "category": "expense",
+    "hq": "FR",
+    "integrationsUrl": "https://www.mooncard.co/fr/integration",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "n2f",
+    "name": "N2F",
+    "domain": "n2f.com",
+    "category": "expense",
+    "hq": "FR",
+    "integrationsUrl": "https://www.n2f.com/fr/nos-integrations/",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "expensya",
+    "name": "Expensya",
+    "domain": "expensya.com",
+    "category": "expense",
+    "hq": "FR",
+    "integrationsUrl": "https://www.expensya.com/fr/solutions/integrations/",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "jenji",
+    "name": "Jenji",
+    "domain": "jenji.io",
+    "category": "expense",
+    "hq": "FR",
+    "integrationsUrl": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+    "unreadable": [
+      {
+        "url": "https://support.jenji.io/hc/fr",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://support.jenji.io/hc/en-us/articles/15804193165842-Set-up-the-accounting-export",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.jenji.io/en/integrations",
+        "reason": "Redirects to French homepage; no EN version served"
+      },
+      {
+        "url": "https://www.jenji.io/de/integrations",
+        "reason": "Redirects to French homepage; no DE version served"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "moss",
+    "name": "Moss",
+    "domain": "getmoss.com",
+    "category": "expense",
+    "hq": "DE",
+    "integrationsUrl": "https://www.getmoss.com/integrations",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "pliant",
+    "name": "Pliant",
+    "domain": "getpliant.com",
+    "category": "expense",
+    "hq": "DE",
+    "integrationsUrl": "https://www.getpliant.com/en/integrations",
+    "unreadable": [],
+    "markets": [
+      "DE",
+      "GB",
+      "IT"
+    ]
+  },
+  {
+    "id": "circula",
+    "name": "Circula",
+    "domain": "circula.com",
+    "category": "expense",
+    "hq": "DE",
+    "integrationsUrl": "https://www.circula.com/en/integrations",
+    "unreadable": [],
+    "markets": [
+      "DE",
+      "NL"
+    ]
+  },
+  {
+    "id": "qonto",
+    "name": "Qonto",
+    "domain": "qonto.com",
+    "category": "banking",
+    "hq": "FR",
+    "integrationsUrl": "https://qonto.com/fr/integrations",
+    "unreadable": [
+      {
+        "url": "https://support-fr.qonto.com/hc/fr",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://qonto.com/en/integrations/sagebob50-sync-ap",
+        "reason": "HTTP 404; detail pages of invoice-sync integrations (sagebob50, visma-eaccounting, fattureincloud, acd, yuki, minox, exact-online client invoices) do not exist, list page used instead"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT",
+      "NO"
+    ]
+  },
+  {
+    "id": "shine",
+    "name": "Shine",
+    "domain": "shine.fr",
+    "category": "banking",
+    "hq": "FR",
+    "integrationsUrl": "https://www.shine.fr/integrations-comptables/",
+    "unreadable": [
+      {
+        "url": "https://www.shine.fr/integrations/",
+        "reason": "HTTP 404; actual page is /integrations-comptables/"
+      }
+    ],
+    "markets": [
+      "FR",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "finom",
+    "name": "Finom",
+    "domain": "finom.co",
+    "category": "banking",
+    "hq": "NL",
+    "integrationsUrl": "https://finom.co/en-de/integrations/",
+    "unreadable": [
+      {
+        "url": "https://finom.co/en-de/integrations/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://finom.co/de-de/integrations/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://finom.co/de-de/accounting/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://finom.co/sitemap.xml",
+        "reason": "refuses automated reading"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "memo-bank",
+    "name": "Memo Bank",
+    "domain": "memo.bank",
+    "category": "banking",
+    "hq": "FR",
+    "integrationsUrl": "https://memo.bank/produit/integrations/",
+    "unreadable": [
+      {
+        "url": "https://memo.bank/en/product/integrations/",
+        "reason": "HTTP 404; English version is /en/product/connectivity/"
+      }
+    ],
+    "markets": [
+      "FR",
+      "BE",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "revolut-business",
+    "name": "Revolut Business",
+    "domain": "revolut.com",
+    "category": "banking",
+    "hq": "GB",
+    "integrationsUrl": "https://www.revolut.com/business/integrations/",
+    "unreadable": [
+      {
+        "url": "https://www.revolut.com/en-FR/business/integrations/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.revolut.com/business/accounting-integrations/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://help.revolut.com/business/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://help.revolut.com/en-FR/business/help/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://developer.revolut.com/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.revolut.com/sitemap-index.xml",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.revolut.com/llms.txt",
+        "reason": "refuses automated reading"
+      }
+    ],
+    "markets": [
+      "FR",
+      "BE",
+      "GB",
+      "ES",
+      "IT",
+      "SE",
+      "NO"
+    ]
+  },
+  {
+    "id": "n26-business",
+    "name": "N26 Business",
+    "domain": "n26.com",
+    "category": "banking",
+    "hq": "DE",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "DE"
+    ]
+  },
+  {
+    "id": "bunq",
+    "name": "bunq",
+    "domain": "bunq.com",
+    "category": "banking",
+    "hq": "NL",
+    "integrationsUrl": "https://www.bunq.com/en-nl/business/features/integrations",
+    "unreadable": [
+      {
+        "url": "https://www.bunq.com/en-nl/bookkeeping-integrations",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.bunq.com/features/bookkeeping-software-integrations",
+        "reason": "HTTP 404 (old URL)"
+      },
+      {
+        "url": "https://developers.bunq.com/benefits/bookkeeping",
+        "reason": "Redirects to generic developers page, no list"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "IT",
+      "DK"
+    ]
+  },
+  {
+    "id": "tide",
+    "name": "Tide",
+    "domain": "tide.co",
+    "category": "banking",
+    "hq": "GB",
+    "integrationsUrl": "https://www.tide.co/features/accounting-integrations/",
+    "unreadable": [
+      {
+        "url": "https://www.tide.co/support/features/tide-accounting/accounting-software-integrations/",
+        "reason": "Old support URL, redirects to generic help-centre page"
+      },
+      {
+        "url": "https://www.tide.co/support/features/tide-accounting/how-can-i-connect-my-tide-account-to-xero/",
+        "reason": "Old support URL, redirects to generic help-centre page"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "holvi",
+    "name": "Holvi",
+    "domain": "holvi.com",
+    "category": "banking",
+    "hq": "FI",
+    "integrationsUrl": "https://www.holvi.com/de/schnittstellen/",
+    "unreadable": [
+      {
+        "url": "https://www.holvi.com/integrations/",
+        "reason": "HTTP 404"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "ES",
+      "SE",
+      "NO"
+    ]
+  },
+  {
+    "id": "kontist",
+    "name": "Kontist",
+    "domain": "kontist.com",
+    "category": "banking",
+    "hq": "DE",
+    "integrationsUrl": "https://intercom.help/kontist/en/articles/1559970-how-do-i-connect-my-account-with-an-accounting-software",
+    "unreadable": [
+      {
+        "url": "https://kontist.com/product/lexoffice-video/",
+        "reason": "Redirects to homepage"
+      },
+      {
+        "url": "https://kontist.com/product/debitoor-video/",
+        "reason": "Redirects to homepage"
+      },
+      {
+        "url": "https://intercom.help/kontist/de/articles/2455128-wie-kann-ich-sehen-ob-meine-kontist-app-richtig-mit-debitoor-fastbill-lexoffice-verbunden-ist",
+        "reason": "HTTP 404 (article removed)"
+      }
+    ],
+    "markets": [
+      "DE"
+    ]
+  },
+  {
+    "id": "agicap",
+    "name": "Agicap",
+    "domain": "agicap.com",
+    "category": "cash",
+    "hq": "FR",
+    "integrationsUrl": "https://agicap.com/fr/nos-integrations/",
+    "unreadable": [
+      {
+        "url": "https://help.agicap.com/",
+        "reason": "Help centre root returns 404; robots.txt disallows /[helpCenterIdentifier]/; not crawled"
+      },
+      {
+        "url": "https://agicap.com/fr/integrations/",
+        "reason": "404 (real path is /fr/nos-integrations/)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "fygr",
+    "name": "Fygr (rebranded Okimia)",
+    "domain": "fygr.io",
+    "category": "cash",
+    "hq": "FR",
+    "integrationsUrl": "https://www.okimia.com/fr/integrations",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "ES"
+    ]
+  },
+  {
+    "id": "trezy",
+    "name": "Trezy",
+    "domain": "trezy.io",
+    "category": "cash",
+    "hq": "FR",
+    "integrationsUrl": "https://www.trezy.io/integrations",
+    "unreadable": [
+      {
+        "url": "https://www.trezy.io/fr/integrations",
+        "reason": "404, no French integrations page"
+      }
+    ],
+    "markets": [
+      "FR",
+      "GB"
+    ]
+  },
+  {
+    "id": "tidely",
+    "name": "Tidely",
+    "domain": "tidely.com",
+    "category": "cash",
+    "hq": "DE",
+    "integrationsUrl": "https://www.tidely.com/integrationen",
+    "unreadable": [],
+    "markets": [
+      "DE"
+    ]
+  },
+  {
+    "id": "commitly",
+    "name": "Commitly",
+    "domain": "commitly.com",
+    "category": "cash",
+    "hq": "DE",
+    "integrationsUrl": "https://commitly.com/funktionen/integrationen/",
+    "unreadable": [
+      {
+        "url": "https://www.commitly.com/integrationen",
+        "reason": "404 (real path is /funktionen/integrationen/)"
+      }
+    ],
+    "markets": [
+      "DE"
+    ]
+  },
+  {
+    "id": "dext",
+    "name": "Dext",
+    "domain": "dext.com",
+    "category": "payables",
+    "hq": "GB",
+    "integrationsUrl": "https://dext.com/en/business/product/integrate-with-accounting-software",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "NL",
+      "GB",
+      "ES",
+      "DK",
+      "NO"
+    ]
+  },
+  {
+    "id": "libeo",
+    "name": "Libeo",
+    "domain": "libeo.io",
+    "category": "payables",
+    "hq": "FR",
+    "integrationsUrl": "https://libeo.io/integrations",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "BE",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "candis",
+    "name": "Candis",
+    "domain": "candis.io",
+    "category": "payables",
+    "hq": "DE",
+    "integrationsUrl": "https://www.candis.io/produkt/schnittstellen-und-exporte",
+    "unreadable": [
+      {
+        "url": "https://www.candis.io/en/integrations",
+        "reason": "HTTP 404 (guessed URL, page does not exist)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "IT"
+    ]
+  },
+  {
+    "id": "getmyinvoices",
+    "name": "GetMyInvoices",
+    "domain": "getmyinvoices.com",
+    "category": "payables",
+    "hq": "DE",
+    "integrationsUrl": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "DK"
+    ]
+  },
+  {
+    "id": "klippa",
+    "name": "Klippa (Doxis SpendControl)",
+    "domain": "klippa.com",
+    "category": "payables",
+    "hq": "NL",
+    "integrationsUrl": "https://www.klippa.com/en/spendcontrol-en/integrations/",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "yooz",
+    "name": "Yooz",
+    "domain": "getyooz.com",
+    "category": "payables",
+    "hq": "FR",
+    "integrationsUrl": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+    "unreadable": [
+      {
+        "url": "https://www.getyooz.com/fr/integrations",
+        "reason": "HTTP 404 (no such page; list lives at /fr/logiciels-comptables-et-erp-connectes)"
+      },
+      {
+        "url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-A3ECO-SP.pdf",
+        "reason": "HTTP 404 on linked infographic (A3ASESOR Con / a3ECO)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "chaintrust",
+    "name": "Chaintrust",
+    "domain": "chaintrust.io",
+    "category": "payables",
+    "hq": "FR",
+    "integrationsUrl": "https://www.chaintrust.io/integrations/",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "billit",
+    "name": "Billit",
+    "domain": "billit.eu",
+    "category": "invoicing",
+    "hq": "BE",
+    "integrationsUrl": "https://www.billit.eu/en-int/link-with-billit/",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL"
+    ]
+  },
+  {
+    "id": "teamleader",
+    "name": "Teamleader",
+    "domain": "teamleader.eu",
+    "category": "invoicing",
+    "hq": "BE",
+    "integrationsUrl": "https://marketplace.teamleader.eu/be/en/",
+    "unreadable": [
+      {
+        "url": "https://support.focus.teamleader.eu/hc/articles/42086681298577",
+        "reason": "refuses automated reading"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "DK",
+      "SE",
+      "NO"
+    ]
+  },
+  {
+    "id": "zervant",
+    "name": "Zervant",
+    "domain": "zervant.com",
+    "category": "invoicing",
+    "hq": "FI",
+    "integrationsUrl": "https://www.ageras.com/us/support/category/faq",
+    "unreadable": [
+      {
+        "url": "https://www.ageras.com/us/support/360055443532-FAQ",
+        "reason": "HTTP 502 server error (redirect target of support.zervant.com FAQ)"
+      }
+    ],
+    "markets": []
+  },
+  {
+    "id": "sellsy",
+    "name": "Sellsy",
+    "domain": "sellsy.com",
+    "category": "invoicing",
+    "hq": "FR",
+    "integrationsUrl": "https://go.sellsy.com/marketplace",
+    "unreadable": [
+      {
+        "url": "https://www.sellsy.com/integrations",
+        "reason": "HTTP 404 (site moved to go.sellsy.com)"
+      },
+      {
+        "url": "https://help.sellsy.com/fr/articles/9685281-connexion-outils-comptables-via-chift",
+        "reason": "HTTP 404 (article indexed by search but no longer online)"
+      },
+      {
+        "url": "https://go.sellsy.com/en/marketplace",
+        "reason": "HTTP 404 (no English marketplace found)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "axonaut",
+    "name": "Axonaut",
+    "domain": "axonaut.com",
+    "category": "invoicing",
+    "hq": "FR",
+    "integrationsUrl": "https://axonaut.com/portail-comptable",
+    "unreadable": [
+      {
+        "url": "https://axonaut.com/integrations",
+        "reason": "HTTP 404 (correct URL is /integration)"
+      }
+    ],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "billomat",
+    "name": "Billomat",
+    "domain": "billomat.com",
+    "category": "invoicing",
+    "hq": "DE",
+    "integrationsUrl": "https://www.billomat.com/add-ons/",
+    "unreadable": [
+      {
+        "url": "https://www.billomat.com/schnittstellen/",
+        "reason": "HTTP 404 (add-ons page is /add-ons/)"
+      },
+      {
+        "url": "https://faq.billomat.com/de/wie-kann-ich-meine-daten-dem-steuerberater-zukommen-lassen",
+        "reason": "refuses automated reading"
+      }
+    ],
+    "markets": [
+      "DE"
+    ]
+  },
+  {
+    "id": "fastbill",
+    "name": "FastBill",
+    "domain": "fastbill.com",
+    "category": "invoicing",
+    "hq": "DE",
+    "integrationsUrl": "https://www.fastbill.com/partner",
+    "unreadable": [
+      {
+        "url": "https://www.fastbill.com/integrationen",
+        "reason": "HTTP 404 (partner list is /partner)"
+      }
+    ],
+    "markets": [
+      "DE"
+    ]
+  },
+  {
+    "id": "easybill",
+    "name": "easybill",
+    "domain": "easybill.de",
+    "category": "invoicing",
+    "hq": "DE",
+    "integrationsUrl": "https://www.easybill.de/partner/",
+    "unreadable": [
+      {
+        "url": "https://www.easybill.de/schnittstellen",
+        "reason": "HTTP 404 (interfaces page is /partner/)"
+      }
+    ],
+    "markets": [
+      "DE"
+    ]
+  },
+  {
+    "id": "sumup",
+    "name": "SumUp",
+    "domain": "sumup.com",
+    "category": "pos",
+    "hq": "GB",
+    "integrationsUrl": "https://help.sumup.com/en-GB/articles/40kv0a4cBysasUUXN3zkpc-link-accounting-software-sumup",
+    "unreadable": [
+      {
+        "url": "https://www.sumup.com/fr-fr/integrations/",
+        "reason": "HTTP 404, no public integrations directory at this URL"
+      },
+      {
+        "url": "https://help.sumup.com/fr-FR/articles/40kv0a4cBysasUUXN3zkpc",
+        "reason": "HTTP 404: accounting-software article not published for fr-FR (same for it-IT, es-ES, nl-NL, fr-BE, nl-BE, pt-PT)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "GB"
+    ]
+  },
+  {
+    "id": "lightspeed",
+    "name": "Lightspeed",
+    "domain": "lightspeedhq.com",
+    "category": "pos",
+    "hq": "CA",
+    "integrationsUrl": "https://www.lightspeedhq.com/integrations/",
+    "unreadable": [
+      {
+        "url": "https://x-series-support.lightspeedhq.com/hc/en-us/articles/25534073571611-Setting-up-the-Xero-integration-with-Retail-POS-X-Series",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.lightspeedhq.ch/integrationen/",
+        "reason": "Redirects to lightspeedhq.com/ch/integrationen/ which returns 404"
+      },
+      {
+        "url": "https://fr.lightspeedhq.ch/integrations/",
+        "reason": "Connection failed"
+      },
+      {
+        "url": "https://www.lightspeedhq.fr/caisse-enregistreuse/restaurant/integrations/",
+        "reason": "HTTP 404"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "IT",
+      "NO"
+    ]
+  },
+  {
+    "id": "mollie",
+    "name": "Mollie",
+    "domain": "mollie.com",
+    "category": "pos",
+    "hq": "NL",
+    "integrationsUrl": "https://www.mollie.com/integrations/categories/accounting-invoicing",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT",
+      "NO"
+    ]
+  },
+  {
+    "id": "gocardless",
+    "name": "GoCardless",
+    "domain": "gocardless.com",
+    "category": "pos",
+    "hq": "GB",
+    "integrationsUrl": "https://gocardless.com/integrations/",
+    "unreadable": [
+      {
+        "url": "https://gocardless.com/integrations/",
+        "reason": "Only first 17 cards in HTML ('Load more' is JavaScript); completed with the site's public search index (55 integration pages) and the legacy /partners directory"
+      },
+      {
+        "url": "https://gocardless.com/de-de/partner/lexoffice",
+        "reason": "HTTP 404 (renamed to /de-de/partner/lexware-office)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "payplug",
+    "name": "Payplug",
+    "domain": "payplug.com",
+    "category": "pos",
+    "hq": "FR",
+    "integrationsUrl": "https://www.payplug.com/fr/modules/",
+    "unreadable": [
+      {
+        "url": "https://www.payplug.com/fr/integrations/",
+        "reason": "HTTP 404; the directory lives at /fr/modules/"
+      }
+    ],
+    "markets": [
+      "FR",
+      "BE",
+      "ES"
+    ]
+  },
+  {
+    "id": "zettle",
+    "name": "Zettle by PayPal (PayPal Point of Sale)",
+    "domain": "zettle.com",
+    "category": "pos",
+    "hq": "SE",
+    "integrationsUrl": "https://www.zettle.com/gb/integrations",
+    "unreadable": [
+      {
+        "url": "https://www.zettle.com/gb/integrations/accounting",
+        "reason": "Redirects to paypal.com/uk/zettle product page; per-category pages no longer exist (404 on de/nl/es/it/se)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "DK",
+      "SE",
+      "NO"
+    ]
+  },
+  {
+    "id": "payfit",
+    "name": "PayFit",
+    "domain": "payfit.com",
+    "category": "hr",
+    "hq": "FR",
+    "integrationsUrl": "https://payfit.com/fr/partenaires-et-integrations/",
+    "unreadable": [
+      {
+        "url": "https://help.payfit.com/hc/fr/articles/360000633589",
+        "reason": "Old help center host no longer resolves (DNS not found); replaced by support.payfit.com"
+      }
+    ],
+    "markets": [
+      "FR",
+      "BE",
+      "GB",
+      "ES",
+      "IT"
+    ]
+  },
+  {
+    "id": "lucca",
+    "name": "Lucca",
+    "domain": "lucca.fr",
+    "category": "hr",
+    "hq": "FR",
+    "integrationsUrl": "https://marketplace.luccasoftware.com/fr/",
+    "unreadable": [
+      {
+        "url": "https://www.lucca.fr/integration-logiciel/comptabilite",
+        "reason": "Listed in sitemap but 301-redirects to the homepage (same for /integration-logiciel/ and /integration-logiciel/paie)"
+      }
+    ],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "skello",
+    "name": "Skello",
+    "domain": "skello.io",
+    "category": "hr",
+    "hq": "FR",
+    "integrationsUrl": "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "combo",
+    "name": "Combo",
+    "domain": "combohr.com",
+    "category": "hr",
+    "hq": "FR",
+    "integrationsUrl": "https://combohr.com/fr/partenaires",
+    "unreadable": [
+      {
+        "url": "https://combohr.com/fr/integrations",
+        "reason": "HTTP 404 (no such page; partners page is /fr/partenaires)"
+      },
+      {
+        "url": "https://guide.combohr.com/fr/articles/907429-gerer-votre-export-paie",
+        "reason": "HTTP 404 although listed in sitemap"
+      },
+      {
+        "url": "https://guide.combohr.com/fr/collections/1610545-communiquer-notre-export-paie-a-votre-cabinet-comptable",
+        "reason": "HTTP 404 although listed in sitemap"
+      }
+    ],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "personio",
+    "name": "Personio",
+    "domain": "personio.com",
+    "category": "hr",
+    "hq": "DE",
+    "integrationsUrl": "https://www.marketplace.personio.com/",
+    "unreadable": [
+      {
+        "url": "https://www.personio.com/product/integrations/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.personio.com/robots.txt",
+        "reason": "HTTP 429, Vercel Security Checkpoint"
+      },
+      {
+        "url": "https://www.personio.de/produkt/integrationen/",
+        "reason": "HTTP 429, Vercel Security Checkpoint"
+      },
+      {
+        "url": "https://marketplace.personio.com/",
+        "reason": "HTTP 429, Vercel Security Checkpoint"
+      },
+      {
+        "url": "https://www.marketplace.personio.com/integrations/datev/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://www.marketplace.personio.com/collection/personio/",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://support.personio.de/hc/en-us",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://support.personio.de/hc/en-us/articles/115003711325",
+        "reason": "refuses automated reading"
+      },
+      {
+        "url": "https://community.personio.com/product-updates/how-does-personio-payroll-influence-the-integration-and-partnership-with-datev-2210",
+        "reason": "301 redirect to community.personio.de homepage; article not reachable"
+      }
+    ],
+    "markets": [
+      "DE"
+    ]
+  },
+  {
+    "id": "factorial",
+    "name": "Factorial",
+    "domain": "factorialhr.com",
+    "category": "hr",
+    "hq": "ES",
+    "integrationsUrl": "https://factorialhr.com/apps",
+    "unreadable": [
+      {
+        "url": "https://factorial.es/finanzas",
+        "reason": "HTTP 404 (guessed URL)"
+      }
+    ],
+    "markets": [
+      "DE",
+      "GB",
+      "ES"
+    ]
+  },
+  {
+    "id": "plancraft",
+    "name": "plancraft",
+    "domain": "plancraft.com",
+    "category": "construction",
+    "hq": "DE",
+    "integrationsUrl": "https://plancraft.com/de-de/funktionen/software-schnittstellen",
+    "unreadable": [
+      {
+        "url": "https://help.plancraft.com/en/collections/707348-general",
+        "reason": "HTTP 401"
+      }
+    ],
+    "markets": [
+      "DE",
+      "BE",
+      "NL"
+    ]
+  },
+  {
+    "id": "hero-software",
+    "name": "HERO Software",
+    "domain": "hero-software.de",
+    "category": "construction",
+    "hq": "DE",
+    "integrationsUrl": "https://hero-software.de/features/schnittstellen",
+    "unreadable": [
+      {
+        "url": "https://support.hero-software.de/hc/s/",
+        "reason": "help center content loaded in JavaScript, nothing readable"
+      }
+    ],
+    "markets": [
+      "DE",
+      "BE",
+      "NL"
+    ]
+  },
+  {
+    "id": "tooltime",
+    "name": "ToolTime",
+    "domain": "tooltime.de",
+    "category": "construction",
+    "hq": "DE",
+    "integrationsUrl": "https://www.tooltime.app/schnittstellen-handwerk",
+    "unreadable": [],
+    "markets": [
+      "DE",
+      "GB"
+    ]
+  },
+  {
+    "id": "vertuoza",
+    "name": "Vertuoza",
+    "domain": "vertuoza.com",
+    "category": "construction",
+    "hq": "BE",
+    "integrationsUrl": "https://www.vertuoza.com/fr-be/integrations",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "DE",
+      "BE",
+      "NL",
+      "GB",
+      "ES",
+      "IT",
+      "NO"
+    ]
+  },
+  {
+    "id": "graneet",
+    "name": "Graneet",
+    "domain": "graneet.com",
+    "category": "construction",
+    "hq": "FR",
+    "integrationsUrl": "https://www.graneet.com/fr/fonctionnalite/integrations",
+    "unreadable": [],
+    "markets": [
+      "FR",
+      "BE",
+      "ES"
+    ]
+  },
+  {
+    "id": "obat",
+    "name": "Obat",
+    "domain": "obat.fr",
+    "category": "construction",
+    "hq": "FR",
+    "integrationsUrl": "https://www.obat.fr/export-comptable/",
+    "unreadable": [
+      {
+        "url": "https://www.obat.fr/sitemap.xml",
+        "reason": "no sitemap content returned"
+      }
+    ],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "abby",
+    "name": "Abby",
+    "domain": "abby.fr",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "boondmanager",
+    "name": "Boondmanager",
+    "domain": "boondmanager.com",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "dashdoc",
+    "name": "Dashdoc",
+    "domain": "dashdoc.eu",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "dolibarr",
+    "name": "Dolibarr",
+    "domain": "dolibarr.org",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "ebp-gescom",
+    "name": "EBP GesCom",
+    "domain": "ebp.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "evoliz",
+    "name": "Evoliz",
+    "domain": "evoliz.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "facnote",
+    "name": "Facnote",
+    "domain": "facnote.com",
+    "category": "payables",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "factomos",
+    "name": "Factomos",
+    "domain": "factomos.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "henrri",
+    "name": "Henrri",
+    "domain": "henrri.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "jefacture-com",
+    "name": "jefacture.com",
+    "domain": "jefacture.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "kolecto",
+    "name": "Kolecto",
+    "domain": "kolecto.fr",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "organilog",
+    "name": "Organilog",
+    "domain": "organilog.com",
+    "category": "construction",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "sage-100-gestion-commerciale",
+    "name": "Sage 100 Gestion Commerciale",
+    "domain": "sage.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "seqino",
+    "name": "Seqino",
+    "domain": "seqino.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "toolcie",
+    "name": "Toolcie",
+    "domain": "toolcie.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "vosfactures",
+    "name": "Vosfactures",
+    "domain": "vosfactures.fr",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "costructor",
+    "name": "Costructor",
+    "domain": "costructor.co",
+    "category": "construction",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "progbat",
+    "name": "ProGbat",
+    "domain": "progbat.com",
+    "category": "construction",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "digiforma",
+    "name": "Digiforma",
+    "domain": "digiforma.com",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "ipaidthat",
+    "name": "Ipaidthat",
+    "domain": "ipaidthat.io",
+    "category": "payables",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "meg",
+    "name": "MEG",
+    "domain": "",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "zoho",
+    "name": "Zoho",
+    "domain": "zoho.com",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "team-system-facture",
+    "name": "Team System facture",
+    "domain": "teamsystemfacture.fr",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "teledec",
+    "name": "Teledec",
+    "domain": "",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "sinari",
+    "name": "Sinari",
+    "domain": "sinari.com",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "infast",
+    "name": "INFast",
+    "domain": "",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "freebe",
+    "name": "Freebe",
+    "domain": "freebe.me",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "invoicing-plus",
+    "name": "Invoicing.plus",
+    "domain": "invoicing.plus",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "menlog",
+    "name": "Menlog",
+    "domain": "menlog.fr",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "gestav",
+    "name": "Gestav",
+    "domain": "gestav.com",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "sufatech",
+    "name": "Sufatech",
+    "domain": "",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "septeo",
+    "name": "Septeo",
+    "domain": "",
+    "category": "invoicing",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "kalitics",
+    "name": "Kalitics",
+    "domain": "kalitics.com",
+    "category": "construction",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "weinvoice-by-weproc",
+    "name": "WeInvoice by Weproc",
+    "domain": "weinvoice.fr",
+    "category": "payables",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "isaeta",
+    "name": "Isaeta",
+    "domain": "",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "isavigne",
+    "name": "Isavigne",
+    "domain": "",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "wineriz",
+    "name": "Wineriz",
+    "domain": "",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "open-bee",
+    "name": "Open Bee",
+    "domain": "openbee.com",
+    "category": "payables",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "manerty",
+    "name": "Manerty",
+    "domain": "manerty.com",
+    "category": "vertical",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "abill",
+    "name": "Abill",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "addictill",
+    "name": "Addictill",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "apitic",
+    "name": "Apitic",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "atilla",
+    "name": "Atilla",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "bdp",
+    "name": "BDP",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "carrepos",
+    "name": "CarrePOS",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "cashmag",
+    "name": "Cashmag",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "cashpad",
+    "name": "Cashpad",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "cegid-retail",
+    "name": "Cegid Retail",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "clyo-systems",
+    "name": "Clyo Systems",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "connectill",
+    "name": "Connectill",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "fastmag",
+    "name": "Fastmag",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "fulleapps",
+    "name": "Fulleapps",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "hellocash",
+    "name": "HelloCash",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "hiboutik",
+    "name": "Hiboutik",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "innovorder",
+    "name": "Innovorder",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "jalia-jdc",
+    "name": "Jalia - JDC",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "l-addition",
+    "name": "L'addition",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "last-app",
+    "name": "Last.app",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "leo2",
+    "name": "Leo2",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "pi-electronique",
+    "name": "PI Electronique",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "planity",
+    "name": "Planity",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "popina",
+    "name": "Popina",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "restomax",
+    "name": "Restomax",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "shopcaisse",
+    "name": "ShopCaisse",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "shopify-pos",
+    "name": "Shopify POS",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "simphony",
+    "name": "Simphony",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "square",
+    "name": "Square",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "synapsy",
+    "name": "Synapsy",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "tactilpad",
+    "name": "Tactilpad",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "tiller",
+    "name": "Tiller",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "toporder-mypos-cash-register",
+    "name": "Toporder | myPOS Cash Register",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "trivec",
+    "name": "Trivec",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "zelty",
+    "name": "Zelty",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "biborne",
+    "name": "Biborne",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "breeze-pos",
+    "name": "Breeze POS",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "caisse-enregistreuse-fr-kash-click",
+    "name": "Caisse.enregistreuse.fr (kash.click)",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "cash-systemes-industrie",
+    "name": "Cash Systèmes Industrie",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "clictill",
+    "name": "Clictill",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "force7-by-cashmag",
+    "name": "Force7 by Cashmag",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "genius-by-neosystems",
+    "name": "Genius by Neosystems",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "hairnet-by-cashmag",
+    "name": "Hairnet by Cashmag",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "jdc-caisse-et-monetique-sans-bo",
+    "name": "JDC (caisse et monétique) - Sans BO",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "kerawen",
+    "name": "Kerawen",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "kezia-ii-by-jdc",
+    "name": "Kezia II by JDC",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "kwisatz",
+    "name": "Kwisatz",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "locatouch",
+    "name": "Locatouch",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "ls-coiffure-bu-cashmag",
+    "name": "LS Coiffure bu Cashmag",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "macxiphone",
+    "name": "Macxiphone",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "neosystems",
+    "name": "Neosystems",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "nova-by-jdc",
+    "name": "Nova by JDC",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "one-touch-encaissement",
+    "name": "One-touch encaissement",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "rezomatic-tgm-commerce",
+    "name": "Rezomatic (TGM Commerce)",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "popina-k-by-jdc",
+    "name": "Popina K by JDC",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "smart-caisse",
+    "name": "Smart Caisse",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "solumag-easycommerce-et-sydevcamp",
+    "name": "Solumag (EasyCommerce et SydevCamp)",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "solutions-pdv",
+    "name": "Solutions PDV",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "sora",
+    "name": "Sora",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "synergie-73-informatique",
+    "name": "Synergie 73 Informatique",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "weshop",
+    "name": "Weshop",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  },
+  {
+    "id": "crisalid",
+    "name": "Crisalid",
+    "domain": "",
+    "category": "pos",
+    "hq": "--",
+    "integrationsUrl": null,
+    "unreadable": [],
+    "markets": [
+      "FR"
+    ]
+  }
+]

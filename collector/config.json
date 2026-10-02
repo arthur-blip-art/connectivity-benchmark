@@ -1,0 +1,580 @@
+{
+  "collectedAt": "2026-10-01",
+  "excludedEditors": {
+    "yokoy": "yokoy.io now redirects to perk.com (Perk Spend); the former integrations page is gone, so the public list is not comparable."
+  },
+  "ignoreUnreadable": [
+    "yokoy"
+  ],
+  "software": {
+    "cegid-quadra": {
+      "match": "quadra",
+      "aliases": [
+        "Quadra",
+        "Quadratus",
+        "QuadraCompta"
+      ]
+    },
+    "cegid-loop": {
+      "match": "cegid\\s*loop|^loop$"
+    },
+    "cegid-experts": {
+      "match": "cegid\\s*experts?\\b",
+      "aliases": [
+        "Cegid Expert"
+      ]
+    },
+    "acd": {
+      "match": "\\bACD\\b|i-suite",
+      "aliases": [
+        "ACD Compta",
+        "i-Suite"
+      ]
+    },
+    "sage-100-de": {
+      "match": "sage\\s*100\\s*\\(?(de|deutschland|germany)"
+    },
+    "sage-100": {
+      "match": "sage\\s*x?\\s*100(?!0)",
+      "aliases": [
+        "Sage 100"
+      ]
+    },
+    "sage-generation-experts": {
+      "match": "g[ée]n[ée]ration experts?|sage\\s*ge\\b|sage coala|\\bcoala\\b",
+      "aliases": [
+        "Génération Experts",
+        "Generation Experts",
+        "Coala"
+      ]
+    },
+    "sage-despachos": {
+      "match": "sage despachos"
+    },
+    "sage-intacct": {
+      "match": "intacct"
+    },
+    "sage-active": {
+      "match": "sage active"
+    },
+    "sage-bob-50": {
+      "match": "bob\\s?50|sage bob|^bob\\b",
+      "aliases": [
+        "BOB50",
+        "BOB 50",
+        "Sage BOB"
+      ]
+    },
+    "sage-50": {
+      "match": "sage\\s*50(?!0)|contaplus|\\bciel\\b",
+      "aliases": [
+        "Sage 50cloud",
+        "Contaplus"
+      ]
+    },
+    "sage-200": {
+      "match": "sage\\s*200(?!0)"
+    },
+    "ebp": {
+      "match": "\\b(EBP|ebp)\\b",
+      "cased": true
+    },
+    "pennylane": {
+      "match": "pennylane"
+    },
+    "fulll": {
+      "match": "fulll|\\bibiza\\b"
+    },
+    "myunisoft": {
+      "match": "my\\s?unisoft"
+    },
+    "tiime": {
+      "match": "tiime"
+    },
+    "inqom": {
+      "match": "inqom"
+    },
+    "isacompta": {
+      "match": "isacompta|agiris|isagri",
+      "aliases": [
+        "Agiris",
+        "Isagri"
+      ]
+    },
+    "indy": {
+      "match": "\\bIndy\\b",
+      "cased": true
+    },
+    "winbooks": {
+      "match": "winbooks"
+    },
+    "exact-online": {
+      "match": "^exact$|exact online",
+      "aliases": [
+        "Exact Online"
+      ]
+    },
+    "octopus": {
+      "match": "\\bOctopus\\b",
+      "cased": true
+    },
+    "yuki": {
+      "match": "\\bYuki\\b",
+      "cased": true
+    },
+    "adsolut": {
+      "match": "adsolut"
+    },
+    "horus": {
+      "match": "\\bHorus\\b",
+      "cased": true
+    },
+    "kluwer-expert": {
+      "match": "expert[/-]?m\\b|kluwer expert",
+      "aliases": [
+        "Expert/M"
+      ]
+    },
+    "odoo": {
+      "match": "odoo"
+    },
+    "winauditor": {
+      "match": "winauditor"
+    },
+    "afas": {
+      "match": "\\bafas\\b"
+    },
+    "e-boekhouden": {
+      "match": "e-?boekhouden"
+    },
+    "twinfield": {
+      "match": "twinfield"
+    },
+    "moneybird": {
+      "match": "moneybird"
+    },
+    "visma-eaccounting": {
+      "match": "visma e-?accounting|\\beaccounting\\b"
+    },
+    "snelstart": {
+      "match": "snelstart"
+    },
+    "minox": {
+      "match": "\\bminox\\b"
+    },
+    "visma-accountview": {
+      "match": "accountview"
+    },
+    "datev-koinos": {
+      "match": "koinos"
+    },
+    "datev": {
+      "match": "datev"
+    },
+    "lexware-office": {
+      "match": "lexware office|lexoffice",
+      "aliases": [
+        "lexoffice"
+      ]
+    },
+    "sevdesk": {
+      "match": "sevdesk"
+    },
+    "fastbill": {
+      "match": "fastbill"
+    },
+    "unit4": {
+      "match": "unit4|unit 4"
+    },
+    "agenda": {
+      "match": "\\bAgenda\\b|AGENDA",
+      "cased": true
+    },
+    "addison": {
+      "match": "addison"
+    },
+    "microsoft-dynamics": {
+      "match": "dynamics|business central|navision",
+      "aliases": [
+        "Business Central",
+        "Dynamics 365",
+        "Navision"
+      ]
+    },
+    "xero": {
+      "match": "\\bxero\\b"
+    },
+    "quickbooks": {
+      "match": "quick\\s?books"
+    },
+    "clearbooks": {
+      "match": "clear\\s?books"
+    },
+    "freeagent": {
+      "match": "freeagent"
+    },
+    "freshbooks": {
+      "match": "freshbooks"
+    },
+    "a3-asesor": {
+      "match": "a3\\s?asesor"
+    },
+    "a3-erp": {
+      "match": "a3\\s?erp"
+    },
+    "a3-innuva": {
+      "match": "a3\\s?innuva"
+    },
+    "contasol": {
+      "match": "contasol|delsol"
+    },
+    "holded": {
+      "match": "holded"
+    },
+    "teamsystem-studio": {
+      "match": "teamsystem studio"
+    },
+    "teamsystem-azienda": {
+      "match": "teamsystem azienda"
+    },
+    "teamsystem-gamma": {
+      "match": "teamsystem gamma"
+    },
+    "teamsystem-reviso": {
+      "match": "reviso"
+    },
+    "ago-infinity": {
+      "match": "ago infinity"
+    },
+    "profis": {
+      "match": "\\bprofis\\b"
+    },
+    "bpoint": {
+      "match": "b\\.?point"
+    },
+    "netsuite": {
+      "match": "netsuite"
+    },
+    "visma-e-conomic": {
+      "match": "e-?conomic"
+    },
+    "dinero": {
+      "match": "\\bdinero\\b"
+    },
+    "billy": {
+      "match": "\\bBilly\\b",
+      "cased": true
+    },
+    "uniconta": {
+      "match": "uniconta"
+    },
+    "bjorn-lunden": {
+      "match": "bj[oö]rn lund[eé]n"
+    },
+    "dynaccount": {
+      "match": "dynaccount"
+    },
+    "fortnox": {
+      "match": "fortnox"
+    },
+    "visma-spiris": {
+      "match": "spiris|visma e-?ekonomi|eekonomi"
+    },
+    "xledger": {
+      "match": "xledger"
+    },
+    "finago": {
+      "match": "finago|24\\s?sevenoffice"
+    },
+    "hogia": {
+      "match": "hogia"
+    },
+    "tripletex": {
+      "match": "tripletex"
+    },
+    "fiken": {
+      "match": "\\bfiken\\b"
+    },
+    "poweroffice": {
+      "match": "power\\s?office"
+    },
+    "unimicro": {
+      "match": "uni\\s?micro|uni economy"
+    },
+    "zirius": {
+      "match": "zirius"
+    }
+  },
+  "families": {
+    "sage": {
+      "match": "^Sage( France| UK| Accounting)?$",
+      "membersByHq": {
+        "FR": [
+          "sage-100",
+          "sage-generation-experts"
+        ],
+        "GB": [
+          "sage-50"
+        ],
+        "ES": [
+          "sage-50",
+          "sage-200"
+        ]
+      },
+      "members": []
+    },
+    "cegid": {
+      "match": "^C[eé]gid$",
+      "members": [
+        "cegid-loop",
+        "cegid-quadra"
+      ]
+    },
+    "a3": {
+      "match": "^(Wolters Kluwer )?a3$",
+      "members": [
+        "a3-erp",
+        "a3-asesor",
+        "a3-innuva"
+      ]
+    },
+    "teamsystem": {
+      "match": "^TeamSystem$",
+      "members": [
+        "teamsystem-studio",
+        "teamsystem-azienda",
+        "teamsystem-gamma"
+      ]
+    },
+    "zucchetti": {
+      "match": "^Zucchetti$",
+      "members": [
+        "ago-infinity"
+      ]
+    }
+  },
+  "frBarometerCompiledAt": "2026-09-28",
+  "platformMatch": {
+    "pennylane": "pennylane",
+    "tiime": "tiime",
+    "fulll": "fulll",
+    "myunisoft": "myunisoft",
+    "odoo": "odoo",
+    "octopus": "octopus",
+    "horus": "horus",
+    "exact-online": "exact",
+    "yuki": "yuki",
+    "winbooks": "winbooks",
+    "clearfacts": "clearfacts"
+  },
+  "names": {},
+  "display": {
+    "FR": {
+      "channel": "48% of French SMEs work with a chartered accountant, close to 80% of the smallest ones (Chift survey 2026). Larger SMEs often keep accounting in house.",
+      "reform": "Receiving is mandatory for all companies since 1 September 2026. Issuing extends to SMEs on 1 September 2027.",
+      "network": "Approved private platforms (plateformes agréées). Peppol is optional.",
+      "note": "Three layers: accountant suites (Cegid Quadra, Sage Génération Experts, ACD), cloud platforms shared by firms and SMEs (Pennylane), in-house SME software (Sage 100, EBP). Each Sage and Cegid product is a separate integration."
+    },
+    "DE": {
+      "channel": "Accounting is delegated to the Steuerberater for most SMEs, more than in any other market of Chift's 2026 survey.",
+      "reform": "Receiving is mandatory since 2025. Issuing becomes mandatory in 2027 above EUR 800,000 of turnover, and for everyone in 2028.",
+      "network": "No mandated network. XRechnung or ZUGFeRD format. Peppol is an option.",
+      "note": "The SME layer is cloud (Lexware Office, sevdesk). DATEV runs both on premise and in the cloud. ADDISON and Agenda barely show in SME surveys but matter through accountants."
+    },
+    "BE": {
+      "channel": "Accountants run the full workflow for most SMEs. Below 50 employees, accounting is almost entirely outsourced (Chift survey 2026).",
+      "reform": "B2B e-invoicing is mandatory since 1 January 2026, for sending and receiving.",
+      "network": "Peppol, for all VAT-liable companies at once.",
+      "note": "Two markets. Flanders is mostly cloud (Exact Online, Octopus, Adsolut, Yuki). Wallonia is more on premise (Horus, WinBooks, Sage BOB 50, Odoo)."
+    }
+  },
+  "marketplaceTargets": {
+    "Sage France": [
+      "sage-100"
+    ],
+    "Sage BOB": [
+      "sage-bob-50"
+    ],
+    "Cegid (Loop / Quadra)": [
+      "cegid-loop"
+    ]
+  },
+  "skipMarketplaces": {
+    "Cegid (Loop / Quadra)": "no public marketplace; the help article listing partners sits behind an anti-bot waiting page",
+    "Addison": "wolterskluwer.com refuses automated reading",
+    "Adsolut": "wolterskluwer.com refuses automated reading"
+  },
+  "unreadableReasons": {
+    "Inqom": "marketplace is inside the application",
+    "Fulll": "partner store is inside the application",
+    "Agenda": "partner page names no partner",
+    "WinBooks": "no public partner directory"
+  },
+  "skipListings": [
+    {
+      "software": "Odoo",
+      "editor": "Mooncard",
+      "reason": "third-party module for Odoo 8 and 10 only"
+    }
+  ],
+  "categories": [
+    {
+      "id": "expense",
+      "label": "Expense & spend management"
+    },
+    {
+      "id": "banking",
+      "label": "Business banking"
+    },
+    {
+      "id": "cash",
+      "label": "Cash management"
+    },
+    {
+      "id": "payables",
+      "label": "Pre-accounting & payables"
+    },
+    {
+      "id": "invoicing",
+      "label": "Invoicing & business management"
+    },
+    {
+      "id": "pos",
+      "label": "Payments & point of sale"
+    },
+    {
+      "id": "hr",
+      "label": "HR & payroll"
+    },
+    {
+      "id": "construction",
+      "label": "Construction & field service"
+    },
+    {
+      "id": "vertical",
+      "label": "Other vertical software"
+    }
+  ],
+  "batchCategory": {
+    "editors-1.json": "expense",
+    "editors-2.json": "expense",
+    "editors-3.json": "expense",
+    "editors-4.json": "banking",
+    "editors-5.json": "banking",
+    "editors-6.json": "cash",
+    "editors-7.json": "payables",
+    "editors-8.json": "payables",
+    "editors-9.json": "invoicing",
+    "editors-10.json": "pos",
+    "editors-11.json": "hr",
+    "editors-12.json": "construction"
+  },
+  "editorCategory": {
+    "billit": "invoicing",
+    "teamleader": "invoicing",
+    "zervant": "invoicing"
+  },
+  "directoryCategory": {
+    "Qonto": "banking",
+    "Shine": "banking",
+    "Agicap": "cash",
+    "N2F": "expense",
+    "Spendesk": "expense",
+    "Lucca": "hr",
+    "Facnote": "payables",
+    "Libeo": "payables",
+    "Chaintrust": "payables",
+    "Dext": "payables",
+    "Yooz": "payables",
+    "Ipaidthat": "payables",
+    "Open Bee": "payables",
+    "WeInvoice by Weproc": "payables",
+    "Graneet": "construction",
+    "Obat": "construction",
+    "Vertuoza": "construction",
+    "Costructor": "construction",
+    "ProGbat": "construction",
+    "Sage Batigest": "construction",
+    "Kalitics": "construction",
+    "Organilog": "construction",
+    "Dashdoc": "vertical",
+    "Sinari": "vertical",
+    "Digiforma": "vertical",
+    "Boondmanager": "vertical",
+    "Menlog": "vertical",
+    "Isaeta": "vertical",
+    "Isavigne": "vertical",
+    "Wineriz": "vertical",
+    "Manerty": "vertical",
+    "Gestav": "vertical",
+    "Sufatech": "vertical"
+  },
+  "directorySkip": [
+    "Pennylane",
+    "Tiime",
+    "Odoo",
+    "Indy",
+    "Bobbee",
+    "Inqom Gestion",
+    "MygestionFinancière by MyUnisoft",
+    "Odoo POS",
+    "Dougs",
+    "Amarris",
+    "FULL",
+    "Isafact"
+  ],
+  "directoryUrl": "https://www.connect-compta.fr/#annuaire",
+  "extraSoftware": {
+    "FR": [
+      {
+        "id": "cegid-experts",
+        "name": "Cegid Experts",
+        "vendor": "Cegid",
+        "target": "firm",
+        "url": null,
+        "importance": "secondary",
+        "evidence": "Listed by connect-compta among the production software accountants work with.",
+        "sources": [
+          "https://www.connect-compta.fr/#annuaire"
+        ]
+      },
+      {
+        "id": "indy",
+        "name": "Indy",
+        "vendor": "Indy",
+        "target": "sme",
+        "url": "https://www.indy.fr/",
+        "importance": "secondary",
+        "evidence": "Listed by connect-compta among production software; its platform receives e-invoices for about 347,000 companies, mostly sole traders (connect-compta barometer, 28 Sept 2026).",
+        "sources": [
+          "https://www.connect-compta.fr/#annuaire",
+          "https://www.connect-compta.fr/carte"
+        ]
+      },
+      {
+        "id": "odoo",
+        "name": "Odoo",
+        "vendor": "Odoo",
+        "target": "sme",
+        "url": "https://www.odoo.com/",
+        "importance": "secondary",
+        "evidence": "Listed by connect-compta among production software.",
+        "sources": [
+          "https://www.connect-compta.fr/#annuaire"
+        ]
+      }
+    ]
+  },
+  "surveyUrl": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+  "vendorFigureCountries": [
+    "FR",
+    "DE",
+    "BE"
+  ],
+  "directoryAlias": {
+    "SumUp POS": "sumup",
+    "Lightspeed (POS)": "lightspeed",
+    "Zettle": "zettle",
+    "Odoo": "odoo"
+  }
+}

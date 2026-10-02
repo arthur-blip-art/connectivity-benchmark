@@ -1,0 +1,847 @@
+[
+  {
+    "id": "cegid-quadra",
+    "name": "Cegid Quadra",
+    "vendor": "Cegid",
+    "target": "firm",
+    "url": "https://www.cegid.com/fr/solutions/expertise-comptable/",
+    "marketplaceUrl": "https://www.cegid.com/fr/ecosysteme-partenaires/",
+    "aliases": [
+      "Quadra",
+      "Quadratus",
+      "QuadraCompta"
+    ],
+    "cased": false
+  },
+  {
+    "id": "acd",
+    "name": "ACD",
+    "vendor": "ACD Groupe",
+    "target": "firm",
+    "url": "https://www.acd-groupe.fr/",
+    "marketplaceUrl": "https://www.acd-groupe.fr/partenaires/",
+    "aliases": [
+      "ACD Compta",
+      "i-Suite"
+    ],
+    "cased": true
+  },
+  {
+    "id": "sage-100",
+    "name": "Sage 100",
+    "vendor": "Sage",
+    "target": "sme",
+    "url": "https://www.sage.com/fr-fr/produits/sage-100/",
+    "marketplaceUrl": "https://fr-marketplace.sage.com/",
+    "aliases": [
+      "Sage 100"
+    ],
+    "cased": false
+  },
+  {
+    "id": "ebp",
+    "name": "EBP",
+    "vendor": "EBP (Cegid)",
+    "target": "sme",
+    "url": "https://www.ebp.com/",
+    "marketplaceUrl": "https://www.ebp.com/applications-editeurs-partenaires-ebp/",
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "pennylane",
+    "name": "Pennylane",
+    "vendor": "Pennylane",
+    "target": "both",
+    "url": "https://www.pennylane.com/fr/",
+    "marketplaceUrl": "https://www.pennylane.com/fr/integrations",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "sage-generation-experts",
+    "name": "Sage Génération Experts",
+    "vendor": "Sage",
+    "target": "firm",
+    "url": "https://www.sage.com/fr-fr/experts-comptables/produits/",
+    "marketplaceUrl": null,
+    "aliases": [
+      "Génération Experts",
+      "Generation Experts",
+      "Coala"
+    ],
+    "cased": false
+  },
+  {
+    "id": "fulll",
+    "name": "Fulll",
+    "vendor": "Fulll",
+    "target": "firm",
+    "url": "https://www.fulll.fr/",
+    "marketplaceUrl": "https://www.fulll.fr/connectivite",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "cegid-loop",
+    "name": "Cegid Loop",
+    "vendor": "Cegid",
+    "target": "firm",
+    "url": "https://www.cegid.com/fr/solutions/expertise-comptable/",
+    "marketplaceUrl": "https://www.cegid.com/fr/ecosysteme-partenaires/",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "myunisoft",
+    "name": "MyUnisoft",
+    "vendor": "MyUnisoft",
+    "target": "both",
+    "url": "https://myu.fr/",
+    "marketplaceUrl": "https://myu.fr/editeurs-partenaires/",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "sage-50",
+    "name": "Sage 50",
+    "vendor": "Sage",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [
+      "Sage 50cloud",
+      "Contaplus"
+    ],
+    "cased": false
+  },
+  {
+    "id": "tiime",
+    "name": "Tiime",
+    "vendor": "Tiime",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "inqom",
+    "name": "Inqom",
+    "vendor": "Visma",
+    "target": "firm",
+    "url": "https://www.inqom.com/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "isacompta",
+    "name": "Isacompta",
+    "vendor": "Isagri (Agiris)",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [
+      "Agiris",
+      "Isagri"
+    ],
+    "cased": false
+  },
+  {
+    "id": "cegid-experts",
+    "name": "Cegid Experts",
+    "vendor": "Cegid",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [
+      "Cegid Expert"
+    ],
+    "cased": false
+  },
+  {
+    "id": "indy",
+    "name": "Indy",
+    "vendor": "Indy",
+    "target": "sme",
+    "url": "https://www.indy.fr/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "odoo",
+    "name": "Odoo",
+    "vendor": "Odoo",
+    "target": "sme",
+    "url": "https://www.odoo.com/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "datev",
+    "name": "DATEV",
+    "vendor": "DATEV eG",
+    "target": "both",
+    "url": "https://www.datev.de/",
+    "marketplaceUrl": "https://www.datev.de/web/de/marktplatz/",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "microsoft-dynamics",
+    "name": "Microsoft Dynamics",
+    "vendor": "Microsoft",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [
+      "Business Central",
+      "Dynamics 365",
+      "Navision"
+    ],
+    "cased": false
+  },
+  {
+    "id": "lexware-office",
+    "name": "Lexware Office",
+    "vendor": "Haufe",
+    "target": "sme",
+    "url": "https://www.lexware.de/buchhaltungssoftware/",
+    "marketplaceUrl": "https://www.lexware.de/partner/",
+    "aliases": [
+      "lexoffice"
+    ],
+    "cased": false
+  },
+  {
+    "id": "sevdesk",
+    "name": "sevdesk",
+    "vendor": "sevdesk (Cegid)",
+    "target": "sme",
+    "url": "https://sevdesk.de/",
+    "marketplaceUrl": "https://sevdesk.de/integrationen/",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "sage-100-de",
+    "name": "Sage 100 (Germany)",
+    "vendor": "Sage",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "fastbill",
+    "name": "FastBill",
+    "vendor": "FastBill",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "sage-active",
+    "name": "Sage Active",
+    "vendor": "Sage",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "unit4",
+    "name": "Unit4",
+    "vendor": "Unit4",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "agenda",
+    "name": "Agenda",
+    "vendor": "Agenda",
+    "target": "firm",
+    "url": "https://www.agenda-software.de/",
+    "marketplaceUrl": "https://www.agenda-software.de/ueber-agenda/partner.php",
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "exact-online",
+    "name": "Exact Online",
+    "vendor": "Exact",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [
+      "Exact Online"
+    ],
+    "cased": false
+  },
+  {
+    "id": "addison",
+    "name": "ADDISON",
+    "vendor": "Wolters Kluwer",
+    "target": "firm",
+    "url": "https://www.wolterskluwer.com/de-de/solutions/steuern-rechnungswesen/steuerberater",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "winbooks",
+    "name": "WinBooks",
+    "vendor": "Exact",
+    "target": "firm",
+    "url": "https://www.exact.com/befr/software/exact-winbooks",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "octopus",
+    "name": "Octopus",
+    "vendor": "Octopus",
+    "target": "firm",
+    "url": "https://www.octopus.be/nl/",
+    "marketplaceUrl": "https://www.octopus.be/nl/boekhoudsoftware-integraties/",
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "yuki",
+    "name": "Yuki",
+    "vendor": "Visma",
+    "target": "both",
+    "url": "https://www.yukisoftware.com/be-nl/",
+    "marketplaceUrl": "https://www.yukisoftware.com/be-nl/integraties/",
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "sage-bob-50",
+    "name": "Sage BOB 50",
+    "vendor": "Sage",
+    "target": "firm",
+    "url": "https://www.sage.com/fr-be/produits/sage-bob/",
+    "marketplaceUrl": null,
+    "aliases": [
+      "BOB50",
+      "BOB 50",
+      "Sage BOB"
+    ],
+    "cased": false
+  },
+  {
+    "id": "adsolut",
+    "name": "Adsolut",
+    "vendor": "Wolters Kluwer",
+    "target": "firm",
+    "url": "https://www.wolterskluwer.com/nl-be/solutions/adsolut",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "horus",
+    "name": "Horus",
+    "vendor": "Horus Software",
+    "target": "both",
+    "url": "https://www.horussoftware.be/",
+    "marketplaceUrl": "https://marketplace.horussoftware.be/fr/",
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "kluwer-expert",
+    "name": "Kluwer Expert/M",
+    "vendor": "Wolters Kluwer",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [
+      "Expert/M"
+    ],
+    "cased": false
+  },
+  {
+    "id": "winauditor",
+    "name": "Winauditor",
+    "vendor": "Winauditor",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "afas",
+    "name": "AFAS",
+    "vendor": "AFAS Software",
+    "target": "sme",
+    "url": "https://www.afas.nl/",
+    "marketplaceUrl": "https://www.afas.nl/dienstverlening/partnernetwerk",
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "e-boekhouden",
+    "name": "e-Boekhouden",
+    "vendor": "e-Boekhouden.nl",
+    "target": "sme",
+    "url": "https://www.e-boekhouden.nl/",
+    "marketplaceUrl": "https://www.e-boekhouden.nl/koppelingen",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "twinfield",
+    "name": "Twinfield",
+    "vendor": "Wolters Kluwer",
+    "target": "firm",
+    "url": "https://www.wolterskluwer.com/nl-nl/solutions/twinfield-accounting",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "moneybird",
+    "name": "Moneybird",
+    "vendor": "Moneybird",
+    "target": "sme",
+    "url": "https://www.moneybird.nl/",
+    "marketplaceUrl": "https://www.moneybird.nl/product/koppelingen/",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "visma-eaccounting",
+    "name": "Visma eAccounting",
+    "vendor": "Visma",
+    "target": "both",
+    "url": "https://eaccounting.nl/",
+    "marketplaceUrl": "https://eaccounting.nl/koppelingen",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "snelstart",
+    "name": "SnelStart",
+    "vendor": "SnelStart",
+    "target": "both",
+    "url": "https://www.snelstart.nl/",
+    "marketplaceUrl": "https://www.snelstart.nl/koppelingen",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "minox",
+    "name": "Minox",
+    "vendor": "Minox",
+    "target": "firm",
+    "url": "https://minox.nl/",
+    "marketplaceUrl": "https://minox.nl/koppelingen/",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "visma-accountview",
+    "name": "Visma AccountView",
+    "vendor": "Visma",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "xero",
+    "name": "Xero",
+    "vendor": "Xero",
+    "target": "both",
+    "url": "https://www.xero.com/uk/",
+    "marketplaceUrl": "https://apps.xero.com/uk",
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "quickbooks",
+    "name": "QuickBooks",
+    "vendor": "Intuit",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "sage-200",
+    "name": "Sage 200",
+    "vendor": "Sage",
+    "target": "sme",
+    "url": "https://www.sage.com/en-gb/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "sage-intacct",
+    "name": "Sage Intacct",
+    "vendor": "Sage",
+    "target": "sme",
+    "url": "https://www.sage.com/en-gb/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "clearbooks",
+    "name": "Clear Books",
+    "vendor": "Clear Books",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "freeagent",
+    "name": "FreeAgent",
+    "vendor": "NatWest Group",
+    "target": "both",
+    "url": "https://www.freeagent.com/",
+    "marketplaceUrl": "https://www.freeagent.com/integrations/",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "freshbooks",
+    "name": "FreshBooks",
+    "vendor": "FreshBooks",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "a3-asesor",
+    "name": "A3 Asesor",
+    "vendor": "Wolters Kluwer",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "contasol",
+    "name": "Contasol (Software DELSOL)",
+    "vendor": "Software DELSOL",
+    "target": "both",
+    "url": "https://www.sdelsol.com/programa-contabilidad-contasol/",
+    "marketplaceUrl": "https://www.sdelsol.com/integraciones/",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "sage-despachos",
+    "name": "Sage Despachos",
+    "vendor": "Sage",
+    "target": "firm",
+    "url": "https://www.sage.com/es-es/software-asesorias-y-despachos/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "a3-erp",
+    "name": "A3 ERP",
+    "vendor": "Wolters Kluwer",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "a3-innuva",
+    "name": "A3 Innuva",
+    "vendor": "Wolters Kluwer",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "holded",
+    "name": "Holded",
+    "vendor": "Holded (Visma)",
+    "target": "sme",
+    "url": "https://www.holded.com/es",
+    "marketplaceUrl": "https://www.holded.com/es/integraciones",
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "teamsystem-studio",
+    "name": "TeamSystem Studio",
+    "vendor": "TeamSystem",
+    "target": "firm",
+    "url": "https://www.teamsystem.com/studio/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "ago-infinity",
+    "name": "AGO Infinity",
+    "vendor": "Zucchetti",
+    "target": "firm",
+    "url": "https://www.zucchetti.it/it/cms/professionisti/contabilita-fisco-finanza/gestione-contabile-fiscale/ago-infinity/software-gestionale-per-commercialisti.html",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "profis",
+    "name": "Profis",
+    "vendor": "Sistemi",
+    "target": "firm",
+    "url": "https://www.sistemi.com/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "teamsystem-azienda",
+    "name": "TeamSystem Azienda",
+    "vendor": "TeamSystem",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "bpoint",
+    "name": "B.Point",
+    "vendor": "Wolters Kluwer",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "teamsystem-gamma",
+    "name": "TeamSystem Gamma",
+    "vendor": "TeamSystem",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "datev-koinos",
+    "name": "DATEV Koinos",
+    "vendor": "DATEV Koinos",
+    "target": "firm",
+    "url": "https://www.datevkoinos.it/",
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "teamsystem-reviso",
+    "name": "TeamSystem Reviso",
+    "vendor": "TeamSystem",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "netsuite",
+    "name": "NetSuite",
+    "vendor": "Oracle",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "visma-e-conomic",
+    "name": "Visma e-conomic",
+    "vendor": "Visma",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "dinero",
+    "name": "Dinero",
+    "vendor": "Visma",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "billy",
+    "name": "Billy",
+    "vendor": "Ageras",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": true
+  },
+  {
+    "id": "uniconta",
+    "name": "Uniconta",
+    "vendor": "Uniconta",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "bjorn-lunden",
+    "name": "Björn Lundén",
+    "vendor": "Björn Lundén",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "dynaccount",
+    "name": "Dynaccount",
+    "vendor": "Dynaccount",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "fortnox",
+    "name": "Fortnox",
+    "vendor": "Fortnox",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "visma-spiris",
+    "name": "Visma Spiris",
+    "vendor": "Visma",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "xledger",
+    "name": "Xledger",
+    "vendor": "Xledger",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "finago",
+    "name": "Finago (24SevenOffice)",
+    "vendor": "Finago",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "hogia",
+    "name": "Hogia",
+    "vendor": "Hogia",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "tripletex",
+    "name": "Tripletex",
+    "vendor": "Visma",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "fiken",
+    "name": "Fiken",
+    "vendor": "Fiken",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "poweroffice",
+    "name": "PowerOffice",
+    "vendor": "PowerOffice",
+    "target": "both",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "unimicro",
+    "name": "Unimicro",
+    "vendor": "Unimicro",
+    "target": "firm",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  },
+  {
+    "id": "zirius",
+    "name": "Zirius",
+    "vendor": "Zirius",
+    "target": "sme",
+    "url": null,
+    "marketplaceUrl": null,
+    "aliases": [],
+    "cased": false
+  }
+]

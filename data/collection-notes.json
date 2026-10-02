@@ -1,0 +1,38 @@
+{
+  "unreadableMarketplaces": [
+    {
+      "software": "Cegid (Loop / Quadra)",
+      "reason": "no public marketplace; the help article listing partners sits behind an anti-bot waiting page"
+    },
+    {
+      "software": "Inqom",
+      "reason": "marketplace is inside the application"
+    },
+    {
+      "software": "Fulll",
+      "reason": "partner store is inside the application"
+    },
+    {
+      "software": "Addison",
+      "reason": "wolterskluwer.com refuses automated reading"
+    },
+    {
+      "software": "Agenda",
+      "reason": "partner page names no partner"
+    },
+    {
+      "software": "WinBooks",
+      "reason": "no public partner directory"
+    },
+    {
+      "software": "Adsolut",
+      "reason": "wolterskluwer.com refuses automated reading"
+    }
+  ],
+  "excludedEditors": [
+    {
+      "id": "yokoy",
+      "reason": "yokoy.io now redirects to perk.com (Perk Spend); the former integrations page is gone, so the public list is not comparable."
+    }
+  ]
+}

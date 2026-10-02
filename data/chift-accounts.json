@@ -1,0 +1,246 @@
+{
+  "customers": [
+    {
+      "name": "Pennylane",
+      "domain": "pennylane.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-chift-helps-pennylane-achieve-their-vision-of-super-connectivity-with-unified-apis"
+    },
+    {
+      "name": "Qonto",
+      "domain": "qonto.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-qonto-scaled-accounting-integrations-across-europe-with-chift"
+    },
+    {
+      "name": "Skello",
+      "domain": "skello.io",
+      "sourceUrl": "https://www.chift.eu/case-studies/ultra-fast-scaling-of-pos-integrations-for-hris-solution-skello"
+    },
+    {
+      "name": "Pleo",
+      "domain": "pleo.io",
+      "sourceUrl": "https://www.chift.eu/case-studies/pleo-spend-management"
+    },
+    {
+      "name": "Sellsy",
+      "domain": "sellsy.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/sellsy-crm"
+    },
+    {
+      "name": "Agicap",
+      "domain": "agicap.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-agicap-boosts-cash-flow-management-and-preaccounting-with-chift"
+    },
+    {
+      "name": "Vertuoza",
+      "domain": "vertuoza.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-vertuoza-unlocked-accounting-automation-with-chifts-integrations"
+    },
+    {
+      "name": "Recovr",
+      "domain": "recovr.eu",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-recovr-uses-chifts-unified-apis-to-automate-debt-recovery-processes"
+    },
+    {
+      "name": "ProGBat",
+      "domain": "progbat.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-progbat-unlocked-accounting-automation-for-construction-management-software-with-chift"
+    },
+    {
+      "name": "Payplug",
+      "domain": "payplug.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/payplug-payment"
+    },
+    {
+      "name": "MyUnisoft",
+      "domain": "myunisoft.fr",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-myunisoft-expands-their-integrations-portfolio-with-chift"
+    },
+    {
+      "name": "Manerty",
+      "domain": "manerty.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-manerty-streamlines-property-management-by-automating-accounting-exports-with-chift"
+    },
+    {
+      "name": "Inqom",
+      "domain": "inqom.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-inqom-rapidly-scale-pos-ecommerce-payment-connectivity-with-chift"
+    },
+    {
+      "name": "Graneet",
+      "domain": "graneet.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-graneet-automates-accounting-workflows-thanks-to-chifts-unified-api"
+    },
+    {
+      "name": "GCollect",
+      "domain": "gcollect.fr",
+      "sourceUrl": "https://www.chift.eu/case-studies/gcollect-debt-recovery-integrations"
+    },
+    {
+      "name": "Defacto",
+      "domain": "getdefacto.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/defacto"
+    },
+    {
+      "name": "Booking Experts",
+      "domain": "bookingexperts.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/booking-experts-pms"
+    },
+    {
+      "name": "Axonaut",
+      "domain": "axonaut.com",
+      "sourceUrl": "https://www.chift.eu/case-studies/how-axonaut-used-chift-to-streamline-integrations-and-save-resources"
+    },
+    {
+      "name": "Revolut",
+      "domain": "revolut.com",
+      "sourceUrl": "https://www.chift.eu/blog/chift-raises-eu10-5m-in-a-series-a-round-led-by-blackfin-capital-partners"
+    },
+    {
+      "name": "Sage",
+      "domain": "sage.com",
+      "sourceUrl": "https://www.chift.eu/blog/sage-partners-with-chift-to-add-integrations-to-its-products-in-france"
+    },
+    {
+      "name": "Mollie",
+      "domain": "mollie.com",
+      "sourceUrl": "https://www.chift.eu/blog/chift-raises-eu10-5m-in-a-series-a-round-led-by-blackfin-capital-partners"
+    },
+    {
+      "name": "Wise",
+      "domain": "wise.com",
+      "sourceUrl": "https://www.chift.eu/blog/open-banking-vs-accounting-integrations-which-path-is-right-for-your-neobank-and-fintech"
+    },
+    {
+      "name": "iBanFirst",
+      "domain": "ibanfirst.com",
+      "sourceUrl": "https://www.chift.eu/blog/open-banking-vs-accounting-integrations-which-path-is-right-for-your-neobank-and-fintech"
+    },
+    {
+      "name": "Spendesk",
+      "domain": "spendesk.com",
+      "sourceUrl": "https://www.chift.eu/"
+    },
+    {
+      "name": "Tebi",
+      "domain": "tebi.com",
+      "sourceUrl": "https://www.chift.eu/"
+    },
+    {
+      "name": "Teamleader",
+      "domain": "teamleader.eu",
+      "sourceUrl": "https://www.lalibre.be/economie/entreprises-startup/2026/09/14/chift-qui-a-developpe-une-multiprise-des-logiciels-financiers-leve-plus-de-10-millions-deuros-pour-devenir-un-champion-europeen-YZH5NIJEEVBX3KCHYLCS2GJ3YM/"
+    },
+    {
+      "name": "Accountable",
+      "domain": "accountable.eu",
+      "sourceUrl": "https://www.lalibre.be/economie/entreprises-startup/2026/09/14/chift-qui-a-developpe-une-multiprise-des-logiciels-financiers-leve-plus-de-10-millions-deuros-pour-devenir-un-champion-europeen-YZH5NIJEEVBX3KCHYLCS2GJ3YM/"
+    },
+    {
+      "name": "Libeo",
+      "domain": "libeo.io",
+      "sourceUrl": "https://www.chift.eu/blog/sage-generation-experts-api-integration"
+    },
+    {
+      "name": "Dashdoc",
+      "domain": "dashdoc.com",
+      "sourceUrl": "https://www.chift.eu/blog/how-to-integrate-with-exact-online-api-in-2025"
+    },
+    {
+      "name": "LegalCity",
+      "domain": "legalcity.fr",
+      "sourceUrl": "https://www.chift.eu/blog/acd-api-integration-everything-you-need-to-know"
+    },
+    {
+      "name": "Rubypayeur",
+      "domain": "rubypayeur.com",
+      "sourceUrl": "https://www.chift.eu/blog/acd-api-integration-everything-you-need-to-know"
+    },
+    {
+      "name": "Regulo",
+      "domain": "regulo.io",
+      "sourceUrl": "https://www.chift.eu/blog/shopify-api-integration-a-complete-overview"
+    },
+    {
+      "name": "Cashlab",
+      "domain": "cashlab.fr",
+      "sourceUrl": "https://www.chift.eu/blog/how-cashlab-automatise-la-gestion-de-tresorerie-avec-lapi-unifiee-comptabilite-de-chift"
+    },
+    {
+      "name": "Smovin",
+      "domain": "smovin.app",
+      "sourceUrl": "https://www.chift.eu/blog/how-smovin-cut-the-time-spent-on-integrations-by-80"
+    },
+    {
+      "name": "Horus Software",
+      "domain": "horussoftware.be",
+      "sourceUrl": "https://www.chift.eu/blog/horus-software-and-odoo-are-now-connected-powered-by-chift"
+    },
+    {
+      "name": "amnis",
+      "domain": "amnistreasury.com",
+      "sourceUrl": "https://help.amnistreasury.com/en/articles/15956307-getting-started-with-accounting-integrations-via-chift"
+    },
+    {
+      "name": "Obat",
+      "domain": "obat.fr",
+      "sourceUrl": "https://aide.obat.fr/chift-transmettre-les-%C3%A9critures-comptables-de-factures"
+    },
+    {
+      "name": "Robaws",
+      "domain": "robaws.com",
+      "sourceUrl": "https://support.robaws.com/nl/article/product-updates-2026-mch86v/"
+    },
+    {
+      "name": "Innovorder",
+      "domain": "innovorder.com",
+      "sourceUrl": "https://www.innovorder.com/integrations"
+    },
+    {
+      "name": "Popina",
+      "domain": "popina.com",
+      "sourceUrl": "https://www.chift.eu/blog (Popina uses Chift Unified POS API)"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Merge",
+      "domain": "merge.dev",
+      "sourceUrl": "https://www.chift.eu/blog/best-unified-api-platforms"
+    },
+    {
+      "name": "Apideck",
+      "domain": "apideck.com",
+      "sourceUrl": "https://www.chift.eu/blog/best-unified-api-platforms"
+    },
+    {
+      "name": "Codat",
+      "domain": "codat.io",
+      "sourceUrl": "https://www.chift.eu/blog/best-unified-api-platforms"
+    },
+    {
+      "name": "Rutter",
+      "domain": "rutter.com",
+      "sourceUrl": null
+    },
+    {
+      "name": "Unified.to",
+      "domain": "unified.to",
+      "sourceUrl": "https://www.chift.eu/blog/best-unified-api-platforms"
+    },
+    {
+      "name": "Kombo",
+      "domain": "kombo.dev",
+      "sourceUrl": "https://www.chift.eu/blog/best-unified-api-platforms"
+    },
+    {
+      "name": "Maesn",
+      "domain": "maesn.com",
+      "sourceUrl": null
+    },
+    {
+      "name": "Nango",
+      "domain": "nango.dev",
+      "sourceUrl": null
+    }
+  ]
+}

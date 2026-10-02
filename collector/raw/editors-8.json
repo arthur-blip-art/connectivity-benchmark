@@ -1,0 +1,2370 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "yooz",
+   "name": "Yooz",
+   "domain": "getyooz.com",
+   "hq_country": "FR",
+   "integrations_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+   "pages_read": [
+    "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+    "https://www.getyooz.com/en-gb/erp",
+    "https://www.getyooz.com/es/erp",
+    "https://www.getyooz.com/erp",
+    "https://www.getyooz.com/erp-sitemap.xml",
+    "https://www.getyooz.com/fr/erp/sap",
+    "https://www.getyooz.com/fr/erp/cegid",
+    "https://www.getyooz.com/fr/erp/oracle-netsuite",
+    "https://www.getyooz.com/fr/erp/infor",
+    "https://www.getyooz.com/fr/erp/automatisation-comptabilite-sage",
+    "https://www.getyooz.com/fr/erp/automatisation-comptabilite-microsoft-dynamics",
+    "https://www.getyooz.com/en-gb/erp/quickbooks-online",
+    "https://www.getyooz.com/en-gb/erp/ap-automation-with-sage",
+    "https://www.getyooz.com/en-gb/erp/sage-intacct-ap-automation",
+    "https://www.getyooz.com/fr/blog/automatiser-factures-fulll",
+    "https://www.getyooz.com/fr/blog/automatisation-factures-sage-1000",
+    "https://help.getyooz.com/fr/collections/2050930-export-de-factures",
+    "https://help.getyooz.com/fr/articles/3595994-yooz-est-elle-compatible-avec-mon-logiciel-comptable",
+    "https://help.getyooz.com/fr/articles/3595968-comment-automatiser-les-echanges-de-donnees-entre-yooz-et-mon-systeme-d-information"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.getyooz.com/fr/integrations",
+     "reason": "HTTP 404 (no such page; list lives at /fr/logiciels-comptables-et-erp-connectes)"
+    },
+    {
+     "url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-A3ECO-SP.pdf",
+     "reason": "HTTP 404 on linked infographic (A3ASESOR Con / a3ECO)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://www.getyooz.com/fr/erp/sap",
+     "evidence": "Native integration via dedicated API, bidirectional flows",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP ECC / S4HANA",
+     "source_url": "https://www.getyooz.com/fr/erp/sap",
+     "evidence": "Native integration via dedicated API, bidirectional flows",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://www.getyooz.com/fr/erp/automatisation-comptabilite-microsoft-dynamics",
+     "evidence": "Yooz connector, automated data exchange; UK infographic says API integration",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Finance & Supply Chain Management",
+     "source_url": "https://www.getyooz.com/fr/erp/automatisation-comptabilite-microsoft-dynamics",
+     "evidence": "Yooz connector, automated exchange of entries and statuses",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.getyooz.com/fr/erp/cegid",
+     "evidence": "Yooz-Cegid integration relies on an API connector",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid XRP Ultimate",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Cegid-XRP-Ultimate-FR.pdf",
+     "evidence": "Interface API Yooz <> Cegid XRP Ultimate, native connector",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid XRP Sprint",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Cegid-XRP-Sprint-FR.pdf",
+     "evidence": "Interface API Yooz <> CEGID XRP Sprint",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Cegid-Loop.pdf",
+     "evidence": "API Cegid Loop, native Yooz connector",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Oracle NetSuite",
+     "source_url": "https://www.getyooz.com/fr/erp/oracle-netsuite",
+     "evidence": "Native integration, REST and SOAP API connectivity",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks Online",
+     "source_url": "https://www.getyooz.com/en-gb/erp/quickbooks-online",
+     "evidence": "API-based connectivity, bi-directional data flows",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks Desktop",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-QuickBooks-Desktop-UK.pdf",
+     "evidence": "Connector with QuickBooks Desktop, seamless integration",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Infor M3",
+     "source_url": "https://www.getyooz.com/fr/erp/infor",
+     "evidence": "Native integration via dedicated connector, bidirectional flows",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage X3",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-Sage-X3-by-Deveho-SP-1.pdf",
+     "evidence": "Conector API SOAP Yooz <> Sage X3 (by Deveho)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Intacct",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Sage-Intacct-FR.pdf",
+     "evidence": "Connecteur (API) Yooz - Sage Intacct",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Exact-Online-FR.pdf",
+     "evidence": "Native connector Yooz - Exact Online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Génération Expert Connect",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-SageGE-FR.pdf",
+     "evidence": "API Sage Génération Expert Connect, native connector",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Xero-FR.pdf",
+     "evidence": "Connecteur (API) Yooz - Xero",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Integration-EBP-v05.pdf",
+     "evidence": "Connecteur Yooz - EBP, API Yooz",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-MyUnisoft-FR-1.pdf",
+     "evidence": "Bidirectional connector, native MyUnisoft & Yooz integration",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-ACD.pdf",
+     "evidence": "Connecteur API Yooz - ACD Expert, native connector",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 1000",
+     "source_url": "https://www.getyooz.com/fr/blog/automatisation-factures-sage-1000",
+     "evidence": "Native integration, automatic sync of master data and entries",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Sage100-FR-1.pdf",
+     "evidence": "Native connector Yooz - Sage 100; US infographic: API integration",
+     "kind": "api",
+     "countries_stated": [
+      "FR",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://www.getyooz.com/fr/blog/automatiser-factures-fulll",
+     "evidence": "Native integration, interoperable via Fulll API",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Pennylane-FR.pdf",
+     "evidence": "Interface API Yooz <> Pennylane",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Inqom-FR.pdf",
+     "evidence": "Connecteur API - Yooz / Inqom",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Talentia",
+     "source_url": "https://www.getyooz.com/fr/blog/automatiser-les-factures-dans-talentia",
+     "evidence": "Native connector for synchronisation",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "JD Edwards",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-JD-Edwards-FR.pdf",
+     "evidence": "Connecteur Yooz - JD Edwards, automated integration",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Everwin SX",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Everwin-SX-FR.pdf",
+     "evidence": "Interface API Yooz - Everwin SX",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EIG",
+     "source_url": "https://www.getyooz.com/fr/blog/automatiser-comptabilite-eig",
+     "evidence": "Native Yooz / EIG integration, real-time entry sync",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Divalto",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Divalto-FR-version-API.pdf",
+     "evidence": "Interface API Rest Yooz <> Divalto",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cogilog",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Cogilog-FR.pdf",
+     "evidence": "Connecteur Yooz - Cogilog, native connector",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cador",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Cador-FR.pdf",
+     "evidence": "Connecteur Yooz - Cador, native integration",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Bexio",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Bexio-FR-1.pdf",
+     "evidence": "Intégration API - Yooz <> Bexio",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Abacus",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Abacus-FR-1.pdf",
+     "evidence": "Connecteur API SOAP Yooz - Abacus",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics AX",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-MS-Dynamics-AX-FR.pdf",
+     "evidence": "Connecteur Yooz - Microsoft Dynamics AX, native connector",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics GP",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-MS-Dynamics-GP-US-1.pdf",
+     "evidence": "Native integration Yooz - Microsoft Dynamics GP",
+     "kind": "api",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-Sage-50-UK.pdf",
+     "evidence": "Connector with Sage 50 (UK); native connector Sage 50 Contaplus (ES)",
+     "kind": "api",
+     "countries_stated": [
+      "GB",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Sage 200 Standard",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-Sage-200-Standard-UK.pdf",
+     "evidence": "Connector with Sage 200 Standard",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Sage 200 Cloud",
+     "source_url": "https://www.getyooz.com/en-gb/erp/ap-automation-with-sage",
+     "evidence": "For Sage 200 Cloud (via Zynk), connector-based exchange",
+     "kind": "via_partner",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Sage 200",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-Sage-200-SP-1.pdf",
+     "evidence": "Conector Yooz <> Sage 200, native connector",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Sage Despachos",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-Sage-Despachos-SP-v07.pdf",
+     "evidence": "Conector Yooz - Sage Despachos, native connector",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "CONTASOL",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-Contasol-SP.pdf",
+     "evidence": "Conector nativo Yooz - CONTASOL, API Yooz",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "A3ASESOR",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-A3ASESOR-SP.pdf",
+     "evidence": "Conector Yooz - A3ASESOR, automated integration",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Acumatica",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-Acumatica-UK.pdf",
+     "evidence": "Yooz - Acumatica API integration, native",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Epicor",
+     "source_url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-Epicor-US.pdf",
+     "evidence": "Yooz - Epicor API integration",
+     "kind": "api",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "ComptaFirst (Groupe Cegi)",
+     "source_url": "https://www.getyooz.com/fr/blog/automatisation-factures-comptafirst",
+     "evidence": "Blog on automating invoices in ComptaFirst; mechanism not stated",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Unit4",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Isagri",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Yourcegid Solutions",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Yardi",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Wolters Kluwer",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "WinBiz",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Espace Affaires SQI",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sopra Steria",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Solune",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Batigest",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MEG",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Qualiac",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Prios",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "OSLO",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Oracle",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "NVP",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Numm",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics SL",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "LDSystems",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Jonas",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "SRCI",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegar",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Iris Solutions",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inex Web",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tyler Technologies",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Solinf",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "GFI",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Gestelia",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Generix",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Totalinfo",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "BPI group",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Estia",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Expertix",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Deltek",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Crésus",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Informadis",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Ciril",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Ciel",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "CDK",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Berger Levrault",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Baan",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Alio",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Akuiteo",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agresso",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sigma",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Abas",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR",
+      "GB",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Vista",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "TOPS",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Traverse",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Stone River Sapiens",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "wIntegrate",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Quicken",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Plex",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics NAV",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Mark Systems",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Lawson",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Incode",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "FIS",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "FinancialForce",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "CYMA",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Caselle",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "CargoWise",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Blackbaud",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Autoline",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Apprise",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "American HealthTech",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Abila MIP",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Advent Resources",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "AccuFund",
+     "source_url": "https://www.getyooz.com/en-gb/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB",
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Suasor",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Summar",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Reynolds and Reynolds",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "PBS",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Karmak",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Factusol",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Delsol",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Dealertrack",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "A3ASESOR Con",
+     "source_url": "https://www.getyooz.com/es/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Tekion",
+     "source_url": "https://www.getyooz.com/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Financial Edge",
+     "source_url": "https://www.getyooz.com/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Sage 300",
+     "source_url": "https://www.getyooz.com/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "WinTeam",
+     "source_url": "https://www.getyooz.com/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Macola",
+     "source_url": "https://www.getyooz.com/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Auto/Mate",
+     "source_url": "https://www.getyooz.com/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Sage 300 CRE",
+     "source_url": "https://www.getyooz.com/erp",
+     "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed",
+     "kind": "unknown",
+     "countries_stated": [
+      "US"
+     ]
+    }
+   ],
+   "notes": "ERP list pages are logo grids (names taken from logo alt text/filenames, cleaned). Mechanism only stated on dedicated pages/infographic PDFs; logo-only entries kept as unknown although Yooz claims 250+ native connectors (help center: exchanges via Yooz agent, SFTP or API). countries_stated = locale page(s) where shown (FR, GB, ES, US). Not found: DATEV, Lexware Office, sevdesk, Holded, Sage BOB 50, WinBooks, Octopus, Yuki, Twinfield, Italian packages, Sage Business Cloud Accounting, FreeAgent, KashFlow, Indy, Cegid Quadra/Expert by product name (only 'Quadratus' logo). No DE/NL/IT site versions. Non-accounting logos (Kyriba, Agicap, MyCompanyFiles, Novaxel, Coupa, Checkbook, Welyb) skipped."
+  },
+  {
+   "id": "chaintrust",
+   "name": "Chaintrust",
+   "domain": "chaintrust.io",
+   "hq_country": "FR",
+   "integrations_url": "https://www.chaintrust.io/integrations/",
+   "pages_read": [
+    "https://www.chaintrust.io/integrations/",
+    "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+    "https://www.chaintrust.io/integrations/acd/",
+    "https://www.chaintrust.io/integrations/myunisoft/",
+    "https://www.chaintrust.io/integrations/inqom/",
+    "https://www.chaintrust.io/integrations/ebp/",
+    "https://www.chaintrust.io/integrations/Tiime/",
+    "https://www.chaintrust.io/integrations/evoliz/",
+    "https://www.chaintrust.io/plateforme-agreee-chaintrust/",
+    "https://www.chaintrust.io/saisie-comptable/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://aide.chaintrust.io/hc/fr/categories/9070906091421-Je-suis-expert-comptable",
+     "reason": "HTTP 403 (help center blocks automated access); API and import guides not read"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "ACD",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Listed under software currently connected via API",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Listed under software currently connected via API",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Listed under software currently connected via API",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Listed under software currently connected via API",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Listed under software currently connected via API",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Listed under software currently connected via API",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid – Quadra",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "New API connection now available",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Teogest",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Netexcom",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "IsaCompta",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Coala",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Manual import file; attachments not transferred",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Manual import file; attachments not transferred",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Loop",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid 11",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+     "evidence": "Compatible via manual import of entries file",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "evoliz",
+     "source_url": "https://www.chaintrust.io/integrations/",
+     "evidence": "Listed as partner under Production comptable; mechanism not stated",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ],
+   "notes": "Source is Chaintrust's own blog article listing API vs manual-import software. MyUnisoft appears in both lists (kept as api). 'Loop' and 'Cegid' written without full product name. Site also claims compatibility with 100% of accounting software via export formats. Help center (aide.chaintrust.io) unreadable, so per-software API guides not verified. French market only; no DE/BE/NL/ES/UK/IT software found."
+  },
+  {
+   "id": "billit",
+   "name": "Billit",
+   "domain": "billit.eu",
+   "hq_country": "BE",
+   "integrations_url": "https://www.billit.eu/en-int/link-with-billit/",
+   "pages_read": [
+    "https://www.billit.eu/en-int/link-with-billit/",
+    "https://www.billit.eu/en-int/link-with-billit/possibilities-by-accounting-software/",
+    "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+    "https://www.billit.eu/nl-nl/koppelen-met-billit/mogelijkheden-per-boekhoudsoftware/",
+    "https://www.billit.eu/fr-be/integrez-billit/possibilites-par-logiciel-comptable/",
+    "https://www.billit.eu/fr-fr/integrez-billit/possibilites-par-logiciel-comptable/",
+    "https://www.billit.eu/de-de/mit-billit-verknuepfen/moeglichkeiten-pro-buchhaltungssoftware/",
+    "https://www.billit.eu/nl-be/koppelen-met-billit/",
+    "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/sage-bob/",
+    "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/datev/",
+    "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/exact-proacc/",
+    "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/twinfield/",
+    "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/clearfacts/",
+    "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/yuki/",
+    "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/adsolut/",
+    "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/microsoft-business-central/"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Accowin",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Accowin Online",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type FTP/SFTP: UBL export to server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Adfinity",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type: manual import of UBL files",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Admisol",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Adsolut",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Adsolut (cloud-versie)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type FTP/SFTP: UBL export to server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "BoCount Dynamics",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Briljant",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "B-Wise (Conxion)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Clearfacts",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billapi (API link), bi-directional",
+     "kind": "api",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Expert/M Plus",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server, bi-directional",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Expert/M Plus (cloud-versie)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type FTP/SFTP: UBL export to server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Horus",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billapi (API link), bi-directional",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Illicosoft",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "INAC",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "LEXAct (Acta-B)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Business Central",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billapi; Billit app in Business Central app store",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Octopus",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billapi (API link), bi-directional",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Office M (IntraDev)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Popsy (Allegro)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "ROX-E.Net",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Billsync UBL file sync; help article names Sage BOB",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "SBBslim",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Silvasoft",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Sobec",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Top Account",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Venice - lokaal geïnstalleerd",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Venice Cloud",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billapi (API link), bi-directional",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "VERO Count",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Visual Books",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "WinAuditor",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Winbooks",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Winbooks Connect - On Web",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Wings (lokale installatie)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billsync: UBL files synced via own server",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Wings (cloud-versie of met webservice-module)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billapi (API link), bi-directional",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billapi (API link), bi-directional",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Zensoft (Trustteam)",
+     "source_url": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+     "evidence": "Link type Billapi (API link), bi-directional",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Intec",
+     "source_url": "https://www.billit.eu/fr-be/integrez-billit/possibilites-par-logiciel-comptable/",
+     "evidence": "Link type API (fr-be table)",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "E-boekhouden",
+     "source_url": "https://www.billit.eu/nl-nl/koppelen-met-billit/mogelijkheden-per-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Moneybird",
+     "source_url": "https://www.billit.eu/nl-nl/koppelen-met-billit/mogelijkheden-per-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Snelstart",
+     "source_url": "https://www.billit.eu/nl-nl/koppelen-met-billit/mogelijkheden-per-boekhoudsoftware/",
+     "evidence": "Link type Billmail: UBL invoices via software mailbox",
+     "kind": "file_export",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/datev/",
+     "evidence": "Documents automatically uploaded to DATEV via integration",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact ProAcc",
+     "source_url": "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/exact-proacc/",
+     "evidence": "Third-party link provided by Exact partner Integreat",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://www.billit.eu/en-int/link-with-billit/",
+     "evidence": "Sync invoices to send via Peppol; integration via partner Sym3",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Finance and Operations",
+     "source_url": "https://www.billit.eu/en-int/link-with-billit/",
+     "evidence": "Sync invoices for Peppol; integration via partner DevElite",
+     "kind": "via_partner",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Per-software table exists on nl-be, fr-be and nl-nl pages only; en-int, fr-fr, de-de and LU pages describe generic methods (Billsync, Billmail, FTP/SFTP) without software names. Billapi rows = api; Billsync/Billmail/FTP/manual = UBL file transfer, classed file_export. Microsoft Business Central is also listed 'via Scapta' on the link page for Peppol sending. SAP Business One and Dynamics F&O links are for sending invoices via Peppol, not accounting export. Not found: Odoo, Pennylane, Cegid, Lexware Office, sevdesk, Xero, QuickBooks, Holded, AFAS, Visma eAccounting, Minox, Italian packages."
+  },
+  {
+   "id": "teamleader",
+   "name": "Teamleader",
+   "domain": "teamleader.eu",
+   "hq_country": "BE",
+   "integrations_url": "https://marketplace.teamleader.eu/be/en/",
+   "pages_read": [
+    "https://marketplace.teamleader.eu/be/en/",
+    "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+    "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+    "https://marketplace.teamleader.eu/de/en/category/bookkeeping",
+    "https://marketplace.teamleader.eu/fr/en/category/bookkeeping",
+    "https://marketplace.teamleader.eu/es/en/category/bookkeeping",
+    "https://marketplace.teamleader.eu/it/en/category/bookkeeping",
+    "https://marketplace.teamleader.eu/api/integrations/category/bookkeeping",
+    "https://www.teamleader.eu/solutions/accounting-connector",
+    "https://www.teamleader.eu/solutions/integrations",
+    "https://www.teamleader.eu/fr/solutions/integrations",
+    "https://www.teamleader.eu/fr-be/solutions/integrations",
+    "https://www.teamleader.eu/nl/oplossingen/integraties",
+    "https://www.teamleader.eu/nl-be/oplossingen/integraties",
+    "https://www.teamleader.eu/es/soluciones/integraciones",
+    "https://www.teamleader.eu/it/soluzioni/integrazioni"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "reason": "HTTP 403 Cloudflare bot check; per-country bookkeeping list (incl. file exports such as Winbooks, BOB) not read"
+    },
+    {
+     "url": "https://support.focus.teamleader.eu/hc/articles/42086681298577",
+     "reason": "HTTP 403 Cloudflare bot check"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.teamleader.eu/solutions/accounting-connector",
+     "evidence": "Accounting Connector: automatic two-way sync",
+     "kind": "api",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://www.teamleader.eu/solutions/accounting-connector",
+     "evidence": "Accounting Connector: automatic two-way sync",
+     "kind": "api",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Octopus",
+     "source_url": "https://www.teamleader.eu/solutions/accounting-connector",
+     "evidence": "Accounting Connector: automatic two-way sync",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+     "evidence": "Marketplace app by Teamleader: adds outgoing invoices automatically",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://marketplace.teamleader.eu/fr/en/category/bookkeeping",
+     "evidence": "Marketplace app by Billy (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "DATEV mit digitastic",
+     "source_url": "https://marketplace.teamleader.eu/de/en/category/bookkeeping",
+     "evidence": "Marketplace app by digitastic; data in DATEV format",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Fatture In Cloud - V2",
+     "source_url": "https://marketplace.teamleader.eu/it/en/category/bookkeeping",
+     "evidence": "Marketplace app by Websuvius (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Sage 50cloud",
+     "source_url": "https://marketplace.teamleader.eu/es/en/category/bookkeeping",
+     "evidence": "Marketplace app by AlcaTic (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Accountview",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by APIcenter: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Asperion",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by APIcenter: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Business Central Dynamics",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by APIcenter: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Exact Globe",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by APIcenter: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Jortt",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by APIcenter: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "AFAS",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by APIcenter: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Visma.net",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by APIcenter: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Visma eAccounting",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Combidesk: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Minox",
+     "source_url": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+     "evidence": "Marketplace app by Combidesk: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Bjorn Lunden",
+     "source_url": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+     "evidence": "Marketplace app by Combidesk: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Informer",
+     "source_url": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+     "evidence": "Marketplace app by Combidesk: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "e-Boekhouden.nl",
+     "source_url": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+     "evidence": "Marketplace app by Combidesk: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Reeleezee",
+     "source_url": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+     "evidence": "Marketplace app by Combidesk: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Moneybird",
+     "source_url": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+     "evidence": "Marketplace app by Combidesk: synchronize invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "SnelStart",
+     "source_url": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+     "evidence": "Marketplace apps by SforSoftware and by Combidesk",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "BOB50",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Billit: collaborate with BOB50 accountant",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL",
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Adsolut",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Billit",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL",
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ROX-E.NET",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Billit",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Venice",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Billit",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Wings",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Billit",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "topACCOUNT",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Billit",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Vero Count",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Billit",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "ClearFacts",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by ClearFacts: send invoices to accountant",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Cloud Demat",
+     "source_url": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+     "evidence": "Marketplace app by Clearfacts: invoices via (Sage) Cloud Demat",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Sage Business Cloud",
+     "source_url": "https://www.teamleader.eu/solutions/integrations",
+     "evidence": "Named under Connect your accounting software; mechanism not stated",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Horus",
+     "source_url": "https://www.teamleader.eu/fr/solutions/integrations",
+     "evidence": "Named in accounting software list; mechanism not stated",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.teamleader.eu/solutions/integrations",
+     "evidence": "Named in Teamleader Orbit connected tools list",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.teamleader.eu/solutions/integrations",
+     "evidence": "Named in Teamleader Orbit connected tools list",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quickbooks",
+     "source_url": "https://www.teamleader.eu/solutions/integrations",
+     "evidence": "Named in Teamleader Orbit connected tools list",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quadra",
+     "source_url": "https://www.teamleader.eu/fr/solutions/integrations",
+     "evidence": "Named in Teamleader Orbit tools list (FR page)",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cégid",
+     "source_url": "https://www.teamleader.eu/fr/solutions/integrations",
+     "evidence": "Named in Teamleader Orbit tools list (FR page)",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ],
+   "notes": "Marketplace is a JS app, rendered in a browser; listing is filtered per country (BE, NL, DE, FR, ES, IT checked), countries_stated = country views where the app appears. Apps authored by Teamleader = api; third-party authors (APIcenter, Combidesk, Billit, Billy, digitastic...) = via_partner. Native Accounting Connector covers Exact Online, Yuki, Octopus only. Help-center article listing export-only bookkeeping integrations per country is blocked (403), so file exports (e.g. WinBooks) are NOT captured. Popsy, Briljant Account, Expert/M Plus, Visma e-conomic appear in the marketplace data but not in the six country views checked; left out. Xero/Sage/Quickbooks/Quadra/Cégid are named for Teamleader Orbit (agency product), mechanism not stated. Not found: Odoo, Lexware Office, sevdesk, Holded, NetSuite, SAP."
+  },
+  {
+   "id": "zervant",
+   "name": "Zervant",
+   "domain": "zervant.com",
+   "hq_country": "FI",
+   "integrations_url": "https://www.ageras.com/us/support/category/faq",
+   "pages_read": [
+    "https://www.zervant.com/en/",
+    "https://www.zervant.com/en/pricing/",
+    "https://www.zervant.com/en/free-invoicing-software/",
+    "https://www.zervant.com/de/",
+    "https://www.zervant.com/fr/",
+    "https://www.zervant.com/fi/",
+    "https://www.zervant.com/nl/",
+    "https://www.zervant.com/sv/",
+    "https://www.ageras.com/us/support",
+    "https://www.ageras.com/us/support/category/faq",
+    "https://www.ageras.com/us/support/category/accounting"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.ageras.com/us/support/360055443532-FAQ",
+     "reason": "HTTP 502 server error (redirect target of support.zervant.com FAQ)"
+    }
+   ],
+   "connections": [],
+   "notes": "No public accounting integration. Help center FAQ (now hosted on ageras.com): 'Zervant does not currently integrate with other software' and no DATEV-format export. Only generic export of sales/invoice reports to the accountant in Excel or PDF. zervant.com/en/integrations/ redirects to the homepage. Zervant is part of Ageras."
+  }
+ ]
+}

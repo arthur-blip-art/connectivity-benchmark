@@ -1,0 +1,648 @@
+{
+ "collected_at": "2026-10-01",
+ "marketplaces": [
+  {
+   "software": "Pennylane",
+   "country": "FR",
+   "marketplace_url": "https://www.pennylane.com/fr/integrations",
+   "readable": true,
+   "reason": "",
+   "method": "Full list read from server-rendered HTML (297 integration slugs), then listing pages opened.",
+   "editors_listed": [
+    {
+     "editor": "Spendesk",
+     "listing_url": "https://www.pennylane.com/fr/integrations/spendesk",
+     "evidence": "Integration card and page titled 'Spendesk x Pennylane'"
+    },
+    {
+     "editor": "Payhawk",
+     "listing_url": "https://www.pennylane.com/fr/integrations/payhawk",
+     "evidence": "Integration card and page titled 'Payhawk x Pennylane'"
+    }
+   ],
+   "editors_not_listed": [
+    "Pleo",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Cegid (Loop / Quadra)",
+   "country": "FR",
+   "marketplace_url": "https://aide.loopsoftware.fr/hc/fr/articles/14634458912530-Ensemble-des-partenaires-de-Cegid-Loop",
+   "readable": true,
+   "reason": "No public Cegid marketplace found (cegid.com/fr/marketplace is 404; Loop Hub catalogue is in-app). Only the Cegid Loop partner list (help-center article, updated ~1 year ago) is public. Nothing public found for Quadra.",
+   "method": "Web search + cegid.com partner pages; full read of the Cegid Loop help article. Note: curl got a Cloudflare interstitial on this URL; page loaded in a standard browser session with no interaction. Scope = Cegid Loop only.",
+   "editors_listed": [
+    {
+     "editor": "Pleo",
+     "listing_url": "https://aide.loopsoftware.fr/hc/fr/articles/14634458912530-Ensemble-des-partenaires-de-Cegid-Loop",
+     "evidence": "Only entry under 'NOTES DE FRAIS' in Cegid Loop partner list"
+    }
+   ],
+   "editors_not_listed": [
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Sage France",
+   "country": "FR",
+   "marketplace_url": "https://fr-marketplace.sage.com/fr-FR/listing",
+   "readable": true,
+   "reason": "",
+   "method": "Full listing paged through (5 pages, 52 apps), then app page opened.",
+   "editors_listed": [
+    {
+     "editor": "N2F",
+     "listing_url": "https://fr-marketplace.sage.com/fr-FR/apps/119362/n2f-%E2%80%93-notes-de-frais",
+     "evidence": "App page 'N2F – Notes de frais | SAGE FR'"
+    }
+   ],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "ACD",
+   "country": "FR",
+   "marketplace_url": "https://www.acd-groupe.fr/partenaires/",
+   "readable": true,
+   "reason": "",
+   "method": "Full partners page read (static HTML). Pleo and Spendesk cards link to the editors' own sites, no dedicated ACD page.",
+   "editors_listed": [
+    {
+     "editor": "Pleo",
+     "listing_url": "https://www.acd-groupe.fr/partenaires/#interfaces-technologiques",
+     "evidence": "Card 'PLEO - Solution de gestion des dépenses professionnelles'"
+    },
+    {
+     "editor": "Spendesk",
+     "listing_url": "https://www.acd-groupe.fr/partenaires/#interfaces-technologiques",
+     "evidence": "Card 'SPENDESK - Solution de gestion des dépenses professionnelles'"
+    }
+   ],
+   "editors_not_listed": [
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "MyUnisoft",
+   "country": "FR",
+   "marketplace_url": "https://myu.fr/editeurs-partenaires/",
+   "readable": true,
+   "reason": "",
+   "method": "Full partner directory paged through (?pagination=1..14, 157 partners), then partner pages opened. myunisoft.fr redirects to myu.fr.",
+   "editors_listed": [
+    {
+     "editor": "N2F",
+     "listing_url": "https://myu.fr/editeurs-partenaires/n2f/",
+     "evidence": "Page 'Partenaire N2F : notes de frais, banque et paie/RH'"
+    },
+    {
+     "editor": "Pleo",
+     "listing_url": "https://myu.fr/editeurs-partenaires/leo-gestion-depenses/",
+     "evidence": "Page 'Partenaire Pleo : banque, OCR et notes de frais'"
+    }
+   ],
+   "editors_not_listed": [
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "EBP",
+   "country": "FR",
+   "marketplace_url": "https://www.ebp.com/applications-editeurs-partenaires-ebp/",
+   "readable": true,
+   "reason": "",
+   "method": "JS-paginated partner list paged through in browser (11 pages, 97 partners), then partner pages opened. 'Sipleo' entry is unrelated to Pleo.",
+   "editors_listed": [
+    {
+     "editor": "Mooncard",
+     "listing_url": "https://www.ebp.com/applications-editeurs-partenaires-ebp/mooncard/",
+     "evidence": "Page 'MOONCARD Editeur partenaire EBP'"
+    },
+    {
+     "editor": "N2F",
+     "listing_url": "https://www.ebp.com/applications-editeurs-partenaires-ebp/n2f/",
+     "evidence": "Page 'N2F Editeur partenaire EBP'"
+    }
+   ],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Inqom",
+   "country": "FR",
+   "marketplace_url": "https://www.inqom.com/expert/",
+   "readable": false,
+   "reason": "No public marketplace page. inqom.com mentions a Marketplace with 60+ integrations but publishes no list (in-app, login required).",
+   "method": "Site pages read (home, /expert/, /gestion/, /pme/) + web search. None of the 12 editors named on those pages.",
+   "editors_listed": [],
+   "editors_not_listed": []
+  },
+  {
+   "software": "Fulll",
+   "country": "FR",
+   "marketplace_url": "https://www.fulll.fr/connectivite",
+   "readable": false,
+   "reason": "Partner store is in-app only (login required). Public connectivity page names no partner.",
+   "method": "Public page read in full; site links checked for a store/partner directory.",
+   "editors_listed": [],
+   "editors_not_listed": []
+  },
+  {
+   "software": "Tiime",
+   "country": "FR",
+   "marketplace_url": "https://www.tiime.fr/partenaires",
+   "readable": true,
+   "reason": "",
+   "method": "Full partners page read (22 partners) + sitemap.xml partner slugs. No /integrations page (404).",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "DATEV",
+   "country": "DE",
+   "marketplace_url": "https://www.datev.de/web/de/marktplatz/",
+   "readable": true,
+   "reason": "",
+   "method": "Marketplace internal search run for each of the 12 names in browser (237 solutions indexed), then listing pages opened.",
+   "editors_listed": [
+    {
+     "editor": "Pleo",
+     "listing_url": "https://www.datev.de/web/de/marktplatz/pleo",
+     "evidence": "Listing 'Pleo', Pleo Technologies GmbH, 57 reviews"
+    },
+    {
+     "editor": "Spendesk",
+     "listing_url": "https://www.datev.de/web/de/marktplatz/spendesk",
+     "evidence": "Listing 'Spendesk', Spendesk GmbH, Ausgabenmanagement"
+    },
+    {
+     "editor": "Payhawk",
+     "listing_url": "https://www.datev.de/web/de/marktplatz/payhawk",
+     "evidence": "Listing 'Payhawk', Payhawk GmbH"
+    },
+    {
+     "editor": "Moss",
+     "listing_url": "https://www.datev.de/web/de/marktplatz/moss",
+     "evidence": "Listing 'Moss', Nufin GmbH"
+    },
+    {
+     "editor": "Pliant",
+     "listing_url": "https://www.datev.de/web/de/marktplatz/pliant",
+     "evidence": "Listing 'Pliant', Pliant GmbH, Kreditkarten-Lösung"
+    },
+    {
+     "editor": "Circula",
+     "listing_url": "https://www.datev.de/web/de/marktplatz/circula",
+     "evidence": "Listing 'Circula', Circula GmbH, Premium Partner"
+    },
+    {
+     "editor": "Yokoy",
+     "listing_url": "https://www.datev.de/web/de/marktplatz/perk-reise-und-ausgabenmanagement",
+     "evidence": "Listed as Perk; text says merger of TravelPerk and Yokoy"
+    },
+    {
+     "editor": "N2F",
+     "listing_url": "https://www.datev.de/web/de/marktplatz/datev-schnittstellen-anbieter",
+     "evidence": "No app page; named 'N2F von N2JSOFT' in interface-provider overview"
+    }
+   ],
+   "editors_not_listed": [
+    "Rydoo",
+    "Mooncard",
+    "Expensya",
+    "Jenji"
+   ]
+  },
+  {
+   "software": "Lexware Office",
+   "country": "DE",
+   "marketplace_url": "https://www.lexware.de/partner/",
+   "readable": true,
+   "reason": "",
+   "method": "Full partner overview loaded in browser ('show more' until end, ~155 partners), then partner pages opened. office.lexware.de/erweiterungen is 404.",
+   "editors_listed": [
+    {
+     "editor": "Pleo",
+     "listing_url": "https://www.lexware.de/partner/pleo/",
+     "evidence": "Page 'Pleo & Lexware Office: alle Geschäftsausgaben im Blick'"
+    },
+    {
+     "editor": "Pliant",
+     "listing_url": "https://www.lexware.de/partner/pliant/",
+     "evidence": "Page 'Pliant & Lexware Office: Kreditkartenausgaben verbuchen'"
+    }
+   ],
+   "editors_not_listed": [
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "sevdesk",
+   "country": "DE",
+   "marketplace_url": "https://sevdesk.de/integrationen/",
+   "readable": true,
+   "reason": "",
+   "method": "Full integrations page read (static HTML, all tiles), text searched for the 12 names.",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Addison",
+   "country": "DE",
+   "marketplace_url": "https://www.wolterskluwer.com/de-de/solutions/addison-komplettloesung-steuerberater/addison-oneclick/schnittstellen-partner",
+   "readable": true,
+   "reason": "",
+   "method": "Full ADDISON Direkt interface overview read in browser, then partner pages opened. Note: curl got HTTP 403 on wolterskluwer.com; page loaded in a standard browser session with no interaction.",
+   "editors_listed": [
+    {
+     "editor": "Pleo",
+     "listing_url": "https://www.wolterskluwer.com/de-de/solutions/addison-komplettloesung-steuerberater/addison-oneclick/schnittstellen-partner/pleo",
+     "evidence": "Page 'Pleo - ADDISON Direkt Schnittstelle'"
+    },
+    {
+     "editor": "Moss",
+     "listing_url": "https://www.wolterskluwer.com/de-de/solutions/addison-komplettloesung-steuerberater/addison-oneclick/schnittstellen-partner/moss",
+     "evidence": "Page 'Moss | Nufin GmbH: ADDISON Direkt Schnittstellenpartner'"
+    },
+    {
+     "editor": "Circula",
+     "listing_url": "https://www.wolterskluwer.com/de-de/solutions/addison-komplettloesung-steuerberater/addison-oneclick/schnittstellen-partner/circula",
+     "evidence": "Page 'ADDISON Direkt Circula'"
+    }
+   ],
+   "editors_not_listed": [
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Pliant",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Agenda",
+   "country": "DE",
+   "marketplace_url": "https://www.agenda-software.de/ueber-agenda/partner.php",
+   "readable": false,
+   "reason": "No public marketplace or partner list: the partner page is generic text and names no partner.",
+   "method": "Partner page read (curl + browser) and site links checked; web search found no integration directory.",
+   "editors_listed": [],
+   "editors_not_listed": []
+  },
+  {
+   "software": "Scopevisio",
+   "country": "DE",
+   "marketplace_url": "https://www.scopevisio.com/partner/",
+   "readable": true,
+   "reason": "",
+   "method": "Partner page read in full; its 'Scopevisio Marketplace' section lists about 12 add-ons (Lucanet, HubSpot, DATEV, invoicefetcher, finAPI...). No separate marketplace site found.",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "BuchhaltungsButler",
+   "country": "DE",
+   "marketplace_url": "https://www.buchhaltungsbutler.de/integrationen/",
+   "readable": true,
+   "reason": "",
+   "method": "Full integrations page read (static HTML, 16 integration pages), then listing page opened. /schnittstellen/ is 404.",
+   "editors_listed": [
+    {
+     "editor": "Pliant",
+     "listing_url": "https://www.buchhaltungsbutler.de/integrationen/pliant/",
+     "evidence": "Page 'Pliant: Digitales Kartenmanagement | BuchhaltungsButler'"
+    }
+   ],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Exact Online",
+   "country": "BE",
+   "marketplace_url": "https://www.exact.com/benl/app-store",
+   "readable": true,
+   "reason": "",
+   "method": "apps.exactonline.com/be redirects to exact.com/benl/app-store. Full app list read from JSON embedded in the page (112 apps NL, 113 FR), then app pages opened.",
+   "editors_listed": [
+    {
+     "editor": "Rydoo",
+     "listing_url": "https://www.exact.com/benl/app-store/rydoo-rydoo",
+     "evidence": "App page 'Rydoo - Exact Online App Store', category Declaraties"
+    },
+    {
+     "editor": "Payhawk",
+     "listing_url": "https://www.exact.com/benl/app-store/payhawk-payhawk-ltd",
+     "evidence": "App page 'Payhawk - Exact Online App Store', Payhawk Ltd."
+    }
+   ],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Octopus",
+   "country": "BE",
+   "marketplace_url": "https://www.octopus.be/nl/boekhoudsoftware-integraties/",
+   "readable": true,
+   "reason": "",
+   "method": "Full integrations page read (static HTML, 68 integrations A-Z). /koppelingen is 404.",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "WinBooks",
+   "country": "BE",
+   "marketplace_url": "https://www.exact.com/befr/software/exact-winbooks",
+   "readable": false,
+   "reason": "No public WinBooks Connect partner or integration directory found. winbooks.be redirects to the Exact WinBooks product page, which lists no third-party apps.",
+   "method": "winbooks.be and Exact WinBooks pages read (home, /digitalisation) + web search.",
+   "editors_listed": [],
+   "editors_not_listed": []
+  },
+  {
+   "software": "Yuki",
+   "country": "BE",
+   "marketplace_url": "https://www.yukisoftware.com/be-nl/integraties/",
+   "readable": true,
+   "reason": "",
+   "method": "yuki.be redirects to yukisoftware.com/be-nl. Client-rendered list paged through in browser (?page=0..11, about 135 integrations).",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Sage BOB",
+   "country": "BE",
+   "marketplace_url": "https://fr-marketplace.sage.com/fr-FR/listing?attr=5383",
+   "readable": true,
+   "reason": "",
+   "method": "Sage marketplace filtered on 'Belgique' (1 app: Leanpay). No dedicated Sage BOB marketplace found; sage.com/fr-be returned HTTP 403 (Cloudflare) and was not read.",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Horus",
+   "country": "BE",
+   "marketplace_url": "https://marketplace.horussoftware.be/fr/toutes-les-liaisons",
+   "readable": true,
+   "reason": "",
+   "method": "Full 'Toutes les liaisons' list read in browser (JS-rendered, 69 integrations).",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Odoo",
+   "country": "BE",
+   "marketplace_url": "https://apps.odoo.com/apps/modules/browse",
+   "readable": true,
+   "reason": "",
+   "method": "Store search run for each of the 12 names (apps.odoo.com/apps/modules/browse?search=...). Full catalogue not read. Pliant (202 hits) and Circula (45 hits) are substring matches only (compliant, circular); all result pages checked, no exact match. Pleo and Moss: 1 unrelated hit each.",
+   "editors_listed": [
+    {
+     "editor": "Mooncard",
+     "listing_url": "https://apps.odoo.com/apps/modules/10.0/mooncard_base",
+     "evidence": "Third-party module 'Mooncard Base' by Akretion, Odoo 8.0/10.0 only"
+    }
+   ],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "Adsolut",
+   "country": "BE",
+   "marketplace_url": "https://www.wolterskluwer.com/nl-be/solutions/adsolut/integrations",
+   "readable": true,
+   "reason": "",
+   "method": "Integrations page read in full in browser (7 integrations: Comax, Companyweb, EMAsphere, Intellifin, Marcando, Penneo, Stockwhiz). Note: curl got HTTP 403 on wolterskluwer.com; page loaded in a standard browser session with no interaction.",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  },
+  {
+   "software": "ClearFacts",
+   "country": "BE",
+   "marketplace_url": "https://clearfacts.be/nl/integraties/",
+   "readable": true,
+   "reason": "",
+   "method": "Full integrations page read (static HTML). It lists accounting-package connectors only (WinBooks, Wings, Exact, Adsolut, Expert M+, Sage BOB, Odoo).",
+   "editors_listed": [],
+   "editors_not_listed": [
+    "Pleo",
+    "Spendesk",
+    "Payhawk",
+    "Rydoo",
+    "Mooncard",
+    "N2F",
+    "Expensya",
+    "Jenji",
+    "Moss",
+    "Pliant",
+    "Circula",
+    "Yokoy"
+   ]
+  }
+ ]
+}

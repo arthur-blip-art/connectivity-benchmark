@@ -1,0 +1,551 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "moss",
+   "name": "Moss",
+   "domain": "getmoss.com",
+   "hq_country": "DE",
+   "integrations_url": "https://www.getmoss.com/integrations",
+   "pages_read": [
+    "https://www.getmoss.com/integrations",
+    "https://www.getmoss.com/en-gb/integrations",
+    "https://www.getmoss.com/de-de/integrationen",
+    "https://www.getmoss.com/de-at/integrationen",
+    "https://www.getmoss.com/nl-nl/integraties",
+    "https://www.getmoss.com/integrations/datev",
+    "https://www.getmoss.com/integrations/sage",
+    "https://www.getmoss.com/integrations/twinfield",
+    "https://www.getmoss.com/integrations/addison",
+    "https://www.getmoss.com/integrations/bmd",
+    "https://www.getmoss.com/integrations/sap-csv",
+    "https://www.getmoss.com/integrations/sap-business-one",
+    "https://www.getmoss.com/integrations/business-central",
+    "https://help.getmoss.com/en/",
+    "https://help.getmoss.com/en/collections/10247387-accountants-admins-processing-exporting-spend",
+    "https://help.getmoss.com/en/collections/13854908-csv-templates-exports",
+    "https://help.getmoss.com/en/collections/10247793-general-accounting",
+    "https://help.getmoss.com/en/collections/10247790-datev-direct",
+    "https://help.getmoss.com/en/articles/8708123-accounting-software-integrations"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.getmoss.com/integrations/datev",
+     "evidence": "connects directly with DATEV Unternehmen Online or Rechnungswesen; listed as API",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV DUO",
+     "source_url": "https://help.getmoss.com/en/collections/10247387-accountants-admins-processing-exporting-spend",
+     "evidence": "Help center guide collection 'DATEV DUO' (22 articles), Unternehmen Online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV Direct",
+     "source_url": "https://help.getmoss.com/en/collections/10247790-datev-direct",
+     "evidence": "Help guides: connect Moss with DATEV Direct, import into DATEV Rechnungswesen",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle NetSuite",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'API'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'API'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'API'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Addison",
+     "source_url": "https://www.getmoss.com/integrations/addison",
+     "evidence": "Moss generates Addison-ready CSV exports; label 'CSV'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "AFAS Profit",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'API'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BMD",
+     "source_url": "https://www.getmoss.com/integrations/bmd",
+     "evidence": "Generate a ready-to-import CSV file for upload to BMD",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Diamant",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'CSV'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Globe",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'API'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'CSV'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Business Central",
+     "source_url": "https://www.getmoss.com/integrations/business-central",
+     "evidence": "Connect Moss to Business Central to sync company spend data; label 'API'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'API'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Poool",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'API' (default EN and de-de pages)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks Online",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'API'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://www.getmoss.com/integrations/sage",
+     "evidence": "Moss supports Sage 50 and Sage 200 through configurable CSV templates",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 200",
+     "source_url": "https://www.getmoss.com/integrations/sage",
+     "evidence": "Moss supports Sage 50 and Sage 200 through configurable CSV templates",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Intacct (coming soon)",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed as 'Sage Intacct (coming soon)' with label 'CSV'",
+     "kind": "coming_soon",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP R3/ECC",
+     "source_url": "https://www.getmoss.com/integrations/sap-csv",
+     "evidence": "SAP-ready CSV exports, import into SAP R/3, ECC or S/4HANA",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://www.getmoss.com/integrations/sap-business-one",
+     "evidence": "Connect Moss to SAP Business One to sync company spend data",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sesam",
+     "source_url": "https://www.getmoss.com/integrations",
+     "evidence": "Listed under Accounting with label 'CSV'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://www.getmoss.com/integrations/twinfield",
+     "evidence": "Moss generates Twinfield-ready CSV exports; label 'CSV'",
+     "kind": "file_export",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Same 20-21 accounting tools on all locale pages (order differs; Poool only on default EN and de-de). Help center guides exist for AFAS, BMD, DATEV DUO/Direct, Exact Globe/Online, Business Central, NetSuite, Poool, QuickBooks, SAP B1, Twinfield, Xero, Odoo. No FR or BE page. Not found publicly: Pennylane, Cegid, ACD, MyUnisoft, EBP, Inqom, Fulll, Tiime, sevdesk, Agenda, Scopevisio, BuchhaltungsButler, Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Adsolut, ClearFacts (site: web search, no hit). Generic CSV export builder and API also offered."
+  },
+  {
+   "id": "pliant",
+   "name": "Pliant",
+   "domain": "getpliant.com",
+   "hq_country": "DE",
+   "integrations_url": "https://www.getpliant.com/en/integrations",
+   "pages_read": [
+    "https://www.getpliant.com/en/integrations",
+    "https://www.getpliant.com/de/integrationen",
+    "https://www.getpliant.com/fr/integrations",
+    "https://www.getpliant.com/en-gb/integrations",
+    "https://www.getpliant.com/en/integrations/datev",
+    "https://www.getpliant.com/en/integrations/lexware-office",
+    "https://www.getpliant.com/en/integrations/buchhaltungsbutler",
+    "https://www.getpliant.com/en-us/card-spend-os/features/accounting-automation-integrations",
+    "https://www.getpliant.com/en-us/payment-apps/features/accounting-automations",
+    "https://help.getpliant.com/en/",
+    "https://help.getpliant.com/en/collections/3399238-pliant-for-accountants-and-tax-advisors",
+    "https://help.getpliant.com/en/collections/3515555-accounting-export",
+    "https://help.getpliant.com/de/collections/3515555-buchhaltungsexport",
+    "https://help.getpliant.com/fr/collections/3515555-exportation-comptable"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "BMD",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Accounting category; type 'File export/import (CSV)'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.getpliant.com/en/integrations/datev",
+     "evidence": "DATEV Rechnungsdatenservice 1.0 to DATEV Unternehmen Online (DUO)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Type also lists 'File export/import (CSV, XML)'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://www.getpliant.com/en/integrations/lexware-office",
+     "evidence": "Type 'API integration'; syncs receipts and payments, imports GL accounts",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Accounting category; type 'API integration'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Netvisor",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Accounting category; type 'File export/import (CSV)'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle Netsuite",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Accounting category; type 'API integration'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Procountor",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Accounting category; type 'File export/import (CSV)'",
+     "kind": "file_export",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "QuickBooks Online",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Accounting category; type 'API integration'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Talenom",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Accounting category; type 'File export/import (CSV)'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Accounting category; type 'API integration'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BuchhaltungsButler",
+     "source_url": "https://www.getpliant.com/en/integrations/buchhaltungsbutler",
+     "evidence": "CSV bank statement or DATEV format import; receipt forwarding via email",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Scopevisio",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Finance category; 'Cloud-based ERP software for SMEs'; type 'API integration'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FreeFinance",
+     "source_url": "https://www.getpliant.com/en/integrations",
+     "evidence": "Finance category; Austrian accounting software; type 'API integration (PSD2)'",
+     "kind": "api",
+     "countries_stated": [
+      "AT"
+     ]
+    }
+   ],
+   "notes": "Identical partner list on /en, /de, /fr, /en-gb. Page shows 6 cards per category behind 'See all'; full list read from the page's embedded data. Microsoft Dynamics 365 not specified as Business Central. FreeFinance connects via PSD2 (bank-feed style), kind approximated as api. Help center has no accounting-software articles. Not found publicly: Pennylane, Cegid, Sage, ACD, MyUnisoft, EBP, Inqom, Fulll, Tiime, sevdesk, Addison, Agenda, SAP (only SAP Concur Expense), Exact Online, Odoo, Yuki, Octopus, WinBooks, Horus, Sage Intacct."
+  },
+  {
+   "id": "circula",
+   "name": "Circula",
+   "domain": "circula.com",
+   "hq_country": "DE",
+   "integrations_url": "https://www.circula.com/en/integrations",
+   "pages_read": [
+    "https://www.circula.com/en/integrations",
+    "https://www.circula.com/de/integrationen",
+    "https://www.circula.com/en/integrations/datev",
+    "https://www.circula.com/en/integrations/business-central",
+    "https://www.circula.com/en/integrations/exact-online",
+    "https://www.circula.com/sitemap.xml",
+    "https://help.circula.com/de/",
+    "https://help.circula.com/en/",
+    "https://help.circula.com/de/collections/1403418-integrationen",
+    "https://help.circula.com/en/collections/1403418-integrations",
+    "https://help.circula.com/de/articles/279518-erp-anpassungen",
+    "https://help.circula.com/de/articles/279450-addison-oneclick-wolters-kluwer",
+    "https://help.circula.com/de/collections/1403392-ausgaben-reisekosten",
+    "https://help.circula.com/de/collections/1403752-fi-bu-export",
+    "https://help.circula.com/de/collections/1403374-erste-schritte-mit-circula",
+    "https://help.circula.com/de/collections/1435578-eingangsrechnungen",
+    "https://help.circula.com/en/articles/279546-exporting-expenses"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.circula.com/en/integrations",
+     "reason": "HTTP 403 to direct raw HTML request (bot protection); read only via WebFetch text extraction, not bypassed"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.circula.com/en/integrations",
+     "evidence": "direct interface to DATEV Unternehmen Online, Comfort, LODAS, Wage and Salary",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV Rechnungsdatenservice 1.0",
+     "source_url": "https://help.circula.com/de/collections/1403752-fi-bu-export",
+     "evidence": "Export zu DATEV mit dem DATEV Rechnungsdatenservice 1.0 (Belege Online)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV XML file",
+     "source_url": "https://help.circula.com/en/articles/279546-exporting-expenses",
+     "evidence": "XML report format to import expenses with receipts to DATEV UO",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV Format",
+     "source_url": "https://help.circula.com/en/articles/279546-exporting-expenses",
+     "evidence": "Manual export/import without receipts to DATEV Kanzlei Rechnungswesen",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Business Central",
+     "source_url": "https://www.circula.com/en/integrations/business-central",
+     "evidence": "Microsoft partner Finclair developed the Circula Expenses Connector",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.circula.com/en/integrations",
+     "evidence": "Connect your SAP-System through a CSV file integration",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://www.circula.com/en/integrations",
+     "evidence": "API interface Twinfield from Wolters Kluwer; EN page only",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ADDISON OneClick (Wolters Kluwer)",
+     "source_url": "https://help.circula.com/de/articles/279450-addison-oneclick-wolters-kluwer",
+     "evidence": "Circula integriert direkt mit ADDISON OneClick; tagged API-Integration",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Diamant Software",
+     "source_url": "https://www.circula.com/de/integrationen",
+     "evidence": "CSV-Datei Integration, kompatibel mit Diamant Software",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.circula.com/en/integrations/exact-online",
+     "evidence": "deep integration with Exact Online through a REST API connection",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Navision",
+     "source_url": "https://help.circula.com/de/articles/279518-erp-anpassungen",
+     "evidence": "ERP-Anpassungen offered for SAP, Workday, Navision; via support team",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Marketing site read through WebFetch (summarizing extractor), so quotes may be lightly paraphrased; raw HTML request got 403. Only /de and /en exist. Twinfield card appears on EN page, not DE; Exact Online page exists but is not on the main list (found via web search). EN page spells Diamant as 'Diamond Software'. ELO (DMS) and Workday (HR) excluded. Generic 'Standard CSV export' via SFTP for other ERPs. Not found publicly: Lexware Office, sevdesk, Agenda, Scopevisio, BuchhaltungsButler, NetSuite, Xero, QuickBooks, Sage, Odoo, Pennylane, Cegid, all FR and BE tools."
+  },
+  {
+   "id": "yokoy",
+   "name": "Yokoy",
+   "domain": "yokoy.io",
+   "hq_country": "CH",
+   "integrations_url": "https://www.perk.com/travel-solutions/marketplace/",
+   "pages_read": [
+    "https://www.perk.com/travel-solutions/marketplace/",
+    "https://www.perk.com/platform/spend/",
+    "https://www.perk.com/spend-solutions/spend-management-software/",
+    "https://www.perk.com/partnership/netsuite/",
+    "https://www.perk.com/partnership/ms-dynamics-business-central/",
+    "https://www.perk.com/partnership/ms-dynamics-f-o/",
+    "https://help.yokoy.ai/en/",
+    "https://help.yokoy.ai/en/collections/7480-integrations",
+    "https://help.yokoy.ai/en/articles/240667-datev-integration-for-expenses",
+    "https://help.yokoy.ai/en/articles/377790-xero-integration-for-expenses",
+    "https://help.yokoy.ai/en/collections/3707-finance-guide",
+    "https://help.yokoy.ai/en/collections/3710-hr-admin-guide",
+    "https://help.yokoy.ai/en/collections/7481-yokoy-invoice-guide",
+    "https://help.yokoy.ai/en/articles/146174-add-a-one-time-supplier",
+    "https://developer.yokoy.ai/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://yokoy.io/integrations",
+     "reason": "301 redirect to perk.com marketplace; Yokoy site merged into Perk"
+    },
+    {
+     "url": "https://www.yokoy.io/integrations",
+     "reason": "SSL handshake failure"
+    },
+    {
+     "url": "https://www.yokoy.ai/eu-en/integrations",
+     "reason": "Redirects to perk.com, 404"
+    },
+    {
+     "url": "https://support.perk.com/hc/en-us/articles/29137547103004-Set-up-the-Perk-Spend-Integration-for-Microsoft-Dynamics-365-Finance",
+     "reason": "HTTP 403 bot protection (Perk help center), not bypassed"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://help.yokoy.ai/en/articles/240667-datev-integration-for-expenses",
+     "evidence": "API-based integration that uses DATEV's Buchungsdatenservice; receipts visible in DUO",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://help.yokoy.ai/en/articles/377790-xero-integration-for-expenses",
+     "evidence": "Integrate Yokoy with Xero to automatically export expenses",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MS Dynamics 365 Business Central",
+     "source_url": "https://help.yokoy.ai/en/collections/7480-integrations",
+     "evidence": "Yokoy Spend Management Connector; AppSource app or extension, master data sync",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://www.perk.com/partnership/ms-dynamics-business-central/",
+     "evidence": "Perk connector integrates directly with Business Central's API framework",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle NetSuite",
+     "source_url": "https://www.perk.com/partnership/netsuite/",
+     "evidence": "The Perk connector integrates with NetSuite's API framework",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Finance",
+     "source_url": "https://www.perk.com/partnership/ms-dynamics-f-o/",
+     "evidence": "Connector integrates with Accounts Payable and Expense Management modules in Finance",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://help.yokoy.ai/en/articles/146174-add-a-one-time-supplier",
+     "evidence": "'SAP integration only': feature for customers with SAP systems",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP R3/S4",
+     "source_url": "https://www.perk.com/spend-solutions/spend-management-software/",
+     "evidence": "integrates with most enterprise ERP & HRM tools such as SAP R3/S4",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.perk.com/platform/spend/",
+     "evidence": "Perk integrates with ERP systems like SAP, NetSuite, Xero, and QuickBooks",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ],
+   "notes": "yokoy.io now redirects to perk.com (TravelPerk rebranded Perk; Yokoy = Perk Spend). The former Yokoy integrations page is gone; Perk marketplace lists only 3 ERP & Finance cards (NetSuite, Business Central, Dynamics 365 Finance). Legacy help center help.yokoy.ai still online (DATEV, Xero, Business Central, generic spend export file, API). Perk help center (support.perk.com) blocked, so Perk Spend setup articles not read. 'Sage Expense Management' on marketplace is an expense tool, excluded. Not found publicly: Sage Intacct, Exact Online, Odoo, Abacus, Pennylane, Cegid, Lexware, all FR and BE tools."
+  }
+ ]
+}

@@ -1,0 +1,1142 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "dext",
+   "name": "Dext",
+   "domain": "dext.com",
+   "hq_country": "GB",
+   "integrations_url": "https://dext.com/en/business/product/integrate-with-accounting-software",
+   "pages_read": [
+    "https://dext.com/en/business/product/integrate-with-accounting-software",
+    "https://dext.com/sitemap.xml",
+    "https://dext.com/sitemap-en.xml",
+    "https://dext.com/sitemap-fr.xml",
+    "https://dext.com/sitemap-uk.xml",
+    "https://dext.com/en/business/product/integrate-with-accounting-software/xero",
+    "https://dext.com/en/business/product/integrate-with-accounting-software/quickbooks",
+    "https://dext.com/en/business/product/integrate-with-accounting-software/sage",
+    "https://dext.com/en/business/product/integrate-with-accounting-software/myob",
+    "https://dext.com/en/business/product/integrate-with-accounting-software/zoho",
+    "https://dext.com/en/business/product/integrate-with-accounting-software/bill",
+    "https://dext.com/fr/ressources/export-comptable-et-integration",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/acd",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/agiris",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/cegid",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/cogilog",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/ebp",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/fulll",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/myunisoft",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/pennylane",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/quadra",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/rca-meg",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/sage",
+    "https://dext.com/fr/ressources/export-comptable-et-integration/welyb",
+    "https://help.dext.com/en/",
+    "https://help.dext.com/en/collections/878041-connect-export",
+    "https://help.dext.com/en/articles/339551-how-to-connect-dext-to-your-accounting-software",
+    "https://help.dext.com/en/articles/758038-what-csv-export-formats-are-available-in-dext",
+    "https://help.dext.com/en/articles/105853-how-to-use-dext-with-sage-pastel",
+    "https://help.dext.com/en/articles/222160-how-dext-works-with-twinfield",
+    "https://help.dext.com/en/articles/220009-how-to-connect-dext-to-freeagent",
+    "https://help.dext.com/en/articles/221959-how-to-connect-dext-to-kashflow",
+    "https://help.dext.com/en/articles/222317-how-to-connect-dext-to-nomi",
+    "https://help.dext.com/en/articles/628986-how-to-connect-dext-to-brightbooks",
+    "https://help.dext.com/en/articles/251342-how-dext-works-with-zoho-books",
+    "https://help.dext.com/en/articles/215295-how-to-connect-dext-to-bill-com",
+    "https://help.dext.com/en/articles/105693-how-to-connect-dext-to-quickbooks-desktop",
+    "https://help.dext.com/en/articles/105795-how-to-connect-dext-to-sage-50-uk",
+    "https://help.dext.com/en/articles/339553-how-to-connect-dext-to-sage-accounting",
+    "https://help.dext.com/en/articles/624290-setting-up-dext-without-accounting-software",
+    "https://help.dext.com/en/articles/629498-what-is-the-dext-connect-app",
+    "https://help.dext.com/en/articles/209194-how-to-connect-with-myob-accountright-live",
+    "https://help.dext.com/fr/",
+    "https://help.dext.com/fr/collections/1449630-logiciels-comptables",
+    "https://help.dext.com/fr/collections/1449623-pour-les-cabinets",
+    "https://help.dext.com/fr/collections/878165-pour-les-entreprises-qui-gerent-leur-comptabilite",
+    "https://help.dext.com/fr/articles/208438-connecter-dext-a-loop-par-api",
+    "https://help.dext.com/fr/articles/458456-connecter-dext-a-cegid-quadra-par-api",
+    "https://help.dext.com/fr/articles/208432-connecter-dext-a-sage-generation-experts-par-api",
+    "https://help.dext.com/fr/articles/634157-configurer-dext-sans-integration-a-un-logiciel-comptable",
+    "https://help.dext.com/fr/articles/106302-exporter-ses-ecritures-dans-inqom-cabinets",
+    "https://help.dext.com/fr/articles/208429-exporter-les-ecritures-vers-cegid-expert-sans-api",
+    "https://help.dext.com/fr/articles/208433-exporter-les-ecritures-vers-agiris-sans-api",
+    "https://help.dext.com/fr/articles/211988-exporter-les-ecritures-vers-teogest-sans-api",
+    "https://help.dext.com/fr/articles/211989-exporter-les-ecritures-vers-purple-sans-api",
+    "https://help.dext.com/fr/articles/211990-exporter-les-ecritures-vers-sage-50-100-ciel-sans-api",
+    "https://help.dext.com/fr/articles/205751-etape-6-publier-ou-exporter-les-ecritures-depuis-dext",
+    "https://help.dext.com/fr/articles/208431-exporter-les-ecritures-vers-quadra-sans-api"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Xero",
+     "source_url": "https://dext.com/en/business/product/integrate-with-accounting-software/xero",
+     "evidence": "Receipts and bills reach Xero coded, with tax rate and tracking categories",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks Online",
+     "source_url": "https://help.dext.com/en/articles/339551-how-to-connect-dext-to-your-accounting-software",
+     "evidence": "Listed as main accounting software that can be connected to Dext",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks Desktop",
+     "source_url": "https://help.dext.com/en/articles/105693-how-to-connect-dext-to-quickbooks-desktop",
+     "evidence": "Connects through the Dext Connect App (Windows), syncs lists, publishes",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50 UK",
+     "source_url": "https://help.dext.com/en/articles/105795-how-to-connect-dext-to-sage-50-uk",
+     "evidence": "Connects to Sage 50 UK through the Dext Connect App",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Sage 50 Canada",
+     "source_url": "https://help.dext.com/en/articles/629498-what-is-the-dext-connect-app",
+     "evidence": "Dext Connect App links Dext to Sage 50 UK, Sage 50 Canada",
+     "kind": "api",
+     "countries_stated": [
+      "CA"
+     ]
+    },
+    {
+     "software_raw": "Sage Accounting",
+     "source_url": "https://help.dext.com/en/articles/339553-how-to-connect-dext-to-sage-accounting",
+     "evidence": "Publish costs and sales directly to Sage; lists sync automatically",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Pastel",
+     "source_url": "https://help.dext.com/en/articles/105853-how-to-use-dext-with-sage-pastel",
+     "evidence": "Two dedicated CSV export formats for Sage Pastel",
+     "kind": "file_export",
+     "countries_stated": [
+      "ZA"
+     ]
+    },
+    {
+     "software_raw": "MYOB AccountRight Live",
+     "source_url": "https://help.dext.com/en/articles/209194-how-to-connect-with-myob-accountright-live",
+     "evidence": "Publish Costs and Sales documents directly from Dext to MYOB",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MYOB Essentials",
+     "source_url": "https://help.dext.com/en/collections/878041-connect-export",
+     "evidence": "Help article listed: How to connect Dext with MYOB Essentials",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "KashFlow",
+     "source_url": "https://help.dext.com/en/articles/221959-how-to-connect-dext-to-kashflow",
+     "evidence": "Publish costs, sales and expense claims directly to KashFlow (SOAP API)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FreeAgent",
+     "source_url": "https://help.dext.com/en/articles/220009-how-to-connect-dext-to-freeagent",
+     "evidence": "Publish cost items, expense claims and sales directly to FreeAgent",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://help.dext.com/en/articles/222160-how-dext-works-with-twinfield",
+     "evidence": "Publish Cost and Sales documents directly to your Twinfield organisation",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Zoho Books",
+     "source_url": "https://help.dext.com/en/articles/251342-how-dext-works-with-zoho-books",
+     "evidence": "Extract, code and publish documents directly to Zoho Books",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Nomi",
+     "source_url": "https://help.dext.com/en/articles/222317-how-to-connect-dext-to-nomi",
+     "evidence": "Publish cost items, expense claims and sales directly to Nomi",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BrightBooks",
+     "source_url": "https://help.dext.com/en/articles/628986-how-to-connect-dext-to-brightbooks",
+     "evidence": "Publish cost items, expense claims and sales invoices directly",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "VT Transaction+",
+     "source_url": "https://help.dext.com/en/articles/758038-what-csv-export-formats-are-available-in-dext",
+     "evidence": "Software-specific CSV format matching VT Universal Input Sheet",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "E-conomic",
+     "source_url": "https://help.dext.com/en/articles/758038-what-csv-export-formats-are-available-in-dext",
+     "evidence": "CSV format matching Visma e-conomic purchase voucher layout (Nordic)",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/acd",
+     "evidence": "Direct API integration: chart of accounts synced, entries published in one click",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/pennylane",
+     "evidence": "Direct API integration: sync chart of accounts, publish entries with images",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/ebp",
+     "evidence": "API connection: import chart of accounts, publish purchase entries to EBP",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/fulll",
+     "evidence": "API integration: import chart of accounts and publish entries to Fulll",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/myunisoft",
+     "evidence": "Direct API connection: publish entries directly to MyUnisoft",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MEG (Mon Expert en Gestion)",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/rca-meg",
+     "evidence": "Direct API connection: publish purchase invoices and expenses to MEG",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/sage",
+     "evidence": "Direct API connection with Sage Generation Expert (GE); also GE export formats",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://help.dext.com/fr/articles/208438-connecter-dext-a-loop-par-api",
+     "evidence": "Connect Dext to Cegid Loop by API to sync and publish entries",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://help.dext.com/fr/articles/458456-connecter-dext-a-cegid-quadra-par-api",
+     "evidence": "API key from CegidLife; publish documents to Quadra in one click",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Expert",
+     "source_url": "https://help.dext.com/fr/articles/208429-exporter-les-ecritures-vers-cegid-expert-sans-api",
+     "evidence": "Export entries to Cegid Expert without API (Cegid TRA format)",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/agiris",
+     "evidence": "Dedicated Agiris export format (purchases and sales with images)",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cogilog",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/cogilog",
+     "evidence": "Dedicated export format for Cogilog (TXT)",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://help.dext.com/fr/articles/106302-exporter-ses-ecritures-dans-inqom-cabinets",
+     "evidence": "Import entries and images into Inqom via enhanced FEC + images export",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Teogest",
+     "source_url": "https://help.dext.com/fr/articles/211988-exporter-les-ecritures-vers-teogest-sans-api",
+     "evidence": "Export entries to Teogest (without API)",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Purple",
+     "source_url": "https://help.dext.com/fr/articles/211989-exporter-les-ecritures-vers-purple-sans-api",
+     "evidence": "Export entries to Purple (without API)",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/sage",
+     "evidence": "Sage 50 or 100 (Sage Ciel): export entries as FEC without images",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://dext.com/fr/ressources/export-comptable-et-integration/sage",
+     "evidence": "Sage 50 or 100 (Sage Ciel): export entries as FEC without images",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ],
+   "notes": "Marketing page claims 36+ accounting platforms but shows no public list; list rebuilt from EN and FR help centres plus FR export pages. EN marketing subpages exist only for Xero, QuickBooks, Sage, MYOB, Zoho, BILL. Bill.com and ApprovalMax are 'additional bookkeeping connections' (AP tools), not listed. No public mention found of Tiime, Indy, Isacompta by name (only 'Agiris'), DATEV, Exact Online, NetSuite, Business Central, Sage Intacct. No DE/NL/ES/IT site versions in sitemap."
+  },
+  {
+   "id": "libeo",
+   "name": "Libeo",
+   "domain": "libeo.io",
+   "hq_country": "FR",
+   "integrations_url": "https://libeo.io/integrations",
+   "pages_read": [
+    "https://libeo.io/integrations",
+    "https://libeo.io/sitemap.xml",
+    "https://libeo.io/integrations/pennylane",
+    "https://libeo.io/integrations/cegid-loop",
+    "https://libeo.io/integrations/myunisoft",
+    "https://libeo.io/integrations/acd",
+    "https://libeo.io/integrations/inqom",
+    "https://libeo.io/integrations/odoo",
+    "https://libeo.io/integrations/sage-100",
+    "https://libeo.io/integrations/sage-generation-experts",
+    "https://libeo.io/integrations/meg",
+    "https://libeo.io/integrations/evoliz",
+    "https://libeo.io/integrations/myexco",
+    "https://libeo.io/integrations/chaintrust",
+    "https://libeo.io/integrations/zoho",
+    "https://libeo.io/integrations/api",
+    "https://libeo.io/blog/export-comptable",
+    "https://help.libeo.io/fr/",
+    "https://help.libeo.io/fr/collections/3294747-integrer-libeo-a-un-autre-logiciel",
+    "https://help.libeo.io/fr/collections/3294765-traiter-ma-comptabilite",
+    "https://help.libeo.io/fr/collections/3751638-utiliser-libeo-en-tant-que-cabinet-d-experts-comptables",
+    "https://help.libeo.io/fr/articles/5881144-exporter-ma-comptabilite-a-partir-d-un-modele-pre-defini",
+    "https://help.libeo.io/fr/articles/8206949-connecter-inqom-et-libeo",
+    "https://help.libeo.io/fr/articles/8354758-connecter-sage-100-et-libeo",
+    "https://help.libeo.io/fr/articles/8282265-connecter-odoo-et-libeo",
+    "https://help.libeo.io/fr/articles/9287307-connecter-pennylane-et-libeo",
+    "https://help.libeo.io/fr/articles/6680518-cegid-expert-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+    "https://help.libeo.io/fr/articles/6680545-agiris-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+    "https://help.libeo.io/fr/articles/6680558-quadratus-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+    "https://help.libeo.io/fr/articles/6680564-ebp-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+    "https://help.libeo.io/fr/articles/6680551-sage-50-ciel-exporter-mes-ecritures-comptables"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://libeo.io/integrations/pennylane",
+     "evidence": "Documents and accounting entries are sent by API into Pennylane",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://libeo.io/integrations/cegid-loop",
+     "evidence": "Documents and accounting entries are sent by API into Cegid Loop",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://libeo.io/integrations/myunisoft",
+     "evidence": "Documents and accounting entries are sent by API into MyUnisoft",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://libeo.io/integrations/acd",
+     "evidence": "Documents and accounting entries are sent by API into ACD",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://help.libeo.io/fr/articles/8206949-connecter-inqom-et-libeo",
+     "evidence": "Libeo x Inqom API integration retrieves invoices and credit notes",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://libeo.io/integrations/odoo",
+     "evidence": "Documents and accounting entries are sent by API into Odoo",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://libeo.io/integrations/sage-100",
+     "evidence": "Documents and accounting entries are sent by API into Sage 100",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://libeo.io/integrations/sage-generation-experts",
+     "evidence": "Entries sent by API into Sage Generation Experts (formerly Sage Coala)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Expert",
+     "source_url": "https://help.libeo.io/fr/articles/6680518-cegid-expert-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+     "evidence": "Export entries with Cegid templates and import into Cegid Expert",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://help.libeo.io/fr/articles/6680558-quadratus-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+     "evidence": "Export entries with the Quadratus template and import them",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Agiris/Isagri/Isacompta",
+     "source_url": "https://help.libeo.io/fr/collections/3751638-utiliser-libeo-en-tant-que-cabinet-d-experts-comptables",
+     "evidence": "Export entries with documents and analytics into Agiris/Isagri/Isacompta",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://help.libeo.io/fr/articles/6680564-ebp-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+     "evidence": "Export entries with EBP templates and import into EBP",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50 (Ciel)",
+     "source_url": "https://help.libeo.io/fr/articles/6680551-sage-50-ciel-exporter-mes-ecritures-comptables",
+     "evidence": "Export entries with the Sage 50 template, import into Sage 50",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Chaintrust",
+     "source_url": "https://libeo.io/integrations/chaintrust",
+     "evidence": "Connected via Chaintrust import email address; creates purchase invoices",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MEG (Mon Expert en Gestion)",
+     "source_url": "https://libeo.io/integrations/meg",
+     "evidence": "Pay supplier invoices with Libeo directly from MEG (payment integration)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://libeo.io/integrations/evoliz",
+     "evidence": "Pay suppliers in one click from Evoliz with the Libeo integration",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "French-only site, no country stated on pages. Integrations page claims 250 native integrations and 20+ preconfigured export templates; only those named publicly are listed. ACD also has a file export template (ACD/CADOR). MEG, Evoliz are inbound payment integrations (pay from the tool), not accounting exports; MyExco (firm portal), Dext and Qonto (via Zapier), sales-invoice imports (Axonaut, Sellsy, Zoho, VosFactures, Harvest, Stripe) not listed. No mention of Chift on public pages. Not found: Fulll, Tiime, Indy, Sage 50 API, NetSuite, non-French software."
+  },
+  {
+   "id": "candis",
+   "name": "Candis",
+   "domain": "candis.io",
+   "hq_country": "DE",
+   "integrations_url": "https://www.candis.io/produkt/schnittstellen-und-exporte",
+   "pages_read": [
+    "https://www.candis.io/",
+    "https://www.candis.io/sitemap.xml",
+    "https://www.candis.io/produkt/schnittstellen-und-exporte",
+    "https://www.candis.io/candis-schnittstelle",
+    "https://www.candis.io/en/candis-integration",
+    "https://www.candis.io/funktionen/datev-schnittstelle",
+    "https://www.candis.io/produkt/sap-business-one",
+    "https://www.candis.io/en/erp",
+    "https://www.candis.io/en/microsoft-business-central",
+    "https://www.candis.io/funktionen/sage-100",
+    "https://www.candis.io/funktionen/sesamsoft",
+    "https://www.candis.io/en/product-partnerships",
+    "https://www.candis.io/en/product-partner/addison-oneclick",
+    "https://www.candis.io/en/product-partner/agenda",
+    "https://www.candis.io/en/product-partner/sage",
+    "https://www.candis.io/en/product-partner/datev",
+    "https://hilfe.candis.io/de/",
+    "https://hilfe.candis.io/de/collections/623430-export",
+    "https://hilfe.candis.io/de/collections/623529-lexware",
+    "https://hilfe.candis.io/de/collections/623530-bmd",
+    "https://hilfe.candis.io/de/collections/623528-simba",
+    "https://hilfe.candis.io/de/collections/1434932-erp-sap-sage-microsoft",
+    "https://hilfe.candis.io/de/collections/870858-microsoft-dynamics-365-business-central",
+    "https://hilfe.candis.io/de/collections/623527-agenda",
+    "https://hilfe.candis.io/de/collections/623531-sage-100",
+    "https://hilfe.candis.io/de/articles/550041-integrationstypen-im-uberblick-datev-datev-adjacent-other-und-sap",
+    "https://hilfe.candis.io/de/articles/739406-datev-adjacent-export-einrichten",
+    "https://hilfe.candis.io/de/articles/558749-integrationstyp-other",
+    "https://hilfe.candis.io/de/articles/663442-exportmethoden-und-unterstutzte-belegtypen",
+    "https://hilfe.candis.io/de/articles/258715-welche-exportmethode-fur-lexware-von-uns-empfohlen-wird-und-wie-die-daten-hochgeladen-werden",
+    "https://hilfe.candis.io/de/articles/258716-welche-exportmethode-kann-fur-einen-import-in-bmd-verwendet-werden",
+    "https://hilfe.candis.io/de/articles/258712-welche-exportmethode-fur-simba-verwendet-werden-kann-und-wie-die-daten-hochgeladen-werden-konnen",
+    "https://hilfe.candis.io/de/articles/376242-microsoft-business-central-connector-zu-candis-einfach-erklart",
+    "https://hilfe.candis.io/de/articles/560088-integrationstyp-sap-business-one",
+    "https://hilfe.candis.io/de/articles/258714-welche-exportmethode-fur-agenda-verwendet-werden-kann-und-wie-die-daten-hochgeladen-werden-konnen"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.candis.io/en/integrations",
+     "reason": "HTTP 404 (guessed URL, page does not exist)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.candis.io/funktionen/datev-schnittstelle",
+     "evidence": "Licensed interface partner; direct transfer to DATEV Rechnungswesen and Unternehmen online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://www.candis.io/produkt/sap-business-one",
+     "evidence": "Direct interface to SAP Business One; master data and orders synced",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://www.candis.io/funktionen/sage-100",
+     "evidence": "Direct Sage interface built with Sage Partner Desk GmbH (Desk.SageConnect)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://hilfe.candis.io/de/collections/870858-microsoft-dynamics-365-business-central",
+     "evidence": "Sievers Candis Connector via Microsoft AppSource, BC SaaS only",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle NetSuite",
+     "source_url": "https://www.candis.io/en/erp",
+     "evidence": "Existing integrations with SAP Business One, Sage100, Business Central, Oracle Netsuite",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ADDISON OneClick",
+     "source_url": "https://www.candis.io/en/product-partner/addison-oneclick",
+     "evidence": "Interface partner; exports invoices as XML for import into ADDISON OneClick",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://hilfe.candis.io/de/articles/258714-welche-exportmethode-fur-agenda-verwendet-werden-kann-und-wie-die-daten-hochgeladen-werden-konnen",
+     "evidence": "DATEV format CSV plus DATEV XML files imported into Agenda",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Simba",
+     "source_url": "https://hilfe.candis.io/de/articles/258712-welche-exportmethode-fur-simba-verwendet-werden-kann-und-wie-die-daten-hochgeladen-werden-konnen",
+     "evidence": "Simba imports invoices in DATEV XML format (zipped file)",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware",
+     "source_url": "https://hilfe.candis.io/de/articles/258715-welche-exportmethode-fur-lexware-von-uns-empfohlen-wird-und-wie-die-daten-hochgeladen-werden",
+     "evidence": "DATEV format CSV upload; desktop Lexware (buchhaltung plus, financial office plus)",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BMD",
+     "source_url": "https://hilfe.candis.io/de/articles/258716-welche-exportmethode-kann-fur-einen-import-in-bmd-verwendet-werden",
+     "evidence": "DATEV format CSV is used for import into BMD",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sesamsoft (SESAM-Fibu)",
+     "source_url": "https://www.candis.io/funktionen/sesamsoft",
+     "evidence": "Official Sesamsoft interface partner; export with pre-coding in CSV format",
+     "kind": "file_export",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Site in DE and EN only; no country stated on pages (German market). 'Lexware' is the desktop product, not Lexware Office. Generic DATEV-format CSV/XML, Candis CSV and a public Candis API cover other systems ('Andere Software'). Not found on public pages: Lexware Office, sevdesk, Scopevisio, BuchhaltungsButler, Addison (other than OneClick), Exact, Xero. On the exports page the 'Gemacht fuer' lists are partly rendered client-side; names were read from the embedded page data."
+  },
+  {
+   "id": "getmyinvoices",
+   "name": "GetMyInvoices",
+   "domain": "getmyinvoices.com",
+   "hq_country": "DE",
+   "integrations_url": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+   "pages_read": [
+    "https://www.getmyinvoices.com/en/integrations-interfaces/",
+    "https://www.getmyinvoices.com/de/integrationen-schnittstellen/",
+    "https://www.getmyinvoices.com/fr/integrations-interfaces/",
+    "https://www.getmyinvoices.com/es/integraciones-interfaces/",
+    "https://www.getmyinvoices.com/nl/integraties-interfaces/",
+    "https://www.getmyinvoices.com/en/functions-invoice-export/",
+    "https://help.getmyinvoices.com/en/",
+    "https://help.getmyinvoices.com/en/help/",
+    "https://help.getmyinvoices.com/en/help/synchronization-export/",
+    "https://help.getmyinvoices.com/en/help/synchronization-export/other-accounting-software/",
+    "https://www.getmyinvoices.com/en/integration/quickbooks-invoice-importer/",
+    "https://www.getmyinvoices.com/en/integration/xero-incoming-invoices/",
+    "https://www.getmyinvoices.com/en/integration/workflow-incoming-invoices-with-zoho-books/",
+    "https://www.getmyinvoices.com/en/integration/automatically-export-receipts-to-accountable-expert/",
+    "https://www.getmyinvoices.com/en/integration/wolters-kluwer/",
+    "https://www.getmyinvoices.com/en/integration/agenda/",
+    "https://www.getmyinvoices.com/en/integration/bexio/",
+    "https://www.getmyinvoices.com/en/integration/bill-collector-billy-dk/",
+    "https://www.getmyinvoices.com/en/integration/bmd/",
+    "https://www.getmyinvoices.com/en/integration/automatically-import-incoming-invoices-into-accounting-butler/",
+    "https://www.getmyinvoices.com/en/integration/datev-receipt-transfer-invoice-download-2/",
+    "https://www.getmyinvoices.com/en/integration/download-invoices-and-transfer-them-to-debitoor/",
+    "https://www.getmyinvoices.com/en/integration/download-dinero-invoices/",
+    "https://www.getmyinvoices.com/en/integration/domonda-document-transfer-for-digital-invoices/",
+    "https://www.getmyinvoices.com/en/integration/invoice-download/",
+    "https://www.getmyinvoices.com/en/integration/exact-invoice-import/",
+    "https://www.getmyinvoices.com/en/integration/fastbill-receipt-importer/",
+    "https://www.getmyinvoices.com/en/integration/financial-data/",
+    "https://www.getmyinvoices.com/en/integration/import-receipts-into-finmatics/",
+    "https://www.getmyinvoices.com/en/integration/hmd-dts-and-getmyinvoices/",
+    "https://www.getmyinvoices.com/en/integration/automatically-export-invoices-to-incwo/",
+    "https://www.getmyinvoices.com/en/integration/all-invoices-automated-in-justfarming/",
+    "https://www.getmyinvoices.com/en/integration/juston/",
+    "https://www.getmyinvoices.com/en/integration/automatically-upload-receipts-to-the-tax-office-online/",
+    "https://www.getmyinvoices.com/en/integration/import-documents-automatically-from-lexoffice/",
+    "https://www.getmyinvoices.com/en/integration/accounting-automation-through-invoice-download-to-lexoffice/",
+    "https://www.getmyinvoices.com/en/integration/microsoft-dynamics-365-business-central/",
+    "https://www.getmyinvoices.com/en/integration/all-invoices-complete-for-accounting-in-paperwork/",
+    "https://www.getmyinvoices.com/en/integration/automatically-export-invoices-to-pennylane/",
+    "https://www.getmyinvoices.com/en/integration/automatically-import-incoming-invoices-into-reybex/",
+    "https://www.getmyinvoices.com/en/integration/collect-receipts-with-saasu/",
+    "https://www.getmyinvoices.com/en/integration/electronic-workflow-for-electronic-invoices-with-sage-business-cloud-accounting/",
+    "https://www.getmyinvoices.com/en/integration/sage-live-invoice-fetching-service/",
+    "https://www.getmyinvoices.com/en/integration/seewara/",
+    "https://www.getmyinvoices.com/en/integration/export-invoices-to-selectline/",
+    "https://www.getmyinvoices.com/en/integration/sevdesk-receipt-transfer-for-digital-invoices/",
+    "https://www.getmyinvoices.com/en/integration/smallinvoice/",
+    "https://www.getmyinvoices.com/en/integration/stotax-select/",
+    "https://www.getmyinvoices.com/en/integration/automatic-document-exchange-between-getmyinvoices-weclapp/",
+    "https://www.getmyinvoices.com/en/integration/automatically-export-receipts-to-xentral/",
+    "https://www.getmyinvoices.com/en/integration/import-receipts-into-billomat/",
+    "https://www.getmyinvoices.com/en/integration/transfer-outgoing-invoices-from-easybill-to-accounting/",
+    "https://www.getmyinvoices.com/en/integration/zoho-invoice/"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.getmyinvoices.com/en/integration/quickbooks-invoice-importer/",
+     "evidence": "Sync account 'Export' to QuickBooks; help centre names QuickBooks Online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.getmyinvoices.com/en/integration/xero-incoming-invoices/",
+     "evidence": "Add sync account, Export, select Xero; documents transferred automatically",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Zoho Books",
+     "source_url": "https://www.getmyinvoices.com/en/integration/workflow-incoming-invoices-with-zoho-books/",
+     "evidence": "Export sync account to Zoho Books",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.getmyinvoices.com/en/integration/datev-receipt-transfer-invoice-download-2/",
+     "evidence": "Document export to DATEV Unternehmen online (Rechnungsdatenservice 1.0)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://www.getmyinvoices.com/en/integration/accounting-automation-through-invoice-download-to-lexoffice/",
+     "evidence": "Export sync to Lexware Office; separate import sync also exists",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "sevdesk",
+     "source_url": "https://www.getmyinvoices.com/en/integration/sevdesk-receipt-transfer-for-digital-invoices/",
+     "evidence": "Document exchange (export) between GetMyInvoices and sevdesk",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BuchhaltungsButler",
+     "source_url": "https://www.getmyinvoices.com/en/integration/automatically-import-incoming-invoices-into-accounting-butler/",
+     "evidence": "Interface transfers invoices and receipts automatically to BuchhaltungsButler",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ADDISON OneClick",
+     "source_url": "https://www.getmyinvoices.com/en/integration/wolters-kluwer/",
+     "evidence": "Premium partner solution via ADDISON SMART Connect; automated document transfer",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://www.getmyinvoices.com/en/integration/agenda/",
+     "evidence": "Export sync; partner connection through Agenda Connect",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://www.getmyinvoices.com/en/integration/microsoft-dynamics-365-business-central/",
+     "evidence": "Export sync sends invoices automatically to the Business Central interface",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "pennylane",
+     "source_url": "https://www.getmyinvoices.com/en/integration/automatically-export-invoices-to-pennylane/",
+     "evidence": "Automatically creates an invoice in pennylane and attaches scanned files",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact",
+     "source_url": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+     "evidence": "'Automated interface to Exact'; product (Online/Globe) not specified",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "e-boekhouden",
+     "source_url": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+     "evidence": "'GetMyInvoices offers an automated interface to e-boekhouden'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Business Cloud - Buchhaltung",
+     "source_url": "https://www.getmyinvoices.com/en/integration/electronic-workflow-for-electronic-invoices-with-sage-business-cloud-accounting/",
+     "evidence": "Sync account transfers invoices to Sage Business Cloud Buchhaltung",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Business Cloud Financials",
+     "source_url": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+     "evidence": "'Automated interface to Sage Business Cloud Financials'; no further detail",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BMD",
+     "source_url": "https://www.getmyinvoices.com/en/integration/bmd/",
+     "evidence": "Transfers invoices directly via an interface to BMD",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "bexio",
+     "source_url": "https://www.getmyinvoices.com/en/integration/bexio/",
+     "evidence": "Import sync: documents from bexio automatically imported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FastBill",
+     "source_url": "https://www.getmyinvoices.com/en/integration/fastbill-receipt-importer/",
+     "evidence": "Document export and import between GetMyInvoices and FastBill",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Billomat",
+     "source_url": "https://www.getmyinvoices.com/en/integration/import-receipts-into-billomat/",
+     "evidence": "Add sync account, Export, select Billomat",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Debitoor",
+     "source_url": "https://www.getmyinvoices.com/en/integration/download-invoices-and-transfer-them-to-debitoor/",
+     "evidence": "Add sync account, Export, select Debitoor",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Papierkram",
+     "source_url": "https://www.getmyinvoices.com/en/integration/all-invoices-complete-for-accounting-in-paperwork/",
+     "evidence": "Automated interface to Papierkram (invoice import, API)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "easyBill",
+     "source_url": "https://www.getmyinvoices.com/en/integration/transfer-outgoing-invoices-from-easybill-to-accounting/",
+     "evidence": "Import sync with easyBill API key",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Accountable",
+     "source_url": "https://www.getmyinvoices.com/en/integration/automatically-export-receipts-to-accountable-expert/",
+     "evidence": "Add sync account, Export, select Accountable",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dinero",
+     "source_url": "https://www.getmyinvoices.com/en/integration/download-dinero-invoices/",
+     "evidence": "Automated interface to Dinero, Danish cloud accounting software",
+     "kind": "api",
+     "countries_stated": [
+      "DK"
+     ]
+    },
+    {
+     "software_raw": "billy",
+     "source_url": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+     "evidence": "'GetMyInvoices offers an automated interface to billy'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Saasu",
+     "source_url": "https://www.getmyinvoices.com/en/integration/collect-receipts-with-saasu/",
+     "evidence": "Add sync account, Export, select Saasu",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "weclapp",
+     "source_url": "https://www.getmyinvoices.com/en/integration/automatic-document-exchange-between-getmyinvoices-weclapp/",
+     "evidence": "Invoices from GetMyInvoices automatically transferred to weclapp",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xentral",
+     "source_url": "https://www.getmyinvoices.com/en/integration/automatically-export-receipts-to-xentral/",
+     "evidence": "Install GetMyInvoices app in Xentral and create an API account",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Reybex",
+     "source_url": "https://www.getmyinvoices.com/en/integration/automatically-import-incoming-invoices-into-reybex/",
+     "evidence": "Retrieves invoices and automatically transfers them to Reybex ERP",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SEEWARA",
+     "source_url": "https://www.getmyinvoices.com/en/integration/seewara/",
+     "evidence": "Automatically send invoices to the SEEWARA interface",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SelectLine",
+     "source_url": "https://www.getmyinvoices.com/en/integration/export-invoices-to-selectline/",
+     "evidence": "Paid third-party 'FINN.ghost | GETMYINVOICES interface for SelectLine'",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "hmd.dts",
+     "source_url": "https://www.getmyinvoices.com/en/integration/hmd-dts-and-getmyinvoices/",
+     "evidence": "Automated provision of documents to hmd-software solution",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Stotax",
+     "source_url": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+     "evidence": "'GetMyInvoices offers an automated interface to Stotax'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FIBUdata",
+     "source_url": "https://www.getmyinvoices.com/en/integration/financial-data/",
+     "evidence": "Synchronisation set up following the FIBUdata manual",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Just Farming",
+     "source_url": "https://www.getmyinvoices.com/en/integration/all-invoices-automated-in-justfarming/",
+     "evidence": "Export sync to Just Farming (Farm Book accounting)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "incwo",
+     "source_url": "https://www.getmyinvoices.com/en/integration/automatically-export-invoices-to-incwo/",
+     "evidence": "Integration with incwo installed in a few clicks",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Smallinvoice",
+     "source_url": "https://www.getmyinvoices.com/en/integration/smallinvoice/",
+     "evidence": "Automated interface to Smallinvoice (invoice import, API)",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Same integration list on EN, DE, FR, ES and NL pages (about 100 entries incl. DMS, storage, CRM, shops). These are document-sync accounts (invoice PDFs plus structured data), direction is export unless evidence says import; countries not stated on pages. Several subpages are thin ('automated interface' only). Not listed here: non-accounting tools (BILL, Candis, finway, Finmatics, domonda, kanzlei.land, DocuWare, Zoho Invoice, etc.) and Zapier/public API. Not found: SAP, Scopevisio, Addison (non-OneClick), NetSuite, Odoo, Twinfield, Moneybird, SnelStart, AFAS, Holded, Sage 50/100, Cegid, French software other than pennylane and incwo."
+  },
+  {
+   "id": "klippa",
+   "name": "Klippa (Doxis SpendControl)",
+   "domain": "klippa.com",
+   "hq_country": "NL",
+   "integrations_url": "https://www.klippa.com/en/spendcontrol-en/integrations/",
+   "pages_read": [
+    "https://www.klippa.com/en/integrations/",
+    "https://www.klippa.com/en/spendcontrol-en/integrations/",
+    "https://www.klippa.com/koppelingen/",
+    "https://www.klippa.com/spendcontrol/koppelingen/",
+    "https://www.klippa.com/de/integration/",
+    "https://www.klippa.com/fr/integrations-fr/",
+    "https://www.klippa.com/koppelingen/exact-globe/",
+    "https://www.klippa.com/koppelingen/exact-online/",
+    "https://www.klippa.com/koppelingen/multivers/",
+    "https://www.klippa.com/koppelingen/afas/",
+    "https://www.klippa.com/koppelingen/netsuite/",
+    "https://www.klippa.com/koppelingen/microsoft-dynamics-365/",
+    "https://www.klippa.com/koppelingen/odoo/",
+    "https://www.klippa.com/koppelingen/informer/",
+    "https://www.klippa.com/koppelingen/twinfield/",
+    "https://www.klippa.com/koppelingen/visma/",
+    "https://www.klippa.com/koppelingen/asperion/",
+    "https://www.klippa.com/koppelingen/sap/",
+    "https://www.klippa.com/koppelingen/minox/",
+    "https://www.klippa.com/en/spendcontrol-en/integrations/datev/",
+    "https://www.klippa.com/en/spendcontrol-en/integrations/exact-globe/",
+    "https://www.klippa.com/en/spendcontrol-en/integrations/quickbooks/",
+    "https://www.klippa.com/en/spendcontrol-en/integrations/xero/",
+    "https://www.klippa.com/en/spendcontrol-en/integrations/sap/",
+    "https://www.klippa.com/en/spendcontrol-en/integrations/netsuite/",
+    "https://www.klippa.com/en/spendcontrol-en/integrations/microsoft-dynamics/",
+    "https://help.klippa.com/en/category/integrations-14wkcie/",
+    "https://help.klippa.com/en/article/what-is-the-status-of-my-bookkeeping-integration-hse4aw/",
+    "https://help.klippa.com/en/category/exporting-d1z927/"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.klippa.com/koppelingen/exact-online/",
+     "evidence": "Connects directly to Exact Online via SpendControl and AI.dp API",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Globe",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/exact-globe/",
+     "evidence": "Integration with Exact Globe to synchronize data via an API",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "AFAS",
+     "source_url": "https://www.klippa.com/koppelingen/afas/",
+     "evidence": "SpendControl connects directly with AFAS; books invoices directly to AFAS",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://www.klippa.com/koppelingen/twinfield/",
+     "evidence": "Connects directly with Twinfield; books invoices directly incl. ledger, VAT code",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Visma",
+     "source_url": "https://www.klippa.com/koppelingen/visma/",
+     "evidence": "Connects directly with Visma; product not specified",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Minox",
+     "source_url": "https://www.klippa.com/koppelingen/minox/",
+     "evidence": "API link; approved invoices and expenses booked directly in Minox",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Informer",
+     "source_url": "https://www.klippa.com/koppelingen/informer/",
+     "evidence": "Official Informer partner; real-time integration syncs data, booking proposals",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Asperion",
+     "source_url": "https://www.klippa.com/koppelingen/asperion/",
+     "evidence": "Integrated with Asperion through an official API",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Multivers",
+     "source_url": "https://www.klippa.com/koppelingen/multivers/",
+     "evidence": "Official Multivers partner; real-time integration with booking proposals",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.klippa.com/koppelingen/odoo/",
+     "evidence": "Connects directly to Odoo; books invoices directly to Odoo",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/netsuite/",
+     "evidence": "Two-way NetSuite integration via API (Klippa for Netsuite SuiteApp)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/microsoft-dynamics/",
+     "evidence": "Real-time two-way integration with Microsoft Dynamics 365 Business Central",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business ByDesign",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/sap/",
+     "evidence": "Direct API integration with SAP Business ByDesign",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/sap/",
+     "evidence": "Smart import-export functions or an API connection",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP ECC & SAP S/4HANA",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/sap/",
+     "evidence": "API connection or automatic import-export functions",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/datev/",
+     "evidence": "Integration with DATEV via an API; help centre covers DATEV Unternehmen online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/quickbooks/",
+     "evidence": "Official partners; two-way integration synchronising Quickbooks data",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.klippa.com/en/spendcontrol-en/integrations/xero/",
+     "evidence": "Integration with Xero to synchronize data via an API, two-way",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://help.klippa.com/en/article/what-is-the-status-of-my-bookkeeping-integration-hse4aw/",
+     "evidence": "Listed among Klippa integrations' status pages; product not specified",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Klippa is now branded Doxis (SER Group); integrations concern the SpendControl product (expenses and invoice processing). EN page claims 20+ accounting/ERP integrations but shows logos only; names taken from NL 'koppelingen' subpages, EN subpages and the help centre. DE and FR pages list only Dynamics, DATEV (DE), NetSuite, QuickBooks, SAP, Xero. Countries not stated. Generic exports (XLSX, CSV, PDF, UBL, XML) and a public API exist for other software. Not found: Moneybird, e-Boekhouden, SnelStart, Yuki, Visma eAccounting by name, Pennylane, Cegid, Sage product names, Holded."
+  }
+ ]
+}

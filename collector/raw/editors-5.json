@@ -1,0 +1,1498 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "n26-business",
+   "name": "N26 Business",
+   "domain": "n26.com",
+   "hq_country": "DE",
+   "integrations_url": "",
+   "pages_read": [
+    "https://n26.com/en-eu/plans-business",
+    "https://n26.com/en-eu/business-bank-account",
+    "https://n26.com/en-eu/small-business-bank-account",
+    "https://n26.com/en-eu/free-business-bank-account",
+    "https://n26.com/de-de/geschaeftskonto",
+    "https://n26.com/de-de/kostenloses-geschaeftskonto",
+    "https://n26.com/en-eu/webapp",
+    "https://n26.com/en-es/blog/anfix",
+    "https://support.n26.com/en-eu/memberships-and-account-types/business-accounts/what-is-a-n26-business-account",
+    "https://support.n26.com/de-de/mitgliedschaften-und-kontotypen/business-konten/was-ist-n26-business",
+    "https://support.n26.com/en-eu/account-and-personal-details/bank-statements-and-confirmations/how-to-get-bank-statement-n26",
+    "https://n26.com/sitemap-pages.xml",
+    "https://n26.com/sitemap-blog-posts.xml"
+   ],
+   "pages_unreadable": [],
+   "connections": [],
+   "notes": "No public accounting integration found: no integrations page, no accounting software named on business or support pages. Only generic PDF/CSV activity export. Anfix appears only as a 2022 discount offer for Spanish customers (blog), not an integration; Taxfix blog posts are tax-filing promos. Sitemaps scanned for all checklist names: no match besides Anfix. FR/ES/IT business landing pages not located (guessed URLs 404), checked via sitemap only."
+  },
+  {
+   "id": "bunq",
+   "name": "bunq",
+   "domain": "bunq.com",
+   "hq_country": "NL",
+   "integrations_url": "https://www.bunq.com/en-nl/business/features/integrations",
+   "pages_read": [
+    "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+    "https://help.bunq.com/nl-nl/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+    "https://help.bunq.com/de-de/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+    "https://help.bunq.com/fr-fr/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+    "https://help.bunq.com/it-it/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+    "https://help.bunq.com/es-es/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+    "https://www.bunq.com/en-nl/business/features/integrations",
+    "https://www.bunq.com/en-nl/business/features/integrations/exact",
+    "https://www.bunq.com/en-nl/business/features/integrations/sage",
+    "https://www.bunq.com/en-nl/business/features/integrations/oracle-netsuite",
+    "https://www.bunq.com/en-nl/business/features/integrations/datev",
+    "https://www.bunq.com/en-nl/business/features/integrations/minox",
+    "https://www.bunq.com/en-nl/business/features/integrations/e-boekhouden",
+    "https://www.bunq.com/en-nl/business/features/integrations/buchhaltungsbutler",
+    "https://www.bunq.com/en-nl/business/features/integrations/agenda",
+    "https://www.bunq.com/en-nl/business/features/integrations/addison",
+    "https://www.bunq.com/sitemap_en-NL.xml",
+    "https://www.bunq.com/sitemap_nl-BE.xml",
+    "https://www.bunq.com/sitemap_de-DE.xml",
+    "https://www.bunq.com/sitemap_fr-FR.xml",
+    "https://www.bunq.com/sitemap_es-ES.xml",
+    "https://www.bunq.com/sitemap_it-IT.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.bunq.com/en-nl/bookkeeping-integrations",
+     "reason": "HTTP 404"
+    },
+    {
+     "url": "https://www.bunq.com/features/bookkeeping-software-integrations",
+     "reason": "HTTP 404 (old URL)"
+    },
+    {
+     "url": "https://developers.bunq.com/benefits/bookkeeping",
+     "reason": "Redirects to generic developers page, no list"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Asperion",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Bizcuit",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Cash",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "e-boekhouden",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Exact",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Dyme",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Gekko",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Gripp.com",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Informer Online",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Jortt",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Kleinsteen",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "MoneyBird",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "MoneyMoney",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "MoneyMonk",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Minox",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Spend Cloud",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Tellow",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Twunq",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "DE",
+      "FR",
+      "IE",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Oracle NetSuite",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "DE",
+      "FR",
+      "IE",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "DE",
+      "FR",
+      "IE",
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Invers",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Ockto",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Flow Money",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "FactuurSturen",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Vinvu",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Accountable",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Snelstart",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Reeleeze",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Afas Software",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Uniconta",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "ECI",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Bizon",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "CSW",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Digitaal kantoor",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Informant",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Milogic",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Mysolution",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Incassotool",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Springleaf",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Syntess",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "VVE Totaal",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "MKG Nederland",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Capisoft",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Powerall",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "VvE.nl",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "BREEX Easybox",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Bunni",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Paperdork",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Fundrbird",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Q-Administratie",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Logic4",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "InvoiceHippo",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Solvve",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.bunq.com/en-nl/business/features/integrations/datev",
+     "evidence": "Setup via DATEV HBCI access, 'confirm the finAPI note' (finAPI)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Addison",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "ETL PISA",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "BMD (AT)",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE",
+      "AT"
+     ]
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Manubu (AT)",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE",
+      "AT"
+     ]
+    },
+    {
+     "software_raw": "Fastbill",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Easybill",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "BuchhaltungsButler",
+     "source_url": "https://www.bunq.com/en-nl/business/features/integrations/buchhaltungsbutler",
+     "evidence": "Live transaction sync; 'Bankverbindung über finAPI' (finAPI)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "SevDesk",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "WeClapp",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Xentral",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Scopevisio",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Billbee",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Cisbox",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "WISO MeinBüro",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Billomat",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "GetMyInvoices",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Agicap",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Macompta.fr",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Axonaut",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Dougs",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Comptalib",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "IPaidThat.io",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "heybilly.io",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Moolynet",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Majélis Tutelle",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Hubflo",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Factorial",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Billit",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR",
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "Payflows",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Zervant",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fygr",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Azopio",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Surf Accounts",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "Freshbooks",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "AccountsIQ",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "Finotor",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "Surf (Brightbooks)",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "Orama",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Banktrack",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "STEL Order",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Bankinplay",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Kintai",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "FinanEDI",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Inmatic",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Geyce Software",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Controlplus",
+     "source_url": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+     "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    }
+   ],
+   "notes": "Main source is the help-centre article, which lists software per country (NL, DE, FR, IE, ES); identical list in all language versions; no BE, IT or UK list. Names kept as written (e.g. 'Exact', 'Sage', 'Microsoft Dynamics', 'Afas Software' without product precision). List mixes accounting tools with invoicing, cash-management and other fintech apps; all kept since bunq labels them bookkeeping software. Mechanism stated generically as bunq API + OAuth; DATEV and BuchhaltungsButler pages describe a finAPI bank connection. Marketing index shows only 12 logos (JS pagination); sitemap exposes 35 per-software pages, 9 sampled. Not found: Xero, QuickBooks, lexoffice/Lexware Office, Holded, Odoo, Visma, Octopus, WinBooks."
+  },
+  {
+   "id": "tide",
+   "name": "Tide",
+   "domain": "tide.co",
+   "hq_country": "GB",
+   "integrations_url": "https://www.tide.co/features/accounting-integrations/",
+   "pages_read": [
+    "https://www.tide.co/features/accounting-integrations/",
+    "https://www.tide.co/help-centre/tide-accounting-integrations/",
+    "https://www.tide.co/help-centre/xero-connector/",
+    "https://www.tide.co/features/xero/",
+    "https://www.tide.co/xero-bank-feed/",
+    "https://www.tide.co/features/accounting-software/",
+    "https://www.tide.co/partners-accountants/",
+    "https://www.tide.co/help-centre/",
+    "https://www.tide.co/help-centre/download-tide-account-statements-and-transactions/",
+    "https://www.tide.co/making-tax-digital/",
+    "https://www.tide.co/de-DE/features/datev-integration/",
+    "https://www.tide.co/de-DE/features/accounting-software/",
+    "https://www.tide.co/de-DE/help-centre/",
+    "https://www.tide.co/de-DE/help-centre/accountancy-hub/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.tide.co/support/features/tide-accounting/accounting-software-integrations/",
+     "reason": "Old support URL, redirects to generic help-centre page"
+    },
+    {
+     "url": "https://www.tide.co/support/features/tide-accounting/how-can-i-connect-my-tide-account-to-xero/",
+     "reason": "Old support URL, redirects to generic help-centre page"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.tide.co/features/accounting-integrations/",
+     "evidence": "'Our Xero accounting integration is a direct sync'; paid Xero Connector",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Accounting",
+     "source_url": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+     "evidence": "Connects via Open Banking bank feed, daily transaction import",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FreeAgent",
+     "source_url": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+     "evidence": "Connects via Open Banking bank feed, daily transaction import, feed every 24 hours",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Coconut",
+     "source_url": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+     "evidence": "Connects via Open Banking bank feed, daily transaction import",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "KashFlow",
+     "source_url": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+     "evidence": "Connects via KashFlow 'Open Banking Feeds'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+     "evidence": "Connects via Open Banking bank feed, daily transaction import",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Crunch",
+     "source_url": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+     "evidence": "Connects via Open Banking bank feed, daily transaction import",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Clear Books",
+     "source_url": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+     "evidence": "Open Banking bank feed set up in Clear Books",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Reckon One",
+     "source_url": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+     "evidence": "Open Banking bank feed set up in Reckon One",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.tide.co/de-DE/features/datev-integration/",
+     "evidence": "DATEV-Schnittstelle: bookings synced automatically (needs Buchungsdatenservice)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ],
+   "notes": "UK site: Xero is a direct sync (plus paid Xero Connector); the eight others are Open Banking bank feeds initiated from the accounting software, coded as api. On the marketing page the eight are logos only (names read from link targets); names taken from the help-centre article, which misspells two in its intro ('CashFlow', 'Crush') but uses KashFlow and Crunch in headings. UK pages do not state the country, so countries_stated left empty for them. Germany site: DATEV interface only. India site not checked. Generic CSV export exists, no software-specific file export."
+  },
+  {
+   "id": "holvi",
+   "name": "Holvi",
+   "domain": "holvi.com",
+   "hq_country": "FI",
+   "integrations_url": "https://www.holvi.com/de/schnittstellen/",
+   "pages_read": [
+    "https://www.holvi.com/de/schnittstellen/",
+    "https://www.holvi.com/de/geschaeftskonto/datev-schnittstelle/",
+    "https://www.holvi.com/de/geschaeftskonto/lexoffice/",
+    "https://www.holvi.com/de/geschaeftskonto/sevdesk/",
+    "https://www.holvi.com/de/exporte/",
+    "https://www.holvi.com/fi/yhteydet/",
+    "https://www.holvi.com/bank-connections/",
+    "https://www.holvi.com/bookkeeping/",
+    "https://www.holvi.com/sitemap.xml",
+    "https://www.holvi.com/de/sitemap.xml",
+    "https://www.holvi.com/fi/sitemap.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.holvi.com/integrations/",
+     "reason": "HTTP 404"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV Bankdatenservice",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Selected interface, automatic sync via RZ-Bankinfo / EBICS",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "lexware Office",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Selected interface, finance data synced once set up",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Sevdesk",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Listed under further interfaces, connects via standard PSD2 interface",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Buchhaltungsbutler",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Listed under further interfaces, connects via standard PSD2 interface",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Sorted",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Listed under further interfaces, connects via standard PSD2 interface",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "FastBill",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Listed under further interfaces, connects via standard PSD2 interface",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Scopevisio",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Listed under further interfaces, connects via standard PSD2 interface",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Oodo",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Odoo spelled 'Oodo'; PSD2 interface (DE), other connections (FI)",
+     "kind": "api",
+     "countries_stated": [
+      "DE",
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Accountable",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Listed under further interfaces, connects via standard PSD2 interface",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Netvisor",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks; CSV report also available",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Askelma",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Acanta",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "NOCFO",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks; NOCFO fetches transactions from Holvi",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Finago Procountor",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks; tailored Excel/CSV report too",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Easor",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Fennoa",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Azets",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Kitsas Pro",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Merkuri",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Aallon Portti",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Netbox",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Briox",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Selected connection; account report in PDF and XML",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Passeli Merit",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Bank connection activated in Passeli Merit; camt.052 XML export",
+     "kind": "api",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Fivaldi",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Fivaldi-compatible account report downloadable as CSV",
+     "kind": "file_export",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Kitsas",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Listed under other connections, mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "FI"
+     ]
+    },
+    {
+     "software_raw": "Asteri",
+     "source_url": "https://www.holvi.com/fi/yhteydet/",
+     "evidence": "Listed under other connections, mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "FI"
+     ]
+    }
+   ],
+   "notes": "Germany: DATEV (EBICS / RZ-Bankinfo) and Lexware Office are co-developed interfaces; the others connect through the standard PSD2 interface. DATEV-format report export (SKR 03/04) also exists. Finland: bank connections (SFTP channel per English page) plus CSV/XML reports. Not included as non-accounting tools: BillBee, MoneyMoney, Agicap, Commitly, Tidely, GetMyInvoices (DE); Lemon tree (accounting firm), Finago eTasku, Finago Isolta, Ukko, Dropbox (FI). 'Oodo' is the site's spelling of Odoo. Countries taken from the country edition of the site (Holvi Deutschland / Finnish site). Austrian edition and support.holvi.com not read in detail."
+  },
+  {
+   "id": "kontist",
+   "name": "Kontist",
+   "domain": "kontist.com",
+   "hq_country": "DE",
+   "integrations_url": "https://intercom.help/kontist/en/articles/1559970-how-do-i-connect-my-account-with-an-accounting-software",
+   "pages_read": [
+    "https://intercom.help/kontist/en/articles/1559970-how-do-i-connect-my-account-with-an-accounting-software",
+    "https://intercom.help/kontist/de/",
+    "https://intercom.help/kontist/de/collections/9162848-integrationen-features",
+    "https://intercom.help/kontist/de/collections/9068572-buchhaltung-steuern",
+    "https://kontist.com/",
+    "https://kontist.com/product/kontist-buchhaltung/",
+    "https://kontist.com/product/sevdesk-bundle/",
+    "https://kontist.com/product/gmbh-ug-gbr/",
+    "https://kontist.com/product/geschaeftskonto-kleinunternehmer/",
+    "https://kontist.com/product/freelancers/",
+    "https://kontist.com/product/belegmanagement/",
+    "https://kontist.com/pricing/",
+    "https://kontist.com/en/integrations/fastbill/",
+    "https://kontist.com/en/compare/bookkeeping-users/",
+    "https://kontist.com/support/",
+    "https://kontist.com/sitemap.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://kontist.com/product/lexoffice-video/",
+     "reason": "Redirects to homepage"
+    },
+    {
+     "url": "https://kontist.com/product/debitoor-video/",
+     "reason": "Redirects to homepage"
+    },
+    {
+     "url": "https://intercom.help/kontist/de/articles/2455128-wie-kann-ich-sehen-ob-meine-kontist-app-richtig-mit-debitoor-fastbill-lexoffice-verbunden-ist",
+     "reason": "HTTP 404 (article removed)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "sevdesk",
+     "source_url": "https://kontist.com/product/sevdesk-bundle/",
+     "evidence": "Kontist account linked directly in sevdesk, transactions imported automatically",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "lexoffice",
+     "source_url": "https://kontist.com/product/gmbh-ug-gbr/",
+     "evidence": "Connect Kontist with lexoffice or sevDesk; transactions transferred automatically",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "lexware",
+     "source_url": "https://kontist.com/product/gmbh-ug-gbr/",
+     "evidence": "'Schnittstellen zu gängiger Buchhaltungssoftware (lexware, sevDesk etc.)'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FastBill",
+     "source_url": "https://kontist.com/en/integrations/fastbill/",
+     "evidence": "'Realtime accounting integration', real-time synchronization of payments",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://intercom.help/kontist/en/articles/1559970-how-do-i-connect-my-account-with-an-accounting-software",
+     "evidence": "Link to DATEV via PSD2/XS2A interface; DATEV-format export also offered",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "No integrations marketplace. sevdesk is the promoted partner (bundle in every plan). Help centre describes a generic PSD2 link (banking by Solaris) initiated from the accounting software, with DATEV named. 'lexware' and 'lexoffice' both appear on the same page; product behind 'lexware' is ambiguous (probably Lexware Office). FastBill page exists only in the English sitemap and may be legacy. Debitoor pages are gone. DATEV-format export with receipts and CSV export are also offered. Site is Germany-only but pages do not state the country."
+  }
+ ]
+}

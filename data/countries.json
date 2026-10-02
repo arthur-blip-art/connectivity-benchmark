@@ -1,0 +1,541 @@
+[
+  {
+    "code": "FR",
+    "name": "France",
+    "channel": {
+      "value": "accountant",
+      "explanation": "48% of French SMEs work with a chartered accountant, close to 80% of the smallest ones (Chift survey 2026). Larger SMEs often keep accounting in house.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+        "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+        "https://www.compta-online.com/les-chiffres-de-expertise-comptable-en-france-ao861"
+      ]
+    },
+    "reform": {
+      "summary": "Receiving is mandatory for all companies since 1 September 2026. Issuing extends to SMEs on 1 September 2027.",
+      "network": "Approved private platforms (plateformes agréées). Peppol is optional.",
+      "milestones": [
+        {
+          "date": "2026-09-01",
+          "what": "All companies must be able to receive e-invoices; large companies (GE) and mid-caps (ETI) must issue e-invoices."
+        },
+        {
+          "date": "2027-09-01",
+          "what": "Issuing obligation extended to SMEs, small and micro-enterprises ('at the latest' per DGFiP FAQ), together with the obligation to transmit invoicing, transaction and payment data (e-reporting)."
+        }
+      ],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.impots.gouv.fr/professionnel/je-passe-la-facturation-electronique",
+        "https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/calendrier_reforme_facturation_electronique_18012024.pdf.pdf",
+        "https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/faq_tout_savoir_facturation-electronique.pdf",
+        "https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/guide_pratique_facturation_electronique.pdf",
+        "https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees"
+      ]
+    },
+    "note": {
+      "text": "Three layers: accountant suites (Cegid Quadra, Sage Génération Experts, ACD), cloud platforms shared by firms and SMEs (Pennylane), in-house SME software (Sage 100, EBP). Each Sage and Cegid product is a separate integration.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (200 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      },
+      {
+        "kind": "vendor-figures",
+        "label": "Customer figures published by the vendors",
+        "url": null
+      },
+      {
+        "kind": "directory",
+        "label": "connect-compta directory, by Chift",
+        "url": "https://www.connect-compta.fr/#annuaire"
+      },
+      {
+        "kind": "peppol-measure",
+        "label": "Peppol measure",
+        "url": "https://www.connect-compta.fr/carte"
+      }
+    ]
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "channel": {
+      "value": "accountant",
+      "explanation": "Accounting is delegated to the Steuerberater for most SMEs, more than in any other market of Chift's 2026 survey.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors",
+        "https://www.datev.de/web/de/berufsgruppenuebergreifend/presse/presseinformationen/meldungen-2026/datev-mit-cloud-angeboten-weiter-auf-wachstumskurs"
+      ]
+    },
+    "reform": {
+      "summary": "Receiving is mandatory since 2025. Issuing becomes mandatory in 2027 above EUR 800,000 of turnover, and for everyone in 2028.",
+      "network": "No mandated network. XRechnung or ZUGFeRD format. Peppol is an option.",
+      "milestones": [
+        {
+          "date": "2025-01-01",
+          "what": "All domestic businesses must be able to receive e-invoices; issuing is optional during the transition."
+        },
+        {
+          "date": "2026-12-31",
+          "what": "End of the general transition period for issuers (paper, or other e-formats with recipient consent)."
+        },
+        {
+          "date": "2027-01-01",
+          "what": "Issuing e-invoices mandatory for businesses with prior-year turnover above EUR 800,000."
+        },
+        {
+          "date": "2027-12-31",
+          "what": "End of the transition for issuers with prior-year turnover up to EUR 800,000 and for non-compliant EDI procedures."
+        },
+        {
+          "date": "2028-01-01",
+          "what": "Issuing e-invoices mandatory for all domestic B2B transactions."
+        }
+      ],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.bundesfinanzministerium.de/Content/DE/FAQ/e-rechnung.html",
+        "https://e-rechnung-bund.de/e-rechnung/e-rechnung-zwischen-unternehmen-b2b",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+      ]
+    },
+    "note": {
+      "text": "The SME layer is cloud (Lexware Office, sevdesk). DATEV runs both on premise and in the cloud. ADDISON and Agenda barely show in SME surveys but matter through accountants.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (200 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      },
+      {
+        "kind": "vendor-figures",
+        "label": "Customer figures published by the vendors",
+        "url": null
+      }
+    ]
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "channel": {
+      "value": "accountant",
+      "explanation": "Accountants run the full workflow for most SMEs. Below 50 employees, accounting is almost entirely outsourced (Chift survey 2026).",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+      ]
+    },
+    "reform": {
+      "summary": "B2B e-invoicing is mandatory since 1 January 2026, for sending and receiving.",
+      "network": "Peppol, for all VAT-liable companies at once.",
+      "milestones": [
+        {
+          "date": "2026-01-01",
+          "what": "Structured e-invoicing mandatory for B2B invoices between Belgian VAT-liable enterprises (issuing and receiving), via Peppol."
+        },
+        {
+          "date": "2026-03-31",
+          "what": "End of the three-month tolerance period announced by FPS Finance."
+        },
+        {
+          "date": "2028-01-01",
+          "what": "Near real-time VAT e-reporting planned (reported by Edicom; not checked on an official page)."
+        }
+      ],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://einvoice.belgium.be/en/article/structured-electronic-invoices-between-companies-are-compulsory-2026",
+        "https://einvoice.belgium.be/en/FAQ/general-questions-b2b",
+        "https://einvoice.belgium.be/en/news/period-tolerance-during-first-three-months-2026",
+        "https://edicomgroup.com/blog/belgium-will-make-b2b-electronic-invoice-mandatory"
+      ]
+    },
+    "note": {
+      "text": "Two markets. Flanders is mostly cloud (Exact Online, Octopus, Adsolut, Yuki). Wallonia is more on premise (Horus, WinBooks, Sage BOB 50, Odoo).",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (100 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      },
+      {
+        "kind": "vendor-figures",
+        "label": "Customer figures published by the vendors",
+        "url": null
+      },
+      {
+        "kind": "peppol-measure",
+        "label": "Peppol measure",
+        "url": null
+      }
+    ]
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "channel": {
+      "value": "sme",
+      "explanation": "Entrepreneurs often start without an accountant and keep their own books. Accountants come in later, for compliance and annual accounts.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+        "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+        "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-the-netherlands-in-2025"
+      ]
+    },
+    "reform": {
+      "summary": "B2B e-invoicing is not mandatory.",
+      "network": "Voluntary. E-invoicing to government is established.",
+      "milestones": [
+        {
+          "date": "2026-09-11",
+          "what": "Cabinet outline letter (Contourenbrief elektronisch factureren en rapporteren, ref. 2026-0000288216) sent to the House of Representatives."
+        },
+        {
+          "date": "2028-07-01",
+          "what": "Target date to complete the parliamentary process (two years before entry into force)."
+        },
+        {
+          "date": "2030-07-01",
+          "what": "Planned: mandatory e-invoicing for domestic and intra-EU B2B transactions; digital reporting of intra-EU transactions to the Tax Administration."
+        },
+        {
+          "date": "2031-07-01",
+          "what": "Planned: digital reporting of domestic B2B transactions to the Tax Administration."
+        }
+      ],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://open.overheid.nl/documenten/71c66f1c-c2a4-4efb-a4c3-80956ddb04f0/file",
+        "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/11/kabinet-kiest-voor-invoering-e-facturatie-en-rapportage-voor-bedrijven",
+        "https://ondernemersplein.overheid.nl/een-e-factuur-versturen-naar-de-overheid/",
+        "https://www.accountancyvanmorgen.nl/2026/09/11/e-facturatie-verplicht-vanaf-2030-digitale-btw-rapportage-aan-fiscus-een-jaar-later/",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors"
+      ]
+    },
+    "note": {
+      "text": "A fragmented, best-of-breed market: accounting firms often run several bookkeeping systems at once. Exact Online and AFAS anchor it.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (100 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      },
+      {
+        "kind": "vendor-figures",
+        "label": "Customer figures published by the vendors",
+        "url": null
+      }
+    ]
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "channel": {
+      "value": "shared",
+      "explanation": "Accountants act as advisors: they help SMEs choose, set up and run their own software, on platforms built for shared use.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+        "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "reform": {
+      "summary": "An e-invoicing mandate is planned for 2029.",
+      "network": "Planned on the Peppol network. Making Tax Digital already digitises tax filings.",
+      "milestones": [
+        {
+          "date": "2025-02-13",
+          "what": "HMRC and DBT open the consultation on promoting e-invoicing (12 weeks, 342 responses)."
+        },
+        {
+          "date": "2025-11-26",
+          "what": "Consultation response: mandatory e-invoicing for all VAT invoices from 2029, announced at Budget 2025."
+        },
+        {
+          "date": "2026-06-23",
+          "what": "Tax update 2026: Peppol announced as the core interoperability network for UK e-invoicing."
+        },
+        {
+          "date": "2029-04-01",
+          "what": "Mandatory e-invoicing for all VAT invoices, B2B and B2G ('from April 2029'; the day is not stated on the gov.uk pages opened)."
+        }
+      ],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.gov.uk/government/consultations/promoting-electronic-invoicing-across-uk-businesses-and-the-public-sector/outcome/promoting-electronic-invoicing-across-uk-businesses-and-the-public-sector-consultation-response",
+        "https://www.gov.uk/government/consultations/promoting-electronic-invoicing-across-uk-businesses-and-the-public-sector",
+        "https://www.gov.uk/government/publications/summary-of-tax-update-2026-simplification-modernisation-and-fairness/tax-update-2026-simplification-modernisation-and-fairness-summary",
+        "https://www.gov.uk/government/publications/hmrc-transformation-roadmap-progress-update-2026/hmrc-transformation-roadmap-update-2026",
+        "https://www.gov.uk/government/publications/hmrc-transformation-roadmap-progress-update-2026/annex-summary-of-hmrcs-planned-activities-listed-in-this-transformation-roadmap-progress-update"
+      ]
+    },
+    "note": {
+      "text": "Mostly global platforms. Sage is three separate products (Sage 50, Sage 200, Sage Intacct). 89 of the 200 respondents use two tools or more.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (200 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      },
+      {
+        "kind": "vendor-figures",
+        "label": "Customer figures published by the vendors",
+        "url": null
+      }
+    ]
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "channel": {
+      "value": "accountant",
+      "explanation": "Around 80% of SMEs outsource bookkeeping and tax filing to an asesoría, and most of them never touch the accounting software.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025"
+      ]
+    },
+    "reform": {
+      "summary": "Veri*Factu, certified invoicing software, takes effect in 2027. Mandatory B2B e-invoicing starts in late 2027 for large companies and in 2028 for the others.",
+      "network": "Crea y Crece law for e-invoicing; Veri*Factu for invoice records.",
+      "milestones": [
+        {
+          "date": "2022-09-28",
+          "what": "Ley 18/2022 (Crea y Crece) creates the B2B e-invoicing obligation."
+        },
+        {
+          "date": "2026-03-31",
+          "what": "Real Decreto 238/2026 published in the BOE; in force 20 days later, application deferred to the ministerial order."
+        },
+        {
+          "date": "2026-10-01",
+          "what": "Entry into force of the ministerial order on the public e-invoicing solution, according to the April 2026 draft; final publication not confirmed."
+        },
+        {
+          "date": "2027-01-01",
+          "what": "Veri*Factu deadline for corporate income taxpayers (invoicing software must be adapted before this date)."
+        },
+        {
+          "date": "2027-07-01",
+          "what": "Veri*Factu deadline for all other taxpayers."
+        },
+        {
+          "date": "2027-10-01",
+          "what": "Projected: B2B e-invoicing mandatory for businesses above EUR 8M turnover (12 months after the order). During their first 12 months they must attach a PDF."
+        },
+        {
+          "date": "2028-10-01",
+          "what": "Projected: B2B e-invoicing mandatory for all other businesses and professionals (24 months after the order)."
+        },
+        {
+          "date": "2029-10-01",
+          "what": "Projected: invoice-status reporting required from natural persons and income-attribution entities (36 months after the order)."
+        }
+      ],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7295",
+        "https://sede.agenciatributaria.gob.es/static_files/Sede/Actualidad/Novedades/2026/Nota_informativa_RD_Facturacion.pdf",
+        "https://www.hacienda.gob.es/sgt/normativadoctrina/proyectos/16042026-proyecto-pom-factura-electronica.pdf",
+        "https://sede.agenciatributaria.gob.es/Sede/iva/sistemas-informaticos-facturacion-verifactu/nota-informativa-ampliacion-plazo-adaptacion-facturacion.html"
+      ]
+    },
+    "note": {
+      "text": "Sage and Wolters Kluwer's A3 dominate accounting firms. The report says A3 is under-reported: SMEs do not know which tool their firm uses.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (200 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      },
+      {
+        "kind": "vendor-figures",
+        "label": "Customer figures published by the vendors",
+        "url": null
+      }
+    ]
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "channel": {
+      "value": "accountant",
+      "explanation": "Commercialisti handle bookkeeping, tax and payroll for most SMEs and decide which software is used.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "reform": {
+      "summary": "B2B e-invoicing has been mandatory since 2019.",
+      "network": "Through SDI, the government platform.",
+      "milestones": [
+        {
+          "date": "2015-03-31",
+          "what": "E-invoicing mandatory for invoices to the public administration (B2G)."
+        },
+        {
+          "date": "2019-01-01",
+          "what": "E-invoicing mandatory for all domestic B2B and B2C invoices, via SdI (Legge di Bilancio 2018)."
+        },
+        {
+          "date": "2024-01-01",
+          "what": "Obligation extended to all flat-rate (forfettari) taxpayers, including those under EUR 25,000 (DL 36/2022; InfoCert article, not checked on an official page)."
+        }
+      ],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+        "https://www.agenziaentrate.gov.it/portale/documents/d/guest/la_fattura_elettronica",
+        "https://futurodigitale.infocert.it/pillole-normative/fatturazione-elettronica/regime-forfettario-e-fattura-elettronica-obbligatoria-2024/",
+        "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors"
+      ]
+    },
+    "note": {
+      "text": "Read Italy by software family: TeamSystem, Zucchetti, Wolters Kluwer. Only 19% of respondents use more than one tool.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (200 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      },
+      {
+        "kind": "vendor-figures",
+        "label": "Customer figures published by the vendors",
+        "url": null
+      }
+    ]
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "channel": {
+      "value": "shared",
+      "explanation": "A hybrid model: companies keep day-to-day books themselves and rely on accountants for compliance, annual reporting and tax.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "reform": {
+      "summary": "No B2B e-invoicing mandate, but certified digital bookkeeping software is compulsory, fully since January 2026.",
+      "network": "Bookkeeping Act of 2022: systems must handle structured e-invoices.",
+      "milestones": [],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "note": {
+      "text": "Any bookkeeping system sold in Denmark must first be registered with the Danish Business Authority.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (67 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      }
+    ]
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "channel": {
+      "value": "shared",
+      "explanation": "SMEs keep day-to-day books themselves on shared cloud platforms and bring in an accountant for compliance and year-end.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "reform": {
+      "summary": "B2B e-invoicing is not mandatory. It has been mandatory to government since 2019.",
+      "network": "Widely used on a voluntary basis.",
+      "milestones": [],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "note": {
+      "text": "Fortnox is described as present in 80% or more of accounting firms with five employees or more.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (67 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      }
+    ]
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "channel": {
+      "value": "shared",
+      "explanation": "SMEs and accountants work inside the same platforms. Accountants need a state authorisation.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "reform": {
+      "summary": "Issuing structured e-invoices becomes mandatory on 1 January 2027. Receiving them follows by 1 January 2030.",
+      "network": "Peppol: about half of all invoices already go through it.",
+      "milestones": [],
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "note": {
+      "text": "Tripletex, Fiken and PowerOffice are the core local platforms. Business Central is paired with them in larger SMEs.",
+      "sources": [
+        "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      ]
+    },
+    "evidenceKinds": [
+      {
+        "kind": "survey",
+        "label": "Chift survey 2026 (66 respondents)",
+        "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+      }
+    ]
+  }
+]

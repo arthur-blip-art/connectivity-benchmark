@@ -1,0 +1,1052 @@
+[
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/de/accounting/api-connection",
+  "evidence": "Named as connectable accounting program; not in integrations list"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "addison",
+  "software": "ADDISON",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/de/integrations/addison-oneclick",
+  "evidence": "Bank transactions transferred, transfers initiated from ADDISON OneClick portal"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/de/integrations/agenda",
+  "evidence": "Booked transactions imported into Agenda Online via PSD2"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/de/integrations/datev-attachments",
+  "evidence": "Invoices and receipts sent automatically to DATEV Unternehmen online"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "fastbill",
+  "software": "FastBill",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/de/integrations/fastbill",
+  "evidence": "Listed integration; automatic matching of receivables and payables"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/de/integrations/lexware-office-psd2",
+  "evidence": "PSD2 interface plus separate receipts integration to Lexware Office"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "sage-bob-50",
+  "software": "Sage BOB 50",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=supplier-invoices&page=2",
+  "evidence": "Synchronize supplier invoices to Qonto"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "sage-despachos",
+  "software": "Sage Despachos",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/es/accountants/integrations/sage-despachos",
+  "evidence": "Regate by Qonto transfers entries and documents to Sage daily"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "horus",
+  "software": "Horus",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr-be/integrations/horus-sync-transactions",
+  "evidence": "Qonto transactions automatically transferred to the accounting platform"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/accountants/integrations/acd",
+  "evidence": "Regate by Qonto connector pushes journals to ACD iSuite in real time. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/accountants/integrations/agiris",
+  "evidence": "Regate by Qonto connector pushes journals and receipts to Agiris"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/accountants/integrations/cegid-quadra",
+  "evidence": "Regate by Qonto API pushes entries, third parties, receipts to Quadra. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/accountants/integrations/myunisoft",
+  "evidence": "Regate by Qonto API pushes journals to MyUnisoft daily. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/accountants/integrations/sage-ge",
+  "evidence": "Regate by Qonto real-time API pushes journals into Sage GE. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/accountants/integrations/sage100",
+  "evidence": "Regate by Qonto native integration, daily push of entries to Sage 100"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "cegid-experts",
+  "software": "Cegid Experts",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/cegid-expert-jedeclare",
+  "evidence": "EBICS link through jedeclare.com (third party)"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/dynamics365",
+  "evidence": "Bank statements and SEPA transfers via direct EBICS connection"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/ebp-jedeclare",
+  "evidence": "EBICS link through jedeclare.com (third party)"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/fulll-jedeclare",
+  "evidence": "EBICS link through jedeclare.com (third party)"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/loop",
+  "evidence": "Daily sync of receipts and invoices to Cegid Loop. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/netsuite",
+  "evidence": "Bank statements and SEPA transfers via direct EBICS connection"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/odoo",
+  "evidence": "EBICS statements and transfers; also transactions sync listed NL/BE"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/pennylane",
+  "evidence": "Transactions and receipts auto-synced to Pennylane 3 times a day. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/tiime",
+  "evidence": "Qonto transactions and receipts duplicated into Tiime"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/fr/integrations/xero",
+  "evidence": "All Qonto transactions imported automatically into Xero"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "teamsystem-azienda",
+  "software": "TeamSystem Azienda",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/it/integrations/teamsystem",
+  "evidence": "Page names \"TeamSystem\" without the product. Integration via TeamSystem Pay module: collections, payments, account access"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "teamsystem-gamma",
+  "software": "TeamSystem Gamma",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/it/integrations/teamsystem",
+  "evidence": "Page names \"TeamSystem\" without the product. Integration via TeamSystem Pay module: collections, payments, account access"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "teamsystem-studio",
+  "software": "TeamSystem Studio",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/it/integrations/teamsystem",
+  "evidence": "Page names \"TeamSystem\" without the product. Integration via TeamSystem Pay module: collections, payments, account access"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "visma-eaccounting",
+  "software": "Visma eAccounting",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/nl/accounting",
+  "evidence": "Named among direct accounting links; supplier invoice sync also listed"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/nl/integrations/afas-sync-transactions",
+  "evidence": "Qonto transactions automatically transferred to the accounting tool"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/nl/integrations/exact-online-sync-transactions",
+  "evidence": "Qonto transactions automatically transferred to the accounting tool"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "minox",
+  "software": "Minox",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/nl/integrations/minox-sync-transactions",
+  "evidence": "Qonto transactions automatically transferred to the accounting tool"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "moneybird",
+  "software": "Moneybird",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/nl/integrations/moneybird-sync-transactions",
+  "evidence": "Qonto transactions automatically transferred to the accounting tool"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "octopus",
+  "software": "Octopus",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/nl/integrations/octopus-sync-transactions",
+  "evidence": "Qonto transactions automatically transferred to the accounting tool"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/nl/integrations/twinfield-sync-transactions",
+  "evidence": "Qonto transactions automatically transferred to the accounting tool"
+ },
+ {
+  "editorId": "qonto",
+  "editor": "Qonto",
+  "softwareId": "yuki",
+  "software": "Yuki",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://qonto.com/nl/integrations/yuki-sync-transactions",
+  "evidence": "Qonto transactions automatically transferred to the accounting tool"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/afasprofit",
+  "evidence": "Developer listed: Present Connection; webhook-driven export into AFAS Profit"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "billy",
+  "software": "Billy",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/billy-new",
+  "evidence": "Send purchase data, receipts directly to the desired cash journal in Billy"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "dinero",
+  "software": "Dinero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/dinero",
+  "evidence": "Pleo's direct integration with Dinero"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "fortnox",
+  "software": "Fortnox",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/fortnox-new",
+  "evidence": "Get your API integration code in Fortnox and copy it into Pleo"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "freeagent",
+  "software": "FreeAgent",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/freeagent",
+  "evidence": "Automatically send expenses, receipts, and card transactions from Pleo to FreeAgent"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "holded",
+  "software": "Holded",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/holded",
+  "evidence": "Marketplace card: export spending data right into Holded in a click"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/microsoft-business-central",
+  "evidence": "One-click exports to Business Central; developer listed: Pleo"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/netsuite-new",
+  "evidence": "Sync and match all expenses, reimbursements, invoices with a single click"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/quickbooks-integration",
+  "evidence": "Say goodbye to .csv or manual exports to QuickBooks"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "sage-intacct",
+  "software": "Sage Intacct",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/sage",
+  "evidence": "Exports every expense directly to Sage Intacct in real time"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "sage-200",
+  "software": "Sage 200",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/sage-200",
+  "evidence": "Export your Pleo spending data to Sage 200 with custom CSV template"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/sage-50",
+  "evidence": "Export your spending data to Sage 50 with our custom CSV template"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/twinfield",
+  "evidence": "Enjoy an error-free month-end with our direct API integration"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "uniconta",
+  "software": "Uniconta",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/uniconta",
+  "evidence": "Pleo's direct integration with Uniconta"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "visma-spiris",
+  "software": "Visma Spiris",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/visma",
+  "evidence": "Send purchase data, receipts, VAT codes directly to Visma eEkonomi"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "visma-e-conomic",
+  "software": "Visma e-conomic",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/visma-economic",
+  "evidence": "Pleo's direct integration with Visma e-conomic"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/xero",
+  "evidence": "Spending data synced in real time"
+ },
+ {
+  "editorId": "pleo",
+  "editor": "Pleo",
+  "softwareId": "xledger",
+  "software": "Xledger",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.pleo.io/en/integrations/xledger",
+  "evidence": "Every transaction is tagged and synced to Xledger"
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Listed under software currently connected via API. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Compatible via manual import of entries file. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "New API connection now available. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Compatible via manual import of entries file"
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Listed under software currently connected via API. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Listed under software currently connected via API. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Compatible via manual import of entries file"
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Listed under software currently connected via API. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Listed under software currently connected via API. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Manual import file; attachments not transferred"
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Manual import file; attachments not transferred"
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Listed under software currently connected via API. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "chaintrust",
+  "editor": "Chaintrust",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.chaintrust.io/blog/actualites/integration-logiciels-comptables-avec-chaintrust/",
+  "evidence": "Compatible via manual import of entries file"
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://go.sellsy.com/applications/ebp",
+  "evidence": "via EdiConnect (Big Data Consulting): 'grâce à EdiConnect, un connecteur flexible'"
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://go.sellsy.com/applications/edi-connect",
+  "evidence": "via EdiConnect: sync 'entre Sellsy et EBP, Sage 50, Sage 100 ou Sage 1000'"
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://go.sellsy.com/applications/inqom",
+  "evidence": "Real-time synchronisation; developed by the partner; no third party named. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://go.sellsy.com/applications/pennylane",
+  "evidence": "Auto sync invoices, payments, contacts every 12h; developed by partner. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://go.sellsy.com/applications/sage-100",
+  "evidence": "via Chift: connect through marketplaces.chift.app/sellsy; developed by Sellsy"
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.sellsy.com/fr/articles/15457201-connecter-sellsy-et-acd",
+  "evidence": "via Chift: 'Vous serez redirigé vers l'interface sécurisée Chift'. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.sellsy.com/fr/articles/15477351-connecter-sellsy-et-cegid-loop",
+  "evidence": "via Chift: activation link marketplaces.chift.app/fr/sellsy/apps/8011. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.sellsy.com/fr/articles/15478608-connecter-sellsy-et-myunisoft",
+  "evidence": "via Chift: 'Vous serez redirigé vers l'interface sécurisée Chift'. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.sellsy.com/fr/articles/15479499-connecter-sellsy-et-tiime",
+  "evidence": "via Chift: 'Vous serez redirigé vers l'interface sécurisée Chift'. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.sellsy.com/fr/articles/15480364-connecter-sellsy-et-fulll",
+  "evidence": "via Chift: 'Vous serez redirigé vers l'interface sécurisée Chift'. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "sellsy",
+  "editor": "Sellsy",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.sellsy.com/fr/articles/15480890-connecter-sellsy-et-sage-generation-experts",
+  "evidence": "via Chift: must activate public application 'Chift' in Sage Génération Experts. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "payhawk",
+  "editor": "Payhawk",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://payhawk.com/integration/afas",
+  "evidence": "Titled native AFAS integration; page FAQ describes partner-built integrations"
+ },
+ {
+  "editorId": "payhawk",
+  "editor": "Payhawk",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://payhawk.com/integration/microsoft-dynamics",
+  "evidence": "Direct integration; fully synced with Business Central in real time"
+ },
+ {
+  "editorId": "payhawk",
+  "editor": "Payhawk",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://payhawk.com/integration/netsuite",
+  "evidence": "Real-time bidirectional connection; sync expenses, invoices, payments to NetSuite"
+ },
+ {
+  "editorId": "payhawk",
+  "editor": "Payhawk",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://payhawk.com/integration/quickbooks",
+  "evidence": "Direct API integration with QuickBooks Online"
+ },
+ {
+  "editorId": "payhawk",
+  "editor": "Payhawk",
+  "softwareId": "sage-intacct",
+  "software": "Sage Intacct",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://payhawk.com/integration/sage-intacct",
+  "evidence": "Real-time Sage Intacct integration; automated two-way sync"
+ },
+ {
+  "editorId": "payhawk",
+  "editor": "Payhawk",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://payhawk.com/integration/xero",
+  "evidence": "Sync expenses with Xero in real time; automatic bank feed"
+ },
+ {
+  "editorId": "payhawk",
+  "editor": "Payhawk",
+  "softwareId": "sage-200",
+  "software": "Sage 200",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://payhawk.com/integrations",
+  "evidence": "Card: predefined CSV/XLS export templates for Sage 200"
+ },
+ {
+  "editorId": "payhawk",
+  "editor": "Payhawk",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://payhawk.com/integrations",
+  "evidence": "Card: predefined CSV/XLS export templates for Sage 50"
+ },
+ {
+  "editorId": "easybill",
+  "editor": "easybill",
+  "softwareId": "addison",
+  "software": "ADDISON",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.easybill.de/hc/de/articles/360021491119-Export-f%C3%BCr-ADDISON",
+  "evidence": "Export in DATEV XML format for ADDISON OneClick / ADDISON SMART Connect"
+ },
+ {
+  "editorId": "easybill",
+  "editor": "easybill",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://support.easybill.de/hc/de/articles/4408484542994-Lexware-Office-mit-easybill-verbinden",
+  "evidence": "'können Rechnungen via Schnittstelle an Lexware Office übertragen werden'"
+ },
+ {
+  "editorId": "easybill",
+  "editor": "easybill",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.easybill.de/hc/de/articles/6973468981660-Export-f%C3%BCr-AGENDA",
+  "evidence": "AGENDA imports easybill exports in DATEV ASCII (Version 7) or DATEV XML"
+ },
+ {
+  "editorId": "easybill",
+  "editor": "easybill",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.easybill.de/funktionen/datev/",
+  "evidence": "DATEV Rechnungsdatenservice 1.0 interface; DATEV ASCII and XML exports also offered"
+ },
+ {
+  "editorId": "easybill",
+  "editor": "easybill",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.easybill.de/ratgeber/so-sparen-sie-bei-der-buchhaltung-bis-zu-80-prozent-der-kosten/",
+  "evidence": "via GetMyInvoices: documents passed on to 'DATEV, lexoffice oder sevDesk'"
+ },
+ {
+  "editorId": "holvi",
+  "editor": "Holvi",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.holvi.com/de/schnittstellen/",
+  "evidence": "Selected interface, automatic sync via RZ-Bankinfo / EBICS"
+ },
+ {
+  "editorId": "holvi",
+  "editor": "Holvi",
+  "softwareId": "fastbill",
+  "software": "FastBill",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.holvi.com/de/schnittstellen/",
+  "evidence": "Listed under further interfaces, connects via standard PSD2 interface"
+ },
+ {
+  "editorId": "holvi",
+  "editor": "Holvi",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.holvi.com/de/schnittstellen/",
+  "evidence": "Selected interface, finance data synced once set up"
+ },
+ {
+  "editorId": "holvi",
+  "editor": "Holvi",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.holvi.com/de/schnittstellen/",
+  "evidence": "Listed under further interfaces, connects via standard PSD2 interface"
+ },
+ {
+  "editorId": "holvi",
+  "editor": "Holvi",
+  "softwareId": "finago",
+  "software": "Finago (24SevenOffice)",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.holvi.com/fi/yhteydet/",
+  "evidence": "Bank connection (pankkiyhteys): connect Holvi in a few clicks; tailored Excel/CSV report too"
+ },
+ {
+  "editorId": "kontist",
+  "editor": "Kontist",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom.help/kontist/en/articles/1559970-how-do-i-connect-my-account-with-an-accounting-software",
+  "evidence": "Link to DATEV via PSD2/XS2A interface; DATEV-format export also offered"
+ },
+ {
+  "editorId": "kontist",
+  "editor": "Kontist",
+  "softwareId": "fastbill",
+  "software": "FastBill",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://kontist.com/en/integrations/fastbill/",
+  "evidence": "'Realtime accounting integration', real-time synchronization of payments"
+ },
+ {
+  "editorId": "kontist",
+  "editor": "Kontist",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://kontist.com/product/gmbh-ug-gbr/",
+  "evidence": "Connect Kontist with lexoffice or sevDesk; transactions transferred automatically"
+ },
+ {
+  "editorId": "kontist",
+  "editor": "Kontist",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://kontist.com/product/sevdesk-bundle/",
+  "evidence": "Kontist account linked directly in sevdesk, transactions imported automatically"
+ },
+ {
+  "editorId": "trezy",
+  "editor": "Trezy",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.trezy.io/documentation",
+  "evidence": "Page names \"CEGID\" without the product. Docs: CEGID credentials, read-only sync of entries, balances"
+ },
+ {
+  "editorId": "trezy",
+  "editor": "Trezy",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.trezy.io/documentation",
+  "evidence": "Page names \"CEGID\" without the product. Docs: CEGID credentials, read-only sync of entries, balances"
+ },
+ {
+  "editorId": "trezy",
+  "editor": "Trezy",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.trezy.io/pennylane-partnership",
+  "evidence": "Certified Pennylane partner; data synced automatically (OAuth)"
+ },
+ {
+  "editorId": "trezy",
+  "editor": "Trezy",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.trezy.io/quickbooks-integration",
+  "evidence": "Integrates with QuickBooks Online via secure OAuth, read-only"
+ },
+ {
+  "editorId": "combo",
+  "editor": "Combo",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://guide.combohr.com/fr/articles/7983260-comment-connecter-combo-a-son-logiciel-de-paie",
+  "evidence": "Native one-way payroll connector (Cegid Quadra payroll); not accounting entries"
+ }
+]

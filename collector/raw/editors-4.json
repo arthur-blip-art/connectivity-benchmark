@@ -1,0 +1,1971 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "qonto",
+   "name": "Qonto",
+   "domain": "qonto.com",
+   "hq_country": "FR",
+   "integrations_url": "https://qonto.com/fr/integrations",
+   "pages_read": [
+    "https://qonto.com/fr/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/fr/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=2",
+    "https://qonto.com/fr/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=3",
+    "https://qonto.com/fr/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=4",
+    "https://qonto.com/fr/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=5",
+    "https://qonto.com/fr/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=6",
+    "https://qonto.com/de/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/de/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=2",
+    "https://qonto.com/es/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/it/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=2",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=3",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=4",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=5",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=6",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=7",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=8",
+    "https://qonto.com/nl/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/fr-be/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/nl-be/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/de-at/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/pt/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/en-de/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/en-de/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting&page=2",
+    "https://qonto.com/en-nl/library_search?html_variation=integrations&revamp_item_style=true&categories=accounting",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=client-invoices",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=client-invoices&page=2",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=client-invoices&page=3",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=supplier-invoices",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=supplier-invoices&page=2",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=productivity",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=productivity&page=2",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=team-management",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=team-management&page=2",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=team-management&page=3",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=team-management&page=4",
+    "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=cloud-storage",
+    "https://qonto.com/fr/integrations/regate",
+    "https://qonto.com/fr/integrations/dougs-perks",
+    "https://qonto.com/fr/integrations/pennylane-client-invoices-sync",
+    "https://qonto.com/fr/integrations/pennylane-supplier-invoices-sync",
+    "https://qonto.com/fr/integrations/acasi",
+    "https://qonto.com/fr/integrations/acd-jedeclare",
+    "https://qonto.com/fr/integrations/agiris-jedeclare",
+    "https://qonto.com/fr/integrations/airtable",
+    "https://qonto.com/fr/integrations/allmybanks",
+    "https://qonto.com/fr/integrations/axonaut",
+    "https://qonto.com/fr/integrations/axonautarsync",
+    "https://qonto.com/fr/integrations/ca-compte-pour-moi",
+    "https://qonto.com/fr/integrations/cegid-expert-jedeclare",
+    "https://qonto.com/fr/integrations/loop",
+    "https://qonto.com/fr/integrations/cegid-loop-jedeclare",
+    "https://qonto.com/fr/integrations/cegid-quadra-jedeclare",
+    "https://qonto.com/fr/integrations/cegid-relations-bancaires",
+    "https://qonto.com/fr/integrations/cegid-relation-bancaire1",
+    "https://qonto.com/fr/integrations/cogilog-jedeclare",
+    "https://qonto.com/fr/integrations/compta-clementine",
+    "https://qonto.com/fr/integrations/comptalib",
+    "https://qonto.com/fr/integrations/comptaplace",
+    "https://qonto.com/fr/integrations/dext",
+    "https://qonto.com/fr/integrations/dolibarr",
+    "https://qonto.com/fr/integrations/dougs",
+    "https://qonto.com/fr/integrations/sage100211",
+    "https://qonto.com/fr/integrations/ebp-jedeclare",
+    "https://qonto.com/fr/integrations/evoliz",
+    "https://qonto.com/fr/integrations/exabanque",
+    "https://qonto.com/fr/integrations/exabanque1",
+    "https://qonto.com/fr/integrations/fizen",
+    "https://qonto.com/fr/integrations/fulll-jedeclare",
+    "https://qonto.com/fr/integrations/inforce-jedeclare",
+    "https://qonto.com/fr/integrations/jedeclare",
+    "https://qonto.com/fr/integrations/jepilote",
+    "https://qonto.com/fr/integrations/kyriba",
+    "https://qonto.com/fr/integrations/livli",
+    "https://qonto.com/fr/integrations/macompta",
+    "https://qonto.com/fr/integrations/dynamics365",
+    "https://qonto.com/fr/integrations/netexcom-jedeclare",
+    "https://qonto.com/fr/integrations/netsuite",
+    "https://qonto.com/fr/integrations/netsuite1",
+    "https://qonto.com/fr/integrations/odoo",
+    "https://qonto.com/fr/integrations/odoo1",
+    "https://qonto.com/fr/integrations/pennylane",
+    "https://qonto.com/fr/integrations/pulceo1",
+    "https://qonto.com/fr/integrations/pulceo",
+    "https://qonto.com/fr/integrations/sage1000",
+    "https://qonto.com/fr/integrations/sage1002",
+    "https://qonto.com/fr/integrations/sage100",
+    "https://qonto.com/fr/integrations/sage-ciel-jedeclare",
+    "https://qonto.com/fr/integrations/sage-experts-jedeclare",
+    "https://qonto.com/fr/integrations/sageone",
+    "https://qonto.com/fr/integrations/sagex311",
+    "https://qonto.com/fr/integrations/sagex3",
+    "https://qonto.com/fr/integrations/sagex31",
+    "https://qonto.com/fr/integrations/sellsy",
+    "https://qonto.com/fr/integrations/teogest-jedeclare",
+    "https://qonto.com/fr/integrations/tiime",
+    "https://qonto.com/fr/integrations/ebics",
+    "https://qonto.com/fr/integrations/xero",
+    "https://qonto.com/fr/integrations/zoho-books",
+    "https://qonto.com/de/integrations/datev-attachments",
+    "https://qonto.com/de/integrations/datev-rds-1-0",
+    "https://qonto.com/de/integrations/bankdatenservice-via-rz-bankinfo",
+    "https://qonto.com/de/integrations/addison-oneclick",
+    "https://qonto.com/de/integrations/agenda",
+    "https://qonto.com/de/integrations/belegify",
+    "https://qonto.com/de/integrations/buchhaltungsbutler",
+    "https://qonto.com/de/integrations/cleverlohn",
+    "https://qonto.com/de/integrations/datac",
+    "https://qonto.com/de/integrations/lexware-office-psd2",
+    "https://qonto.com/de/integrations/mika",
+    "https://qonto.com/de/integrations/accountable",
+    "https://qonto.com/de/integrations/datev-transactions",
+    "https://qonto.com/de/integrations/fastbill",
+    "https://qonto.com/de/integrations/integral",
+    "https://qonto.com/de/integrations/konfipay",
+    "https://qonto.com/de/integrations/lexware-office-attachments",
+    "https://qonto.com/de/integrations/norman",
+    "https://qonto.com/de/integrations/how-to-set-up-the-integration-sync",
+    "https://qonto.com/es/integrations/declarando",
+    "https://qonto.com/es/integrations/anfix-es",
+    "https://qonto.com/es/integrations/tunuve",
+    "https://qonto.com/it/integrations/teamsystem",
+    "https://qonto.com/it/integrations/bit-coffee",
+    "https://qonto.com/nl/integrations/e-bokenden-sync-transactions",
+    "https://qonto.com/nl/integrations/exact-online-sync-transactions",
+    "https://qonto.com/nl/integrations/afas-sync-transactions",
+    "https://qonto.com/nl/integrations/minox-sync-transactions",
+    "https://qonto.com/nl/integrations/moneybird-sync-transactions",
+    "https://qonto.com/nl/integrations/octopus-sync-transactions",
+    "https://qonto.com/nl/integrations/odoo-sync-transactions",
+    "https://qonto.com/nl/integrations/twinfield-sync-transactions",
+    "https://qonto.com/nl/integrations/yuki-sync-transactions",
+    "https://qonto.com/fr-be/integrations/horus-sync-transactions",
+    "https://qonto.com/en/integrations/cegid-relation-bancaire11",
+    "https://qonto.com/en/integrations/sage10001",
+    "https://qonto.com/fr/accountants/accounting-integrations",
+    "https://qonto.com/fr/accountants/software",
+    "https://qonto.com/fr/accountants/integrations/acd",
+    "https://qonto.com/fr/accountants/integrations/agiris",
+    "https://qonto.com/fr/accountants/integrations/cegid-loop",
+    "https://qonto.com/fr/accountants/integrations/cegid-quadra",
+    "https://qonto.com/fr/accountants/integrations/myunisoft",
+    "https://qonto.com/fr/accountants/integrations/sage-ge",
+    "https://qonto.com/fr/accountants/integrations/sage100",
+    "https://qonto.com/es/accountants/accounting-integrations",
+    "https://qonto.com/es/accountants/integrations/sage-despachos",
+    "https://qonto.com/es/accountants/software",
+    "https://qonto.com/de/accounting/datev",
+    "https://qonto.com/de/accounting/api-connection",
+    "https://qonto.com/fr/pre-accounting/api-connection",
+    "https://qonto.com/es/accounting/api-connection",
+    "https://qonto.com/fr/pre-accounting",
+    "https://qonto.com/it/accounting",
+    "https://qonto.com/nl/accounting",
+    "https://qonto.com/es/accounting",
+    "https://qonto.com/de/accounting",
+    "https://qonto.com/fr-be/accounting"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://support-fr.qonto.com/hc/fr",
+     "reason": "HTTP 403, Cloudflare bot challenge; help center not read"
+    },
+    {
+     "url": "https://qonto.com/en/integrations/sagebob50-sync-ap",
+     "reason": "HTTP 404; detail pages of invoice-sync integrations (sagebob50, visma-eaccounting, fattureincloud, acd, yuki, minox, exact-online client invoices) do not exist, list page used instead"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://qonto.com/fr/integrations/pennylane",
+     "evidence": "Transactions and receipts auto-synced to Pennylane 3 times a day",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://qonto.com/fr/integrations/loop",
+     "evidence": "Daily sync of receipts and invoices to Cegid Loop",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://qonto.com/fr/accountants/integrations/cegid-quadra",
+     "evidence": "Regate by Qonto API pushes entries, third parties, receipts to Quadra",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Expert (via jedeclare)",
+     "source_url": "https://qonto.com/fr/integrations/cegid-expert-jedeclare",
+     "evidence": "EBICS link through jedeclare.com (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Relations Bancaires",
+     "source_url": "https://qonto.com/fr/integrations/cegid-relations-bancaires",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Exabanque",
+     "source_url": "https://qonto.com/fr/integrations/exabanque",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://qonto.com/fr/accountants/integrations/acd",
+     "evidence": "Regate by Qonto connector pushes journals to ACD iSuite in real time",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://qonto.com/fr/accountants/integrations/agiris",
+     "evidence": "Regate by Qonto connector pushes journals and receipts to Agiris",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://qonto.com/fr/accountants/integrations/myunisoft",
+     "evidence": "Regate by Qonto API pushes journals to MyUnisoft daily",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage GE (Sage Génération Experts)",
+     "source_url": "https://qonto.com/fr/accountants/integrations/sage-ge",
+     "evidence": "Regate by Qonto real-time API pushes journals into Sage GE",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://qonto.com/fr/accountants/integrations/sage100",
+     "evidence": "Regate by Qonto native integration, daily push of entries to Sage 100",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 1000",
+     "source_url": "https://qonto.com/fr/integrations/sage1000",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage One",
+     "source_url": "https://qonto.com/fr/integrations/sageone",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage X3",
+     "source_url": "https://qonto.com/fr/integrations/sagex3",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Ciel (via jedeclare)",
+     "source_url": "https://qonto.com/fr/integrations/sage-ciel-jedeclare",
+     "evidence": "EBICS link through jedeclare.com (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP (via jedeclare)",
+     "source_url": "https://qonto.com/fr/integrations/ebp-jedeclare",
+     "evidence": "EBICS link through jedeclare.com (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll (via jedeclare)",
+     "source_url": "https://qonto.com/fr/integrations/fulll-jedeclare",
+     "evidence": "EBICS link through jedeclare.com (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cogilog (via jedeclare)",
+     "source_url": "https://qonto.com/fr/integrations/cogilog-jedeclare",
+     "evidence": "EBICS link through jedeclare.com (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inforce (via jedeclare)",
+     "source_url": "https://qonto.com/fr/integrations/inforce-jedeclare",
+     "evidence": "EBICS link through jedeclare.com (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Netexcom (via jedeclare)",
+     "source_url": "https://qonto.com/fr/integrations/netexcom-jedeclare",
+     "evidence": "EBICS link through jedeclare.com (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Teogest (via jedeclare)",
+     "source_url": "https://qonto.com/fr/integrations/teogest-jedeclare",
+     "evidence": "EBICS link through jedeclare.com (third party)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "jedeclare.com",
+     "source_url": "https://qonto.com/fr/integrations/jedeclare",
+     "evidence": "EBICS link between Qonto and jedeclare.com set up in 24 hours",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://qonto.com/fr/integrations/tiime",
+     "evidence": "Qonto transactions and receipts duplicated into Tiime",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Dougs",
+     "source_url": "https://qonto.com/fr/integrations/dougs",
+     "evidence": "Transactions and receipts flow automatically into Dougs every 4 hours",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Acasi",
+     "source_url": "https://qonto.com/fr/integrations/acasi",
+     "evidence": "Transactions, receipts and VAT data appear automatically in Acasi",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Axonaut",
+     "source_url": "https://qonto.com/fr/integrations/axonaut",
+     "evidence": "Bank history and receipts sync automatically with Axonaut",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Ça Compte Pour Moi",
+     "source_url": "https://qonto.com/fr/integrations/ca-compte-pour-moi",
+     "evidence": "Transactions, receipts and VAT data appear automatically in the tool",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Compta Clémentine",
+     "source_url": "https://qonto.com/fr/integrations/compta-clementine",
+     "evidence": "Transactions, receipts and VAT data appear automatically in Clémentine",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Comptalib",
+     "source_url": "https://qonto.com/fr/integrations/comptalib",
+     "evidence": "Transactions, VAT and receipts synced to Comptalib",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ComptaPlace",
+     "source_url": "https://qonto.com/fr/integrations/comptaplace",
+     "evidence": "Listed integration; bank transmits income and expenses to ComptaPlace",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Dext",
+     "source_url": "https://qonto.com/fr/integrations/dext",
+     "evidence": "Transaction attachments retrieved automatically in Dext every 24 hours",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Dolibarr",
+     "source_url": "https://qonto.com/fr/integrations/dolibarr",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365",
+     "source_url": "https://qonto.com/fr/integrations/dynamics365",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://qonto.com/fr/integrations/netsuite",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://qonto.com/fr/integrations/odoo",
+     "evidence": "EBICS statements and transfers; also transactions sync listed NL/BE",
+     "kind": "api",
+     "countries_stated": [
+      "FR",
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://qonto.com/fr/integrations/evoliz",
+     "evidence": "Qonto sync to match bank flows with invoices in Evoliz",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fizen",
+     "source_url": "https://qonto.com/fr/integrations/fizen",
+     "evidence": "Transactions and receipts duplicated and synced into Fizen",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "JePilote",
+     "source_url": "https://qonto.com/fr/integrations/jepilote",
+     "evidence": "All Qonto account operations flow automatically into JePilote",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Kyriba",
+     "source_url": "https://qonto.com/fr/integrations/kyriba",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Allmybanks",
+     "source_url": "https://qonto.com/fr/integrations/allmybanks",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Livli",
+     "source_url": "https://qonto.com/fr/integrations/livli",
+     "evidence": "Transactions and receipts pushed directly to Livli",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Macompta.fr",
+     "source_url": "https://qonto.com/fr/integrations/macompta",
+     "evidence": "Macompta.fr connects daily to Qonto to import new entries",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "PulCEo",
+     "source_url": "https://qonto.com/fr/integrations/pulceo",
+     "evidence": "Bank statements and SEPA transfers via direct EBICS connection",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sellsy",
+     "source_url": "https://qonto.com/fr/integrations/sellsy",
+     "evidence": "Transactions synced with Sellsy for bank reconciliation",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://qonto.com/fr/integrations/xero",
+     "evidence": "All Qonto transactions imported automatically into Xero",
+     "kind": "api",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "ES",
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Zoho Books",
+     "source_url": "https://qonto.com/fr/integrations/zoho-books",
+     "evidence": "Transactions and receipts retrieved automatically in Zoho Books",
+     "kind": "api",
+     "countries_stated": [
+      "FR",
+      "DE",
+      "ES",
+      "IT",
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://qonto.com/de/integrations/datev-attachments",
+     "evidence": "Invoices and receipts sent automatically to DATEV Unternehmen online",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "ADDISON OneClick",
+     "source_url": "https://qonto.com/de/integrations/addison-oneclick",
+     "evidence": "Bank transactions transferred, transfers initiated from ADDISON OneClick portal",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://qonto.com/de/integrations/agenda",
+     "evidence": "Booked transactions imported into Agenda Online via PSD2",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "BuchhaltungsButler",
+     "source_url": "https://qonto.com/de/integrations/buchhaltungsbutler",
+     "evidence": "Sync transactions and execute single payments",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "DATAC",
+     "source_url": "https://qonto.com/de/integrations/datac",
+     "evidence": "Booked transactions imported into DATAC account via PSD2",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://qonto.com/de/integrations/lexware-office-psd2",
+     "evidence": "PSD2 interface plus separate receipts integration to Lexware Office",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "mika AI",
+     "source_url": "https://qonto.com/de/integrations/mika",
+     "evidence": "Connects via PSD2 bank interface (finAPI), imports transactions",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Accountable",
+     "source_url": "https://qonto.com/de/integrations/accountable",
+     "evidence": "App matches receipts with bank transactions via bank connection",
+     "kind": "api",
+     "countries_stated": [
+      "DE",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "FastBill",
+     "source_url": "https://qonto.com/de/integrations/fastbill",
+     "evidence": "Listed integration; automatic matching of receivables and payables",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Integral",
+     "source_url": "https://qonto.com/de/integrations/integral",
+     "evidence": "Listed integration; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Konfipay (via EBICS)",
+     "source_url": "https://qonto.com/de/integrations/konfipay",
+     "evidence": "Connect Qonto and Konfipay via EBICS",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Norman",
+     "source_url": "https://qonto.com/de/integrations/norman",
+     "evidence": "Connects to Qonto account, transactions categorised automatically",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "sevdesk",
+     "source_url": "https://qonto.com/de/accounting/api-connection",
+     "evidence": "Named as connectable accounting program; not in integrations list",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Declarando",
+     "source_url": "https://qonto.com/es/integrations/declarando",
+     "evidence": "Listed integration; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Anfix",
+     "source_url": "https://qonto.com/es/integrations/anfix-es",
+     "evidence": "Integration gives real-time accounting information from Qonto",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Tunuve",
+     "source_url": "https://qonto.com/es/integrations/tunuve",
+     "evidence": "Connects through the Afterbanks platform",
+     "kind": "via_partner",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Sage Despachos",
+     "source_url": "https://qonto.com/es/accountants/integrations/sage-despachos",
+     "evidence": "Regate by Qonto transfers entries and documents to Sage daily",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "TeamSystem",
+     "source_url": "https://qonto.com/it/integrations/teamsystem",
+     "evidence": "Integration via TeamSystem Pay module: collections, payments, account access",
+     "kind": "api",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Bit&Coffee",
+     "source_url": "https://qonto.com/it/integrations/bit-coffee",
+     "evidence": "Automatic payment reconciliation with Qonto transfers",
+     "kind": "api",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Fatture in Cloud (Sync Client Invoices)",
+     "source_url": "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=client-invoices&page=2",
+     "evidence": "Synchronize clients and client invoices; supplier invoice sync also listed",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "e‑Boekhouden.nl",
+     "source_url": "https://qonto.com/nl/integrations/e-bokenden-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting tool",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Exact Online NL",
+     "source_url": "https://qonto.com/nl/integrations/exact-online-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting tool",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "AFAS",
+     "source_url": "https://qonto.com/nl/integrations/afas-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting tool",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Minox",
+     "source_url": "https://qonto.com/nl/integrations/minox-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting tool",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Moneybird",
+     "source_url": "https://qonto.com/nl/integrations/moneybird-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting tool",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Octopus",
+     "source_url": "https://qonto.com/nl/integrations/octopus-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting tool",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://qonto.com/nl/integrations/twinfield-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting tool",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://qonto.com/nl/integrations/yuki-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting tool",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Visma eAccounting",
+     "source_url": "https://qonto.com/nl/accounting",
+     "evidence": "Named among direct accounting links; supplier invoice sync also listed",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Horus",
+     "source_url": "https://qonto.com/fr-be/integrations/horus-sync-transactions",
+     "evidence": "Qonto transactions automatically transferred to the accounting platform",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Sage BOB 50 (Sync Supplier Invoices)",
+     "source_url": "https://qonto.com/en/library_search?html_variation=integrations&revamp_item_style=true&categories=supplier-invoices&page=2",
+     "evidence": "Synchronize supplier invoices to Qonto",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Integrations list is lazy-loaded; read through the page's own paginated list (library_search, category accounting) in 12 locales, plus client/supplier-invoice categories in EN and the accountant pages. countries_stated is derived from the locale lists (fr, de, es, it, nl, fr-be/nl-be) where each integration appears, not from an explicit sentence. EBICS connections are counted as api (direct bank protocol); jedeclare.com ones as via_partner. Several FR accounting-firm tools (ACD, Agiris, Cegid Quadra, MyUnisoft, Sage GE, Sage 100, Sage Despachos) connect through Regate by Qonto, Qonto's own pre-accounting product. NL/BE transaction syncs name no third party on the page. Excluded as non-accounting: Airtable, cleverlohn (payroll), Belegify, Zoho Invoice, Dougs promo offer, generic 'your ERP or TMS' EBICS entry, Regate by Qonto itself. Not found on any page read: Sage 50, Inqom, Indy, Isacompta, SAP, Scopevisio, WinBooks, Adsolut, ClearFacts, SnelStart, Holded, a3, Contasol, Quipu, QuickBooks, FreeAgent, KashFlow, Zucchetti, Danea, Sage Intacct. Help center blocked, so setup details are unverified."
+  },
+  {
+   "id": "shine",
+   "name": "Shine",
+   "domain": "shine.fr",
+   "hq_country": "FR",
+   "integrations_url": "https://www.shine.fr/integrations-comptables/",
+   "pages_read": [
+    "https://www.shine.fr/integrations-comptables/",
+    "https://www.shine.fr/page-data/integrations-comptables/page-data.json",
+    "https://www.shine.fr/comptabilite/",
+    "https://www.shine.fr/shine-comptabilite/",
+    "https://www.shine.fr/experts-comptables/shine-pour-vos-clients/",
+    "https://www.shine.fr/experts-comptables/produits/cegid-expert-plus/",
+    "https://www.shine.fr/experts-comptables/lp/web-api-oneconnect-by-shine-cpa/",
+    "https://www.shine.fr/experts-comptables/lp/cpa-callback-logiciels-experts-comptables/",
+    "https://www.shine.fr/experts-comptables/lp/cpa-quadra-plus-contact-guide-pratique-global/",
+    "https://www.shine.fr/experts-comptables/lp/replay-webinar-de-decouverte-console-shine-depuis-loop/",
+    "https://www.shine.fr/collaboration/",
+    "https://www.shine.fr/partenaire/",
+    "https://www.shine.fr/rapprochement-bancaire/",
+    "https://www.shine.fr/sitemap/sitemap-0.xml",
+    "https://help.shine.fr/",
+    "https://help.shine.fr/fr/collections/236869-facturation-et-comptabilite",
+    "https://help.shine.fr/fr/articles/2659532-exporter-ses-ecritures-comptables",
+    "https://help.shine.fr/fr/articles/9423284-integration-avec-jedeclare-com-comment-ca-marche",
+    "https://help.shine.fr/fr/articles/1196863-est-ce-que-shine-remplace-mon-expert-comptable"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.shine.fr/integrations/",
+     "reason": "HTTP 404; actual page is /integrations-comptables/"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Dext",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Comptabilité - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "iPaidThat",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, Bridge",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Jedeclare",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - Via EBICS",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions, Factures - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via TransfertBANQUE",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, Bridge",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Expert",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Teogest",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, Powens",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, Powens",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transaction - via Jedeclare, Bridge, Powens",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MEG",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, Powens",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 50 Ciel",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Bridge, TransfertBANQUE",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sinao",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Bridge",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage X3",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via TransfertBANQUE",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Mergin",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Bridge",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Effiz",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - via Jedeclare",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Acasi",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions, factures - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Indy",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions, factures - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Hey Billy",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Factures - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Dougs",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions, factures - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "TransfertBANQUE",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions, factures - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Clémentine",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "IZzy",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Listed as: Transactions, factures - API directe",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ],
+   "notes": "All 31 tools of the integrations page captured (full list taken from the page's own page-data.json, since a 'load more' button hides part of it). The page states the mechanism per tool: 'API directe', or a named third party (Jedeclare, TransfertBANQUE, Bridge, Powens); when several third parties are listed all are kept in evidence. Site is French only, so countries_stated is FR for all. Jedeclare and TransfertBANQUE are themselves bank-data platforms, kept as listed. Help center only describes generic CSV/OFX/QIF exports (no software-specific format) and the Jedeclare EBICS link. Shine pages for accounting firms are now co-branded Shine / Cegid (OneConnect brings client tools such as Pennylane and Dext into Cegid Quadra Plus, Loop, Expert Plus); that is a Cegid-side import, not counted as Shine account connections. No DE/BE/NL/ES/UK/IT software found."
+  },
+  {
+   "id": "finom",
+   "name": "Finom",
+   "domain": "finom.co",
+   "hq_country": "NL",
+   "integrations_url": "https://finom.co/en-de/integrations/",
+   "pages_read": [
+    "https://finom.co/llms.txt",
+    "https://finom.co/robots.txt",
+    "https://finom.co/ai.txt",
+    "https://help.finom.co/",
+    "https://help.finom.co/en/",
+    "https://help.finom.co/de/",
+    "https://help.finom.co/fr/",
+    "https://help.finom.co/it/",
+    "https://help.finom.co/es/",
+    "https://help.finom.co/nl/",
+    "https://help.finom.co/en/collections/2751040-integrations",
+    "https://help.finom.co/en/collections/16086924-accounting",
+    "https://help.finom.co/de/collections/2751040-integrationen",
+    "https://help.finom.co/de/collections/16086924-buchhaltung",
+    "https://help.finom.co/fr/collections/2751040-integrations",
+    "https://help.finom.co/it/collections/2751040-integrazioni",
+    "https://help.finom.co/nl/collections/2751040-integraties",
+    "https://help.finom.co/en/collections/2726508-banking-documents",
+    "https://help.finom.co/en/articles/9777018-how-to-connect-finom-account-with-datev",
+    "https://help.finom.co/en/articles/10257039-datev-belegbilderservice-how-to-export-invoices-from-your-finom-account",
+    "https://help.finom.co/en/articles/5322886-how-to-connect-your-finom-account-to-lexware-office-integrations",
+    "https://help.finom.co/en/articles/15259160-how-to-connect-my-finom-account-with-fatture-in-cloud",
+    "https://help.finom.co/en/articles/6062246-how-to-connect-my-finom-account-with-zapier",
+    "https://help.finom.co/en/articles/14078808-how-to-work-with-your-accountant-on-bookkeeping-records",
+    "https://help.finom.co/en/articles/12607885-who-can-use-finom-accounting",
+    "https://help.finom.co/en/articles/5007650-how-to-download-customized-csv",
+    "https://help.finom.co/en/articles/5007624-how-to-make-bulk-export-of-documents",
+    "https://help.finom.co/en/articles/4992393-how-to-make-bulk-export-of-invoices",
+    "https://help.finom.co/en/articles/5320483-how-to-download-xml-files-from-the-main-e-invoicing-providers",
+    "https://finom.co/fr-fr/integrations/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://finom.co/en-de/integrations/",
+     "reason": "HTTP 403, Cloudflare bot challenge"
+    },
+    {
+     "url": "https://finom.co/de-de/integrations/",
+     "reason": "HTTP 403, Cloudflare bot challenge"
+    },
+    {
+     "url": "https://finom.co/de-de/accounting/",
+     "reason": "HTTP 403, Cloudflare bot challenge"
+    },
+    {
+     "url": "https://finom.co/sitemap.xml",
+     "reason": "HTTP 403, Cloudflare bot challenge"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://help.finom.co/en/articles/9777018-how-to-connect-finom-account-with-datev",
+     "evidence": "PSD2 connection to DATEV Unternehmen Online, plus Belegbilderservice receipts upload",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://help.finom.co/en/articles/5322886-how-to-connect-your-finom-account-to-lexware-office-integrations",
+     "evidence": "Two integrations: documents sync and PSD2 transactions sync",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Fatture in Cloud",
+     "source_url": "https://help.finom.co/en/articles/15259160-how-to-connect-my-finom-account-with-fatture-in-cloud",
+     "evidence": "Integration exports documents from Finom to Fatture in Cloud",
+     "kind": "api",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "sevDesk",
+     "source_url": "https://finom.co/llms.txt",
+     "evidence": "Listed under Accounting integrations, mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://finom.co/llms.txt",
+     "evidence": "Listed under Accounting integrations, mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://finom.co/llms.txt",
+     "evidence": "Listed under Accounting integrations, mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Indy",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Dougs",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MEG",
+     "source_url": "https://finom.co/fr-fr/integrations/",
+     "evidence": "Listed under \"Intégrations\" on Finom's French integrations page (read 2026-10-02 in a browser); no mechanism stated.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ],
+   "notes": "The whole marketing site finom.co is behind a Cloudflare bot challenge, so the integrations pages per country could not be read; not bypassed. Rows come from the public help center (help.finom.co, Intercom; EN/DE/FR/IT/ES/NL checked) and from finom.co/llms.txt, which lists 'Accounting: DATEV (DE), Lexware, sevDesk, Xero, QuickBooks' without mechanism. Help center documents only DATEV, Lexware Office, Fatture in Cloud (Italian accounts) and Zapier; its search returns nothing for sevDesk, Xero, QuickBooks, Pennylane, Moneybird. Coverage is therefore likely incomplete. French integrations page refused automated reading at collection; read in a browser on 2026-10-02 (no challenge to solve)."
+  },
+  {
+   "id": "memo-bank",
+   "name": "Memo Bank",
+   "domain": "memo.bank",
+   "hq_country": "FR",
+   "integrations_url": "https://memo.bank/produit/integrations/",
+   "pages_read": [
+    "https://memo.bank/produit/integrations/",
+    "https://memo.bank/en/product/connectivity/",
+    "https://memo.bank/produit/compte-courant/exporter-operations-bancaires/",
+    "https://memo.bank/pour-qui/directeurs-comptables/",
+    "https://memo.bank/magazine/relation-bancaire-expert-comptable/",
+    "https://memo.bank/magazine/serveur-ebics-la-solution-pour-automatiser-vos-flux-bancaires/",
+    "https://memo.bank/sitemap/fr.xml",
+    "https://memo.bank/sitemap/en.xml",
+    "https://memo.bank/llms.txt",
+    "https://aide.memo.bank/",
+    "https://aide.memo.bank/category/387-comptabilite",
+    "https://aide.memo.bank/category/395-integrations-tierces",
+    "https://aide.memo.bank/article/408-transfert-justificatifs-vers-logiciel-comptabilite",
+    "https://aide.memo.bank/article/388-automatisation-comptable",
+    "https://aide.memo.bank/article/383-integrations",
+    "https://aide.memo.bank/article/313-ebics",
+    "https://aide.memo.bank/article/351-api-ais-pis-dsp2"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://memo.bank/en/product/integrations/",
+     "reason": "HTTP 404; English version is /en/product/connectivity/"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Acasi",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Accountable",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Akuiteo",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Audaxis",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Ponto (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Azopio",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Axonaut",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Bizyness",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ça compte pour moi",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Exabanque",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Chaintrust",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Clémentine",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cogilog",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Comptalib",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Connexis",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CPI Software",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dolibarr",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dougs",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EIC",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Fizen",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Freebe",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Gest4u",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Indy",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Inforce",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ipaidthat",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Iziago",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Jedeclare.com",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed as integration (EBICS link to jedeclare.com)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "JePilote",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Kafinea",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Karlia",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Kyriba",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Livli",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Macompta",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Mata IO",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MEG",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Myunisoft",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Netcash",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Netexcom",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle NetSuite",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Salt Edge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pulceo",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Regate",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 1000",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Ciel",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage X3",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sellsy",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sinao",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Bridge (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Teogest",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Powens (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "transfertBANQUE",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Turbo Suite Entreprise",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Zoho Books",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "Listed with connector: Ponto (third-party aggregator)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Relations Bancaires",
+     "source_url": "https://memo.bank/en/product/connectivity/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Compta.com",
+     "source_url": "https://memo.bank/en/product/connectivity/",
+     "evidence": "Listed with connector: EBICS (direct EBICS TS connection)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dext",
+     "source_url": "https://aide.memo.bank/article/408-transfert-justificatifs-vers-logiciel-comptabilite",
+     "evidence": "Receipts auto-forwarded to the software's dedicated e-mail address",
+     "kind": "file_export",
+     "countries_stated": []
+    }
+   ],
+   "notes": "The integrations page gives, for each tool, the channel: EBICS (Memo Bank's own EBICS TS server, counted as api) or a named third party (Bridge, Powens, Ponto, Salt Edge, Jedeclare.com, counted as via_partner). No native accounting API connector is described; everything goes through EBICS or PSD2 aggregators. https://memo.bank/integrations redirects to /produit/integrations/. English page adds Cegid Relations Bancaires, Compta.com and Cozy. Treasury and bank-communication tools listed by the editor are kept (Kyriba, Iziago, Mata IO, Netcash, Connexis, CPI Software, Pulceo, Turbo Suite Entreprise, Cegid Exabanque). Excluded as non-accounting: ADP, Silae, Lucca, Finary, Greenly, Zapier, Cozy, Agicap, Fygr, Cashlab, Rocket Chart, Zenfirst, Ma Tréso (Bpifrance), TurboPilot, Bobbee, Winancial. Help center names Pennylane and Dext only for e-mail forwarding of receipts; exports are generic Excel/CSV. French market only, no country stated on the page. No DE/BE/NL/ES/UK/IT software found except Odoo, Zoho Books, Oracle NetSuite, Accountable."
+  },
+  {
+   "id": "revolut-business",
+   "name": "Revolut Business",
+   "domain": "revolut.com",
+   "hq_country": "GB",
+   "integrations_url": "https://www.revolut.com/business/integrations/",
+   "pages_read": [
+    "https://www.revolut.com/robots.txt"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.revolut.com/business/integrations/",
+     "reason": "HTTP 403, 'Just a quick security check' bot-detection page"
+    },
+    {
+     "url": "https://www.revolut.com/en-FR/business/integrations/",
+     "reason": "HTTP 403, bot-detection page"
+    },
+    {
+     "url": "https://www.revolut.com/business/accounting-integrations/",
+     "reason": "HTTP 403"
+    },
+    {
+     "url": "https://help.revolut.com/business/",
+     "reason": "HTTP 403, bot-detection page"
+    },
+    {
+     "url": "https://help.revolut.com/en-FR/business/help/",
+     "reason": "HTTP 403, bot-detection page"
+    },
+    {
+     "url": "https://developer.revolut.com/",
+     "reason": "HTTP 403, bot-detection page"
+    },
+    {
+     "url": "https://www.revolut.com/sitemap-index.xml",
+     "reason": "HTTP 403, bot-detection page"
+    },
+    {
+     "url": "https://www.revolut.com/llms.txt",
+     "reason": "HTTP 403, bot-detection page"
+    }
+   ],
+   "connections": [],
+   "notes": "Not collected: every revolut.com host tried (www, help, developer) answers HTTP 403 with a bot-detection page to non-browser requests; not bypassed. Only robots.txt was readable (it also disallows */help-centre and any URL with a query string). Empty connections means 'could not read', NOT 'no accounting integrations'. Needs a manual check in a browser."
+  }
+ ]
+}

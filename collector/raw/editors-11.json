@@ -1,0 +1,675 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "payfit",
+   "name": "PayFit",
+   "domain": "payfit.com",
+   "hq_country": "FR",
+   "integrations_url": "https://payfit.com/fr/partenaires-et-integrations/",
+   "pages_read": [
+    "https://payfit.com/fr/partenaires-et-integrations/",
+    "https://payfit.com/integrations/",
+    "https://payfit.com/es/asociaciones-e-integraciones/",
+    "https://payfit.com/compare/payroll-integrations/",
+    "https://payfit.com/fr/go/integration-pennylane/",
+    "https://payfit.com/fr/go/odoo-by-sodexis/",
+    "https://payfit.com/es/go/partnership_holded/",
+    "https://payfit.com/fr/clients/fleet-integration-payfit-pennylane/",
+    "https://payfit.com/sitemap.xml",
+    "https://support.payfit.com/collections/Integrations-kyep7jgz",
+    "https://support.payfit.com/collections/Comptabilite-kyiuyyw4",
+    "https://support.payfit.com/contents/Relier-et-utiliser-l-integration-Pennylane-PayFit-ux9dUkVn",
+    "https://support.payfit.com/contents/Comptabilite-exporter-les-operations-diverses-ecritures-comptables-et-le-livre-de-paie-etat-des-charges-sur-PayFit-ux9dRN7q",
+    "https://support.payfit.com/contents/Les-ecritures-comptables-ou-operations-diverses-OD-de-paie-ux9eKNYf",
+    "https://support.payfit.com/en-gb/collections/Integrations-kyep7jgz",
+    "https://support.payfit.com/en-gb/collections/Payroll-journals-kyiuyyw4",
+    "https://support.payfit.com/en-gb/contents/Payroll-Journals-uyAYUklr",
+    "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+    "https://support.payfit.com/en-gb/contents/Odoo-Integration-Workforce-management-system-ERP-uyA_cQmY",
+    "https://support.payfit.com/es-es/collections/Integraciones-kyep7jgz",
+    "https://support.payfit.com/es-es/collections/Contabilidad-kyiuyyw4",
+    "https://support.payfit.com/es-es/contents/Quieres-llevar-un-mejor-control-de-tus-gastos-en-PayFit-Descubre-la-integracion-con-Holded-ux_Yql_R",
+    "https://support.payfit.com/es-es/contents/Descubre-tu-contabilidad-asientos-informes-y-todo-lo-que-necesitas-saber-ux_rUOSS"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.payfit.com/hc/fr/articles/360000633589",
+     "reason": "Old help center host no longer resolves (DNS not found); replaced by support.payfit.com"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://support.payfit.com/contents/Relier-et-utiliser-l-integration-Pennylane-PayFit-ux9dUkVn",
+     "evidence": "Payroll journal entries synced automatically into Pennylane each month",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Odoo (by Sodexis)",
+     "source_url": "https://payfit.com/fr/go/odoo-by-sodexis/",
+     "evidence": "Payroll data pushed to Odoo Accounting through the Sodexis connector",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Holded",
+     "source_url": "https://support.payfit.com/es-es/contents/Quieres-llevar-un-mejor-control-de-tus-gastos-en-PayFit-Descubre-la-integracion-con-Holded-ux_Yql_R",
+     "evidence": "Download 'Resumen de Nóminas - Holded' report, then import it in Holded",
+     "kind": "file_export",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+     "evidence": "Select the export format (Xero, Sage 50, QuickBooks or NetSuite)",
+     "kind": "file_export",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+     "evidence": "Select the export format (Xero, Sage 50, QuickBooks or NetSuite)",
+     "kind": "file_export",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+     "evidence": "Select the export format (Xero, Sage 50, QuickBooks or NetSuite)",
+     "kind": "file_export",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+     "evidence": "Select the export format (Xero, Sage 50, QuickBooks or NetSuite)",
+     "kind": "file_export",
+     "countries_stated": [
+      "GB"
+     ]
+    }
+   ],
+   "notes": "Markets: FR, UK, ES only (no DE/NL/IT site in sitemap). FR: only Pennylane (native sync) and Odoo via Sodexis; generic accounting-entries (OD) export is plain CSV/Excel with no software-specific format named. UK: marketing page says journals are generated for Xero, Netsuite, Quickbooks and Sage to upload manually; help center names Sage 50. ES: Holded only (file-based both ways). Odoo by Sodexis also documented in UK and ES help centers. Help center is JS-rendered (read through a browser); its search box was not used, only collection browsing. No mention found of Cegid, Quadra, EBP, ACD, MyUnisoft, Inqom, Fulll, Tiime, DATEV, a3, Contasol, FreeAgent."
+  },
+  {
+   "id": "lucca",
+   "name": "Lucca",
+   "domain": "lucca.fr",
+   "hq_country": "FR",
+   "integrations_url": "https://marketplace.luccasoftware.com/fr/",
+   "pages_read": [
+    "https://www.lucca.fr/",
+    "https://www.lucca.fr/sitemap.xml",
+    "https://www.lucca.fr/finance/notes-de-frais/",
+    "https://www.lucca.fr/finance/notes-de-frais/fonctionnalites/comptabilite/",
+    "https://www.lucca.fr/finance/achats/",
+    "https://www.lucca.fr/magazine/administration/comptabilite/5-outils-dematerialiser-processus-comptables",
+    "https://marketplace.luccasoftware.com/fr/",
+    "https://marketplace.luccasoftware.com/post-sitemap.xml",
+    "https://marketplace.luccasoftware.com/fr/comptabilite-finance/",
+    "https://marketplace.luccasoftware.com/fr/myunisoft/",
+    "https://marketplace.luccasoftware.com/fr/sellsy/",
+    "https://support.luccasoftware.com/s/article/myunisoft-solution-de-gestion-de-la-comptabilit%C3%A9?language=fr",
+    "https://support.luccasoftware.com/s/topic/0TOSa00000036c3OAA/comptabilit%C3%A9-finance?language=fr",
+    "https://support.luccasoftware.com/s/topic/0TOTp00000060BpOAI/connecteurs-lucca?language=fr",
+    "https://support.luccasoftware.com/s/topic/0TOSa0000002S7POAU/param%C3%A9trer-les-exports-comptables-et-de-paie?language=fr",
+    "https://support.luccasoftware.com/s/article/param%C3%A9trage-des-exports?language=fr",
+    "https://support.luccasoftware.com/s/article/param%C3%A9trage-des-formats-d-export-comptable-dans-lucca-notes-de-frais?language=fr",
+    "https://support.luccasoftware.com/s/topic/0TOSa0000002S0VOAU/assistant-comptabilit%C3%A9?language=fr",
+    "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+    "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=de",
+    "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=es",
+    "https://support.luccasoftware.com/s/article/Configurer-l-export-comptable-API?language=fr"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.lucca.fr/integration-logiciel/comptabilite",
+     "reason": "Listed in sitemap but 301-redirects to the homepage (same for /integration-logiciel/ and /integration-logiciel/paie)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dynamics 365 Business Central (beta)",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection (beta); setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage BOB 50",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "AFAS (beta)",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection (beta); setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online FR",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FreeAgent",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quickbooks Accounting",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+     "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAGE",
+     "source_url": "https://support.luccasoftware.com/s/article/param%C3%A9trage-des-formats-d-export-comptable-dans-lucca-notes-de-frais?language=fr",
+     "evidence": "Export templates; fixed-length native SAGE and CEGID file formats",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CEGID",
+     "source_url": "https://support.luccasoftware.com/s/article/param%C3%A9trage-des-formats-d-export-comptable-dans-lucca-notes-de-frais?language=fr",
+     "evidence": "Export templates; fixed-length native SAGE and CEGID file formats",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://support.luccasoftware.com/s/article/param%C3%A9trage-des-formats-d-export-comptable-dans-lucca-notes-de-frais?language=fr",
+     "evidence": "Fully configurable export formats, some client-specific (SAP is the example)",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://www.lucca.fr/magazine/administration/comptabilite/5-outils-dematerialiser-processus-comptables",
+     "evidence": "'Sage, Ciel, Navision, SAP, Quadratus': Notes de frais communicates with all ERPs",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ciel",
+     "source_url": "https://www.lucca.fr/magazine/administration/comptabilite/5-outils-dematerialiser-processus-comptables",
+     "evidence": "'Sage, Ciel, Navision, SAP, Quadratus': Notes de frais communicates with all ERPs",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Navision",
+     "source_url": "https://www.lucca.fr/magazine/administration/comptabilite/5-outils-dematerialiser-processus-comptables",
+     "evidence": "'Sage, Ciel, Navision, SAP, Quadratus': Notes de frais communicates with all ERPs",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.lucca.fr/finance/notes-de-frais/fonctionnalites/comptabilite/",
+     "evidence": "EBP logo in accounting-entries logo strip; no mechanism stated",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Lucca's accounting API export (Assistant Comptabilité, for Frais professionnels / Factures / payment means) runs on Chift: the 17 per-software setup guides link to help.chift.app; the word Chift is not written in the article body, only in the URLs. Marketing pages claim 'API integration with 15+ accounting software' without listing them. Same list in FR/DE/ES help versions (article not translated). MyUnisoft also has a documented flat-file export (marketplace + help article); API row kept as strongest. Marketplace 'Comptabilité & finance' category is mostly resellers/integrators and accounting firms, only MyUnisoft is an accounting software. Logo strips on product pages also show Sage, Cegid, SAP, Microsoft, Quadratus, Ciel (no text). Not found: Cegid Quadra/Expert by name, Sage 50, Isacompta, Indy, DATEV, Lexware, Holded, a3, Twinfield, NetSuite, Sage Intacct. Help center is JS-rendered (read through a browser)."
+  },
+  {
+   "id": "skello",
+   "name": "Skello",
+   "domain": "skello.io",
+   "hq_country": "FR",
+   "integrations_url": "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+   "pages_read": [
+    "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+    "https://www.skello.io/fonctionnalites/gestion-de-la-paie/partenaires-et-integrations-paie",
+    "https://www.skello.io/fonctionnalites/gestion-de-la-paie/preparation-de-la-paie-et-rapport-comptable",
+    "https://www.skello.io/comptables-et-pro-de-la-paie",
+    "https://www.skello.io/it/funzionalita/integrazioni-e-partner",
+    "https://www.skello.io/be/fonctionnalites/integrations-et-partenaires",
+    "https://www.skello.io/en/product/integrations-and-partners",
+    "https://www.skello.es/",
+    "https://www.skello.es/soluciones/integraciones-y-partners",
+    "https://www.skello.io/sitemap.xml",
+    "https://help.skello.io/fr/",
+    "https://help.skello.io/sitemap.xml",
+    "https://help.skello.io/fr/collections/12914853-integrations",
+    "https://help.skello.io/fr/articles/6990695-comment-parametrer-et-exporter-le-rapport-sur-skello",
+    "https://help.skello.io/fr/articles/12507694-comment-connecter-skello-a-cegid-retail"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+     "evidence": "Sends payroll variables to Cegid Quadra; payroll scope, not accounting entries",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+     "evidence": "Sends payroll variables to Sage; payroll scope, not accounting entries",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+     "evidence": "Sends payroll variables to SAP; payroll scope, not accounting entries",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.skello.es/soluciones/integraciones-y-partners",
+     "evidence": "Odoo POS sales auto-synced into Skello; POS data, not accounting",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "a3innuva Nómina",
+     "source_url": "https://www.skello.es/soluciones/integraciones-y-partners",
+     "evidence": "Employee data and payroll variables synced via API; payroll, not accounting",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    }
+   ],
+   "notes": "No accounting-entry integration or accounting export found: Skello is a scheduling tool and its integrations are payroll (Silae, PayFit, ADP, Nibelis, Cegid Quadra, Sage, SAP, a3innuva Nómina, Belgian payroll secretariats), POS, HRIS and ATS. The 5 rows are check-list brands named on integration pages but for payroll variables or POS sales, not bookkeeping; treat as non-accounting. Cegid Retail is also listed (POS revenue feed), not recorded. FR page lists ~84 integrations; IT, BE and EN pages are shorter subsets; ES site has its own list. Odoo also on FR page (revenue feed from Odoo to Skello). No mention of Pennylane, Cegid Loop/Expert, ACD, EBP, DATEV, Exact, Xero, Zucchetti, TeamSystem."
+  },
+  {
+   "id": "combo",
+   "name": "Combo",
+   "domain": "combohr.com",
+   "hq_country": "FR",
+   "integrations_url": "https://combohr.com/fr/partenaires",
+   "pages_read": [
+    "https://combohr.com/fr/partenaires",
+    "https://combohr.com/fr/fonctionnalites/integration-paie",
+    "https://combohr.com/es/funcionalidades/gestion-nomina",
+    "https://combohr.com/fr/sitemap.xml",
+    "https://combohr.com/es/sitemap.xml",
+    "https://en.combohr.com/sitemap.xml",
+    "https://guide.combohr.com/fr/collections/3821793-connecter-son-logiciel-de-paie",
+    "https://guide.combohr.com/fr/articles/7983260-comment-connecter-combo-a-son-logiciel-de-paie"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://combohr.com/fr/integrations",
+     "reason": "HTTP 404 (no such page; partners page is /fr/partenaires)"
+    },
+    {
+     "url": "https://guide.combohr.com/fr/articles/907429-gerer-votre-export-paie",
+     "reason": "HTTP 404 although listed in sitemap"
+    },
+    {
+     "url": "https://guide.combohr.com/fr/collections/1610545-communiquer-notre-export-paie-a-votre-cabinet-comptable",
+     "reason": "HTTP 404 although listed in sitemap"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "QuadraPaie",
+     "source_url": "https://guide.combohr.com/fr/articles/7983260-comment-connecter-combo-a-son-logiciel-de-paie",
+     "evidence": "Native one-way payroll connector (Cegid Quadra payroll); not accounting entries",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ],
+   "notes": "No accounting software integration found. Combo (scheduling/time) only connects to payroll and POS. Native payroll connectors listed: Openpaye, Paie & RH, PayFit, QuadraPaie, Sigma, SILAE, Talentia, Wingip, Yeap. Help center states explicitly that Sage, ADP, Cegid, Kelio and Figgo have NO native connector (manual XLSX/CSV export or Combo API instead), so no rows were created for Sage/Cegid. Partners page mentions an Excel 'export comptable' of payroll reports without naming any software. ES page names no software; EN sitemap has only 2 URLs. The single row is payroll, not bookkeeping."
+  },
+  {
+   "id": "personio",
+   "name": "Personio",
+   "domain": "personio.com",
+   "hq_country": "DE",
+   "integrations_url": "https://www.marketplace.personio.com/",
+   "pages_read": [
+    "https://developer.personio.de/",
+    "https://developer.personio.de/docs/getting-started-with-the-personio-api"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.personio.com/product/integrations/",
+     "reason": "HTTP 429, Vercel Security Checkpoint (anti-bot challenge); not bypassed"
+    },
+    {
+     "url": "https://www.personio.com/robots.txt",
+     "reason": "HTTP 429, Vercel Security Checkpoint"
+    },
+    {
+     "url": "https://www.personio.de/produkt/integrationen/",
+     "reason": "HTTP 429, Vercel Security Checkpoint"
+    },
+    {
+     "url": "https://marketplace.personio.com/",
+     "reason": "HTTP 429, Vercel Security Checkpoint"
+    },
+    {
+     "url": "https://www.marketplace.personio.com/integrations/datev/",
+     "reason": "HTTP 429 (anti-bot)"
+    },
+    {
+     "url": "https://www.marketplace.personio.com/collection/personio/",
+     "reason": "HTTP 429 (anti-bot)"
+    },
+    {
+     "url": "https://support.personio.de/hc/en-us",
+     "reason": "HTTP 403, Cloudflare 'Just a moment' challenge; not bypassed"
+    },
+    {
+     "url": "https://support.personio.de/hc/en-us/articles/115003711325",
+     "reason": "HTTP 403 (anti-bot)"
+    },
+    {
+     "url": "https://community.personio.com/product-updates/how-does-personio-payroll-influence-the-integration-and-partnership-with-datev-2210",
+     "reason": "301 redirect to community.personio.de homepage; article not reachable"
+    }
+   ],
+   "connections": [],
+   "notes": "NOT COLLECTED: every Personio marketing, marketplace and help-center host answered with an anti-bot challenge (Vercel checkpoint 429 / Cloudflare 403); per the rules it was not bypassed, so no row was created. Empty connections means 'unreadable', not 'no integrations'. Unverified leads from search-engine result titles only (pages not opened): a DATEV integration (marketplace page + several help articles, DATEV LODAS and Lohn und Gehalt payroll) and a Xero integration page (personio.com/product/xero/). Developer hub (readable) names no accounting software. Needs a manual pass in a normal browser."
+  },
+  {
+   "id": "factorial",
+   "name": "Factorial",
+   "domain": "factorialhr.com",
+   "hq_country": "ES",
+   "integrations_url": "https://factorialhr.com/apps",
+   "pages_read": [
+    "https://factorialhr.com/integrations",
+    "https://factorialhr.com/apps",
+    "https://factorialhr.com/sitemap.xml",
+    "https://factorial.es/sitemap.xml",
+    "https://factorial.fr/sitemap.xml",
+    "https://factorialhr.de/sitemap.xml",
+    "https://factorial.it/sitemap.xml",
+    "https://factorial.com/gb/sitemap.xml",
+    "https://factorialhr.com/finance",
+    "https://factorialhr.com/expense-management-software",
+    "https://factorialhr.com/apps/integration/a3nom",
+    "https://factorialhr.com/apps/integration/datev",
+    "https://factorialhr.com/apps/integration/primavera",
+    "https://factorialhr.com/apps/integration/zucchetti",
+    "https://factorialhr.com/apps/integration/sage",
+    "https://factorialhr.com/apps/integration/datev-lodas-api",
+    "https://factorialhr.com/apps/integration/a3innuva",
+    "https://factorialhr.com/apps/integration/sap-business-one",
+    "https://factorialhr.com/apps/integration/business-central",
+    "https://factorialhr.com/apps/integration/datev-lug-api",
+    "https://factorialhr.com/apps/integration/datev-lauds",
+    "https://factorialhr.com/apps/integration/teamsystems-factorial-integration",
+    "https://factorialhr.com/apps/integration/teamsystem-integration",
+    "https://factorialhr.com/apps/integration/gispaghe",
+    "https://factorialhr.com/apps/integration/phc-cegid-payroll",
+    "https://factorialhr.com/apps/integration/agenda-integration",
+    "https://factorialhr.com/apps/integration/sage100-integration",
+    "https://factorialhr.com/apps/integration/datev-rechnungsdatenservice",
+    "https://factorialhr.com/apps/integration/sage-100-france",
+    "https://factorialhr.com/apps/integration/datev-file-export-expenses",
+    "https://factorialhr.com/apps/integration/clsystem-factorial-integration",
+    "https://factorialhr.com/apps/integration/jobsistemi-integration",
+    "https://help.factorialhr.com/sitemap.xml",
+    "https://help.factorialhr.com/en_US/for-finance-team/available-integrations-erp-banks-accounting-tools",
+    "https://help.factorialhr.com/en_US/for-finance-team/how-to-export-expenses",
+    "https://help.factorialhr.com/en_US/integrations-marketplace/factorial-%E2%80%93-microsoft-dynamics-nav-integration-navision-on-premise",
+    "https://help.factorialhr.com/en_US/payroll-integrations/zucchetti-integration"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://factorial.es/finanzas",
+     "reason": "HTTP 404 (guessed URL)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV Rechnungsdatenservice 1.0",
+     "source_url": "https://factorialhr.com/apps/integration/datev-rechnungsdatenservice",
+     "evidence": "Approved expenses and receipts sent to DATEV Unternehmen Online via API",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Business Central",
+     "source_url": "https://factorialhr.com/apps/integration/business-central",
+     "evidence": "Developer Acicatech; syncs employees, projects, approved expenses, time and absences",
+     "kind": "via_partner",
+     "countries_stated": [
+      "ES",
+      "IT",
+      "DE",
+      "GB",
+      "PT",
+      "FR",
+      "PE",
+      "CO",
+      "BR",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://factorialhr.com/apps/integration/sap-business-one",
+     "evidence": "Developer Inforges; transfers approved expenses, projects, employees, time records",
+     "kind": "via_partner",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics NAV (Navision On-Premise)",
+     "source_url": "https://help.factorialhr.com/en_US/integrations-marketplace/factorial-%E2%80%93-microsoft-dynamics-nav-integration-navision-on-premise",
+     "evidence": "Syncs employees, projects, time records and employee expenses to Navision",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 200 & Sage Despachos",
+     "source_url": "https://factorialhr.com/apps/integration/sage",
+     "evidence": "Developer GMIntegra; syncs employees, time off, payroll variables; payroll scope",
+     "kind": "via_partner",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://factorialhr.com/apps/integration/sage-100-france",
+     "evidence": "Sage 100 Paie sync built by BrynQ; payroll, not accounting",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "DATEV LODAS",
+     "source_url": "https://factorialhr.com/apps/integration/datev-lodas-api",
+     "evidence": "Payroll connector: syncs employee data, bonuses, absences to DATEV LODAS",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "DATEV Lohn und Gehalt",
+     "source_url": "https://factorialhr.com/apps/integration/datev-lug-api",
+     "evidence": "Payroll connector: syncs employee data, bonuses, absences to DATEV",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "a3innuva Nómina",
+     "source_url": "https://factorialhr.com/apps/integration/a3innuva",
+     "evidence": "Syncs hires, absences, payroll supplements via Wolters Kluwer Conectia API; payroll",
+     "kind": "api",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "a3nom",
+     "source_url": "https://factorialhr.com/apps/integration/a3nom",
+     "evidence": "Payroll exports in a3ASESOR/nom format; payroll, not accounting",
+     "kind": "file_export",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Zucchetti",
+     "source_url": "https://help.factorialhr.com/en_US/payroll-integrations/zucchetti-integration",
+     "evidence": "Exports absences for payroll import in Zucchetti; payroll, not accounting",
+     "kind": "file_export",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "TeamSystem",
+     "source_url": "https://factorialhr.com/apps/integration/teamsystems-factorial-integration",
+     "evidence": "Developer DWAY; syncs time, absences, supplements to TeamSystem payroll",
+     "kind": "via_partner",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://factorialhr.com/apps/integration/agenda-integration",
+     "evidence": "Listed under Payroll apps for Germany; page has no description",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "PHC",
+     "source_url": "https://factorialhr.com/apps/integration/phc-cegid-payroll",
+     "evidence": "Cegid PHC; developer E2E; absences, compensations, expenses imported into the ERP",
+     "kind": "via_partner",
+     "countries_stated": [
+      "PT"
+     ]
+    },
+    {
+     "software_raw": "Primavera",
+     "source_url": "https://factorialhr.com/apps/integration/primavera",
+     "evidence": "Developer E2E; syncs employee, contract, time and time-off data; payroll",
+     "kind": "via_partner",
+     "countries_stated": [
+      "PT"
+     ]
+    }
+   ],
+   "notes": "Marketplace has an 'ERP' category with 4 apps: Microsoft Business Central, SAP Business One, DATEV Rechnungsdatenservice 1.0 (API) and DATEV Dateiexport (Ausgaben) (file export for DATEV Unternehmen Online, merged into the DATEV API row). Help center says Business Central is the only currently available partner ERP connector for expenses; other ERPs go through CSV/XLSX manual import or the public API. All other rows are payroll connectors (flagged in evidence), not bookkeeping: DATEV LODAS/LuG, Sage 200/Despachos, Sage 100 Paie (also a Factorial-built file export 'Sage 100 (France)'), a3, Zucchetti, TeamSystem (also a Factorial-built file export), Agenda, PHC, Primavera. Pure payroll tools not recorded: Silae, PaieRH, JetHR, Gispaghe, CL system, JOB Sistemi. Localized sitemaps (ES, FR, DE, IT, GB) expose the same app slugs as .com. Not found: Holded, Contasol, Sage 50, Xero, QuickBooks, NetSuite, Pennylane, Cegid, Lexware, sevdesk, Exact, Odoo, Fatture in Cloud."
+  }
+ ]
+}

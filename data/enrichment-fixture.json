@@ -1,0 +1,114 @@
+[
+  {
+    "domain": "pleo.io",
+    "name": "Pleo",
+    "employees": 934,
+    "industry": "Spend management software",
+    "hq": "DK",
+    "source": "simulated enrichment, public estimate, 2026 leadiq.com"
+  },
+  {
+    "domain": "spendesk.com",
+    "name": "Spendesk",
+    "employees": 312,
+    "industry": "Spend management software",
+    "hq": "FR",
+    "source": "simulated enrichment, public estimate, 2026 www.reveliolabs.com"
+  },
+  {
+    "domain": "payhawk.com",
+    "name": "Payhawk",
+    "employees": 472,
+    "industry": "Spend management software",
+    "hq": "GB",
+    "source": "simulated enrichment, public estimate, 2026 leadiq.com"
+  },
+  {
+    "domain": "rydoo.com",
+    "name": "Rydoo",
+    "employees": 262,
+    "industry": "Expense management software",
+    "hq": "BE",
+    "source": "simulated enrichment, public estimate, 2026 leadiq.com"
+  },
+  {
+    "domain": "mooncard.co",
+    "name": "Mooncard",
+    "employees": 137,
+    "industry": "Corporate cards and expense management",
+    "hq": "FR",
+    "source": "simulated enrichment, public estimate, 2025 getlatka.com"
+  },
+  {
+    "domain": "n2f.com",
+    "name": "N2F",
+    "employees": null,
+    "industry": "Expense management software",
+    "hq": "FR",
+    "source": "simulated enrichment, public estimate (200+), 2026 comparateur-notes-de-frais.fr"
+  },
+  {
+    "domain": "expensya.com",
+    "name": "Expensya",
+    "employees": 84,
+    "industry": "Expense management software",
+    "hq": "FR",
+    "source": "simulated enrichment, public estimate, 2026 leadiq.com"
+  },
+  {
+    "domain": "jenji.io",
+    "name": "Jenji",
+    "employees": null,
+    "industry": "Expense management software",
+    "hq": "FR",
+    "source": "simulated enrichment, public estimate (11-50), 2026 leadiq.com"
+  },
+  {
+    "domain": "getmoss.com",
+    "name": "Moss",
+    "employees": 349,
+    "industry": "Spend management software",
+    "hq": "DE",
+    "source": "simulated enrichment, public estimate (300+), 2026 leadiq.com"
+  },
+  {
+    "domain": "getpliant.com",
+    "name": "Pliant",
+    "employees": 344,
+    "industry": "Corporate cards and payments infrastructure",
+    "hq": "DE",
+    "source": "simulated enrichment, public estimate, 2026 leadiq.com"
+  },
+  {
+    "domain": "circula.com",
+    "name": "Circula",
+    "employees": 115,
+    "industry": "Expense management and employee benefits software",
+    "hq": "DE",
+    "source": "simulated enrichment, public estimate, 2026 www.reveliolabs.com"
+  },
+  {
+    "domain": "agicap.com",
+    "name": "Agicap",
+    "employees": 736,
+    "industry": "Cash flow management software",
+    "hq": "FR",
+    "source": "simulated enrichment, public estimate (700+), 2026 www.reveliolabs.com"
+  },
+  {
+    "domain": "libeo.io",
+    "name": "Libeo",
+    "employees": 39,
+    "industry": "B2B invoice payment software",
+    "hq": "FR",
+    "source": "simulated enrichment, public estimate (11-50), 2026 leadiq.com"
+  },
+  {
+    "domain": "shiftbase.com",
+    "name": "Shiftbase",
+    "employees": null,
+    "industry": "Workforce management software",
+    "hq": "NL",
+    "source": "simulated enrichment, public estimate (90+), 2026 www.shiftbase.com"
+  }
+]

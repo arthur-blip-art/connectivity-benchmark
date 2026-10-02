@@ -1,0 +1,1042 @@
+[
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "adsolut",
+  "software": "Adsolut",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+  "evidence": "Marketplace app by Billit"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+  "evidence": "Marketplace app by APIcenter: synchronize invoices"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+  "evidence": "Marketplace app by APIcenter: synchronize invoices"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "sage-bob-50",
+  "software": "Sage BOB 50",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+  "evidence": "Marketplace app by Billit: collaborate with BOB50 accountant"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "visma-accountview",
+  "software": "Visma AccountView",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+  "evidence": "Marketplace app by APIcenter: synchronize invoices"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "visma-eaccounting",
+  "software": "Visma eAccounting",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/be/en/category/bookkeeping",
+  "evidence": "Marketplace app by Combidesk: synchronize invoices"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/de/en/category/bookkeeping",
+  "evidence": "Marketplace app by digitastic; data in DATEV format"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/es/en/category/bookkeeping",
+  "evidence": "Marketplace app by AlcaTic (third party)"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/fr/en/category/bookkeeping",
+  "evidence": "Marketplace app by Billy (third party)"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "bjorn-lunden",
+  "software": "Björn Lundén",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+  "evidence": "Marketplace app by Combidesk: synchronize invoices"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "e-boekhouden",
+  "software": "e-Boekhouden",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+  "evidence": "Marketplace app by Combidesk: synchronize invoices"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "minox",
+  "software": "Minox",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+  "evidence": "Marketplace app by Combidesk: synchronize invoices"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "moneybird",
+  "software": "Moneybird",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+  "evidence": "Marketplace app by Combidesk: synchronize invoices"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+  "evidence": "Marketplace apps by SforSoftware and by Combidesk"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://marketplace.teamleader.eu/nl/en/category/bookkeeping",
+  "evidence": "Marketplace app by Teamleader: adds outgoing invoices automatically"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.teamleader.eu/fr/solutions/integrations",
+  "evidence": "Named in Teamleader Orbit tools list (FR page)"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "horus",
+  "software": "Horus",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.teamleader.eu/fr/solutions/integrations",
+  "evidence": "Named in accounting software list; mechanism not stated"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.teamleader.eu/solutions/accounting-connector",
+  "evidence": "Accounting Connector: automatic two-way sync"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "octopus",
+  "software": "Octopus",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.teamleader.eu/solutions/accounting-connector",
+  "evidence": "Accounting Connector: automatic two-way sync"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "yuki",
+  "software": "Yuki",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.teamleader.eu/solutions/accounting-connector",
+  "evidence": "Accounting Connector: automatic two-way sync"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.teamleader.eu/solutions/integrations",
+  "evidence": "Named in Teamleader Orbit connected tools list"
+ },
+ {
+  "editorId": "teamleader",
+  "editor": "Teamleader",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.teamleader.eu/solutions/integrations",
+  "evidence": "Named in Teamleader Orbit connected tools list"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "addison",
+  "software": "ADDISON",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "e-boekhouden",
+  "software": "e-Boekhouden",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "fastbill",
+  "software": "FastBill",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "freshbooks",
+  "software": "FreshBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "minox",
+  "software": "Minox",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "moneybird",
+  "software": "Moneybird",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "uniconta",
+  "software": "Uniconta",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "yuki",
+  "software": "Yuki",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.bunq.com/articles/what-bookkeeping-software-is-available-with-bunq-integration",
+  "evidence": "Listed as available bookkeeping software with bunq API integration (OAuth)"
+ },
+ {
+  "editorId": "bunq",
+  "editor": "bunq",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.bunq.com/en-nl/business/features/integrations/datev",
+  "evidence": "Setup via DATEV HBCI access, 'confirm the finAPI note' (finAPI)"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/helpartikelen/accountancy-software/datev/",
+  "evidence": "Documents automatically uploaded to DATEV via integration"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "adsolut",
+  "software": "Adsolut",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billsync: UBL files synced via own server"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billapi (API link), bi-directional"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "horus",
+  "software": "Horus",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billapi (API link), bi-directional"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "kluwer-expert",
+  "software": "Kluwer Expert/M",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billsync: UBL files synced via own server, bi-directional"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billapi; Billit app in Business Central app store"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "octopus",
+  "software": "Octopus",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billapi (API link), bi-directional"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billsync: UBL files synced via own server"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "winauditor",
+  "software": "Winauditor",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billmail: UBL invoices via software mailbox"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "winbooks",
+  "software": "WinBooks",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billsync: UBL files synced via own server"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "yuki",
+  "software": "Yuki",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-be/koppelen-met-billit/koppel-met-je-boekhoudsoftware/",
+  "evidence": "Link type Billapi (API link), bi-directional"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "e-boekhouden",
+  "software": "e-Boekhouden",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-nl/koppelen-met-billit/mogelijkheden-per-boekhoudsoftware/",
+  "evidence": "Link type Billmail: UBL invoices via software mailbox"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "moneybird",
+  "software": "Moneybird",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-nl/koppelen-met-billit/mogelijkheden-per-boekhoudsoftware/",
+  "evidence": "Link type Billmail: UBL invoices via software mailbox"
+ },
+ {
+  "editorId": "billit",
+  "editor": "Billit",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billit.eu/nl-nl/koppelen-met-billit/mogelijkheden-per-boekhoudsoftware/",
+  "evidence": "Link type Billmail: UBL invoices via software mailbox"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/accounting-automation-through-invoice-download-to-lexoffice/",
+  "evidence": "Export sync to Lexware Office; separate import sync also exists"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/agenda/",
+  "evidence": "Export sync; partner connection through Agenda Connect"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/automatically-export-invoices-to-pennylane/",
+  "evidence": "Automatically creates an invoice in pennylane and attaches scanned files"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/datev-receipt-transfer-invoice-download-2/",
+  "evidence": "Document export to DATEV Unternehmen online (Rechnungsdatenservice 1.0)"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "dinero",
+  "software": "Dinero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/download-dinero-invoices/",
+  "evidence": "Automated interface to Dinero, Danish cloud accounting software"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "fastbill",
+  "software": "FastBill",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/fastbill-receipt-importer/",
+  "evidence": "Document export and import between GetMyInvoices and FastBill"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/microsoft-dynamics-365-business-central/",
+  "evidence": "Export sync sends invoices automatically to the Business Central interface"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/quickbooks-invoice-importer/",
+  "evidence": "Sync account 'Export' to QuickBooks; help centre names QuickBooks Online"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/sevdesk-receipt-transfer-for-digital-invoices/",
+  "evidence": "Document exchange (export) between GetMyInvoices and sevdesk"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "addison",
+  "software": "ADDISON",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/wolters-kluwer/",
+  "evidence": "Premium partner solution via ADDISON SMART Connect; automated document transfer"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integration/xero-incoming-invoices/",
+  "evidence": "Add sync account, Export, select Xero; documents transferred automatically"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "e-boekhouden",
+  "software": "e-Boekhouden",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+  "evidence": "'GetMyInvoices offers an automated interface to e-boekhouden'"
+ },
+ {
+  "editorId": "getmyinvoices",
+  "editor": "GetMyInvoices",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmyinvoices.com/en/integrations-interfaces/",
+  "evidence": "'Automated interface to Exact'; product (Online/Globe) not specified"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "a3-innuva",
+  "software": "A3 Innuva",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://factorialhr.com/apps/integration/a3innuva",
+  "evidence": "Syncs hires, absences, payroll supplements via Wolters Kluwer Conectia API; payroll"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://factorialhr.com/apps/integration/agenda-integration",
+  "evidence": "Listed under Payroll apps for Germany; page has no description"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://factorialhr.com/apps/integration/datev-rechnungsdatenservice",
+  "evidence": "Approved expenses and receipts sent to DATEV Unternehmen Online via API"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "sage-despachos",
+  "software": "Sage Despachos",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://factorialhr.com/apps/integration/sage",
+  "evidence": "Developer GMIntegra; syncs employees, time off, payroll variables; payroll scope"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://factorialhr.com/apps/integration/sage-100-france",
+  "evidence": "Sage 100 Paie sync built by BrynQ; payroll, not accounting"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "teamsystem-azienda",
+  "software": "TeamSystem Azienda",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://factorialhr.com/apps/integration/teamsystems-factorial-integration",
+  "evidence": "Page names \"TeamSystem\" without the product. Developer DWAY; syncs time, absences, supplements to TeamSystem payroll"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "teamsystem-gamma",
+  "software": "TeamSystem Gamma",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://factorialhr.com/apps/integration/teamsystems-factorial-integration",
+  "evidence": "Page names \"TeamSystem\" without the product. Developer DWAY; syncs time, absences, supplements to TeamSystem payroll"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "teamsystem-studio",
+  "software": "TeamSystem Studio",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://factorialhr.com/apps/integration/teamsystems-factorial-integration",
+  "evidence": "Page names \"TeamSystem\" without the product. Developer DWAY; syncs time, absences, supplements to TeamSystem payroll"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.factorialhr.com/en_US/integrations-marketplace/factorial-%E2%80%93-microsoft-dynamics-nav-integration-navision-on-premise",
+  "evidence": "Syncs employees, projects, time records and employee expenses to Navision"
+ },
+ {
+  "editorId": "factorial",
+  "editor": "Factorial",
+  "softwareId": "ago-infinity",
+  "software": "AGO Infinity",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.factorialhr.com/en_US/payroll-integrations/zucchetti-integration",
+  "evidence": "Page names \"Zucchetti\" without the product. Exports absences for payroll import in Zucchetti; payroll, not accounting"
+ },
+ {
+  "editorId": "moss",
+  "editor": "Moss",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmoss.com/integrations",
+  "evidence": "Listed under Accounting with label 'API'"
+ },
+ {
+  "editorId": "moss",
+  "editor": "Moss",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmoss.com/integrations",
+  "evidence": "Listed under Accounting with label 'API'"
+ },
+ {
+  "editorId": "moss",
+  "editor": "Moss",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmoss.com/integrations",
+  "evidence": "Listed under Accounting with label 'API'"
+ },
+ {
+  "editorId": "moss",
+  "editor": "Moss",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmoss.com/integrations",
+  "evidence": "Listed under Accounting with label 'API'"
+ },
+ {
+  "editorId": "moss",
+  "editor": "Moss",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmoss.com/integrations/business-central",
+  "evidence": "Connect Moss to Business Central to sync company spend data; label 'API'"
+ },
+ {
+  "editorId": "moss",
+  "editor": "Moss",
+  "softwareId": "sage-200",
+  "software": "Sage 200",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmoss.com/integrations/sage",
+  "evidence": "Moss supports Sage 50 and Sage 200 through configurable CSV templates"
+ },
+ {
+  "editorId": "moss",
+  "editor": "Moss",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmoss.com/integrations/sage",
+  "evidence": "Moss supports Sage 50 and Sage 200 through configurable CSV templates"
+ },
+ {
+  "editorId": "moss",
+  "editor": "Moss",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.getmoss.com/integrations/twinfield",
+  "evidence": "Moss generates Twinfield-ready CSV exports; label 'CSV'"
+ },
+ {
+  "editorId": "tide",
+  "editor": "Tide",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tide.co/de-DE/features/datev-integration/",
+  "evidence": "DATEV-Schnittstelle: bookings synced automatically (needs Buchungsdatenservice)"
+ },
+ {
+  "editorId": "tide",
+  "editor": "Tide",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tide.co/features/accounting-integrations/",
+  "evidence": "'Our Xero accounting integration is a direct sync'; paid Xero Connector"
+ },
+ {
+  "editorId": "tide",
+  "editor": "Tide",
+  "softwareId": "clearbooks",
+  "software": "Clear Books",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+  "evidence": "Open Banking bank feed set up in Clear Books"
+ },
+ {
+  "editorId": "tide",
+  "editor": "Tide",
+  "softwareId": "freeagent",
+  "software": "FreeAgent",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+  "evidence": "Connects via Open Banking bank feed, daily transaction import, feed every 24 hours"
+ },
+ {
+  "editorId": "tide",
+  "editor": "Tide",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+  "evidence": "Connects via Open Banking bank feed, daily transaction import"
+ },
+ {
+  "editorId": "tide",
+  "editor": "Tide",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.tide.co/help-centre/tide-accounting-integrations/",
+  "evidence": "Page names \"Sage Accounting\" without the product. Connects via Open Banking bank feed, daily transaction import"
+ },
+ {
+  "editorId": "spendesk",
+  "editor": "Spendesk",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://helpcenter.spendesk.com/en/articles/12158659-connect-spendesk-to-microsoft-business-central",
+  "evidence": "Install an extension from our technical partner Chift"
+ },
+ {
+  "editorId": "spendesk",
+  "editor": "Spendesk",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://helpcenter.spendesk.com/en/articles/13176842-overview-of-xero-native-integration",
+  "evidence": "Native integration between Spendesk and Xero; pulls master data"
+ },
+ {
+  "editorId": "spendesk",
+  "editor": "Spendesk",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://helpcenter.spendesk.com/en/articles/5633716-overview-of-quickbooks-online-native-integration",
+  "evidence": "Native integration; only available for US companies"
+ },
+ {
+  "editorId": "spendesk",
+  "editor": "Spendesk",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://helpcenter.spendesk.com/fr/articles/7669249-importer-votre-journal-d-achats-spendesk-dans-sage-100-spc-ou-sage-50",
+  "evidence": "Import Spendesk purchase journal into Sage 100 SPC or Sage 50"
+ },
+ {
+  "editorId": "spendesk",
+  "editor": "Spendesk",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.spendesk.com/integrations/netsuite/",
+  "evidence": "Integrates with NetSuite via a native, two-way sync"
+ },
+ {
+  "editorId": "rydoo",
+  "editor": "Rydoo",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.rydoo.com/integrations/microsoft-dynamics-365-business-central-unitech/",
+  "evidence": "Done using the UniTech IT Solutions connector handling the API integration"
+ },
+ {
+  "editorId": "rydoo",
+  "editor": "Rydoo",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.rydoo.com/integrations/netsuite/",
+  "evidence": "Automatically export expenses from Rydoo to NetSuite in near real-time"
+ },
+ {
+  "editorId": "rydoo",
+  "editor": "Rydoo",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.rydoo.com/integrations/quickbooks/",
+  "evidence": "Connecting QuickBooks: simply click Sign in to integrate"
+ },
+ {
+  "editorId": "rydoo",
+  "editor": "Rydoo",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.rydoo.com/integrations/xero/",
+  "evidence": "Connecting Xero: simply click Sign in to integrate"
+ },
+ {
+  "editorId": "billomat",
+  "editor": "Billomat",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.billomat.com/add-ons/datev-buchungsdatenservice/",
+  "evidence": "DATEV Buchungsdatenservice add-on: 'per Klick direkt an das DATEV Rechenzentrum'"
+ },
+ {
+  "editorId": "billomat",
+  "editor": "Billomat",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.billomat.com/magazin/buchhaltungsexport-fuer-datev-und-agenda-2/",
+  "evidence": "Accounting export in 'DATEV und / oder Agenda freundliches Datenformat'"
+ },
+ {
+  "editorId": "circula",
+  "editor": "Circula",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.circula.com/en/integrations",
+  "evidence": "API interface Twinfield from Wolters Kluwer; EN page only"
+ },
+ {
+  "editorId": "circula",
+  "editor": "Circula",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.circula.com/en/integrations/business-central",
+  "evidence": "Microsoft partner Finclair developed the Circula Expenses Connector"
+ }
+]

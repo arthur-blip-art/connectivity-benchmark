@@ -1,0 +1,2737 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "mooncard",
+   "name": "Mooncard",
+   "domain": "mooncard.co",
+   "hq_country": "FR",
+   "integrations_url": "https://www.mooncard.co/fr/integration",
+   "pages_read": [
+    "https://www.mooncard.co/fr/integration",
+    "https://www.mooncard.co/en/integration",
+    "https://www.mooncard.co/fr/integrations/sage",
+    "https://www.mooncard.co/fr/integrations/cegid",
+    "https://www.mooncard.co/fr/integrations/quadratus",
+    "https://www.mooncard.co/fr/integrations/ebp",
+    "https://www.mooncard.co/fr/integrations/microsoft-dynamics",
+    "https://www.mooncard.co/fr/integrations/exact-online",
+    "https://www.mooncard.co/fr/integrations/sap",
+    "https://www.mooncard.co/fr/integrations/divalto",
+    "https://www.mooncard.co/fr/integrations/ciel",
+    "https://www.mooncard.co/fr/integrations/ibiza",
+    "https://www.mooncard.co/fr/integrations/api",
+    "https://www.mooncard.co/fr/fonctionnalites/automatisation-comptable",
+    "https://www.mooncard.co/fr/partenaires",
+    "https://www.mooncard.co/fr/cas-usage/comptabilite/logiciel-comptabilite",
+    "https://www.mooncard.co/en/use-case/accounting/accounting-software",
+    "https://www.mooncard.co/en/blog/meet-mooncard-vadim-dach-account-manager",
+    "https://www.mooncard.co/en/blog/personalised-exports",
+    "https://www.mooncard.co/sitemap.xml",
+    "https://help.mooncard.co/",
+    "https://help.mooncard.co/sitemap.xml",
+    "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/choisir-votre-logiciel-comptable/5TMA5CunEdsmY3WK1Aq2PM",
+    "https://help.mooncard.co/formez-vous-en-3-min/6zCfR9fpcY2hjmQB39cxYf/le-choix-du-logiciel-comptable-/6VjBjn1jL2wq4HwxEwiJ1x",
+    "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/comment-r%C3%A9aliser-un-export-comptable-dans-mooncard-/5TMA5CunEaDeosGECw6Vvo",
+    "https://help.mooncard.co/formez-vous-en-3-min/6zCfR9fpcY2hjmQB39cxYf/g%C3%A9n%C3%A9rez-vos-exports-comptables-/72986jbEwZq2HY7px5atJT",
+    "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/comment-importer-un-fichier-mooncard-vers-sage-100-/5TMA5CunEcxWSUfAfB9ksS",
+    "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/comment-importer-vos-%C3%A9critures-comptables-mooncard-dans-quadratus-/5TMA5CunEc4MVGe4EFb4q6",
+    "https://help.mooncard.co/le-guide-de-la-facturation-%C3%A9lectronique-rfe/7Z6rGsKb5Bssv4x9uYBWCr/comment-connecter-votre-compte-de-facturation-%C3%A9lectronique-pennylane-%C3%A0-mooncard-/8ti5V59w5gwkY8ak2JQJ1u",
+    "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/experts-comptables-accompagnez-vos-clients-dans-le-d%C3%A9ploiement-de-mooncard/5TMA5CunEcqvyPf92iYoGz"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.mooncard.co/fr/integrations/sage",
+     "evidence": "importer directement votre fichier d'écritures comptables dans votre logiciel Sage",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Business Cloud",
+     "source_url": "https://www.mooncard.co/fr/integrations/sage",
+     "evidence": "choose file format to import accounting entries into Sage",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/comment-importer-un-fichier-mooncard-vers-sage-100-/5TMA5CunEcxWSUfAfB9ksS",
+     "evidence": "dedicated .PNM export compatible with Sage 100, 100c and i7",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/choisir-votre-logiciel-comptable/5TMA5CunEdsmY3WK1Aq2PM",
+     "evidence": "export file formats referenced by Mooncard (ex. Sage, Cegid, Quadratus)",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.mooncard.co/fr/integrations/cegid",
+     "evidence": "données comptables pré-complétées puis automatiquement déversées dans votre ERP",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/comment-importer-vos-%C3%A9critures-comptables-mooncard-dans-quadratus-/5TMA5CunEc4MVGe4EFb4q6",
+     "evidence": ".txt export imported via Quadratus 'Import ASCII (compta)'",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.mooncard.co/fr/integrations/ebp",
+     "evidence": "\"Paramétrez le format d'import selon vos besoins\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ibiza Software",
+     "source_url": "https://www.mooncard.co/fr/integrations/ibiza",
+     "evidence": "\"Configurez le format d'import selon vos besoins\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.mooncard.co/fr/integrations/sap",
+     "evidence": "import accounting entries (purchase and bank) into your ERP",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.mooncard.co/fr/integrations/exact-online",
+     "evidence": "\"déverse automatiquement vos données comptables\"; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics",
+     "source_url": "https://www.mooncard.co/fr/integrations/microsoft-dynamics",
+     "evidence": "\"intégration automatique des données comptables\"; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Divalto Infinity",
+     "source_url": "https://www.mooncard.co/fr/integrations/divalto",
+     "evidence": "\"intégration native\" claimed with accounting module; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ciel",
+     "source_url": "https://www.mooncard.co/fr/integrations/ciel",
+     "evidence": "payment data pushed as pre-filled accounting entries; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://help.mooncard.co/le-guide-de-la-facturation-%C3%A9lectronique-rfe/7Z6rGsKb5Bssv4x9uYBWCr/comment-connecter-votre-compte-de-facturation-%C3%A9lectronique-pennylane-%C3%A0-mooncard-/8ti5V59w5gwkY8ak2JQJ1u",
+     "evidence": "Pennylane API token pasted in Mooncard e-invoicing settings, then connection test",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/experts-comptables-accompagnez-vos-clients-dans-le-d%C3%A9ploiement-de-mooncard/5TMA5CunEcqvyPf92iYoGz",
+     "evidence": "listed among main software for deploying accounting entries",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Full",
+     "source_url": "https://help.mooncard.co/g%C3%A9rez-vos-%C3%A9critures-comptables/5mUaTzBWZTZd3G16uKLVre/experts-comptables-accompagnez-vos-clients-dans-le-d%C3%A9ploiement-de-mooncard/5TMA5CunEcqvyPf92iYoGz",
+     "evidence": "listed as 'Full' among main software for accounting entries",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.mooncard.co/en/use-case/accounting/accounting-software",
+     "evidence": "\"Quickbooks is compatible with Mooncard management software.\"",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.mooncard.co/en/blog/meet-mooncard-vadim-dach-account-manager",
+     "evidence": "staff interview: \"liaising with accounting software such as DATEV or BMD\"",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE",
+      "AT",
+      "CH"
+     ]
+    },
+    {
+     "software_raw": "BMD",
+     "source_url": "https://www.mooncard.co/en/blog/meet-mooncard-vadim-dach-account-manager",
+     "evidence": "staff interview: \"liaising with accounting software such as DATEV or BMD\"",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE",
+      "AT",
+      "CH"
+     ]
+    }
+   ],
+   "notes": "Marketing pages claim 'native connectors' and '100% compatible' but help center describes per-software export file formats chosen in Accounting > Settings (full in-app format list not public; custom formats .CSV .TXT .XLSX .ECR .BAK .PNM .TRA). Public API covers vehicles/employees/analytic codes, not accounting sync. Also listed but not accounting software: Chorus, Agicap, GAC Technology, SuperPDP (e-invoicing). /de /nl /it only have blog pages; EN integration list identical to FR. DATEV/BMD evidence is weak (blog interview). Help center: only accounting category articles read, not all ~170. Checked and not found publicly: Cegid Loop (only as editorial mention), Sage 50, Sage Generation Experts, ACD, MyUnisoft, Inqom, Tiime, Lexware, sevdesk, Addison, Agenda, SAP Business One, Scopevisio, BuchhaltungsButler, Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Odoo, Adsolut, ClearFacts, Xero, NetSuite, Business Central (only generic 'Microsoft Dynamics'), Sage Intacct."
+  },
+  {
+   "id": "n2f",
+   "name": "N2F",
+   "domain": "n2f.com",
+   "hq_country": "FR",
+   "integrations_url": "https://www.n2f.com/fr/nos-integrations/",
+   "pages_read": [
+    "https://www.n2f.com/fr/nos-integrations/",
+    "https://www.n2f.com/en/integrations/",
+    "https://www.n2f.com/de/integrationen/",
+    "https://www.n2f.com/it/integrazioni/",
+    "https://www.n2f.com/es/integraciones/",
+    "https://www.n2f.com/nl/nos-integrations/",
+    "https://www.n2f.com/fr-ch/nos-integrations/",
+    "https://www.n2f.com/de-ch/integrationen/",
+    "https://www.n2f.com/pt-br/integra%C3%A7%C3%B5es/",
+    "https://www.n2f.com/integrations-sitemap.xml",
+    "https://www.n2f.com/page-sitemap.xml",
+    "https://www.n2f.com/fr/note-de-frais/export-comptable/",
+    "https://www.n2f.com/de/reisekostenabrechnungen/buchhaltungsexport/",
+    "https://www.n2f.com/en/expense-report/accounting-export/",
+    "https://www.n2f.com/nl/onkostenrapport/boekhoudkundige-export/",
+    "https://www.n2f.com/fr/solution-notes-de-frais-pour-experts-comptables/",
+    "https://www.n2f.com/fr/faq-solutions-n2f/",
+    "https://www.n2f.com/en/faq-n2f-solutions/",
+    "https://www.n2f.com/de/faq-zu-n2f-loesungen/",
+    "https://www.n2f.com/de/",
+    "https://www.n2f.com/fr/",
+    "https://www.n2f.com/en/",
+    "https://www.n2f.com/nl/",
+    "https://www.n2f.com/en/our-resources/n2f-european-spend-management-leader/",
+    "https://www.n2f.com/fr/nos-integrations/diamant-software/",
+    "https://www.n2f.com/fr/nos-integrations/berger-levrault/",
+    "https://www.n2f.com/fr/nos-integrations/charlemagne/",
+    "https://www.n2f.com/fr/nos-integrations/meg/",
+    "https://www.n2f.com/fr/nos-integrations/4d/",
+    "https://www.n2f.com/fr/nos-integrations/8sens/",
+    "https://www.n2f.com/fr/nos-integrations/buffetti/",
+    "https://www.n2f.com/fr/nos-integrations/cegi/",
+    "https://www.n2f.com/fr/nos-integrations/cegid/",
+    "https://www.n2f.com/fr/nos-integrations/centro-software/",
+    "https://www.n2f.com/fr/nos-integrations/clipper/",
+    "https://www.n2f.com/fr/nos-integrations/cocktail/",
+    "https://www.n2f.com/fr/nos-integrations/cpage/",
+    "https://www.n2f.com/fr/nos-integrations/cresus/",
+    "https://www.n2f.com/fr/nos-integrations/distel/",
+    "https://www.n2f.com/fr/nos-integrations/divalto/",
+    "https://www.n2f.com/fr/nos-integrations/docfinance/",
+    "https://www.n2f.com/fr/nos-integrations/dolibarr/",
+    "https://www.n2f.com/fr/nos-integrations/ebp/",
+    "https://www.n2f.com/fr/nos-integrations/endered-solutions-cse/",
+    "https://www.n2f.com/fr/nos-integrations/epicor/",
+    "https://www.n2f.com/fr/nos-integrations/equation/",
+    "https://www.n2f.com/fr/nos-integrations/eureka/",
+    "https://www.n2f.com/fr/nos-integrations/fattura24/",
+    "https://www.n2f.com/fr/nos-integrations/fibunet/",
+    "https://www.n2f.com/fr/nos-integrations/fluentis/",
+    "https://www.n2f.com/fr/nos-integrations/formula/",
+    "https://www.n2f.com/fr/nos-integrations/g7-suite/",
+    "https://www.n2f.com/fr/nos-integrations/gemo/",
+    "https://www.n2f.com/fr/nos-integrations/gestimum/",
+    "https://www.n2f.com/fr/nos-integrations/giobby/",
+    "https://www.n2f.com/fr/nos-integrations/haufe/",
+    "https://www.n2f.com/fr/nos-integrations/hausmann-wynen/",
+    "https://www.n2f.com/fr/nos-integrations/helios/",
+    "https://www.n2f.com/fr-ch/nos-integrations/abacus/",
+    "https://www.n2f.com/fr/nos-integrations/abas/",
+    "https://www.n2f.com/fr/nos-integrations/acd/",
+    "https://www.n2f.com/fr/nos-integrations/adfinity/",
+    "https://www.n2f.com/fr/nos-integrations/advango/",
+    "https://www.n2f.com/fr/nos-integrations/agiris/",
+    "https://www.n2f.com/fr/nos-integrations/akuiteo/",
+    "https://www.n2f.com/fr/nos-integrations/autodesk/",
+    "https://www.n2f.com/fr/nos-integrations/axians/",
+    "https://www.n2f.com/fr/nos-integrations/bakertilly/",
+    "https://www.n2f.com/fr/nos-integrations/basicompta/",
+    "https://www.n2f.com/fr/nos-integrations/best-consultant/",
+    "https://www.n2f.com/fr/nos-integrations/bluenext/",
+    "https://www.n2f.com/fr/nos-integrations/ifacto/",
+    "https://www.n2f.com/fr/nos-integrations/imio/",
+    "https://www.n2f.com/fr/nos-integrations/impresa-erp/",
+    "https://www.n2f.com/fr/nos-integrations/inetum/",
+    "https://www.n2f.com/fr/nos-integrations/infologic/",
+    "https://www.n2f.com/fr/nos-integrations/infoniqa/",
+    "https://www.n2f.com/fr/nos-integrations/ingenio/",
+    "https://www.n2f.com/fr/nos-integrations/payfit/",
+    "https://www.n2f.com/fr/nos-integrations/priority/",
+    "https://www.n2f.com/fr/nos-integrations/prios/",
+    "https://www.n2f.com/fr/nos-integrations/proalpha/",
+    "https://www.n2f.com/fr/nos-integrations/quickbooks/",
+    "https://www.n2f.com/fr/nos-integrations/rzl-software/",
+    "https://www.n2f.com/fr/nos-integrations/selectline/",
+    "https://www.n2f.com/fr/nos-integrations/integral/",
+    "https://www.n2f.com/fr/nos-integrations/ipsoa/",
+    "https://www.n2f.com/fr/nos-integrations/irium/",
+    "https://www.n2f.com/fr/nos-integrations/jeeves/",
+    "https://www.n2f.com/fr/nos-integrations/jvs/",
+    "https://www.n2f.com/fr/nos-integrations/ld-systeme/",
+    "https://www.n2f.com/fr/nos-integrations/lexware/",
+    "https://www.n2f.com/fr/nos-integrations/mistral/",
+    "https://www.n2f.com/fr/nos-integrations/neo/",
+    "https://www.n2f.com/fr/nos-integrations/iris-experts/",
+    "https://www.n2f.com/fr/nos-integrations/sistemi/",
+    "https://www.n2f.com/fr/nos-integrations/sylob/",
+    "https://www.n2f.com/fr/nos-integrations/syska/",
+    "https://www.n2f.com/fr/nos-integrations/teamsystem/",
+    "https://www.n2f.com/fr/nos-integrations/tecno-engineering/",
+    "https://www.n2f.com/fr/nos-integrations/varial/",
+    "https://www.n2f.com/fr/nos-integrations/wavesoft/",
+    "https://www.n2f.com/fr/nos-integrations/win-software/",
+    "https://www.n2f.com/fr/nos-integrations/xotis/",
+    "https://www.n2f.com/fr/nos-integrations/proconcept/",
+    "https://www.n2f.com/fr/nos-integrations/comarch/",
+    "https://www.n2f.com/fr/nos-integrations/project-building/",
+    "https://www.n2f.com/fr/nos-integrations/winbiz/",
+    "https://www.n2f.com/fr/nos-integrations/in-extenso/",
+    "https://www.n2f.com/fr/nos-integrations/mega/",
+    "https://www.n2f.com/fr/nos-integrations/cogilog/",
+    "https://www.n2f.com/fr/nos-integrations/unit4/",
+    "https://www.n2f.com/fr/nos-integrations/cetra/",
+    "https://www.n2f.com/fr/nos-integrations/netexcom/",
+    "https://www.n2f.com/fr/nos-integrations/shd/",
+    "https://www.n2f.com/fr/nos-integrations/sysdat-it/",
+    "https://www.n2f.com/fr/nos-integrations/weclapp/",
+    "https://www.n2f.com/fr/nos-integrations/proffix/",
+    "https://www.n2f.com/fr/nos-integrations/seac/",
+    "https://www.n2f.com/fr/nos-integrations/maggioli/",
+    "https://www.n2f.com/fr/nos-integrations/silog/",
+    "https://www.n2f.com/fr/nos-integrations/exel/",
+    "https://www.n2f.com/fr/nos-integrations/paneura/",
+    "https://www.n2f.com/fr/nos-integrations/nevaris/",
+    "https://www.n2f.com/fr/nos-integrations/osi/",
+    "https://www.n2f.com/fr/nos-integrations/edisoftware/",
+    "https://www.n2f.com/fr/nos-integrations/bel-air/",
+    "https://www.n2f.com/fr/nos-integrations/zefyr/",
+    "https://www.n2f.com/fr/nos-integrations/fiducial/",
+    "https://www.n2f.com/fr/nos-integrations/mago/",
+    "https://www.n2f.com/fr/nos-integrations/gpi/",
+    "https://www.n2f.com/fr/nos-integrations/centro-paghe/",
+    "https://www.n2f.com/fr/nos-integrations/vepos/",
+    "https://www.n2f.com/fr/nos-integrations/gea/",
+    "https://www.n2f.com/fr/nos-integrations/talentia/",
+    "https://www.n2f.com/fr/nos-integrations/xbat/",
+    "https://www.n2f.com/fr/nos-integrations/datev/",
+    "https://www.n2f.com/fr/nos-integrations/hamburger-software/",
+    "https://www.n2f.com/fr/nos-integrations/abacus/",
+    "https://www.n2f.com/fr/nos-integrations/mach/",
+    "https://www.n2f.com/fr/nos-integrations/reynoldsreynolds/",
+    "https://www.n2f.com/fr/nos-integrations/888-software-products/",
+    "https://www.n2f.com/fr/nos-integrations/axelor/",
+    "https://www.n2f.com/fr/nos-integrations/dylog/",
+    "https://www.n2f.com/fr/nos-integrations/e2000/",
+    "https://www.n2f.com/fr/nos-integrations/eig/",
+    "https://www.n2f.com/fr/nos-integrations/freeway/",
+    "https://www.n2f.com/fr/nos-integrations/git/",
+    "https://www.n2f.com/fr/nos-integrations/inaz/",
+    "https://www.n2f.com/fr/nos-integrations/isuite-expert/",
+    "https://www.n2f.com/fr/nos-integrations/italsoft/",
+    "https://www.n2f.com/fr/nos-integrations/jlm-si/",
+    "https://www.n2f.com/fr/nos-integrations/king-software/",
+    "https://www.n2f.com/fr/nos-integrations/myunisoft/",
+    "https://www.n2f.com/fr/nos-integrations/nts-informatica/",
+    "https://www.n2f.com/fr/nos-integrations/omega-software/",
+    "https://www.n2f.com/fr/nos-integrations/open-prod/",
+    "https://www.n2f.com/fr/nos-integrations/optigem/",
+    "https://www.n2f.com/fr/nos-integrations/oslo/",
+    "https://www.n2f.com/fr/nos-integrations/pascal/",
+    "https://www.n2f.com/fr/nos-integrations/passepartout/",
+    "https://www.n2f.com/fr/nos-integrations/pegase/",
+    "https://www.n2f.com/fr/nos-integrations/proginov/",
+    "https://www.n2f.com/fr/nos-integrations/qad/",
+    "https://www.n2f.com/fr/nos-integrations/readypro/",
+    "https://www.n2f.com/fr/nos-integrations/rydge-conseil/",
+    "https://www.n2f.com/fr/nos-integrations/sapaig/",
+    "https://www.n2f.com/fr/nos-integrations/sigma/",
+    "https://www.n2f.com/fr/nos-integrations/solinat/",
+    "https://www.n2f.com/fr/nos-integrations/soluzione-tasse/",
+    "https://www.n2f.com/fr/nos-integrations/sorma/",
+    "https://www.n2f.com/fr/nos-integrations/stotax/",
+    "https://www.n2f.com/fr/nos-integrations/supermax/",
+    "https://www.n2f.com/fr/nos-integrations/targetcross/",
+    "https://www.n2f.com/fr/nos-integrations/teogest/",
+    "https://www.n2f.com/fr/nos-integrations/tiime/",
+    "https://www.n2f.com/fr/nos-integrations/topix/",
+    "https://www.n2f.com/fr/nos-integrations/unitrade/",
+    "https://www.n2f.com/fr/nos-integrations/wolters-kluwer/",
+    "https://www.n2f.com/fr/nos-integrations/prismasoft/",
+    "https://www.n2f.com/fr/nos-integrations/sellsy/",
+    "https://www.n2f.com/fr/nos-integrations/jyc-informatique/",
+    "https://www.n2f.com/fr/nos-integrations/oneadvanced/",
+    "https://www.n2f.com/fr/nos-integrations/mesonic/",
+    "https://www.n2f.com/fr/nos-integrations/magia3/",
+    "https://www.n2f.com/fr/nos-integrations/prestige/",
+    "https://www.n2f.com/fr/nos-integrations/septeo/",
+    "https://www.n2f.com/fr/nos-integrations/pennylane/",
+    "https://www.n2f.com/fr/nos-integrations/mitico/",
+    "https://www.n2f.com/fr/nos-integrations/everwin/",
+    "https://www.n2f.com/fr/nos-integrations/codial/",
+    "https://www.n2f.com/en/integrations/sap/",
+    "https://www.n2f.com/en/integrations/sage/",
+    "https://www.n2f.com/en/integrations/infor/",
+    "https://www.n2f.com/en/integrations/ifs/",
+    "https://www.n2f.com/en/integrations/oracle/",
+    "https://www.n2f.com/en/integrations/odoo/",
+    "https://www.n2f.com/en/integrations/epicor/",
+    "https://www.n2f.com/fr/nos-integrations/oracle/",
+    "https://www.n2f.com/fr/nos-integrations/infor/",
+    "https://www.n2f.com/fr/nos-integrations/ifs/",
+    "https://www.n2f.com/fr/nos-integrations/sap/",
+    "https://www.n2f.com/fr/nos-integrations/sage/",
+    "https://www.n2f.com/fr/nos-integrations/odoo/",
+    "https://www.n2f.com/fr/nos-integrations/zucchetti/",
+    "https://www.n2f.com/fr/nos-integrations/microsoft-dynamics-365/",
+    "https://www.n2f.com/en/integrations/microsoft-dynamics-365/",
+    "https://www.n2f.com/de/integrationen/egecko/",
+    "https://www.n2f.com/de/integrationen/infor/",
+    "https://www.n2f.com/fr/nos-integrations/exact/",
+    "https://www.n2f.com/fr/nos-integrations/essenzia/",
+    "https://www.n2f.com/fr/nos-integrations/oxaion/",
+    "https://www.n2f.com/fr/nos-integrations/cegeka/",
+    "https://www.n2f.com/fr/nos-integrations/fulll/",
+    "https://www.n2f.com/fr/nos-integrations/bleez/",
+    "https://www.n2f.com/fr/nos-integrations/sigal/",
+    "https://www.n2f.com/fr/nos-integrations/itool/",
+    "https://www.n2f.com/fr/nos-integrations/assoconnect/",
+    "https://www.n2f.com/fr/nos-integrations/iovision/",
+    "https://www.n2f.com/fr/nos-integrations/evoliz/",
+    "https://www.n2f.com/fr/nos-integrations/econ/",
+    "https://www.n2f.com/fr/nos-integrations/generix/",
+    "https://www.n2f.com/fr/nos-integrations/eksae/",
+    "https://www.n2f.com/fr/nos-integrations/easy/",
+    "https://www.n2f.com/fr/nos-integrations/dailybiz/",
+    "https://www.n2f.com/fr/nos-integrations/bexio/",
+    "https://www.n2f.com/de/integrationen/microsoft-dynamics-365/",
+    "https://www.n2f.com/de/integrationen/hamburger-software/",
+    "https://www.n2f.com/de/integrationen/sage/",
+    "https://www.n2f.com/de/integrationen/datev/",
+    "https://www.n2f.com/it/integrazioni/divalto/",
+    "https://www.n2f.com/it/integrazioni/zucchetti/",
+    "https://www.n2f.com/it/integrazioni/ebp/",
+    "https://www.n2f.com/it/integrazioni/teamsystem/",
+    "https://www.n2f.com/it/integrazioni/esolver-sistemi/",
+    "https://www.n2f.com/it/integrazioni/arca-evolution/",
+    "https://www.n2f.com/it/integrazioni/infor/",
+    "https://www.n2f.com/it/integrazioni/microsoft-dynamics-365/",
+    "https://www.n2f.com/it/integrazioni/sap/",
+    "https://www.n2f.com/it/integrazioni/sage/",
+    "https://www.n2f.com/de/integrationen/sap/"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Diamant Software",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/diamant-software/",
+     "evidence": "Dedicated page 'N2F integrates with Diamant Software'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Berger Levrault",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/berger-levrault/",
+     "evidence": "Dedicated page 'N2F integrates with Berger Levrault'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Charlemagne",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/charlemagne/",
+     "evidence": "Dedicated page 'N2F integrates with Charlemagne'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MEG",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/meg/",
+     "evidence": "Dedicated page 'N2F integrates with MEG'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "4D",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/4d/",
+     "evidence": "Dedicated page 'N2F integrates with 4D'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "8sens",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/8sens/",
+     "evidence": "Dedicated page 'N2F integrates with 8sens'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Buffetti",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/buffetti/",
+     "evidence": "Dedicated page 'N2F integrates with Buffetti'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CEGI",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/cegi/",
+     "evidence": "Dedicated page 'N2F integrates with CEGI'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/cegid/",
+     "evidence": "Dedicated page 'N2F integrates with Cegid'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CENTRO SOFTWARE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/centro-software/",
+     "evidence": "Dedicated page 'N2F integrates with CENTRO SOFTWARE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CLIPPER",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/clipper/",
+     "evidence": "Dedicated page 'N2F integrates with CLIPPER'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "COCKTAIL",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/cocktail/",
+     "evidence": "Dedicated page 'N2F integrates with COCKTAIL'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CPage",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/cpage/",
+     "evidence": "Dedicated page 'N2F integrates with CPage'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Crésus",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/cresus/",
+     "evidence": "Dedicated page 'N2F integrates with Crésus'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DISTEL",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/distel/",
+     "evidence": "Dedicated page 'N2F integrates with DISTEL'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "divalto",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/divalto/",
+     "evidence": "Dedicated page 'N2F integrates with divalto'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DOCFINANCE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/docfinance/",
+     "evidence": "Dedicated page 'N2F integrates with DOCFINANCE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dolibarr",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/dolibarr/",
+     "evidence": "Dedicated page 'N2F integrates with Dolibarr'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/ebp/",
+     "evidence": "Dedicated page 'N2F integrates with EBP'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Endered Solutions CSE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/endered-solutions-cse/",
+     "evidence": "Dedicated page 'N2F integrates with Endered Solutions CSE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EPICOR",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/epicor/",
+     "evidence": "Dedicated page 'N2F integrates with EPICOR'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EQUATION",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/equation/",
+     "evidence": "Dedicated page 'N2F integrates with EQUATION'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EURÊKA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/eureka/",
+     "evidence": "Dedicated page 'N2F integrates with EURÊKA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "fattura24",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/fattura24/",
+     "evidence": "Dedicated page 'N2F integrates with fattura24'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FIBUNET",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/fibunet/",
+     "evidence": "Dedicated page 'N2F integrates with FIBUNET'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "fluentis",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/fluentis/",
+     "evidence": "Dedicated page 'N2F integrates with fluentis'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Formula",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/formula/",
+     "evidence": "Dedicated page 'N2F integrates with Formula'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "G7 SUITE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/g7-suite/",
+     "evidence": "Dedicated page 'N2F integrates with G7 SUITE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "GEMO",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/gemo/",
+     "evidence": "Dedicated page 'N2F integrates with GEMO'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Gestimum",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/gestimum/",
+     "evidence": "Dedicated page 'N2F integrates with Gestimum'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "giobby",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/giobby/",
+     "evidence": "Dedicated page 'N2F integrates with giobby'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "HAUFE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/haufe/",
+     "evidence": "Dedicated page 'N2F integrates with HAUFE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "hausmann wynen",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/hausmann-wynen/",
+     "evidence": "Dedicated page 'N2F integrates with hausmann wynen'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "HELIOS",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/helios/",
+     "evidence": "Dedicated page 'N2F integrates with HELIOS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ABACUS",
+     "source_url": "https://www.n2f.com/fr-ch/nos-integrations/abacus/",
+     "evidence": "Dedicated page 'N2F integrates with ABACUS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "CH"
+     ]
+    },
+    {
+     "software_raw": "Abas",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/abas/",
+     "evidence": "Dedicated page 'N2F integrates with Abas'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/acd/",
+     "evidence": "Dedicated page 'N2F integrates with ACD'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Adfinity",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/adfinity/",
+     "evidence": "Dedicated page 'N2F integrates with Adfinity'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "AdvanGo",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/advango/",
+     "evidence": "Dedicated page 'N2F integrates with AdvanGo'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/agiris/",
+     "evidence": "Dedicated page 'N2F integrates with Agiris'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Akuiteo",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/akuiteo/",
+     "evidence": "Dedicated page 'N2F integrates with Akuiteo'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Autodesk",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/autodesk/",
+     "evidence": "Dedicated page 'N2F integrates with Autodesk'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Axians",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/axians/",
+     "evidence": "Dedicated page 'N2F integrates with Axians'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Bakertilly",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/bakertilly/",
+     "evidence": "Dedicated page 'N2F integrates with Bakertilly'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BasiCompta",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/basicompta/",
+     "evidence": "Dedicated page 'N2F integrates with BasiCompta'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Best Consultant",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/best-consultant/",
+     "evidence": "Dedicated page 'N2F integrates with Best Consultant'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Bluenext",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/bluenext/",
+     "evidence": "Dedicated page 'N2F integrates with Bluenext'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ifacto",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/ifacto/",
+     "evidence": "Dedicated page 'N2F integrates with Ifacto'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "imio",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/imio/",
+     "evidence": "Dedicated page 'N2F integrates with imio'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "impresa ERP",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/impresa-erp/",
+     "evidence": "Dedicated page 'N2F integrates with impresa ERP'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "inetum",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/inetum/",
+     "evidence": "Dedicated page 'N2F integrates with inetum'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "INFOLOGIC",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/infologic/",
+     "evidence": "Dedicated page 'N2F integrates with INFOLOGIC'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "INFONIQA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/infoniqa/",
+     "evidence": "Dedicated page 'N2F integrates with INFONIQA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "INGENIO",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/ingenio/",
+     "evidence": "Dedicated page 'N2F integrates with INGENIO'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PayFit",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/payfit/",
+     "evidence": "Dedicated page 'N2F integrates with PayFit'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Priority",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/priority/",
+     "evidence": "Dedicated page 'N2F integrates with Priority'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PRIOS",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/prios/",
+     "evidence": "Dedicated page 'N2F integrates with PRIOS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Proalpha",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/proalpha/",
+     "evidence": "Dedicated page 'N2F integrates with Proalpha'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "quickbooks",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/quickbooks/",
+     "evidence": "Dedicated page 'N2F integrates with quickbooks'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "RZL SOFTWARE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/rzl-software/",
+     "evidence": "Dedicated page 'N2F integrates with RZL SOFTWARE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SelectLine",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/selectline/",
+     "evidence": "Dedicated page 'N2F integrates with SelectLine'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "INTEGRAL",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/integral/",
+     "evidence": "Dedicated page 'N2F integrates with INTEGRAL'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "IPSOA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/ipsoa/",
+     "evidence": "Dedicated page 'N2F integrates with IPSOA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "IRIUM",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/irium/",
+     "evidence": "Dedicated page 'N2F integrates with IRIUM'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "JEEVES",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/jeeves/",
+     "evidence": "Dedicated page 'N2F integrates with JEEVES'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "JVS",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/jvs/",
+     "evidence": "Dedicated page 'N2F integrates with JVS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "LD SYSTEME",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/ld-systeme/",
+     "evidence": "Dedicated page 'N2F integrates with LD SYSTEME'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/lexware/",
+     "evidence": "Dedicated page 'N2F integrates with Lexware'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MISTRAL",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/mistral/",
+     "evidence": "Dedicated page 'N2F integrates with MISTRAL'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "neo",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/neo/",
+     "evidence": "Dedicated page 'N2F integrates with neo'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Iris experts",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/iris-experts/",
+     "evidence": "Dedicated page 'N2F integrates with Iris experts'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "sistemi",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sistemi/",
+     "evidence": "Dedicated page 'N2F integrates with sistemi'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SYLOB",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sylob/",
+     "evidence": "Dedicated page 'N2F integrates with SYLOB'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "syska",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/syska/",
+     "evidence": "Dedicated page 'N2F integrates with syska'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "TeamSystem",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/teamsystem/",
+     "evidence": "Dedicated page 'N2F integrates with TeamSystem'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "TECNO ENGINEERING",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/tecno-engineering/",
+     "evidence": "Dedicated page 'N2F integrates with TECNO ENGINEERING'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Varial",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/varial/",
+     "evidence": "Dedicated page 'N2F integrates with Varial'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Wavesoft",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/wavesoft/",
+     "evidence": "Dedicated page 'N2F integrates with Wavesoft'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Win Software",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/win-software/",
+     "evidence": "Dedicated page 'N2F integrates with Win Software'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "XOTIS",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/xotis/",
+     "evidence": "Dedicated page 'N2F integrates with XOTIS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PROCONCEPT",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/proconcept/",
+     "evidence": "Dedicated page 'N2F integrates with PROCONCEPT'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "COMARCH",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/comarch/",
+     "evidence": "Dedicated page 'N2F integrates with COMARCH'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PROJECT BUILDING",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/project-building/",
+     "evidence": "Dedicated page 'N2F integrates with PROJECT BUILDING'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "WINBIZ",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/winbiz/",
+     "evidence": "Dedicated page 'N2F integrates with WINBIZ'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "In Extenso",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/in-extenso/",
+     "evidence": "Dedicated page 'N2F integrates with In Extenso'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MEGA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/mega/",
+     "evidence": "Dedicated page 'N2F integrates with MEGA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cogilog",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/cogilog/",
+     "evidence": "Dedicated page 'N2F integrates with Cogilog'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "UNIT4",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/unit4/",
+     "evidence": "Dedicated page 'N2F integrates with UNIT4'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "CETRA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/cetra/",
+     "evidence": "Dedicated page 'N2F integrates with CETRA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NETexcom",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/netexcom/",
+     "evidence": "Dedicated page 'N2F integrates with NETexcom'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SHD",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/shd/",
+     "evidence": "Dedicated page 'N2F integrates with SHD'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SYSDAT.IT",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sysdat-it/",
+     "evidence": "Dedicated page 'N2F integrates with SYSDAT.IT'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "weclapp",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/weclapp/",
+     "evidence": "Dedicated page 'N2F integrates with weclapp'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PROFFIX",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/proffix/",
+     "evidence": "Dedicated page 'N2F integrates with PROFFIX'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SEAC",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/seac/",
+     "evidence": "Dedicated page 'N2F integrates with SEAC'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Maggioli",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/maggioli/",
+     "evidence": "Dedicated page 'N2F integrates with Maggioli'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SILOG",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/silog/",
+     "evidence": "Dedicated page 'N2F integrates with SILOG'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EXEL",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/exel/",
+     "evidence": "Dedicated page 'N2F integrates with EXEL'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PANEURA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/paneura/",
+     "evidence": "Dedicated page 'N2F integrates with PANEURA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NEVARIS",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/nevaris/",
+     "evidence": "Dedicated page 'N2F integrates with NEVARIS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "OSI",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/osi/",
+     "evidence": "Dedicated page 'N2F integrates with OSI'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EdiSoftware",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/edisoftware/",
+     "evidence": "Dedicated page 'N2F integrates with EdiSoftware'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BEL AIR",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/bel-air/",
+     "evidence": "Dedicated page 'N2F integrates with BEL AIR'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ZEFYR",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/zefyr/",
+     "evidence": "Dedicated page 'N2F integrates with ZEFYR'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FIDUCIAL",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/fiducial/",
+     "evidence": "Dedicated page 'N2F integrates with FIDUCIAL'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MAGO",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/mago/",
+     "evidence": "Dedicated page 'N2F integrates with MAGO'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "GPI",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/gpi/",
+     "evidence": "Dedicated page 'N2F integrates with GPI'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Centro Paghe",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/centro-paghe/",
+     "evidence": "Dedicated page 'N2F integrates with Centro Paghe'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Vepos",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/vepos/",
+     "evidence": "Dedicated page 'N2F integrates with Vepos'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "GEA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/gea/",
+     "evidence": "Dedicated page 'N2F integrates with GEA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "TalenTia",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/talentia/",
+     "evidence": "Dedicated page 'N2F integrates with TalenTia'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xbat",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/xbat/",
+     "evidence": "Dedicated page 'N2F integrates with Xbat'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/datev/",
+     "evidence": "Dedicated page 'N2F integrates with DATEV'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Hamburger Software",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/hamburger-software/",
+     "evidence": "Dedicated page 'N2F integrates with Hamburger Software'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Abacus",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/abacus/",
+     "evidence": "Dedicated page 'N2F integrates with Abacus'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MACH",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/mach/",
+     "evidence": "Dedicated page 'N2F integrates with MACH'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Reynolds&Reynolds",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/reynoldsreynolds/",
+     "evidence": "Dedicated page 'N2F integrates with Reynolds&Reynolds'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "888 SOFTWARE PRODUCTS",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/888-software-products/",
+     "evidence": "Dedicated page 'N2F integrates with 888 SOFTWARE PRODUCTS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "axelor",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/axelor/",
+     "evidence": "Dedicated page 'N2F integrates with axelor'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DYLOG",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/dylog/",
+     "evidence": "Dedicated page 'N2F integrates with DYLOG'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "E2000",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/e2000/",
+     "evidence": "Dedicated page 'N2F integrates with E2000'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EIG",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/eig/",
+     "evidence": "Dedicated page 'N2F integrates with EIG'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "freeway",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/freeway/",
+     "evidence": "Dedicated page 'N2F integrates with freeway'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "GIT",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/git/",
+     "evidence": "Dedicated page 'N2F integrates with GIT'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "INAZ",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/inaz/",
+     "evidence": "Dedicated page 'N2F integrates with INAZ'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "iSuite Expert",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/isuite-expert/",
+     "evidence": "Dedicated page 'N2F integrates with iSuite Expert'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Italsoft",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/italsoft/",
+     "evidence": "Dedicated page 'N2F integrates with Italsoft'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "JLM.SI",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/jlm-si/",
+     "evidence": "Dedicated page 'N2F integrates with JLM.SI'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "KING Software",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/king-software/",
+     "evidence": "Dedicated page 'N2F integrates with KING Software'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/myunisoft/",
+     "evidence": "Dedicated page 'N2F integrates with MyUnisoft'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NTS INFORMATICA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/nts-informatica/",
+     "evidence": "Dedicated page 'N2F integrates with NTS INFORMATICA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "OMEGA SOFTWARE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/omega-software/",
+     "evidence": "Dedicated page 'N2F integrates with OMEGA SOFTWARE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Open-Prod",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/open-prod/",
+     "evidence": "Dedicated page 'N2F integrates with Open-Prod'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "OPTIGEM",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/optigem/",
+     "evidence": "Dedicated page 'N2F integrates with OPTIGEM'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "OSLO",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/oslo/",
+     "evidence": "Dedicated page 'N2F integrates with OSLO'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PASCAL",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/pascal/",
+     "evidence": "Dedicated page 'N2F integrates with PASCAL'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PASSEPARTOUT",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/passepartout/",
+     "evidence": "Dedicated page 'N2F integrates with PASSEPARTOUT'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PEGASE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/pegase/",
+     "evidence": "Dedicated page 'N2F integrates with PEGASE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PROGINOV",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/proginov/",
+     "evidence": "Dedicated page 'N2F integrates with PROGINOV'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QAD",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/qad/",
+     "evidence": "Dedicated page 'N2F integrates with QAD'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "READYPRO",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/readypro/",
+     "evidence": "Dedicated page 'N2F integrates with READYPRO'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "RYDGE CONSEIL",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/rydge-conseil/",
+     "evidence": "Dedicated page 'N2F integrates with RYDGE CONSEIL'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAPAIG",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sapaig/",
+     "evidence": "Dedicated page 'N2F integrates with SAPAIG'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SIGMA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sigma/",
+     "evidence": "Dedicated page 'N2F integrates with SIGMA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SOLINAT",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/solinat/",
+     "evidence": "Dedicated page 'N2F integrates with SOLINAT'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Soluzione Tasse",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/soluzione-tasse/",
+     "evidence": "Dedicated page 'N2F integrates with Soluzione Tasse'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SORMA",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sorma/",
+     "evidence": "Dedicated page 'N2F integrates with SORMA'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "STOTAX",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/stotax/",
+     "evidence": "Dedicated page 'N2F integrates with STOTAX'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SUPERMAX",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/supermax/",
+     "evidence": "Dedicated page 'N2F integrates with SUPERMAX'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "targetcross",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/targetcross/",
+     "evidence": "Dedicated page 'N2F integrates with targetcross'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "TEOGEST",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/teogest/",
+     "evidence": "Dedicated page 'N2F integrates with TEOGEST'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/tiime/",
+     "evidence": "Dedicated page 'N2F integrates with Tiime'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "topix",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/topix/",
+     "evidence": "Dedicated page 'N2F integrates with topix'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "UNITRADE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/unitrade/",
+     "evidence": "Dedicated page 'N2F integrates with UNITRADE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Wolters Kluwer",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/wolters-kluwer/",
+     "evidence": "Dedicated page 'N2F integrates with Wolters Kluwer'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "PrismaSoft",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/prismasoft/",
+     "evidence": "Dedicated page 'N2F integrates with PrismaSoft'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sellsy",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sellsy/",
+     "evidence": "Dedicated page 'N2F integrates with Sellsy'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "JYC informatique",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/jyc-informatique/",
+     "evidence": "Dedicated page 'N2F integrates with JYC informatique'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "OneAdvanced",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/oneadvanced/",
+     "evidence": "Dedicated page 'N2F integrates with OneAdvanced'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Mesonic",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/mesonic/",
+     "evidence": "Dedicated page 'N2F integrates with Mesonic'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Magia3",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/magia3/",
+     "evidence": "Dedicated page 'N2F integrates with Magia3'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Prestige",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/prestige/",
+     "evidence": "Dedicated page 'N2F integrates with Prestige'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Septeo",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/septeo/",
+     "evidence": "Dedicated page 'N2F integrates with Septeo'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/pennylane/",
+     "evidence": "Dedicated page 'N2F integrates with Pennylane'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Mitico",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/mitico/",
+     "evidence": "Dedicated page 'N2F integrates with Mitico'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Everwin",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/everwin/",
+     "evidence": "Dedicated page 'N2F integrates with Everwin'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Codial",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/codial/",
+     "evidence": "Dedicated page 'N2F integrates with Codial'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.n2f.com/en/integrations/sap/",
+     "evidence": "Dedicated page 'N2F integrates with SAP'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.n2f.com/en/integrations/sage/",
+     "evidence": "Dedicated page 'N2F integrates with Sage'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Infor",
+     "source_url": "https://www.n2f.com/en/integrations/infor/",
+     "evidence": "Dedicated page 'N2F integrates with Infor'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "IFS",
+     "source_url": "https://www.n2f.com/en/integrations/ifs/",
+     "evidence": "Dedicated page 'N2F integrates with IFS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ORACLE",
+     "source_url": "https://www.n2f.com/en/integrations/oracle/",
+     "evidence": "Dedicated page 'N2F integrates with ORACLE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.n2f.com/en/integrations/odoo/",
+     "evidence": "Dedicated page 'N2F integrates with Odoo'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EPICOR",
+     "source_url": "https://www.n2f.com/en/integrations/epicor/",
+     "evidence": "Dedicated page 'N2F integrates with EPICOR'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ORACLE",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/oracle/",
+     "evidence": "Dedicated page 'N2F integrates with ORACLE'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Infor",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/infor/",
+     "evidence": "Dedicated page 'N2F integrates with Infor'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "IFS",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/ifs/",
+     "evidence": "Dedicated page 'N2F integrates with IFS'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sap/",
+     "evidence": "Dedicated page 'N2F integrates with SAP'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sage/",
+     "evidence": "\"intégration native\"; export in native Sage format (files, API or third-party connectors)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sage/",
+     "evidence": "\"intégration native\"; export in native Sage format (files, API or third-party connectors)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage FRP",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sage/",
+     "evidence": "\"intégration native\"; export in native Sage format (files, API or third-party connectors)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Comptabilité & Facturation",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sage/",
+     "evidence": "\"intégration native\"; export in native Sage format (files, API or third-party connectors)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/odoo/",
+     "evidence": "Dedicated page 'N2F integrates with Odoo'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Zucchetti",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/zucchetti/",
+     "evidence": "Dedicated page 'N2F integrates with Zucchetti'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/microsoft-dynamics-365/",
+     "evidence": "Dedicated page 'N2F integrates with Microsoft Dynamics 365'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365",
+     "source_url": "https://www.n2f.com/en/integrations/microsoft-dynamics-365/",
+     "evidence": "Dedicated page 'N2F integrates with Microsoft Dynamics 365'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "eGecko",
+     "source_url": "https://www.n2f.com/de/integrationen/egecko/",
+     "evidence": "approved expense reports transferred automatically and directly into eGecko accounting modules",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Infor",
+     "source_url": "https://www.n2f.com/de/integrationen/infor/",
+     "evidence": "Dedicated page 'N2F integrates with Infor'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Exact",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/exact/",
+     "evidence": "Dedicated page 'N2F integrates with Exact'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Essenzia",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/essenzia/",
+     "evidence": "Dedicated page 'N2F integrates with Essenzia'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oxaion",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/oxaion/",
+     "evidence": "Dedicated page 'N2F integrates with Oxaion'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegeka",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/cegeka/",
+     "evidence": "Dedicated page 'N2F integrates with Cegeka'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/fulll/",
+     "evidence": "Dedicated page 'N2F integrates with Fulll'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Bleez",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/bleez/",
+     "evidence": "Dedicated page 'N2F integrates with Bleez'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sigal",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/sigal/",
+     "evidence": "Dedicated page 'N2F integrates with Sigal'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Itool",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/itool/",
+     "evidence": "Dedicated page 'N2F integrates with Itool'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Assoconnect",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/assoconnect/",
+     "evidence": "Dedicated page 'N2F integrates with Assoconnect'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Iovision",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/iovision/",
+     "evidence": "Dedicated page 'N2F integrates with Iovision'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/evoliz/",
+     "evidence": "Dedicated page 'N2F integrates with Evoliz'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Econ",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/econ/",
+     "evidence": "Dedicated page 'N2F integrates with Econ'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Generix",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/generix/",
+     "evidence": "Dedicated page 'N2F integrates with Generix'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Eksaé",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/eksae/",
+     "evidence": "Dedicated page 'N2F integrates with Eksaé'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Easy",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/easy/",
+     "evidence": "Dedicated page 'N2F integrates with Easy'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dailybiz",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/dailybiz/",
+     "evidence": "Dedicated page 'N2F integrates with Dailybiz'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Bexio",
+     "source_url": "https://www.n2f.com/fr/nos-integrations/bexio/",
+     "evidence": "Dedicated page 'N2F integrates with Bexio'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365",
+     "source_url": "https://www.n2f.com/de/integrationen/microsoft-dynamics-365/",
+     "evidence": "Dedicated page 'N2F integrates with Microsoft Dynamics 365'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Hamburger Software",
+     "source_url": "https://www.n2f.com/de/integrationen/hamburger-software/",
+     "evidence": "Dedicated page 'N2F integrates with Hamburger Software'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.n2f.com/de/integrationen/sage/",
+     "evidence": "Dedicated page 'N2F integrates with Sage'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.n2f.com/de/integrationen/datev/",
+     "evidence": "officially approved DATEV connector (Rechnungsdatenservice 1.0), data imported directly into DATEV",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Divalto",
+     "source_url": "https://www.n2f.com/it/integrazioni/divalto/",
+     "evidence": "Dedicated page 'N2F integrates with Divalto'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Zucchetti",
+     "source_url": "https://www.n2f.com/it/integrazioni/zucchetti/",
+     "evidence": "Dedicated page 'N2F integrates with Zucchetti'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "ebp",
+     "source_url": "https://www.n2f.com/it/integrazioni/ebp/",
+     "evidence": "Dedicated page 'N2F integrates with ebp'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "TeamSystem",
+     "source_url": "https://www.n2f.com/it/integrazioni/teamsystem/",
+     "evidence": "Dedicated page 'N2F integrates with TeamSystem'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Esolver Sistemi",
+     "source_url": "https://www.n2f.com/it/integrazioni/esolver-sistemi/",
+     "evidence": "Dedicated page 'N2F integrates with Esolver Sistemi'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Arca EVOLUTION",
+     "source_url": "https://www.n2f.com/it/integrazioni/arca-evolution/",
+     "evidence": "Dedicated page 'N2F integrates with Arca EVOLUTION'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Infor",
+     "source_url": "https://www.n2f.com/it/integrazioni/infor/",
+     "evidence": "Dedicated page 'N2F integrates with Infor'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365",
+     "source_url": "https://www.n2f.com/it/integrazioni/microsoft-dynamics-365/",
+     "evidence": "Dedicated page 'N2F integrates with Microsoft Dynamics 365'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.n2f.com/it/integrazioni/sap/",
+     "evidence": "Dedicated page 'N2F integrates with SAP'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.n2f.com/it/integrazioni/sage/",
+     "evidence": "Dedicated page 'N2F integrates with Sage'; mechanism not described",
+     "kind": "unknown",
+     "countries_stated": [
+      "IT"
+     ]
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.n2f.com/de/integrationen/sap/",
+     "evidence": "\"N2F Datenexport zu SAP\"; invoices forwarded to SAP after approval workflow",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Addison",
+     "source_url": "https://www.n2f.com/de/integrationen/",
+     "evidence": "Card on German integrations listing, no detail page",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "BMD",
+     "source_url": "https://www.n2f.com/de/integrationen/",
+     "evidence": "Card on German integrations listing, no detail page",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://www.n2f.com/de/integrationen/",
+     "evidence": "Card on German integrations listing, no detail page",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.n2f.com/fr/note-de-frais/export-comptable/",
+     "evidence": "entries \"directement générées au format accepté par votre écosystème\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.n2f.com/fr/note-de-frais/export-comptable/",
+     "evidence": "entries \"directement générées au format accepté par votre écosystème\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.n2f.com/fr/note-de-frais/export-comptable/",
+     "evidence": "entries \"directement générées au format accepté par votre écosystème\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.n2f.com/fr/note-de-frais/export-comptable/",
+     "evidence": "entries \"directement générées au format accepté par votre écosystème\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.n2f.com/de/reisekostenabrechnungen/buchhaltungsexport/",
+     "evidence": "booking entries generated directly in the matching format for your system",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.n2f.com/de/reisekostenabrechnungen/buchhaltungsexport/",
+     "evidence": "booking entries generated directly in the matching format for your system",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Lexware",
+     "source_url": "https://www.n2f.com/de/reisekostenabrechnungen/buchhaltungsexport/",
+     "evidence": "booking entries generated directly in the matching format for your system",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "MS Dynamics",
+     "source_url": "https://www.n2f.com/de/reisekostenabrechnungen/buchhaltungsexport/",
+     "evidence": "booking entries generated directly in the matching format for your system",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.n2f.com/en/expense-report/accounting-export/",
+     "evidence": "\"entries are generated directly in the format accepted by your ecosystem\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.n2f.com/en/expense-report/accounting-export/",
+     "evidence": "\"entries are generated directly in the format accepted by your ecosystem\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.n2f.com/fr/solution-notes-de-frais-pour-experts-comptables/",
+     "evidence": "\"Compatible Sage, ACD, Quadratus, Cegid et plus de 300 solutions\"",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://www.n2f.com/fr/solution-notes-de-frais-pour-experts-comptables/",
+     "evidence": "\"Compatible Sage, ACD, Quadratus, Cegid et plus de 300 solutions\"",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://www.n2f.com/fr/solution-notes-de-frais-pour-experts-comptables/",
+     "evidence": "\"Compatible Sage, ACD, Quadratus, Cegid et plus de 300 solutions\"",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.n2f.com/fr/solution-notes-de-frais-pour-experts-comptables/",
+     "evidence": "\"Compatible Sage, ACD, Quadratus, Cegid et plus de 300 solutions\"",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Infor",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "IFS",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Proalpha",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Abas",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Hamburger Software",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Abacus",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Oracle/NetSuite",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Agenda",
+     "source_url": "https://www.n2f.com/de/",
+     "evidence": "FAQ list of compatible accounting/ERP/payroll programs",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Oracle NetSuite",
+     "source_url": "https://www.n2f.com/en/our-resources/n2f-european-spend-management-leader/",
+     "evidence": "\"links to more than 300 accounting and ERP systems, among them\" NetSuite",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ],
+   "notes": "217 integration detail pages from integrations-sitemap.xml read (bank card and travel pages 'integration-n2f-*' excluded). 191 are a generic template ('automate their accounting in X') with no mechanism, hence kind=unknown; only Sage (FR) and DATEV/eGecko/SAP (DE) pages have real content. Same software repeated per language page (fr/en/de/it) with country from site locale. Some pages are vendors, accounting firms or non-accounting tools (e.g. Wolters Kluwer, Septeo, In Extenso, Fiducial, Baker Tilly, Rydge Conseil, PayFit, Autodesk, Sellsy, Endered Solutions CSE). Listing pages load cards via JS load-more (first 100 visible); ES/de-CH listings show cards without links; NL and pt-BR listings empty in static HTML. No separate help center with accounting articles (FAQ pages are generic). Marketing claims '300+' integrations. Checked and not found publicly: Cegid Loop, Cegid Quadra (only 'Quadratus' on accountants page), Sage 50, Sage Generation Experts, Inqom, lexoffice name (only 'Lexware'), sevdesk, SAP Business One (only 'SAP'), Scopevisio, BuchhaltungsButler, Exact Online name (only 'Exact'), Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Adsolut, ClearFacts, Business Central (only 'Microsoft Dynamics 365'), Sage Intacct."
+  },
+  {
+   "id": "expensya",
+   "name": "Expensya",
+   "domain": "expensya.com",
+   "hq_country": "FR",
+   "integrations_url": "https://www.expensya.com/fr/solutions/integrations/",
+   "pages_read": [
+    "https://www.expensya.com/fr/solutions/integrations/",
+    "https://www.expensya.com/en/solutions/integrations/",
+    "https://www.expensya.com/fr/partenaires/",
+    "https://www.expensya.com/en/partners/",
+    "https://www.expensya.com/fr-sitemap.xml",
+    "https://www.expensya.com/en-sitemap.xml",
+    "https://help.expensya.com/l/fr",
+    "https://help.expensya.com/sitemap.xml",
+    "https://help.expensya.com/l/fr/category/iva2wgm0r1-integration-et-api",
+    "https://help.expensya.com/l/fr/category/ic494qykbv-comptabilite",
+    "https://help.expensya.com/l/en/category/ic494qykbv-accounting",
+    "https://help.expensya.com/l/fr/category/wtkd1yhuy2-export-and-analysis",
+    "https://help.expensya.com/l/fr/category/e8rb0sa85y-guide-du-comptable",
+    "https://help.expensya.com/l/fr/category/gd1gdt9ubn-zapier",
+    "https://help.expensya.com/l/fr/category/60zxc6wslh-nos-api",
+    "https://help.expensya.com/l/fr/article/x6gyxh0k9f-activer-les-formats-dexports-comptable",
+    "https://help.expensya.com/l/fr/article/g1jtcmvjog-guide-pour-les-comptable-comment-activer-les-formats-d-exports",
+    "https://help.expensya.com/l/fr/article/qibkerca13-les-principaux-exports-g-n-rer-depuis-le-compte-expensya",
+    "https://help.expensya.com/l/fr/article/9snc71za7w-export-quadratus",
+    "https://help.expensya.com/l/fr/article/csl9ofcjc0-integration-inexweb",
+    "https://help.expensya.com/l/fr/article/fg3u7aagyy-export-cegid-standard",
+    "https://help.expensya.com/l/fr/article/iiv29ln8qp-export-sap-csv",
+    "https://help.expensya.com/l/fr/article/ioizyum0rx-connecter-votre-compte-i-biza-depuis-expensya",
+    "https://help.expensya.com/l/fr/article/layzm2kwos-export-sage-csv",
+    "https://help.expensya.com/l/fr/article/rav0h7mfzm-export-sage-txt",
+    "https://help.expensya.com/l/en/article/6qxr64rtt9-configuring-expensya-quick-books-integration",
+    "https://help.expensya.com/l/en/article/xhhx0f3sl2-how-to-see-the-data-exported-on-quickbooks",
+    "https://help.expensya.com/l/en/article/haj4v58c10-can-i-change-the-export-format",
+    "https://help.expensya.com/l/en/article/8f6ziwdnnb-customizing-export-formats-in-expensya-a-guide-for-accountants",
+    "https://help.expensya.com/l/en/article/t7cz60l6f3-exports-reports-and-expenses"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "direct connection via dedicated export tool or custom .TRA file download",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quadra",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "named as Cegid solution; dedicated export tool or .TRA file",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "named as Cegid solution; dedicated export tool or .TRA file",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"format d'exportation d'Expensya dédié à Microsoft Dynamics ERP\"",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle JD Edwards",
+     "source_url": "https://www.expensya.com/en/solutions/integrations/",
+     "evidence": "\"Automatically export expense data\" with \"direct integration\" to JD Edwards",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle Peoplesoft",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "one-click export using a dedicated export format",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage x3",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"modèles d'exportation CSV/XLS prédéfinis\" for Sage solutions",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage x100",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"modèles d'exportation CSV/XLS prédéfinis\" for Sage solutions",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage x 1000",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"modèles d'exportation CSV/XLS prédéfinis\" for Sage solutions",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Ciel",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"modèles d'exportation CSV/XLS prédéfinis\" for Sage solutions",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Coala",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"modèles d'exportation CSV/XLS prédéfinis\" for Sage solutions",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 17",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"modèles d'exportation CSV/XLS prédéfinis\" for Sage solutions",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP S/4HANA",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"intégration directe entre SAP S/4HANA et Expensya\", invoices exported directly to ERP",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Divalto",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "\"intégration clé en main\" / \"intégration directe\" between Divalto and Expensya",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "fulll",
+     "source_url": "https://www.expensya.com/fr/solutions/integrations/",
+     "evidence": "export all invoices directly to fulll in one click (\"format d'exportation directe\")",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://help.expensya.com/l/fr/article/9snc71za7w-export-quadratus",
+     "evidence": "Export Quadratus: TXT file in standard Quadratus accounting entry format",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://help.expensya.com/l/fr/article/fg3u7aagyy-export-cegid-standard",
+     "evidence": "Export Cegid Standard: TRA file for Cegid accounting software",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://help.expensya.com/l/fr/article/iiv29ln8qp-export-sap-csv",
+     "evidence": "Export SAP CSV: CSV file in standard SAP accounting entry format",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://help.expensya.com/l/fr/article/layzm2kwos-export-sage-csv",
+     "evidence": "Export SAGE CSV: standard Sage accounting entries as CSV",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://help.expensya.com/l/fr/article/rav0h7mfzm-export-sage-txt",
+     "evidence": "Export SAGE TXT: standard Sage accounting entries as text file",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "iBiza",
+     "source_url": "https://help.expensya.com/l/fr/article/ioizyum0rx-connecter-votre-compte-i-biza-depuis-expensya",
+     "evidence": "\"Intégration native\" with iBiza access token; action \"Exporter vers iBiza\"",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inexweb",
+     "source_url": "https://help.expensya.com/l/fr/article/csl9ofcjc0-integration-inexweb",
+     "evidence": "account linked via Inexweb marketplace; per-report export status icons",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://help.expensya.com/l/en/article/6qxr64rtt9-configuring-expensya-quick-books-integration",
+     "evidence": "category mapping and login to QuickBooks account; \"no longer available in France\"",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Expensya is being rebranded Medius Expense; Medius documentation (success.medius.com) not crawled (outside expensya.com). Site only in FR and EN, same integration list in both. FR text for Oracle JD Edwards is a copy of the Dynamics paragraph, EN page used instead. Accounting export formats are activated in Admin > Integrations (Gold plan or trial); full in-app list not public. FTP file sharing offered when no direct integration; public API and Zapier also available. 60dias (VAT recovery) listed under accounting category but not accounting software. QuickBooks help articles say 'no longer available in France'. Checked and not found publicly: Pennylane, Cegid Loop, Sage 50, Sage Generation Experts, ACD, MyUnisoft, EBP, Inqom, Tiime, DATEV, Lexware, sevdesk, Addison, Agenda, SAP Business One, Scopevisio, BuchhaltungsButler, Exact Online, Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Odoo, Adsolut, ClearFacts, Xero, NetSuite, Business Central (only 'Microsoft Dynamics'), Sage Intacct."
+  },
+  {
+   "id": "jenji",
+   "name": "Jenji",
+   "domain": "jenji.io",
+   "hq_country": "FR",
+   "integrations_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+   "pages_read": [
+    "https://www.jenji.io/fr/integrations",
+    "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+    "https://www.jenji.io/fr/integrations/erp-comptabilite-finance/quadratus",
+    "https://www.jenji.io/fr/integrations/api",
+    "https://www.jenji.io/fr/jenji-connect",
+    "https://www.jenji.io/fr/solution-note-de-frais/direction-comptable",
+    "https://www.jenji.io/fr/gestion-note-de-frais/hub-et-integration",
+    "https://www.jenji.io/fr/faq",
+    "https://www.jenji.io/fr/ressources/guides/lintegration-de-vos-notes-de-frais-en-comptabilite",
+    "https://www.jenji.io/sitemap.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://support.jenji.io/hc/fr",
+     "reason": "HTTP 403, anti-bot challenge ('Just a moment...'); not bypassed"
+    },
+    {
+     "url": "https://support.jenji.io/hc/en-us/articles/15804193165842-Set-up-the-accounting-export",
+     "reason": "Same help center behind anti-bot challenge; seen only as search result, not opened"
+    },
+    {
+     "url": "https://www.jenji.io/en/integrations",
+     "reason": "Redirects to French homepage; no EN version served"
+    },
+    {
+     "url": "https://www.jenji.io/de/integrations",
+     "reason": "Redirects to French homepage; no DE version served"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Teogest",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ibiza",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Irium Software",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Abas ERP",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Ciel",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Coda Financials",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Deal",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Everwin",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Infor",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Iris solutions",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Looma",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Qualiac",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Workday",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Genesys",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Fitnet manager",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Datev",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Divalto",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quickbooks",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Abacus",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Topal",
+     "source_url": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+     "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ebp",
+     "source_url": "https://www.jenji.io/fr/integrations",
+     "evidence": "Logo shown in SIRH (HR/payroll) tab only, not in ERP tab",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Only source is a logo grid; page states connectors are 'configurables pour tous les systèmes ERP, qu'ils soient basés sur des transferts de fichiers ou sur des API modernes' without saying which applies to which software, hence kind=unknown everywhere. Logo names taken from image alt text. Same ERP grid also shown on /fr/integrations. VAT-recovery logos in the same grid excluded (Taxback International, VAT4U, Way2VAT, 60 dias). Help center (support.jenji.io, Zendesk) blocked by anti-bot check, so no per-software detail; search-engine snippets suggest export articles mentioning Sage, Cegid, Ibiza but these were not opened. Site footer says Jenji is now with Silae. Checked and not found publicly: Pennylane, Cegid Loop, Cegid Quadra name (only 'Quadratus'), Sage 100/50/Generation Experts (only 'Sage'), ACD, MyUnisoft, Inqom, Fulll, Tiime, Lexware, sevdesk, Addison, Agenda, SAP Business One (only 'SAP'), Scopevisio, BuchhaltungsButler, Exact Online, Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Adsolut, ClearFacts, NetSuite (only 'Oracle'), Business Central (only 'Microsoft Dynamics'), Sage Intacct."
+  }
+ ]
+}

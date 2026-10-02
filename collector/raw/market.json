@@ -1,0 +1,623 @@
+{
+ "collected_at": "2026-10-01",
+ "importance_method": "Proposed tiers, not market shares. dominant = named by the Chift 2026 study as leader / biggest installed base in its layer AND backed by a second source, or vendor-declared base above 1M companies. important = sizeable vendor-declared base or named as a main tool by the Chift study. secondary = small declared base or no country-specific evidence. Vendor-declared figures are unaudited. single_source=true means the tier rests on one source.",
+ "whitepaper": {
+  "found": true,
+  "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+  "publisher": "Chift",
+  "date": "2026-05-18",
+  "method": "Survey. Landing page: 'over 1.400 SMBs' across '10 countries in Europe + UK', plus interviews with industry leaders and accounting media. Chift blog: 1,400 SMEs (3 to 200 employees) across ten countries; country samples FR 200, DE 200, BE 100. Sampling method and field dates not published on the public pages.",
+  "notes": "Title: 'State of European Accounting Tech 2026'. Date is the datePublished value in the landing-page metadata. The PDF is gated behind a lead form (name, work email, company); it was NOT downloaded, so everything below comes from Chift's public blog posts that summarise the study (published 2026-07-13). FR: 15 tools named by respondents; 48% of SMEs work with a chartered accountant, close to 80% among very small companies; accountant suites = Cegid Quadra and Sage Generation Experts (biggest installed bases, on-premise), ACD, with Fulll and Cegid Loop as cloud alternatives; Pennylane and Tiime bridge SMEs and firms; Sage 100, EBP, Sage 50 used in-house, Sage 100 the dominant mid-market tool; firm tools are under-reported in the survey. DE: 21 tools named; DATEV 47% survey share, described as understated; Lexware Office and sevdesk for SMEs; ADDISON and Agenda as accountant-suite alternatives; Microsoft Dynamics in mid-market. BE: 12 tools named; Exact Online 'clear market leader'; Flanders cloud (Exact Online, Octopus, Yuki, Adsolut) vs Wallonia on-premise (WinBooks, Sage BOB50, Horus, Odoo). No per-tool share is published for FR or BE in the public posts. Page count not stated on the landing page. Wording differs between pages (landing page: 'SMBs'; country guides: 'SMEs and accountants'). Not to be confused with Apideck's 'Europe's Accounting Integration Map 2026' (https://www.apideck.com/resources/state-of-european-accounting-tech-2026), a separate vendor page.",
+  "sources": [
+   "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+   "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+   "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+   "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors",
+   "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+  ]
+ },
+ "connector_cost": [
+  {
+   "figure": "22000",
+   "unit": "EUR per integration, first year (about EUR 10k build for ~30 person-days + about EUR 12.4k maintenance for ~40 person-days)",
+   "who": "Chift (unified API vendor), blog by Alexandre Demain, 2025-09-12",
+   "url": "https://www.chift.eu/blog/how-much-does-an-api-integration-cost",
+   "quote": "Total ≈ €22k per integration",
+   "note": "Vendor figure. Based on French mid-level salaries x1.35 employer cost; excludes infrastructure, partnership fees, opportunity cost."
+  },
+  {
+   "figure": "x2",
+   "unit": "multiplier on integration cost when the target software is on-premise (local agent needed)",
+   "who": "Chift (unified API vendor), same blog post",
+   "url": "https://www.chift.eu/blog/how-much-does-an-api-integration-cost",
+   "quote": "the integration cost can be doubled",
+   "note": "Vendor figure."
+  },
+  {
+   "figure": "20000-40000",
+   "unit": "USD per accounting connector, initial build only (30+ person-days)",
+   "who": "Apideck (unified API vendor), blog by Kateryna Poryvay, 2026-02-06",
+   "url": "https://www.apideck.com/blog/accounting-software-integration",
+   "quote": "roughly $20,000–$40,000 per connector in direct engineering cost",
+   "note": "Vendor figure. Maintenance stated separately as 20-30% of an engineer's time."
+  },
+  {
+   "figure": "325000-650000",
+   "unit": "USD over three years for five in-house accounting connectors (USD 100k-200k build + USD 75k-150k per year maintenance)",
+   "who": "Apideck (unified API vendor), same blog post",
+   "url": "https://www.apideck.com/blog/accounting-software-integration",
+   "quote": "totaling $325,000–$650,000 over three years",
+   "note": "Vendor figure, presented as a conservative estimate."
+  },
+  {
+   "figure": "50000-150000",
+   "unit": "USD per year per API integration, including personnel and partnership fees (example: 150 engineering hours to build, 300 hours per year to maintain)",
+   "who": "Merge (unified API vendor), blog dated 2023-11-28",
+   "url": "https://www.merge.dev/blog/cost-of-api-integrations",
+   "quote": "The cost can range from $50,000 to $150,000 per year",
+   "note": "Vendor figure. Not specific to accounting; US salary assumptions."
+  },
+  {
+   "figure": "3",
+   "unit": "engineering-months per accounting/ERP platform (time, not money; QuickBooks example took at least 3 months, NetSuite 6 to 12 months)",
+   "who": "Rutter (unified API vendor), blog dated 2026-04-11",
+   "url": "https://www.rutter.com/blog/erp-integration-unified-api",
+   "quote": "a conservative estimate of three engineering-months per platform",
+   "note": "Vendor figure. No per-connector money amount given. Codat: no published figure found (not_found)."
+  }
+ ],
+ "countries": {
+  "FR": {
+   "channel": {
+    "value": "accountant",
+    "explanation": "Chift's 2026 study calls experts-comptables the primary decision-makers for software adoption across their client base: 48% of French SMEs work with a chartered accountant, close to 80% among very small companies. The Observatoire de la profession comptable (2025 data, reported by Compta Online) says the profession supports more than 7 in 10 companies. Caveat from the same Chift study: larger SMEs often keep accounting in-house (Sage 100, EBP).",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+     "https://www.compta-online.com/les-chiffres-de-expertise-comptable-en-france-ao861"
+    ]
+   },
+   "reform": {
+    "summary": "In force since 1 September 2026; the DGFiP start-up guide confirms the legal calendar was maintained. All VAT-liable companies must be able to receive e-invoices through an approved platform; large and mid-cap companies must issue them. Issuing extends to SMEs and micro-enterprises on 1 September 2027 at the latest, together with e-reporting. DGFiP FAQ: no penalties applied in 2026 (tolerance during the transition); 150 State-approved platforms as of 1 August 2026.",
+    "milestones": [
+     {
+      "date": "2026-09-01",
+      "what": "All companies must be able to receive e-invoices; large companies (GE) and mid-caps (ETI) must issue e-invoices."
+     },
+     {
+      "date": "2027-09-01",
+      "what": "Issuing obligation extended to SMEs, small and micro-enterprises ('at the latest' per DGFiP FAQ), together with the obligation to transmit invoicing, transaction and payment data (e-reporting)."
+     }
+    ],
+    "network": "Private approved platforms (plateformes agréées, PA) registered by the State, plus a national directory (annuaire) run by the administration; no free public invoicing portal. Peppol is optional in France (DGFiP FAQ). Accepted invoice formats: not_found in the official pages opened.",
+    "sources": [
+     "https://www.impots.gouv.fr/professionnel/je-passe-la-facturation-electronique",
+     "https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/calendrier_reforme_facturation_electronique_18012024.pdf.pdf",
+     "https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/faq_tout_savoir_facturation-electronique.pdf",
+     "https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/guide_pratique_facturation_electronique.pdf",
+     "https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees"
+    ]
+   },
+   "note": {
+    "text": "Three layers per Chift's 2026 study: accountant suites (Cegid Quadra, Sage Generation Experts, ACD; cloud: Fulll, Cegid Loop), cloud platforms shared by SMEs and firms (Pennylane, Tiime), and SME software used in-house (Sage 100, EBP, Sage 50). Firms often run a cloud platform alongside a legacy on-premise tool. Tools used by firms on behalf of clients are under-reported in SME surveys. Each Sage and Cegid product is a separate integration. Microsoft Business Central topped Chift's adoption chart for France in its earlier guide. No public per-tool market share was found.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/blog/2025-guide-to-integrating-accounting-software-as-a-fintech-in-france"
+    ]
+   },
+   "software": [
+    {
+     "id": "pennylane",
+     "name": "Pennylane",
+     "vendor": "Pennylane",
+     "target": "both",
+     "url": "https://www.pennylane.com/fr/",
+     "marketplace_url": "https://www.pennylane.com/fr/integrations",
+     "importance": "dominant",
+     "evidence": "Vendor claims 1,500,000 clients (homepage) and 6,500+ accounting firms (firm page), read 2026-10-01; Chift 2026 study calls it one of the most referenced tools in new client acquisition. Vendor-declared, unaudited.",
+     "sources": [
+      "https://www.pennylane.com/fr/",
+      "https://www.pennylane.com/fr/expert-comptable",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "cegid-quadra",
+     "name": "Cegid Quadra",
+     "vendor": "Cegid",
+     "target": "firm",
+     "url": "https://www.cegid.com/fr/solutions/expertise-comptable/",
+     "marketplace_url": "https://www.cegid.com/fr/ecosysteme-partenaires/",
+     "importance": "dominant",
+     "evidence": "Chift 2026 study: with Sage Generation Experts, the legacy on-premise accountant suite with the biggest installed base. Cegid's CEO said 6,000 firms use Cegid products (2022, all Cegid firm products together); no Quadra-only count found. Marketplace link is Cegid's partner ecosystem page.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+      "https://www.actuel-expert-comptable.fr/content/cegid-veut-encore-doubler-de-taille-moyen-terme"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "cegid-loop",
+     "name": "Cegid Loop",
+     "vendor": "Cegid",
+     "target": "firm",
+     "url": "https://www.cegid.com/fr/solutions/expertise-comptable/",
+     "marketplace_url": "https://www.cegid.com/fr/ecosysteme-partenaires/",
+     "importance": "important",
+     "evidence": "Chift 2026 study: with Fulll, a leading cloud alternative gaining adoption among firms. Cegid's CEO (2022) called Loop the product the group bets on; the 6,000-firm figure is group-level. No Loop-only count found.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+      "https://www.actuel-expert-comptable.fr/content/cegid-veut-encore-doubler-de-taille-moyen-terme"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "acd",
+     "name": "ACD",
+     "vendor": "ACD Groupe (TeamSystem since April 2026)",
+     "target": "firm",
+     "url": "https://www.acd-groupe.fr/",
+     "marketplace_url": "https://www.acd-groupe.fr/partenaires/",
+     "importance": "dominant",
+     "evidence": "Vendor claims 3,500 equipped firms and 1,300,000 companies (group page, read 2026-10-01); Chift 2026 study: one of the most active accountant suites. Joined TeamSystem on 8 April 2026. Vendor-declared, unaudited.",
+     "sources": [
+      "https://www.acd-groupe.fr/groupe/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+      "https://www.compta-online.com/acd-teamsystem-ao8524"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "sage-generation-experts",
+     "name": "Sage Génération Experts",
+     "vendor": "Sage",
+     "target": "firm",
+     "url": "https://www.sage.com/fr-fr/experts-comptables/produits/",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Chift 2026 study: with Cegid Quadra, the legacy on-premise accountant suite with the biggest installed base. Only source: sage.com returned HTTP 403 to automated access, so the product URL and Sage's own customer count were not opened.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "sage-100",
+     "name": "Sage 100",
+     "vendor": "Sage",
+     "target": "sme",
+     "url": "https://www.sage.com/fr-fr/produits/sage-100/",
+     "marketplace_url": "https://fr-marketplace.sage.com/",
+     "importance": "important",
+     "evidence": "Chift 2026 study: 'the dominant mid-market tool' among companies doing accounting in-house; Chift's earlier guide calls it Sage's best-selling SME product. Only Chift says so: no installed-base figure opened (sage.com product page returned HTTP 403, URL not opened).",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/blog/2025-guide-to-integrating-accounting-software-as-a-fintech-in-france"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "myunisoft",
+     "name": "MyUnisoft",
+     "vendor": "MyUnisoft",
+     "target": "both",
+     "url": "https://myu.fr/",
+     "marketplace_url": "https://myu.fr/editeurs-partenaires/",
+     "importance": "important",
+     "evidence": "Vendor claims 1,300+ accounting-firm clients and 255,000 SME files (About page, read 2026-10-01); Chift lists it among modern platforms often used alongside a legacy tool.",
+     "sources": [
+      "https://myu.fr/qui-sommes-nous/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "fulll",
+     "name": "Fulll",
+     "vendor": "Fulll",
+     "target": "firm",
+     "url": "https://www.fulll.fr/",
+     "marketplace_url": "https://www.fulll.fr/connectivite",
+     "importance": "important",
+     "evidence": "Vendor claims 1,400 client firms and 200,000 companies (mission page, read 2026-10-01); Chift 2026 study: with Cegid Loop, a leading cloud alternative among firms.",
+     "sources": [
+      "https://www.fulll.fr/notre-mission",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "inqom",
+     "name": "Inqom",
+     "vendor": "Inqom (Visma group)",
+     "target": "firm",
+     "url": "https://www.inqom.com/",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Used by 400,000+ companies per the Wineriz/Inqom acquisition page (Sept 2026); Chift's earlier guide cites 100,000+ companies via accountants. The two figures differ; both are vendor-declared. No public marketplace page found.",
+     "sources": [
+      "https://www.wineriz.com/wineriz-rejoint-inqom-visma/",
+      "https://www.chift.eu/blog/2025-guide-to-integrating-accounting-software-as-a-fintech-in-france"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "ebp",
+     "name": "EBP",
+     "vendor": "EBP (Cegid group; acquisition announced April 2024)",
+     "target": "sme",
+     "url": "https://www.ebp.com/",
+     "marketplace_url": "https://www.ebp.com/applications-editeurs-partenaires-ebp/",
+     "importance": "important",
+     "evidence": "Cegid/EBP press release (April 2024): 275,000 client users; Distributique reported 175,000 clients claimed. The figures differ. Chift lists EBP among SME tools used in-house.",
+     "sources": [
+      "https://www.ebp.com/wp-content/uploads/2024/04/Communique-de-presse-Cegid-EBP-0424.pdf",
+      "https://www.distributique.com/actualites/lire-logiciels-de-gestion-cegid-va-racheter-ebp-et-se-renforcer-sur-les-tpe-pme-35077.html",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    }
+   ],
+   "excluded_candidates": [
+    {
+     "id": "tiime",
+     "name": "Tiime",
+     "reason": "Left out to stay within 10 entries: positioned on freelancers, micro-enterprises and very small businesses rather than SMEs. Facts: vendor claims 450,000 entrepreneurs and 3,000 partner accountants (homepage, read 2026-10-01); Chift 2026 study groups it with Pennylane as a cloud platform shared by SMEs and firms.",
+     "sources": [
+      "https://www.tiime.fr/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+     ]
+    }
+   ]
+  },
+  "DE": {
+   "channel": {
+    "value": "accountant",
+    "explanation": "Chift's 2026 study: accounting is delegated to the Steuerberater for most SMEs, so software adoption is decided by the accountant, more than in any other market in its panel. DATEV describes its SME cloud tool (Unternehmen online) as the shared platform with the tax firm. Only Chift states the channel conclusion explicitly.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors",
+     "https://www.datev.de/web/de/berufsgruppenuebergreifend/presse/presseinformationen/meldungen-2026/datev-mit-cloud-angeboten-weiter-auf-wachstumskurs"
+    ]
+   },
+   "reform": {
+    "summary": "Mandatory domestic B2B e-invoicing since 1 January 2025 with transition rules. Receiving has been required since 2025. Issuers may still use paper (or other electronic formats with the recipient's consent) until end 2026, and until end 2027 if prior-year turnover is up to EUR 800,000. After the transition periods, e-invoices are mandatory for all. A transaction reporting system is planned for a later date.",
+    "milestones": [
+     {
+      "date": "2025-01-01",
+      "what": "All domestic businesses must be able to receive e-invoices; issuing is optional during the transition."
+     },
+     {
+      "date": "2026-12-31",
+      "what": "End of the general transition period for issuers (paper, or other e-formats with recipient consent)."
+     },
+     {
+      "date": "2027-01-01",
+      "what": "Issuing e-invoices mandatory for businesses with prior-year turnover above EUR 800,000."
+     },
+     {
+      "date": "2027-12-31",
+      "what": "End of the transition for issuers with prior-year turnover up to EUR 800,000 and for non-compliant EDI procedures."
+     },
+     {
+      "date": "2028-01-01",
+      "what": "Issuing e-invoices mandatory for all domestic B2B transactions."
+     }
+    ],
+    "network": "No mandated network or platform: the law prescribes no transmission channel (email, interface, portal download are all allowed). Format must comply with EN 16931: XRechnung and ZUGFeRD from version 2.0.1 (except MINIMUM and BASIC-WL profiles). Peppol is an option, not an obligation.",
+    "sources": [
+     "https://www.bundesfinanzministerium.de/Content/DE/FAQ/e-rechnung.html",
+     "https://e-rechnung-bund.de/e-rechnung/e-rechnung-zwischen-unternehmen-b2b",
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+    ]
+   },
+   "note": {
+    "text": "Chift 2026 study: the SME layer is almost entirely cloud-based (Lexware Office, sevdesk, FastBill, weclapp), while DATEV offers both on-premise and cloud, with on-premise still widely used by accountants. ADDISON and Agenda barely show up in SME data but matter in the accountant channel; Microsoft Dynamics shapes the mid-market. DATEV reports 750,000+ users of its cloud tool Unternehmen online.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors",
+     "https://www.datev.de/web/de/berufsgruppenuebergreifend/presse/presseinformationen/meldungen-2026/datev-mit-cloud-angeboten-weiter-auf-wachstumskurs"
+    ]
+   },
+   "software": [
+    {
+     "id": "datev",
+     "name": "DATEV",
+     "vendor": "DATEV eG",
+     "target": "both",
+     "url": "https://www.datev.de/",
+     "marketplace_url": "https://www.datev.de/web/de/marktplatz/",
+     "importance": "dominant",
+     "evidence": "DATEV press release (27 March 2026): about 927,900 customers and 40,296 cooperative members at end 2025, 750,000+ users of Unternehmen online. Chift 2026 study: 47% share among 200 German survey respondents, described as understating its real footprint.",
+     "sources": [
+      "https://www.datev.de/web/de/berufsgruppenuebergreifend/presse/presseinformationen/meldungen-2026/datev-mit-cloud-angeboten-weiter-auf-wachstumskurs",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "lexware-office",
+     "name": "Lexware Office (formerly lexoffice)",
+     "vendor": "Lexware (Haufe Group)",
+     "target": "sme",
+     "url": "https://www.lexware.de/buchhaltungssoftware/",
+     "marketplace_url": "https://www.lexware.de/partner/",
+     "importance": "important",
+     "evidence": "Vendor claims 'well over 450,000 customers' (product page, read 2026-10-01); Chift 2026 study: serves SMEs that manage accounting directly. Partner page lists 150+ extensions.",
+     "sources": [
+      "https://www.lexware.de/buchhaltungssoftware/",
+      "https://www.lexware.de/partner/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "sevdesk",
+     "name": "sevdesk",
+     "vendor": "sevdesk GmbH (Cegid since 2025)",
+     "target": "sme",
+     "url": "https://sevdesk.de/",
+     "marketplace_url": "https://sevdesk.de/integrationen/",
+     "importance": "important",
+     "evidence": "Vendor claims 160,000+ customers (product overview, read 2026-10-01); Chift 2026 study notes strong visibility in the cloud-native SME segment.",
+     "sources": [
+      "https://sevdesk.de/produktuebersicht/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "addison",
+     "name": "ADDISON",
+     "vendor": "Wolters Kluwer Tax & Accounting Deutschland",
+     "target": "firm",
+     "url": "https://www.wolterskluwer.com/de-de/solutions/steuern-rechnungswesen/steuerberater",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Chift 2026 study: accountant suite and DATEV alternative that matters in the accountant channel. Third-party directory suitapp.de states 6,000+ tax firms use it. Wolters Kluwer's own pages returned HTTP 403 (product URL not opened, vendor figure not verified).",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors",
+      "https://suitapp.de/software/addison/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "agenda",
+     "name": "Agenda",
+     "vendor": "Agenda Informationssysteme GmbH & Co. KG",
+     "target": "both",
+     "url": "https://www.agenda-software.de/",
+     "marketplace_url": "https://www.agenda-software.de/ueber-agenda/partner.php",
+     "importance": "important",
+     "evidence": "Vendor claims 380,000 users (Agenda careers site, read 2026-10-01); Chift 2026 study: accountant suite and DATEV alternative. Marketplace link is Agenda's partner page.",
+     "sources": [
+      "https://www.agenda-karriere.de/agenda-software.php",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "sap-business-one",
+     "name": "SAP Business One",
+     "vendor": "SAP",
+     "target": "sme",
+     "url": "https://www.sap.com/germany/products/erp/business-one.html",
+     "marketplace_url": "not_found",
+     "importance": "secondary",
+     "evidence": "SAP News (Dec 2025): 83,000+ customers and 1.2 million users worldwide; no Germany-only figure found. Not named in Chift's Germany guide, which cites Microsoft Dynamics for the mid-market. Only source; sap.com product page returned HTTP 403 (URL not opened).",
+     "sources": [
+      "https://news.sap.com/2025/12/global-success-of-sap-business-one/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "scopevisio",
+     "name": "Scopevisio",
+     "vendor": "Scopevisio AG",
+     "target": "sme",
+     "url": "https://www.scopevisio.com/",
+     "marketplace_url": "https://www.scopevisio.com/partner/",
+     "importance": "secondary",
+     "evidence": "Vendor press release: 7,500+ customers, cloud ERP for mid-sized companies. Only source; not named in Chift's Germany guide. Marketplace link is the partner programme page.",
+     "sources": [
+      "https://www.scopevisio.com/unternehmen/presse/pressemitteilungen/scopevisio-kooperiert-mit-hg/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "buchhaltungsbutler",
+     "name": "BuchhaltungsButler",
+     "vendor": "BuchhaltungsButler",
+     "target": "sme",
+     "url": "https://www.buchhaltungsbutler.de/",
+     "marketplace_url": "https://www.buchhaltungsbutler.de/integrationen/",
+     "importance": "secondary",
+     "evidence": "Vendor homepage claims 'over 20,000 companies' (another block of the same page says 10,000+), read 2026-10-01. Only source; not named in Chift's Germany guide.",
+     "sources": [
+      "https://www.buchhaltungsbutler.de/"
+     ],
+     "single_source": true
+    }
+   ],
+   "excluded_candidates": []
+  },
+  "BE": {
+   "channel": {
+    "value": "accountant",
+    "explanation": "Chift's 2026 study: chartered accountants run the full accounting workflow for most SMEs, and accounting is almost entirely outsourced below 50 employees; around the January 2026 mandate, accountants advised clients on which tools to adopt. Only Chift states this explicitly.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+    ]
+   },
+   "reform": {
+    "summary": "Since 1 January 2026, invoices between Belgian VAT-liable enterprises must be structured electronic invoices, exchanged in principle over the Peppol network (send and receive). FPS Finance applied a tolerance during the first three months of 2026. A near real-time e-reporting layer is announced for 2028 (non-official source).",
+    "milestones": [
+     {
+      "date": "2026-01-01",
+      "what": "Structured e-invoicing mandatory for B2B invoices between Belgian VAT-liable enterprises (issuing and receiving), via Peppol."
+     },
+     {
+      "date": "2026-03-31",
+      "what": "End of the three-month tolerance period announced by FPS Finance."
+     },
+     {
+      "date": "2028-01-01",
+      "what": "Near real-time VAT e-reporting planned (reported by Edicom; not checked on an official page)."
+     }
+    ],
+    "network": "Peppol (decentralised network), structured invoices under the European standard EN 16931; a customer cannot impose its own portal without consent. Applies to all VAT-liable enterprises at once (no phasing by size).",
+    "sources": [
+     "https://einvoice.belgium.be/en/article/structured-electronic-invoices-between-companies-are-compulsory-2026",
+     "https://einvoice.belgium.be/en/FAQ/general-questions-b2b",
+     "https://einvoice.belgium.be/en/news/period-tolerance-during-first-three-months-2026",
+     "https://edicomgroup.com/blog/belgium-will-make-b2b-electronic-invoice-mandatory"
+    ]
+   },
+   "note": {
+    "text": "Chift 2026 study: two sub-markets. Flanders is mostly cloud and collaborative (Exact Online, Octopus, Adsolut, Yuki); Wallonia is more on-premise and integrator-managed (Horus, WinBooks, Sage BOB50, Odoo). ITAA software survey 2026 (1,642 accountants and tax advisors, 992 NL / 650 FR): on the client side no accounting solution exceeds 50%, while firm-side tools are highly concentrated (one solution at 71% in post-accounting and reporting); the public summary names no products.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide",
+     "https://www.blogitaa.be/fr/2026/07/07/un-marche-logiciel-sous-tension-ce-que-1-642-consoeurs-et-confreres-nous-disent-de-la-concentration-et-de-la-dependance/"
+    ]
+   },
+   "software": [
+    {
+     "id": "exact-online",
+     "name": "Exact Online",
+     "vendor": "Exact",
+     "target": "both",
+     "url": "https://www.exact.com/benl/software/exact-online",
+     "marketplace_url": "https://www.exact.com/benl/app-store",
+     "importance": "dominant",
+     "evidence": "Chift 2026 study: 'the clear market leader', serving firms and SMEs, mainly in Flanders. Exact states 675,000 companies (mainly NL, BE, DE) and 10,000+ accountants group-wide; no Belgium-only figure found. The Belgian leadership claim rests on Chift alone.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide",
+      "https://www.exact.com/benl/over-ons",
+      "https://www.exact.com/benl/software/exact-online"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "octopus",
+     "name": "Octopus",
+     "vendor": "Octopus Accountancy Software",
+     "target": "both",
+     "url": "https://www.octopus.be/nl/",
+     "marketplace_url": "https://www.octopus.be/nl/boekhoudsoftware-integraties/",
+     "importance": "important",
+     "evidence": "Vendor claims 91,000+ files and 2,600+ accountants (homepage, read 2026-10-01); Chift 2026 study: one of the leading fully Belgian cloud alternatives, especially in Flanders.",
+     "sources": [
+      "https://www.octopus.be/nl/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "winbooks",
+     "name": "WinBooks (Exact WinBooks)",
+     "vendor": "Exact (acquired WinBooks in 2019)",
+     "target": "both",
+     "url": "https://www.exact.com/befr/software/exact-winbooks",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Vendor claims 2,000+ fiduciaries and 22,000+ licences sold; Chift 2026 study: on-premise legacy tool concentrated in Wallonia. No public marketplace page found (reseller network).",
+     "sources": [
+      "https://www.exact.com/befr/software/exact-winbooks/fiduciaire",
+      "https://www.exact.com/befr/software/exact-winbooks",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide",
+      "https://www.regional-it.be/2019/12/19/winbooks-exact-nous-rachete-mais-preservera-notre-specificite/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "yuki",
+     "name": "Yuki",
+     "vendor": "Visma (Yuki)",
+     "target": "both",
+     "url": "https://www.yukisoftware.com/be-nl/",
+     "marketplace_url": "https://www.yukisoftware.com/be-nl/integraties/",
+     "importance": "important",
+     "evidence": "Chift 2026 study: collaborative platform gaining ground, mainly in Flanders. Visma (2020): 1,300+ accountancy firms and about 100,000 entrepreneurs across NL, BE and ES; no Belgium-only figure found.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide",
+      "https://www.visma.com/newsroom/visma-continues-to-expand-in-the-dutch-accounting-office-space-with-the-acquisition-of-yuki-f8476e3c"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "sage-bob-50",
+     "name": "Sage BOB 50",
+     "vendor": "Sage",
+     "target": "both",
+     "url": "https://www.sage.com/fr-be/produits/sage-bob/",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Chift 2026 study: on-premise legacy tool concentrated in Wallonia, one of the reference tools there. Only source: sage.com returned HTTP 403 (product URL not opened) and no installed-base figure could be verified.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "horus",
+     "name": "Horus",
+     "vendor": "Horus Software",
+     "target": "both",
+     "url": "https://www.horussoftware.be/",
+     "marketplace_url": "https://marketplace.horussoftware.be/fr/",
+     "importance": "important",
+     "evidence": "Vendor claims 8,000+ accounting professionals in Belgium (another block of the same page says 4,000+ accountants), read 2026-10-01; Chift 2026 study: newer Belgian platform gaining ground, primarily in Wallonia.",
+     "sources": [
+      "https://www.horussoftware.be/fiduciaire/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "odoo",
+     "name": "Odoo",
+     "vendor": "Odoo SA",
+     "target": "sme",
+     "url": "https://www.odoo.com/app/accounting",
+     "marketplace_url": "https://apps.odoo.com/apps",
+     "importance": "important",
+     "evidence": "Chift 2026 study lists Odoo among the reference tools in Wallonia. Odoo states 28 million users worldwide; no Belgium-only figure found. The Belgian relevance rests on Chift alone.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide",
+      "https://www.odoo.com/app/accounting"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "adsolut",
+     "name": "Adsolut (incl. Expert/M)",
+     "vendor": "Wolters Kluwer",
+     "target": "both",
+     "url": "https://www.wolterskluwer.com/nl-be/solutions/adsolut",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Chift 2026 study: modular suite for firms and SMEs, one of four tools accounting for the majority of usage in Flanders. Only source: Wolters Kluwer pages returned HTTP 403 (product URL not opened, no vendor figure verified).",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "clearfacts",
+     "name": "Clearfacts",
+     "vendor": "Wolters Kluwer (Clearfacts)",
+     "target": "both",
+     "url": "https://clearfacts.be/nl/",
+     "marketplace_url": "https://clearfacts.be/nl/integraties/",
+     "importance": "important",
+     "evidence": "Vendor: 113,000 active files and 200,000 documents processed per day (About page); dVO: used by 120,000+ companies. It is a document-exchange and pre-accounting platform between SMEs and accountants, not a general ledger; not listed in Chift's Belgium guide.",
+     "sources": [
+      "https://clearfacts.be/nl/over-clearfacts/",
+      "https://www.dvo.be/artikel/wolters-kluwer-introduceert-eenvoudige-oplossing-voor-e-facturatie-voor-kmos"
+     ],
+     "single_source": false
+    }
+   ],
+   "excluded_candidates": []
+  }
+ }
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "country": "FR",
+    "title": "Measured: where French companies receive e-invoices",
+    "method": "Every French company number looked up on the Peppol network, crossed with the SIRENE register. Platform named by its OpenPeppol certificate.",
+    "source": {
+      "label": "connect-compta barometer, by Chift",
+      "url": "https://www.connect-compta.fr/carte"
+    },
+    "compiledAt": "2026-09-28",
+    "base": {
+      "label": "French companies reachable on Peppol",
+      "n": 4785838
+    },
+    "rows": [
+      {
+        "name": "Pennylane",
+        "n": 1004298,
+        "softwareId": "pennylane"
+      },
+      {
+        "name": "Serensia",
+        "n": 433375,
+        "softwareId": null
+      },
+      {
+        "name": "Qonto",
+        "n": 352646,
+        "softwareId": null
+      },
+      {
+        "name": "Indy.fr",
+        "n": 347266,
+        "softwareId": null
+      },
+      {
+        "name": "TIIME PDP",
+        "n": 335931,
+        "softwareId": "tiime"
+      },
+      {
+        "name": "LE VILLAGE CONNECTE",
+        "n": 323094,
+        "softwareId": null
+      },
+      {
+        "name": "Cecurity.com SA",
+        "n": 211570,
+        "softwareId": null
+      },
+      {
+        "name": "Sage",
+        "n": 174260,
+        "softwareId": null
+      },
+      {
+        "name": "Chaintrust",
+        "n": 163933,
+        "softwareId": null
+      },
+      {
+        "name": "fulll",
+        "n": 140684,
+        "softwareId": "fulll"
+      },
+      {
+        "name": "ECMA",
+        "n": 128839,
+        "softwareId": null
+      },
+      {
+        "name": "Abby SAS",
+        "n": 119037,
+        "softwareId": null
+      }
+    ]
+  },
+  {
+    "country": "BE",
+    "title": "Measured: where Belgian companies receive e-invoices",
+    "method": "43,000 random valid Belgian company numbers looked up on the Peppol network: 5,534 are registered. For a random 879 of them, the access point certificate names the platform.",
+    "source": {
+      "label": "Our own sample, same method as the connect-compta barometer",
+      "url": null
+    },
+    "compiledAt": "2026-10-01",
+    "base": {
+      "label": "Belgian companies sampled on Peppol",
+      "n": 879
+    },
+    "rows": [
+      {
+        "name": "Wolters Kluwer Belgium NV",
+        "n": 235,
+        "softwareId": null
+      },
+      {
+        "name": "Billit nv",
+        "n": 153,
+        "softwareId": null
+      },
+      {
+        "name": "Storecove (Datajust B.V.)",
+        "n": 120,
+        "softwareId": null
+      },
+      {
+        "name": "Horus Software",
+        "n": 72,
+        "softwareId": "horus"
+      },
+      {
+        "name": "Banqup SA",
+        "n": 47,
+        "softwareId": null
+      },
+      {
+        "name": "Odoo SA",
+        "n": 46,
+        "softwareId": "odoo"
+      },
+      {
+        "name": "Dokapi",
+        "n": 31,
+        "softwareId": null
+      },
+      {
+        "name": "4CEE",
+        "n": 31,
+        "softwareId": null
+      },
+      {
+        "name": "Teamleader NV",
+        "n": 25,
+        "softwareId": null
+      },
+      {
+        "name": "Octopus NV",
+        "n": 24,
+        "softwareId": "octopus"
+      },
+      {
+        "name": "WINAUDITOR.NET",
+        "n": 17,
+        "softwareId": null
+      },
+      {
+        "name": "Digiteal",
+        "n": 16,
+        "softwareId": null
+      }
+    ]
+  }
+]

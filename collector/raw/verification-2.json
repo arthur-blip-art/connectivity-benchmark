@@ -1,0 +1,845 @@
+{
+ "verified_at": "2026-10-01",
+ "rows": [
+  {
+   "editorId": "yooz",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yooz integrates directly with QuickBooks Online through API-based connectivity, enabling automated and structured data exchanges.",
+   "note": "Dedicated QuickBooks Online page states a direct API integration."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "L'intégration de Yooz via l'API Fulll (anciennement Ibiza) permet de profiter des fonctions suivantes",
+   "note": "Blog article states integration through the Fulll API."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yooz propose des connecteurs dédiés avec Microsoft Dynamics 365 Business Central et Finance & Supply Chain Management",
+   "note": "Dedicated connector with automated data exchange, consistent with api."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "L'intégration repose sur une connectivité API REST et SOAP permettant des échanges de données structurés et automatisés entre Yooz et Oracle NetSuite.",
+   "note": "Native API integration stated explicitly."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Yooz embarque nativement + de 250 connecteurs",
+   "note": "Page shows a 'Quadratus' logo (former name of Cegid Quadra), not 'Cegid Quadra' by name; mechanism only described generically as native connectors."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "isacompta",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Yooz embarque nativement + de 250 connecteurs",
+   "note": "Page shows an 'Agiris' logo (publisher of Isacompta), Isacompta itself not named; no specific mechanism, so unknown is consistent."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yooz embarque nativement + de 250 connecteurs",
+   "note": "Odoo logo listed among natively connected ERPs; native connector consistent with api, though no Odoo-specific mechanism detailed."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yooz embarque nativement + de 250 connecteurs",
+   "note": "Tiime logo listed among connected software; no Tiime-specific mechanism, unknown is consistent."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "unit4",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yooz embarque nativement + de 250 connecteurs",
+   "note": "Unit4 logo listed among connected software; no Unit4-specific mechanism, unknown is consistent."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "a3-asesor",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Conector Yooz - A3ASESOR",
+   "note": "PDF infographic shows a Yooz connector with A3ASESOR exchanging entries, reference data and payment data."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "contasol",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "API Yooz Conector nativo Yooz - CONTASOL",
+   "note": "Native API connector stated in the infographic."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "sage-despachos",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yooz digitaliza, automatiza y hace más fluido su proceso de las Cuentas a pagar con Sage Despachos gracias a un conector nativo.",
+   "note": "Native connector stated."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "sage-200",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connector with Sage 200 Standard",
+   "note": "Infographic shows a connector syncing referential data, invoice posting and payment return."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connector with Sage 50 Fresh Data Data is instantly updated between Yooz and Sage 50.",
+   "note": "UK infographic shows a direct connector with Sage 50."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connecteur API Yooz - ACD Expert",
+   "note": "API connector stated explicitly."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "API Cegid Loop Connecteur natif Yooz - Cegid Loop",
+   "note": "Native connector over the Cegid Loop API."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yooz dématérialise, automatise et fluidifie vos processus factures fournisseurs dans Exact Online grâce à un connecteur natif.",
+   "note": "Native bi-directional connector stated."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connecteur API - Yooz / Inqom",
+   "note": "API connector stated explicitly."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "API Yooz Connecteur Yooz - EBP",
+   "note": "Connector via the Yooz API stated."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Le connecteur bidirectionnel permet un interfaçage automatique.",
+   "note": "Native bidirectional connector with MyUnisoft stated."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Interface API Yooz <> Pennylane",
+   "note": "API interface stated explicitly."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "sage-intacct",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connecteur (API) Yooz - Sage Intacct",
+   "note": "API connector stated explicitly."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yooz dématérialise, automatise et fluidifie vos processus factures fournisseurs dans Sage 100 grâce à un connecteur natif.",
+   "note": "Native bi-directional connector stated."
+  },
+  {
+   "editorId": "yooz",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connecteur (API) Yooz - Xero",
+   "note": "API connector stated explicitly."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connect Dext and Xero once. It stays connected. The connection pulls your Chart of Accounts, contacts, tracking categories and payment methods into Dext",
+   "note": "Direct connection syncing lists and publishing items to Xero, consistent with api."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "L'intégration directe par API simplifie la configuration",
+   "note": "Direct API integration; chart of accounts synced and entries published to ACD."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "isacompta",
+   "verdict": "wrong_kind",
+   "suggested_kind": "file_export",
+   "quote": "Étape 3 Exportez vos écritures au format Agiris. Étape 4 Importez le fichier directement sur votre compte Agiris.",
+   "note": "Page describes a dedicated Agiris export file, not an API; it also names only Agiris (publisher), not Isacompta."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connectez les deux logiciels par API pour importer facilement votre plan comptable sur Dext et de publier vos écritures d’achats directement sur EBP.",
+   "note": "API for purchases; sales go through a FEC-type export."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cette intégration par APl vous permet d’importer votre plan comptable sur Dext et de publier vos écritures directement sur Fulll",
+   "note": "API integration stated explicitly."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cette connexion directe par API vous permet d’importer facilement votre plan comptable sur Dext et de publier vos écritures directement vers MyUnisoft.",
+   "note": "Direct API connection stated."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "L’intégration directe par API vous permet de synchroniser votre plan comptable et de publier vos écritures avec images, depuis Dext vers Pennylane",
+   "note": "Direct API integration stated."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Vous utilisez Sage 50 ou 100 (Sage Ciel) ? Exportez en un instant vos écritures au format FEC sans images.",
+   "note": "Sage 100 handled via FEC export file, consistent with file_export."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage Génération Expert (GE), grâce à notre connexion directe par API.",
+   "note": "Direct API connection with Sage GE; GE export formats also offered."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Dext connects to Sage 50 UK through the Dext Connect App, a Windows application installed on the same computer or server as Sage 50.",
+   "note": "Dext's own desktop connector syncs lists and publishes directly, consistent with api."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "freeagent",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connecting Dext to FreeAgent lets you publish cost items, expense claims, and sales items directly to your accounting software.",
+   "note": "OAuth connection with sync of suppliers/customers and direct publishing."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "twinfield",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connecting Twinfield to Dext lets you extract and code your Cost and Sales documents in Dext and publish them directly to your Twinfield organisation.",
+   "note": "Direct connection with sync of categories, suppliers, tax rates."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Only one main accounting software — for example, Xero, QuickBooks Online, QuickBooks Desktop, Sage 50, or KashFlow — can be connected",
+   "note": "QuickBooks Online named as connectable software publishing items directly."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "visma-e-conomic",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "The E-conomic format matches Visma e-conomic's purchase voucher layout, and is intended for e-conomic's Nordic-market accounts.",
+   "note": "CSV export format, consistent with file_export."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Importez vos écritures et images dans Inqom grâce à l’export FEC amélioré +images.",
+   "note": "FEC export file, consistent with file_export."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "cegid-experts",
+   "verdict": "wrong_kind",
+   "suggested_kind": "file_export",
+   "quote": "sélectionnez le format adapté à votre logiciel de production dans la liste déroulante : 'Cegid TRA + Ventilation'",
+   "note": "Article title says 'sans API': entries exported as a TRA file and imported manually into Cegid Expert."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "La connexion entre Dext et Loop par API permet de synchroniser les données comptables et de publier les écritures de Dext vers Loop.",
+   "note": "API connection stated."
+  },
+  {
+   "editorId": "dext",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Vous apprendrez à générer une clé API depuis CegidLife , à activer la liaison entre les deux outils",
+   "note": "API key connection; documents published to Quadra in one click."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Nos intégrations DSP2 et EBICS ... ACD Jedeclare.com",
+   "note": "ACD listed with connector Jedeclare.com, a third party, consistent with via_partner."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cegid Loop EBICS",
+   "note": "Listed with a direct EBICS TS connection, consistent with api."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Cegid Quadra EBICS",
+   "note": "Listed with a direct EBICS TS connection, consistent with api."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "EBP Jedeclare.com",
+   "note": "Listed with connector Jedeclare.com, consistent with via_partner."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Fulll Jedeclare.com",
+   "note": "Listed with connector Jedeclare.com, consistent with via_partner."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "indy",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Indy Bridge",
+   "note": "Listed with aggregator Bridge, consistent with via_partner."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "isacompta",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Agiris Jedeclare.com",
+   "note": "Page lists Agiris (Isacompta's publisher) via Jedeclare.com; Isacompta itself is not named."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Myunisoft Jedeclare.com",
+   "note": "Listed with connector Jedeclare.com, consistent with via_partner."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Oracle NetSuite Salt Edge",
+   "note": "Listed with aggregator Salt Edge, consistent with via_partner."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Odoo EBICS",
+   "note": "Listed with a direct EBICS TS connection, consistent with api."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pennylane Bridge",
+   "note": "Listed with aggregator Bridge, consistent with via_partner."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage 100 EBICS",
+   "note": "Listed with a direct EBICS TS connection, consistent with api."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage Génération Experts EBICS",
+   "note": "Listed with a direct EBICS TS connection, consistent with api."
+  },
+  {
+   "editorId": "memo-bank",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Tiime Powens",
+   "note": "Listed with aggregator Powens, consistent with via_partner."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "N2F ist mit allen marktüblichen FiBu-, ERP- oder Lohnabrechnungsprogrammen kompatibel – darunter beispielsweise: ... Oracle/NetSuite",
+   "note": "FAQ names Oracle/NetSuite as compatible without a mechanism, consistent with unknown."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Ihre Buchungssätze werden direkt im passenden Format für Ihr System generiert",
+   "note": "Export page names MS Dynamics among systems receiving generated booking files, consistent with file_export."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "N2F integrates with major accounting software and ERP systems such as QuickBooks and Xero. Your accounting entries are generated directly in the format accepted",
+   "note": "Accounting export in the target format, consistent with file_export."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "N2F integrates with major accounting software and ERP systems such as QuickBooks and Xero. Your accounting entries are generated directly in the format accepted",
+   "note": "Accounting export in the target format, consistent with file_export."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "isacompta",
+   "verdict": "wrong_kind",
+   "suggested_kind": "unknown",
+   "quote": "Centralisez vos dépenses (notes de frais, cartes, factures fournisseurs) et automatisez leur comptabilisation dans agiris grâce à N2F.",
+   "note": "Page names only Agiris (publisher of Isacompta, so family-level) and gives no mechanism, so api is not supported."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "teamsystem-azienda",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "N2F s’intègre à TeamSystem",
+   "note": "Page names TeamSystem only, not TeamSystem Azienda; no mechanism, unknown consistent."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "teamsystem-gamma",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "N2F s’intègre à TeamSystem",
+   "note": "Page names TeamSystem only, not TeamSystem Gamma; no mechanism, unknown consistent."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "teamsystem-studio",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "N2F s’intègre à TeamSystem",
+   "note": "Page names TeamSystem only, not TeamSystem Studio; no mechanism, unknown consistent."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "tiime",
+   "verdict": "wrong_kind",
+   "suggested_kind": "unknown",
+   "quote": "Centralisez vos dépenses (notes de frais, cartes, factures fournisseurs) et automatisez leur comptabilisation dans Tiime grâce à N2F.",
+   "note": "Tiime integration page gives no mechanism, so api is not supported by the page."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "unit4",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "N2F s’intègre à UNIT4",
+   "note": "Dedicated page; no mechanism described, consistent with unknown."
+  },
+  {
+   "editorId": "n2f",
+   "softwareId": "ago-infinity",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "N2F s’intègre à Zucchetti",
+   "note": "Page names Zucchetti only, not Ago Infinity; no mechanism, unknown consistent."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "un portail comptable dédié, des paramètres de connexion simples, et le mapping des champs pour que les données soient transmises automatiquement",
+   "note": "Direct automated connection to ACD; the page does not mention Chift."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Axonaut propose une intégration directe avec les logiciels comptables de Cegid (Loop et Quadra Plus)",
+   "note": "Direct integration set up with an API key; the page does not mention Chift."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Avec Axonaut, vous pourrez vous connecter à Cegid Loop et Cegid Quadra Plus.",
+   "note": "Connection configured with an API key in the accounting portal, consistent with api."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "La connexion Axonaut-Inqom permet aux entrepreneurs et aux cabinets d’expertise comptable de récupérer automatiquement les données comptables depuis Axonaut",
+   "note": "Automated connection, consistent with api; the page does not mention Chift."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connecter MyUnisoft avec Axonaut en renseignant le nom du dossier et la clé API.",
+   "note": "API key connection; the page does not mention Chift."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sélectionnez Pennylane et renseignez le nom de la connexion et la clé API.",
+   "note": "API key connection with daily sync; the page does not mention Chift."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Choisissez vos formats d'exports (prédéfinis pour sage, ebp, cegid, ... ou personnalisé à votre convenance)",
+   "note": "Predefined EBP export format, consistent with file_export."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "sage-100",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "automatiser la remontée des écritures dans les logiciels comptables suivants pour gagner du temps au quotidien : SAGE MyUnisoft Pennylane Tiime ACD Inqom",
+   "note": "Only 'SAGE' is named, not Sage 100."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "sage-generation-experts",
+   "verdict": "wrong_kind",
+   "suggested_kind": "api",
+   "quote": "automatiser la remontée des écritures dans les logiciels comptables suivants pour gagner du temps au quotidien : SAGE MyUnisoft Pennylane Tiime ACD Inqom",
+   "note": "Only 'SAGE' is named (family level), and the page describes automatic entry posting with no third party or Chift mentioned, so via_partner is not supported."
+  },
+  {
+   "editorId": "axonaut",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "automatiser la remontée des écritures dans les logiciels comptables suivants pour gagner du temps au quotidien : SAGE MyUnisoft Pennylane Tiime ACD Inqom",
+   "note": "Tiime named for automatic entry posting from the accounting portal, consistent with api."
+  },
+  {
+   "editorId": "fygr",
+   "softwareId": "holded",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Allez dans votre interface Holded et récupérez votre clé API",
+   "note": "Okimia (new name of Fygr) help article under 'Intégrations via API'; API key connection."
+  },
+  {
+   "editorId": "fygr",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pour bénéficier de l'intégration, merci de prenez rendez-vous avec Benjamin.",
+   "note": "Okimia lists Sage 100 under 'Autres intégrations' with setup by appointment and no mechanism, consistent with unknown."
+  },
+  {
+   "editorId": "fygr",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Okimia s'intègre à Microsoft Business Central pour récupérer vos factures clients et fournisseurs",
+   "note": "Article under 'Intégrations via API'; connection via Microsoft 365 admin login."
+  },
+  {
+   "editorId": "fygr",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Collez votre clé API MyUnisoft dans le champ prévu",
+   "note": "API key connection with nightly data ingestion."
+  },
+  {
+   "editorId": "fygr",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sur votre compte Pennylane , cliquez sur Paramètre , puis Connectivité : Cliquez sur l'onglet Développeur : Créez un nouveau token API",
+   "note": "API token connection."
+  },
+  {
+   "editorId": "fygr",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "dès lors que l'API XML-RPC d'Odoo est accessible depuis Internet",
+   "note": "Connection over Odoo's XML-RPC API."
+  },
+  {
+   "editorId": "fygr",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Les comptes 401, 411 et 512 se synchronisent automatiquement avec Okimia",
+   "note": "Automatic sync with ACD, consistent with api; page notes Fygr became Okimia."
+  },
+  {
+   "editorId": "fygr",
+   "softwareId": "exact-online",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "vous pourrez aller dans la section Intégrations d'Okimia et y renseigner la clé API de votre compte Exact.",
+   "note": "Page says only 'Exact', never 'Exact Online' (and mistakenly mentions Business Central); API key connection."
+  },
+  {
+   "editorId": "candis",
+   "softwareId": "agenda",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Zum einen muss die DATEV Format CSV erzeugt werden und danach als erneuter Export die DATEV Format XML .",
+   "note": "CSV + XML files imported via Agenda's DATEV import assistant, consistent with file_export."
+  },
+  {
+   "editorId": "candis",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sievers Candis Connector im Business Central Admin Center aktualisieren",
+   "note": "Business Central integration runs through the Sievers Candis Connector (third-party Sievers app), consistent with via_partner."
+  },
+  {
+   "editorId": "candis",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Candis has existing integrations with SAP Business One, Sage100, Microsoft Business Central, and Oracle Netsuite.",
+   "note": "NetSuite named as existing ERP integration with automatic master-data sync, consistent with api."
+  },
+  {
+   "editorId": "candis",
+   "softwareId": "addison",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Der Export aus Candis erfolgt über ein DATEV-XML-Format, das von ADDISON verarbeitet werden kann.",
+   "note": "XML file exported then imported into ADDISON OneClick, consistent with file_export."
+  },
+  {
+   "editorId": "candis",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Als lizenzierter Schnittstellenpartner bieten wir deiner Buchhaltung eine nahtlose Übertragung deiner Buchungs- und Stammdaten zu DATEV Rechnungswesen",
+   "note": "Licensed DATEV interface (Buchungsdatenservice) with direct transfer, consistent with api."
+  },
+  {
+   "editorId": "candis",
+   "softwareId": "sage-100",
+   "verdict": "wrong_kind",
+   "suggested_kind": "api",
+   "quote": "Gemeinsam mit der Sage Partner Desk GmbH haben wir deswegen eine direkte Sage-Schnittstelle entwickelt",
+   "note": "Page presents a direct, automatic Sage 100 interface co-developed with Sage Partner Desk, not a connection routed through a third party."
+  },
+  {
+   "editorId": "skello",
+   "softwareId": "a3-innuva",
+   "verdict": "not_supported",
+   "suggested_kind": "",
+   "quote": "Conecta Skello con a3innuva Nómina para sincronizar datos de empleados y variables de nómina.",
+   "note": "The API integration is with a3innuva Nómina (payroll), not the a3innuva accounting product."
+  },
+  {
+   "editorId": "skello",
+   "softwareId": "odoo",
+   "verdict": "not_supported",
+   "suggested_kind": "",
+   "quote": "Conecta Skello con Odoo TPV para cruzar datos de ventas y personal.",
+   "note": "Integration covers Odoo POS sales data flowing into Skello, not Odoo accounting."
+  },
+  {
+   "editorId": "skello",
+   "softwareId": "cegid-quadra",
+   "verdict": "not_supported",
+   "suggested_kind": "",
+   "quote": "Simplifiez la gestion de la paie en automatisant l’envoi de vos éléments variables de paie vers Cegid quadra.",
+   "note": "Listed under 'Outil de paie': only payroll variables are sent, not an accounting connection."
+  },
+  {
+   "editorId": "skello",
+   "softwareId": "sage-100",
+   "verdict": "not_supported",
+   "suggested_kind": "",
+   "quote": "Simplifiez la gestion de la paie en automatisant l’envoi de vos éléments variables de paie vers Sage.",
+   "note": "Generic 'Sage' payroll-tool integration (payroll variables only); Sage 100 accounting not named."
+  },
+  {
+   "editorId": "skello",
+   "softwareId": "sage-generation-experts",
+   "verdict": "not_supported",
+   "suggested_kind": "",
+   "quote": "Simplifiez la gestion de la paie en automatisant l’envoi de vos éléments variables de paie vers Sage.",
+   "note": "Generic 'Sage' payroll-tool integration (payroll variables only); Sage Generation Expert not named."
+  },
+  {
+   "editorId": "pliant",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Microsoft Dynamics 365 Connect operations across your small or medium-sized business. API integration",
+   "note": "Listed with integration type 'API integration'."
+  },
+  {
+   "editorId": "pliant",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Oracle Netsuite The #1 Cloud ERP. API integration",
+   "note": "Listed with integration type 'API integration'."
+  },
+  {
+   "editorId": "pliant",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "\"name\":\"QuickBooks Online\",\"component\":\"integration-partner\",\"description\":\"Easy accounting for small businesses.\",\"integration_types\":[{\"name\":\"API – integration type\"",
+   "note": "QuickBooks Online is in the page's integration catalogue data (behind 'See all') with type API."
+  },
+  {
+   "editorId": "pliant",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "\"name\":\"Xero\",\"component\":\"integration-partner\",\"description\":\"Accounting software to do your to-do.\",\"integration_types\":[{\"name\":\"API – integration type\"",
+   "note": "Xero is in the page's integration catalogue data (behind 'See all') with type API."
+  },
+  {
+   "editorId": "fastbill",
+   "softwareId": "addison",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Mit der FastBill-Integration lassen sich alle Dokumente deiner Buchhaltung nach ADDISON übertragen.",
+   "note": "sourceUrl is behind a Cloudflare challenge; settled on https://www.fastbill.com/partner, which lists the ADDISON integration."
+  },
+  {
+   "editorId": "fastbill",
+   "softwareId": "agenda",
+   "verdict": "unreadable",
+   "suggested_kind": "",
+   "quote": "",
+   "note": "sourceUrl returns a Cloudflare challenge (403); fallback https://www.fastbill.com/partner does not mention Agenda."
+  },
+  {
+   "editorId": "fastbill",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Die DATEV Schnittstelle Rechnungsdatenservice 1.0 (ehemals DATEVconnect online Schnittstelle) ermöglicht die digitale und fehlerfreie Übergabe von Belegen und Rechnungen an DATEV Unternehmen online.",
+   "note": "Direct DATEV interface, consistent with api."
+  },
+  {
+   "editorId": "expensya",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Link the categories of Expensya (left) to those of Quickbooks (right), Save.",
+   "note": "Help article configures a QuickBooks integration with login to the QuickBooks account; it also states QuickBooks is no longer available in France."
+  },
+  {
+   "editorId": "expensya",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "grâce au format d'exportation d’Expensya dédié à Microsoft Dynamics ERP",
+   "note": "Dedicated export format, consistent with file_export."
+  }
+ ]
+}

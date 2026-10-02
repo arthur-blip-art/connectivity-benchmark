@@ -1,0 +1,1312 @@
+[
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "clearbooks",
+  "software": "Clear Books",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/partners/category/accounting-and-invoicing",
+  "evidence": "Listed in Accounting & Invoicing partners; no mechanism stated"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/fr-fr/partenaires/ebp",
+  "evidence": "EBP marque la facture payée et rapproche automatiquement"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "freeagent",
+  "software": "FreeAgent",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/integrations/freeagent",
+  "evidence": "FreeAgent connects to GoCardless; invoices collected and reconciled"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "holded",
+  "software": "Holded",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/es-es/asociados",
+  "evidence": "Menu text only: 'Sincroniza con Chargebee, Holded, Salesforce'"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/de-de/partner/lexware-office",
+  "evidence": "Via SepaHeld app linking GoCardless and Lexware Office"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/partners/microsoft",
+  "evidence": "Connect through our partners (Astral 365 app)"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/partners/netsuite",
+  "evidence": "GoCardless for NetSuite: collect and reconcile invoice payments automatically"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/partners/category/accounting-and-invoicing",
+  "evidence": "Listed as 'Odoo by Open User Systems'"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/fr-fr/partenaires/pennylane",
+  "evidence": "Prélevez automatiquement vos clients depuis Pennylane"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/integrations/intuit-quickbooks",
+  "evidence": "Added from QuickBooks app store; payments reconciled automatically"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "sage-200",
+  "software": "Sage 200",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/partners/sage200",
+  "evidence": "Connect in Sage 200cloud Utilities menu; payments auto-reconciled"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/partners/sage50",
+  "evidence": "Automatic collection of Sage 50cloud invoices; FR page too"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "sage-intacct",
+  "software": "Sage Intacct",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/partners/sageintacct",
+  "evidence": "GoCardless for Sage Intacct: automatic invoice payment collection"
+ },
+ {
+  "editorId": "gocardless",
+  "editor": "GoCardless",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://gocardless.com/integrations/xero",
+  "evidence": "Partners since 2015; automatically collect Xero invoice payments"
+ },
+ {
+  "editorId": "graneet",
+  "editor": "Graneet",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.graneet.fr/fr/articles/769186-connexion-api-graneet-x-acd",
+  "evidence": "API connection; setup procedure links to Chift help center. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "graneet",
+  "editor": "Graneet",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.graneet.fr/fr/articles/769665-integration-api-graneet-x-cegid-loop",
+  "evidence": "API integration; setup procedure links to Chift help center. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "graneet",
+  "editor": "Graneet",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.graneet.fr/fr/articles/769108-export-comptable-au-format-cegid-quadra",
+  "evidence": "Accounting entries exported in a Cegid Quadra compatible format"
+ },
+ {
+  "editorId": "graneet",
+  "editor": "Graneet",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.graneet.fr/fr/articles/767244-export-comptable-au-format-ebp",
+  "evidence": "Accounting entries exported in an EBP compatible format"
+ },
+ {
+  "editorId": "graneet",
+  "editor": "Graneet",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.graneet.fr/fr/articles/769641-connexion-api-graneet-x-myunisoft",
+  "evidence": "API connection; setup procedure links to Chift help center. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "graneet",
+  "editor": "Graneet",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.graneet.fr/fr/articles/769055-connexion-api-graneet-x-pennylane",
+  "evidence": "API connection: chart of accounts synced, entries and PDFs pushed. Also listed in connect-compta (built-in connection (same vendor))."
+ },
+ {
+  "editorId": "graneet",
+  "editor": "Graneet",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://help.graneet.fr/fr/articles/769162-connexion-api-graneet-x-sage-100",
+  "evidence": "API connection; setup follows Chift help pages (on-premise or SPC); file export too"
+ },
+ {
+  "editorId": "hero-software",
+  "editor": "HERO Software",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://hero-software.de/features/schnittstellen/datev",
+  "evidence": "Automatic scheduled transfer to DATEV Unternehmen online; CSV export also described"
+ },
+ {
+  "editorId": "hero-software",
+  "editor": "HERO Software",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://hero-software.nl/functionaliteiten/koppelingen",
+  "evidence": "OAuth login; finished invoices go directly to Exact"
+ },
+ {
+  "editorId": "hero-software",
+  "editor": "HERO Software",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://hero-software.de/features/schnittstellen/lexware-office",
+  "evidence": "Invoices sent to Lexware Office (ex lexoffice); payment status synced back"
+ },
+ {
+  "editorId": "hero-software",
+  "editor": "HERO Software",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://hero-software.nl/functionaliteiten/koppelingen",
+  "evidence": "Outgoing invoices sent to SnelStart on completion; needs API-enabled plan"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "adsolut",
+  "software": "Adsolut",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/scrada/",
+  "evidence": "Via Scrada: data forwarded to Kluwer Adsolut"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/afas/",
+  "evidence": "Via webwinkelfacturen.nl: receipts forwarded to AFAS as invoices"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://www.lightspeedhq.com/uk/integrations/chift/",
+  "evidence": "Page names \"Cegid\" without the product. Sage, Cegid, Pennylane, Inqom, MyUnisoft use Chift for Lightspeed"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://www.lightspeedhq.com/uk/integrations/chift/",
+  "evidence": "Page names \"Cegid\" without the product. Sage, Cegid, Pennylane, Inqom, MyUnisoft use Chift for Lightspeed"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://k-series-support.lightspeedhq.com/hc/en-us/articles/9767000734107-Setting-up-the-DATEV-accounting-integration",
+  "evidence": "Lightspeed Accounting integrates directly with DATEV (Kassenarchiv online)"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "e-boekhouden",
+  "software": "e-Boekhouden",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/e-boekhouden-voor-retail-en-restaurant/",
+  "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://resto-support.lightspeedhq.com/hc/en-us/articles/115005519368-About-Lightspeed-Accounting",
+  "evidence": "Lightspeed Accounting can sync daily with Exact Online"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "horus",
+  "software": "Horus",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/scrada/",
+  "evidence": "Via Scrada: data forwarded to Horus"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://www.lightspeedhq.com/uk/integrations/chift/",
+  "evidence": "Sage, Cegid, Pennylane, Inqom, MyUnisoft use Chift for Lightspeed. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "kluwer-expert",
+  "software": "Kluwer Expert/M",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/scrada/",
+  "evidence": "Via Scrada: data forwarded to Expert/M"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "minox",
+  "software": "Minox",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/minox-software/",
+  "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "moneybird",
+  "software": "Moneybird",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/moneybird-voor-lightspeedpos/",
+  "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://www.lightspeedhq.fr/integrations/chift/",
+  "evidence": "Chift connecte Lightspeed à Pennylane, MyUnisoft, Sage. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.com/integrations/netsuite/",
+  "evidence": "Lightspeed Retail for NetSuite: SuiteApp integration; elsewhere via Omniboost"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "octopus",
+  "software": "Octopus",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/scrada/",
+  "evidence": "Via Scrada: revenue and payment data forwarded to Octopus"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://www.lightspeedhq.fr/integrations/chift/",
+  "evidence": "Chift connects Lightspeed to Pennylane; own listing gives no mechanism. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.com/uk/integrations/quickbooks/",
+  "evidence": "Register closures pushed automatically to QuickBooks Online"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "sage-bob-50",
+  "software": "Sage BOB 50",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/sage-bob/",
+  "evidence": "Via Omniboost Omni-Accounting connector"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "sage-intacct",
+  "software": "Sage Intacct",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.com/uk/integrations/sage-intacct/",
+  "evidence": "Via Omniboost Omni-Accounting connector"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/snelstart/",
+  "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.com/uk/integrations/twinfield/",
+  "evidence": "Via Omniboost Omni-Accounting connector; NL also winkelboekhouding.nl, POSsystems"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "visma-eaccounting",
+  "software": "Visma eAccounting",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/visma-eaccounting-voor-retail-restaurant/",
+  "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "winauditor",
+  "software": "Winauditor",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/scrada/",
+  "evidence": "Via Scrada: data forwarded to Winauditor"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.com/uk/integrations/xero/",
+  "evidence": "Daily sales, payment totals, COGS sync to Xero"
+ },
+ {
+  "editorId": "lightspeed",
+  "editor": "Lightspeed",
+  "softwareId": "yuki",
+  "software": "Yuki",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.lightspeedhq.nl/integraties/yuki/",
+  "evidence": "Via Omniboost Omni-Accounting connector; also via Scrada"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/afas",
+  "evidence": "Payment links in AFAS invoices, ledger reconciled instantly"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Bank Connection (auto sync every 30 min) available for it; Pathway Solutions/JERA listed for DATEV exports"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "e-boekhouden",
+  "software": "e-Boekhouden",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/eboekhouden",
+  "evidence": "Listed in Accounting & Invoicing; stub page, no mechanism"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/exact",
+  "evidence": "Automate Exact Online invoicing, reconcile automatically; also Bank Connection"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Automated export files (email/Dropbox) available for it"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "minox",
+  "software": "Minox",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Bank Connection (auto sync every 30 min) available for it"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "moneybird",
+  "software": "Moneybird",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/moneybird",
+  "evidence": "Payment link on invoices, Moneybird reconciles automatically; Bank Connection"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Automated export files (email/Dropbox) available for it"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/odoo",
+  "evidence": "Mollie apps for Odoo ecommerce, POS and financial reconciliation"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/pennylane",
+  "evidence": "Mollie payments automatically synchronised with your Pennylane account"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/quickbooks",
+  "evidence": "Clients pay QuickBooks invoices, automatically reconciled; also Bank Connection"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/snelstart",
+  "evidence": "Automates ledger matching and invoice updates; also Bank Connection"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Bank Connection (auto sync every 30 min) available for it; directory page is a stub"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "unit4",
+  "software": "Unit4",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Automated export files (email/Dropbox) available for it ('Unit4 Financials & Unit4')"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "visma-accountview",
+  "software": "Visma AccountView",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Automated export files (email/Dropbox) available for it"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "visma-eaccounting",
+  "software": "Visma eAccounting",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Automated export files (email/Dropbox) available for it ('Visma eAccounting & Visma.net')"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.mollie.com/integrations/xero",
+  "evidence": "Mollie link on Xero invoices, settled invoices auto-reconciled"
+ },
+ {
+  "editorId": "mollie",
+  "editor": "Mollie",
+  "softwareId": "yuki",
+  "software": "Yuki",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://docs.mollie.com/docs/mollie-bank-statements",
+  "evidence": "Bank Connection (auto sync every 30 min) available for it; directory page is a stub"
+ },
+ {
+  "editorId": "obat",
+  "editor": "Obat",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+  "evidence": "Listed as software supported through the Chift integration. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "obat",
+  "editor": "Obat",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+  "evidence": "Listed as software supported through the Chift integration. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "obat",
+  "editor": "Obat",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+  "evidence": "Listed as software supported through the Chift integration. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "obat",
+  "editor": "Obat",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+  "evidence": "Listed as software supported through the Chift integration. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "obat",
+  "editor": "Obat",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://aide.obat.fr/chift-synchronisation-initiale-du-logiciel-comptable-a-pennylane",
+  "evidence": "Connected to Obat 'grâce à notre partenaire Chift'; needs Pennylane Essential. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "payplug",
+  "editor": "Payplug",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.payplug.com/fr/modules/ebp/",
+  "evidence": "Payplug payment links in EBP invoices and quotes"
+ },
+ {
+  "editorId": "payplug",
+  "editor": "Payplug",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.payplug.com/fr/modules/odoo/",
+  "evidence": "Payplug module for Odoo: checkout and payment links in invoices"
+ },
+ {
+  "editorId": "payplug",
+  "editor": "Payplug",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://support.payplug.com/hc/fr/articles/4404783507218-Comment-fonctionne-la-comptabilit%C3%A9-sur-Payplug",
+  "evidence": "Listed under 'Intégrations pour ERP et outils comptables'; no mechanism"
+ },
+ {
+  "editorId": "plancraft",
+  "editor": "plancraft",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.plancraft.com/de/articles/588043-datev-unternehmen-online-mit-plancraft-verbinden-und-rechnungen-ubertragen",
+  "evidence": "DATEV Unternehmen online interface sends invoices automatically; CSV export also offered"
+ },
+ {
+  "editorId": "plancraft",
+  "editor": "plancraft",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://plancraft.com/nl-nl/plancraft-integraties",
+  "evidence": "Integration of Exact and plancraft; 'most used in the Netherlands'"
+ },
+ {
+  "editorId": "plancraft",
+  "editor": "plancraft",
+  "softwareId": "moneybird",
+  "software": "Moneybird",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://plancraft.com/nl-nl/plancraft-integraties",
+  "evidence": "Connect account; completed jobs land as invoices in Moneybird automatically"
+ },
+ {
+  "editorId": "plancraft",
+  "editor": "plancraft",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://plancraft.com/nl-nl/plancraft-integraties",
+  "evidence": "Direct connection sends invoices and receipts to Snelstart automatically"
+ },
+ {
+  "editorId": "sumup",
+  "editor": "SumUp",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.sumup.com/de-DE/articles/2xkoqc6ZHFR2qUDqslqQTr-artikel-datev-integration-mit-sumup",
+  "evidence": "Sales and fees synced daily to DATEV as cash book entries"
+ },
+ {
+  "editorId": "sumup",
+  "editor": "SumUp",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.sumup.com/en-GB/articles/40kv0a4cBysasUUXN3zkpc-link-accounting-software-sumup",
+  "evidence": "POS Plus/Payments Plus: link QuickBooks; syncs sales, fees, expenses"
+ },
+ {
+  "editorId": "sumup",
+  "editor": "SumUp",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://help.sumup.com/en-GB/articles/2f55JP9JWvi7zYtOgDnAe3-article-what-do-i-need-to-know-about-the-sage-integration-to-sumup",
+  "evidence": "Page names \"Sage Accounting\" without the product. Daily automatic sync of sales and fees to Sage Accounting"
+ },
+ {
+  "editorId": "sumup",
+  "editor": "SumUp",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.sumup.com/de-DE/articles/7r4CNuL3tqwk1jyGNRw8KR-artikel-was-sollte-ich-ueber-die-sevdesk-integration-mit-sumup-wissen",
+  "evidence": "Daily sync: sales as invoices, fees as expenses in sevdesk"
+ },
+ {
+  "editorId": "sumup",
+  "editor": "SumUp",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.sumup.com/en-GB/articles/40kv0a4cBysasUUXN3zkpc-link-accounting-software-sumup",
+  "evidence": "POS Plus/Payments Plus: link Xero; syncs sales, fees, expenses"
+ },
+ {
+  "editorId": "tooltime",
+  "editor": "ToolTime",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tooltime.app/datev-schnittstelle",
+  "evidence": "Direct link to DATEV Unternehmen online via Rechnungsdatenservice 1.0; paid add-on"
+ },
+ {
+  "editorId": "tooltime",
+  "editor": "ToolTime",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tooltime.app/schnittstellen-handwerk",
+  "evidence": "Invoices and ToolTime Pay payments synced to Lexware Office in real time"
+ },
+ {
+  "editorId": "tooltime",
+  "editor": "ToolTime",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://support.tooltime.app/de/articles/10300211-xero-integration",
+  "evidence": "Connect with Xero login; invoices transferred automatically or manually"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "e-boekhouden",
+  "software": "e-Boekhouden",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.vertuoza.com/fr-be/fonctionnalites/la-finance",
+  "evidence": "FAQ: 'intégrations natives Sage, EBP, Cegid, Codial, Horus, WinBooks'"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Three table rows (BE, FR, NL): sales and purchase send"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "freeagent",
+  "software": "FreeAgent",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "horus",
+  "software": "Horus",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sync supported, purchase retrieval without PDF"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "minox",
+  "software": "Minox",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "moneybird",
+  "software": "Moneybird",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "octopus",
+  "software": "Octopus",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: full sync; needs local agent install"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "sage-bob-50",
+  "software": "Sage BOB 50",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: full sync; needs local agent install"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "visma-eaccounting",
+  "software": "Visma eAccounting",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "winbooks",
+  "software": "WinBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: full sync; needs local agent install"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "vertuoza",
+  "editor": "Vertuoza",
+  "softwareId": "yuki",
+  "software": "Yuki",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+  "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "billy",
+  "software": "Billy",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/dk/integrationer",
+  "evidence": "Listed under Accounting & Bookkeeping"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "bjorn-lunden",
+  "software": "Björn Lundén",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/se/integrationer",
+  "evidence": "Listed under Accounting & Bookkeeping"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "dinero",
+  "software": "Dinero",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/dk/integrationer",
+  "evidence": "Listed under Accounting & Bookkeeping"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "e-boekhouden",
+  "software": "e-Boekhouden",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/nl/koppelingen",
+  "evidence": "Listed under 'Boekhoudkoppelingen'; no mechanism stated"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/nl/help/articles/9212016-integreer-met-exact",
+  "evidence": "Sales and payment data imported directly into Exact Online ledger"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "fiken",
+  "software": "Fiken",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/no/integrasjoner",
+  "evidence": "Listed under Accounting & Bookkeeping"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "fortnox",
+  "software": "Fortnox",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/se/integrationer",
+  "evidence": "Listed under Accounting & Bookkeeping"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/gb/help/articles/2982932-integrate-with-quickbooks",
+  "evidence": "Help article: connect PayPal Point of Sale account with QuickBooks"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "snelstart",
+  "software": "SnelStart",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/nl/koppelingen",
+  "evidence": "Listed under 'Boekhoudkoppelingen'; no mechanism stated"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/nl/koppelingen",
+  "evidence": "Listed under 'Boekhoudkoppelingen'; no mechanism stated"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "visma-e-conomic",
+  "software": "Visma e-conomic",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/dk/integrationer",
+  "evidence": "Listed under Accounting & Bookkeeping"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "visma-eaccounting",
+  "software": "Visma eAccounting",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/nl/help/articles/2650704-integreren-met-visma",
+  "evidence": "Daily sales booked automatically in Visma eAccounting"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/gb/help/articles/1904954-integrate-with-xero",
+  "evidence": "Help article: connect PayPal Point of Sale account with Xero"
+ },
+ {
+  "editorId": "zettle",
+  "editor": "Zettle by PayPal (PayPal Point of Sale)",
+  "softwareId": "yuki",
+  "software": "Yuki",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.zettle.com/nl/koppelingen",
+  "evidence": "Listed under 'Boekhoudkoppelingen'; no mechanism stated"
+ }
+]

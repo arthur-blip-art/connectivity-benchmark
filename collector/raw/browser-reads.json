@@ -1,0 +1,1704 @@
+{
+ "collected_at": "2026-10-02",
+ "vendors": [
+  {
+   "editorId": "revolut-business",
+   "pages_read": [
+    "https://www.revolut.com/business/integrations/"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "Xero listed in integrations: central accounting hub that syncs seamlessly; 'Connect your accounting apps'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FreeAgent",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "FreeAgent: Save time by syncing transactions, bills, and expenses.",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "QuickBooks: Save time by syncing transactions, bills, and expenses.",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "NetSuite: Save time by syncing transactions, bills, and expenses.",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "Odoo: Automatically import account statements into your Odoo database.",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dynamics 365 Business Central",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "Dynamics 365 Business Central: Automate bookkeeping with Microsoft Business Central.",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Clear Books",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "Clear Books listed among integrations: online accounting software.",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Intacct",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "Sage Intacct listed among integrations.",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50 Accounts",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "Sage 50 Accounts listed among integrations.",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 200",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "Sage 200 listed among integrations.",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xledger",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "Xledger listed among integrations.",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FreshBooks",
+     "source_url": "https://www.revolut.com/business/integrations/",
+     "evidence": "FreshBooks listed among integrations: billing and accounting software.",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ]
+  },
+  {
+   "editorId": "zervant",
+   "pages_read": [
+    "https://www.zervant.com/en/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.ageras.com/us/support/360055443532-FAQ",
+     "reason": "502 Bad Gateway (service unavailable)"
+    },
+    {
+     "url": "https://www.zervant.com/integrations/",
+     "reason": "redirects to homepage, no integrations page; homepage names no accounting software"
+    },
+    {
+     "url": "https://support.zervant.com/hc/en-gb",
+     "reason": "help center redirects to shine.co (other domain), no Zervant content"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "combo",
+   "pages_read": [
+    "https://guide.combohr.com/fr/?q=export+comptable"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://combohr.com/fr/integrations",
+     "reason": "404 Not Found (page removed)"
+    },
+    {
+     "url": "https://combohr.com/integrations",
+     "reason": "404 Not Found"
+    },
+    {
+     "url": "https://guide.combohr.com/fr/articles/907429-gerer-votre-export-paie",
+     "reason": "help article no longer exists"
+    },
+    {
+     "url": "https://guide.combohr.com/fr/collections/1610545-communiquer-notre-export-paie-a-votre-cabinet-comptable",
+     "reason": "help collection no longer exists"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "personio",
+   "pages_read": [
+    "https://www.marketplace.personio.com/",
+    "https://www.marketplace.personio.com/category/payroll/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.personio.com/product/integrations/",
+     "reason": "404 Not Found"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.marketplace.personio.com/category/payroll/",
+     "evidence": "Seamless integration with DATEV: transfer of payroll data and documents to the DATEV data center with a simple click.",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "ADDISON",
+     "source_url": "https://www.marketplace.personio.com/category/payroll/",
+     "evidence": "DE | ADDISON OneClick integration automates payroll documents transfer; Addison Lohn & Gehalt also listed (payroll).",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "AFAS",
+     "source_url": "https://www.marketplace.personio.com/category/payroll/",
+     "evidence": "NL | AFAS: get started quickly with AFAS payroll software, pay salaries at the push of a button.",
+     "kind": "unknown",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.marketplace.personio.com/category/payroll/",
+     "evidence": "UK | Xero: transfer employee information and payroll data with the click of a button.",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "billomat",
+   "pages_read": [
+    "https://www.billomat.com/add-ons/",
+    "https://support.aifinyo.de/hc/de/categories/17745426520604-Schnittstellen-und-Add-Ons"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.billomat.com/schnittstellen/",
+     "reason": "404 Seite nicht gefunden (replaced by /add-ons/)"
+    },
+    {
+     "url": "https://faq.billomat.com/de/wie-kann-ich-meine-daten-dem-steuerberater-zukommen-lassen",
+     "reason": "redirects to help-center home support.aifinyo.de (article gone)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV Buchungsdatenservice",
+     "source_url": "https://www.billomat.com/add-ons/",
+     "evidence": "DATEV Buchungsdatenservice: Übermittle Dokumente über die DATEV Schnittstelle per Klick direkt an das DATEV Rechenzentrum.",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "factorial",
+   "pages_read": [
+    "https://factorialhr.com/integrations",
+    "https://factorial.es/integraciones"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://factorial.es/finanzas",
+     "reason": "404 page not found"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage 200",
+     "source_url": "https://factorial.es/integraciones",
+     "evidence": "Featured integration 'Sage 200 & Sage Despachos': soluciones inteligentes para mejorar los flujos de trabajo y el control financiero.",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Sage Despachos",
+     "source_url": "https://factorial.es/integraciones",
+     "evidence": "Featured integration 'Sage 200 & Sage Despachos' listed among Factorial integrations.",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "fastbill",
+   "pages_read": [
+    "https://www.fastbill.com/steuerberater",
+    "https://www.fastbill.com/datev"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.fastbill.com/integrationen",
+     "reason": "404 page not found (page removed)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV Unternehmen online",
+     "source_url": "https://www.fastbill.com/datev",
+     "evidence": "DATEV Schnittstelle Rechnungsdatenservice 1.0: Rechnungen und Belege direkt an DATEV Unternehmen online übermitteln.",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "payplug",
+   "pages_read": [
+    "https://www.payplug.com/fr/partenaires/",
+    "https://support.payplug.com/hc/fr/articles/4404783507218-Comment-fonctionne-la-comptabilit%C3%A9-sur-Payplug"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.payplug.com/fr/integrations/",
+     "reason": "404 page n'existe plus"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "circula",
+   "pages_read": [
+    "https://www.circula.com/en/integrations"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.circula.com/en/integrations",
+     "evidence": "DATEV premium partner: direct interface to DATEV Unternehmen Online, Comfort, LODAS... tagged API-Integration.",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Business Central",
+     "source_url": "https://www.circula.com/en/integrations",
+     "evidence": "Circula Expenses Connector connects Circula with Business Central within one day; tagged API-Integration.",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://www.circula.com/en/integrations",
+     "evidence": "API interface Twinfield from Wolters Kluwer enables easy transfer of expense reports; tagged API-Integration.",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ADDISON OneClick",
+     "source_url": "https://www.circula.com/en/integrations",
+     "evidence": "ADDISON OneClick from Wolters Kluwer for financial accounting at the push of a button; tagged API-Integration.",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ]
+  },
+  {
+   "editorId": "kontist",
+   "pages_read": [
+    "https://intercom.help/kontist/de/articles/1559970-wie-kann-ich-mein-konto-mit-meinem-buchhaltungssystem-verbinden"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://kontist.com/product/lexoffice-video/",
+     "reason": "redirects to kontist.com homepage (page removed)"
+    },
+    {
+     "url": "https://kontist.com/product/debitoor-video/",
+     "reason": "not loaded; sibling lexoffice page redirects to homepage, page assumed removed"
+    },
+    {
+     "url": "https://intercom.help/kontist/de/articles/2455128-wie-kann-ich-sehen-ob-meine-kontist-app-richtig-mit-debitoor-fastbill-lexoffice-verbunden-ist",
+     "reason": "help article no longer exists"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "trezy",
+   "pages_read": [
+    "https://www.trezy.io/fr/produit-performance",
+    "https://www.trezy.io/fr/trezy-vs-agicap"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.trezy.io/fr/integrations",
+     "reason": "404 page introuvable (page moved/removed)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "plancraft",
+   "pages_read": [
+    "https://help.plancraft.com/nl/?q=moneybird",
+    "https://help.plancraft.com/de/?q=Buchhaltung%20Schnittstelle",
+    "https://plancraft.com/de-de/funktionen/software-schnittstellen"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.plancraft.com/en/collections/707348-general",
+     "reason": "'Unable to load this article, you may need to sign in first' (login wall)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "hero-software",
+   "pages_read": [
+    "https://support.hero-software.de/hc/s/?language=de",
+    "https://hero-software.de/features/schnittstellen"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://hero-software.de/features/schnittstellen",
+     "evidence": "Lexware Office Schnittstelle: Rechnungen an Lexware Office übergeben, direkter Rechnungsabgleich markiert Rechnung automatisch als bezahlt.",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://hero-software.de/features/schnittstellen",
+     "evidence": "Technisch keine DATEV Schnittstelle, sondern Export von DATEV-Daten aus HERO als CSV-Datei für den Steuerberater.",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "holvi",
+   "pages_read": [
+    "https://www.holvi.com/de/partner/",
+    "https://www.holvi.com/de/einfache-buchhaltung-online/",
+    "https://www.holvi.com/de/schnittstellen/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.holvi.com/integrations/",
+     "reason": "404 page not found (replaced by /de/schnittstellen/)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Oodo (Odoo)",
+     "source_url": "https://www.holvi.com/de/schnittstellen/",
+     "evidence": "Weitere Schnittstellen: 'Oodo – Plattformbasierte Unternehmenssoftware (ERP)', verbunden über die standardisierte PSD2-Schnittstelle mit Holvi.",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "commitly",
+   "pages_read": [
+    "https://commitly.com/funktionen/integrationen/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.commitly.com/integrationen",
+     "reason": "redirects to commitly.com/integrationen/ which serves an empty page (moved to /funktionen/integrationen/)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Lexware Office (lexoffice)",
+     "source_url": "https://commitly.com/funktionen/integrationen/",
+     "evidence": "Lexware Office (lexoffice) Integration: Offene Posten laufen automatisch aus Lexware Office in die Planung.",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "sevdesk",
+     "source_url": "https://commitly.com/funktionen/integrationen/",
+     "evidence": "sevdesk Integration: Offene Posten laufen automatisch aus sevdesk in die Planung.",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://commitly.com/funktionen/integrationen/",
+     "evidence": "DATEV-Uploader: OPOS-Liste hochladen — Forderungen und Verbindlichkeiten stehen im Liquiditätsplan.",
+     "kind": "file_export",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "easybill",
+   "pages_read": [
+    "https://www.easybill.de/steuerberater/",
+    "https://www.easybill.de/funktionen/datev/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.easybill.de/schnittstellen",
+     "reason": "404 Seite wurde nicht gefunden"
+    },
+    {
+     "url": "https://www.easybill.de/integrationen/",
+     "reason": "404 Seite wurde nicht gefunden"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.easybill.de/funktionen/datev/",
+     "evidence": "Page title: 'DATEV Schnittstelle mit easybill: Belege per API übertragen'.",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "rydoo",
+   "pages_read": [
+    "https://www.rydoo.com/integrations/",
+    "https://www.rydoo.com/integrations/sage/",
+    "https://help.rydoo.com/hc/en-be/articles/8218210851996-ERP-business-software",
+    "https://help.rydoo.com/hc/en-be/sections/8498394448796-ERP-connectors-integrations"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.rydoo.com/integrations/sage/",
+     "evidence": "Approved expenses can be exported to Sage in a CSV or Excel file format, delivered daily, weekly or monthly via SFTP or email.",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact",
+     "source_url": "https://www.rydoo.com/integrations/",
+     "evidence": "Exact: Direct integration to import chart of accounts, projects, VAT rates, and export expenses.",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://www.rydoo.com/integrations/",
+     "evidence": "Automatically export expenses from Rydoo to NetSuite in near real-time.",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ]
+  },
+  {
+   "editorId": "tide",
+   "pages_read": [
+    "https://www.tide.co/help-centre/accounting-tool/",
+    "https://www.tide.co/features/accounting-software/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.tide.co/support/features/tide-accounting/accounting-software-integrations/",
+     "reason": "redirects to /help-centre/accounting-tool/ (Tide's own accounting tool), no third-party software listed"
+    },
+    {
+     "url": "https://www.tide.co/support/features/tide-accounting/how-can-i-connect-my-tide-account-to-xero/",
+     "reason": "redirects to /help-centre/accounting-tool/, Xero article removed"
+    },
+    {
+     "url": "https://www.tide.co/integrations/",
+     "reason": "404 page not found"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "candis",
+   "pages_read": [
+    "https://www.candis.io/en",
+    "https://www.candis.io/en/candis-integration",
+    "https://www.candis.io/en/product-partnerships"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.candis.io/en/integrations",
+     "reason": "page no longer exists (error page)"
+    },
+    {
+     "url": "https://www.candis.io/schnittstellen",
+     "reason": "page no longer exists (error page)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "obat",
+   "pages_read": [
+    "https://www.obat.fr/",
+    "https://www.obat.fr/export-comptable/",
+    "https://partenariats.obat.fr/comptables"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.obat.fr/sitemap.xml",
+     "reason": "serves an HTML 'page introuvable' page, no sitemap"
+    },
+    {
+     "url": "https://www.obat.fr/integrations/",
+     "reason": "page introuvable (404)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://partenariats.obat.fr/comptables",
+     "evidence": "Avec l'intégration en temps réel de Pennylane, accédez facilement à tous les documents; connexion à votre outil comptable Pennylane.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "payfit",
+   "pages_read": [
+    "https://payfit.com/fr/partenaires-et-integrations/",
+    "https://payfit.com/fr/partenariat-expert-comptable/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.payfit.com/hc/fr/articles/360000633589",
+     "reason": "navigation to help.payfit.com denied/failed in the browser (not loaded)"
+    },
+    {
+     "url": "https://payfit.com/fr/integrations/",
+     "reason": "404 'Cette page est en congé'"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://payfit.com/fr/partenaires-et-integrations/",
+     "evidence": "Pennylane (Comptabilité): Synchronisez automatiquement les écritures du journal de paie avec les écritures comptables.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Odoo (by Sodexis)",
+     "source_url": "https://payfit.com/fr/partenaires-et-integrations/",
+     "evidence": "Odoo (by Sodexis): Automatisez la transmission de vos données comptables vers Odoo grâce au connecteur Sodexis.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "sumup",
+   "pages_read": [
+    "https://www.sumup.com/fr-fr/partenaire/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.sumup.com/fr-fr/integrations/",
+     "reason": "'La page est actuellement indisponible' (page removed)"
+    },
+    {
+     "url": "https://help.sumup.com/fr-FR/articles/40kv0a4cBysasUUXN3zkpc",
+     "reason": "Page introuvable (404)"
+    },
+    {
+     "url": "https://www.sumup.com/en-gb/integrations/",
+     "reason": "This page could not be found (404)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "jenji",
+   "pages_read": [
+    "https://www.jenji.io/fr/integrations"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.jenji.io/en/integrations",
+     "reason": "redirects to French homepage /fr/"
+    },
+    {
+     "url": "https://www.jenji.io/de/integrations",
+     "reason": "redirects to French homepage /fr/"
+    },
+    {
+     "url": "https://support.jenji.io/hc/fr",
+     "reason": "not loaded (page budget used on the readable /fr/integrations page)"
+    },
+    {
+     "url": "https://support.jenji.io/hc/en-us/articles/15804193165842-Set-up-the-accounting-export",
+     "reason": "not loaded (page budget used on the readable /fr/integrations page)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.jenji.io/fr/integrations",
+     "evidence": "Logo 'Sage' in the 'ERP & Comptabilité' tab of native integrations (connecteurs par fichiers ou API).",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.jenji.io/fr/integrations",
+     "evidence": "Logo 'Cegid' in the 'ERP & Comptabilité' tab of native integrations.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Ibiza",
+     "source_url": "https://www.jenji.io/fr/integrations",
+     "evidence": "Logo 'Ibiza' in the 'ERP & Comptabilité' tab of native integrations.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Ciel",
+     "source_url": "https://www.jenji.io/fr/integrations",
+     "evidence": "Logo 'Ciel' in the 'ERP & Comptabilité' tab of native integrations.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Quadratus",
+     "source_url": "https://www.jenji.io/fr/integrations",
+     "evidence": "Logo 'Quadratus' in the 'ERP & Comptabilité' tab of native integrations.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://www.jenji.io/fr/integrations",
+     "evidence": "Logo 'Agiris' in the 'ERP & Comptabilité' tab of native integrations.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ebp",
+     "source_url": "https://www.jenji.io/fr/integrations",
+     "evidence": "Logo 'ebp' listed among Jenji integrations, in the third (SIRH) tab, not the ERP & Comptabilité tab.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "sellsy",
+   "pages_read": [
+    "https://help.sellsy.com/fr/?q=chift",
+    "https://help.sellsy.com/fr/?q=connecter%20sellsy%20et"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.sellsy.com/fr/articles/9685281-connexion-outils-comptables-via-chift",
+     "reason": "help article no longer exists"
+    },
+    {
+     "url": "https://www.sellsy.com/integrations",
+     "reason": "error page 'Oups, it seems something went wrong'"
+    },
+    {
+     "url": "https://go.sellsy.com/fr/marketplace",
+     "reason": "404 Not Found"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://help.sellsy.com/fr/?q=chift",
+     "evidence": "Help article 'Connecter Sellsy et Sage Génération Experts': vous serez redirigé vers l'interface sécurisée Chift, cliquez sur « Activer l'intégration ».",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://help.sellsy.com/fr/?q=chift",
+     "evidence": "Help article 'Connecter Sellsy et Tiime': vous serez redirigé vers l'interface sécurisée Chift, cliquez sur « Activer l'intégration ».",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://help.sellsy.com/fr/?q=chift",
+     "evidence": "Help article 'Connecter Sellsy et Fulll': vous serez redirigé vers l'interface sécurisée Chift, cliquez sur « Activer l'intégration ».",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://help.sellsy.com/fr/?q=chift",
+     "evidence": "Help article 'Connecter Sellsy et MyUnisoft': vous serez redirigé vers l'interface sécurisée Chift, cliquez sur « Activer l'intégration ».",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://help.sellsy.com/fr/?q=chift",
+     "evidence": "Help article 'Connecter Sellsy et Cegid Loop': vous serez redirigé vers l'interface sécurisée Chift, cliquez sur « Activer l'intégration ».",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://help.sellsy.com/fr/?q=chift",
+     "evidence": "Help article 'Connecter Sellsy et ACD': vous serez redirigé vers l'interface sécurisée Chift, cliquez sur « Activer l'intégration ».",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "axonaut",
+   "pages_read": [
+    "https://axonaut.com/integration",
+    "https://axonaut.com/portail-comptable",
+    "https://axonaut.com/content/logiciel-gestion-expert-comptable"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://axonaut.com/integrations",
+     "reason": "404 page introuvable (marketplace moved to /integration, which lists no accounting software)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "memo-bank",
+   "pages_read": [
+    "https://memo.bank/produit/integrations/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://memo.bank/en/product/integrations/",
+     "reason": "404 page not found (French page /produit/integrations/ is live)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "ACD",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': ACD — via Jedeclare.com.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Agiris — via Jedeclare.com.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Cegid — EBICS (connexion EBICS TS directe depuis le logiciel de comptabilité).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Cegid Loop — EBICS (connexion EBICS TS directe depuis le logiciel de comptabilité).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Cegid Quadra — EBICS (connexion EBICS TS directe depuis le logiciel de comptabilité).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': EBP — via Jedeclare.com.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Fulll — via Jedeclare.com.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Indy",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Indy — via Bridge.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Myunisoft",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Myunisoft — via Jedeclare.com.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Odoo — EBICS (connexion EBICS TS directe depuis le logiciel de comptabilité).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Oracle NetSuite",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Oracle NetSuite — via Salt Edge.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Pennylane — via Bridge.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Sage — EBICS (connexion EBICS TS directe depuis le logiciel de comptabilité).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Sage 100 — EBICS (connexion EBICS TS directe depuis le logiciel de comptabilité).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Ciel",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Sage Ciel — EBICS (connexion EBICS TS directe depuis le logiciel de comptabilité).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Sage Génération Experts — EBICS (connexion EBICS TS directe depuis le logiciel de comptabilité).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://memo.bank/produit/integrations/",
+     "evidence": "'Nos intégrations DSP2 et EBICS': Tiime — via Powens.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "chaintrust",
+   "pages_read": [
+    "https://aide.chaintrust.io/hc/fr/categories/9070906091421-Je-suis-expert-comptable",
+    "https://aide.chaintrust.io/hc/fr/sections/9071011534365-Les-API",
+    "https://aide.chaintrust.io/hc/fr/sections/9071055047709-Importer-des-%C3%A9critures-comptables"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071011534365-Les-API",
+     "evidence": "Help section 'Les API': 'API - Connecter Fulll à Chaintrust'.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid & Quadratus",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071011534365-Les-API",
+     "evidence": "Help section 'Les API': 'API - Connecter Cegid & Quadratus à Chaintrust'.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071011534365-Les-API",
+     "evidence": "Help section 'Les API': 'API - Connecter Pennylane à Chaintrust'.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071011534365-Les-API",
+     "evidence": "Help section 'Les API': 'API connecter Inqom à Chaintrust'.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071011534365-Les-API",
+     "evidence": "Help section 'Les API': 'API - Connecter ACD à Chaintrust; Paramétrer l'API ACD'.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071011534365-Les-API",
+     "evidence": "Help section 'Les API': 'API – Connecter Sage Génération Experts Connect à Chaintrust'.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071011534365-Les-API",
+     "evidence": "Help section 'Les API': 'API - Connecter MyUnisoft à Chaintrust'.",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071055047709-Importer-des-%C3%A9critures-comptables",
+     "evidence": "Help section 'Importer des écritures comptables': 'Importer des écritures avec Sage 100' (import of generated entries file).",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 50 (Ciel)",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071055047709-Importer-des-%C3%A9critures-comptables",
+     "evidence": "Help section 'Importer des écritures comptables': 'Importer des écritures avec Sage 50 (Ciel)' (import of generated entries file).",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071055047709-Importer-des-%C3%A9critures-comptables",
+     "evidence": "Help section 'Importer des écritures comptables': 'Importer des écritures avec EBP' (import of generated entries file).",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Isacompta",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071055047709-Importer-des-%C3%A9critures-comptables",
+     "evidence": "Help section 'Importer des écritures comptables': 'Importer des écritures avec Isacompta' (import of generated entries file).",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071055047709-Importer-des-%C3%A9critures-comptables",
+     "evidence": "Help section 'Importer des écritures comptables': 'Importer des écritures avec Tiime' (import of generated entries file).",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Loop",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071055047709-Importer-des-%C3%A9critures-comptables",
+     "evidence": "Help section 'Importer des écritures comptables': 'Importer des écritures avec Loop' (import of generated entries file).",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "CEGID 11",
+     "source_url": "https://aide.chaintrust.io/hc/fr/sections/9071055047709-Importer-des-%C3%A9critures-comptables",
+     "evidence": "Help section 'Importer des écritures comptables': 'Importer des écritures avec CEGID 11' (import of generated entries file).",
+     "kind": "file_export",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "gocardless",
+   "pages_read": [
+    "https://gocardless.com/integrations"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://gocardless.com/integrations/",
+     "reason": "partially read: only first 12 of 350+ cards render; 'Load More' / category filter did not respond in the background tab"
+    },
+    {
+     "url": "https://gocardless.com/fr-fr/integrations/",
+     "reason": "404 page not found"
+    },
+    {
+     "url": "https://gocardless.com/de-de/partner/lexoffice",
+     "reason": "not loaded (page budget spent on the main list)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage",
+     "source_url": "https://gocardless.com/integrations",
+     "evidence": "Featured Accounting integration Sage: Automate payment collection, reconciled instantly in Sage.",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ]
+  },
+  {
+   "editorId": "payhawk",
+   "pages_read": [
+    "https://payhawk.com/de/integrationen",
+    "https://payhawk.com/nl/integraties"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://payhawk.com/de/integrations",
+     "reason": "'Diese Seite ist nicht erreichbar' (moved to /de/integrationen)"
+    },
+    {
+     "url": "https://payhawk.com/de/integrationen",
+     "reason": "partially read: 'Mehr Integrationen anzeigen' did not expand in the background tab; first 16 cards only"
+    },
+    {
+     "url": "https://payhawk.com/help/datev",
+     "reason": "not loaded (DATEV already known)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "shine",
+   "pages_read": [
+    "https://www.shine.fr/comptabilite/",
+    "https://www.shine.fr/integrations-comptables/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.shine.fr/integrations/",
+     "reason": "404 'nous n'avons pas trouvé cette page' (moved to /integrations-comptables/)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Pennylane' — Transactions, Factures — API directe (Shine intégrations comptables, transmission automatique).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Sage 100' — Transactions — TransfertBANQUE (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Cegid Quadra' — Transactions — Jedeclare, TransfertBANQUE (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'MyUnisoft' — Transactions — Jedeclare, TransfertBANQUE (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'ACD' — Transactions — Jedeclare (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Sage Génération Experts' — Transactions — Jedeclare, TransfertBANQUE (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Inqom' — Transactions — Jedeclare, Bridge (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Expert",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Cegid Expert' — Transactions — Jedeclare (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'EBP' — Transactions — Jedeclare, Powens (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Agiris",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Agiris' — Transactions — Jedeclare, TransfertBANQUE (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Tiime' — Transactions — Jedeclare, Powens (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Fulll' — Transactions — Jedeclare (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Cegid Loop' — Transactions — Jedeclare, TransfertBANQUE (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 50 Ciel",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Sage 50 Ciel' — Transactions — Bridge, TransfertBANQUE (Shine intégrations comptables, transmission automatique).",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Indy",
+     "source_url": "https://www.shine.fr/integrations-comptables/",
+     "evidence": "Card 'Indy' — Transactions, factures — API directe (Shine intégrations comptables, transmission automatique).",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "bunq",
+   "pages_read": [
+    "https://www.bunq.com/en-nl/business/features/integrations"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.bunq.com/en-nl/bookkeeping-integrations",
+     "reason": "404 page not found"
+    },
+    {
+     "url": "https://www.bunq.com/features/bookkeeping-software-integrations",
+     "reason": "redirects to /personal/features/... 404"
+    },
+    {
+     "url": "https://developers.bunq.com/benefits/bookkeeping",
+     "reason": "redirects to bunq.com/developers, empty page"
+    },
+    {
+     "url": "https://www.bunq.com/en-nl/business/features/integrations",
+     "reason": "partially read: only first 12 bookkeeping integrations rendered (alphabetical A-W subset, no 'show more' content in page)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.bunq.com/en-nl/business/features/integrations",
+     "evidence": "'Bookkeeping Integrations: Connect your accounting software to bunq' lists Sage; transactions and receipts sync automatically.",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "mollie",
+   "pages_read": [
+    "https://help.mollie.com/hc/en-us/articles/4407521562130-What-do-I-need-to-know-about-Mollie-s-DATEV-export",
+    "https://www.mollie.com/integrations",
+    "https://www.mollie.com/integrations/categories/accounting-invoicing"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.mollie.com/apps",
+     "reason": "404"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.mollie.com/integrations/categories/accounting-invoicing",
+     "evidence": "Accounting & Invoicing integrations: 'Sage — Reconcile payments, boost revenue, drive growth.'",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Visma (Visma Net)",
+     "source_url": "https://www.mollie.com/integrations/categories/accounting-invoicing",
+     "evidence": "Accounting & Invoicing integrations: 'Visma — Scale Payments with Mollie and Visma Net's Seamless Integration'.",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://help.mollie.com/hc/en-us/articles/4407521562130-What-do-I-need-to-know-about-Mollie-s-DATEV-export",
+     "evidence": "DATEV is an export format to import your transaction details into your DATEV-compatible accounting system; Balance Report export file type DATEV.",
+     "kind": "file_export",
+     "countries_stated": []
+    }
+   ]
+  },
+  {
+   "editorId": "zettle",
+   "pages_read": [
+    "https://www.paypal.com/uk/zettle",
+    "https://www.paypal.com/uk/business/pos-system/software"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.zettle.com/gb/integrations/accounting",
+     "reason": "redirects to paypal.com/uk/zettle (Zettle rebranded PayPal POS); accounting integrations list no longer published, PayPal POS page only names Xero generically"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "lucca",
+   "pages_read": [
+    "https://marketplace.luccasoftware.com/fr/",
+    "https://marketplace.luccasoftware.com/fr/comptabilite-finance/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.lucca.fr/integration-logiciel/comptabilite",
+     "reason": "redirects to lucca.fr homepage (page removed)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "teamleader",
+   "pages_read": [
+    "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+    "https://support.focus.teamleader.eu/hc/en-150/articles/42086681298577-The-Accounting-connector-Booster-in-Teamleader-Focus"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "2-way synchronisation: Exact Online, countries active BE NL DE FR UK.",
+     "kind": "api",
+     "countries_stated": [
+      "BE",
+      "NL",
+      "DE",
+      "FR",
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "2-way synchronisation: Twinfield, countries active BE NL DE UK.",
+     "kind": "api",
+     "countries_stated": [
+      "BE",
+      "NL",
+      "DE",
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "2-way synchronisation: Yuki, countries active BE NL.",
+     "kind": "api",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Octopus",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "2-way synchronisation: Octopus, countries active BE.",
+     "kind": "api",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Winbooks",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "Export only (offline tools): Winbooks and Winbooks on Web, countries active BE.",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Expert-M / Eva Online",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "Export only: Expert-M / Eva Online, countries active BE NL.",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "AFAS",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "Export only: AFAS, countries active BE NL.",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "BOB (Sage)",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "Export only: BOB (Sage), countries active BE.",
+     "kind": "file_export",
+     "countries_stated": [
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "DATEV mit digitastic",
+     "source_url": "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+     "evidence": "Export only: DATEV mit digitastic, countries active DE.",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "yooz",
+   "pages_read": [
+    "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+    "https://www.getyooz.com/es/erp",
+    "https://www.getyooz.com/en-gb/erp"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.getyooz.com/fr/integrations",
+     "reason": "404 page non trouvée (moved to /fr/logiciels-comptables-et-erp-connectes)"
+    },
+    {
+     "url": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-A3ECO-SP.pdf",
+     "reason": "not loaded (A3 already known; page budget)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage GE",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo 'Sage GE logo' among connected accounting software/ERP; Yooz 'nativement intégrée à votre logiciel comptable', 250+ connecteurs.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Wolters Kluwer",
+     "source_url": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+     "evidence": "Logo 'Wolter Kluwer' among connected accounting software/ERP on the French page.",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "pleo",
+   "pages_read": [
+    "https://www.pleo.io/en/integrations",
+    "https://www.pleo.io/fr/integrations"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://integrations.pleo.io/category/accounting",
+     "reason": "redirects to pleo.io/en/integrations; only first 8 cards render, 'Show more' did not expand in the background tab"
+    },
+    {
+     "url": "https://www.pleo.io/no/integrations",
+     "reason": "404"
+    },
+    {
+     "url": "https://help.pleo.io/en/",
+     "reason": "not loaded (page budget)"
+    },
+    {
+     "url": "https://www.pleo.io/en/integrations/sage-1",
+     "reason": "not loaded (page budget)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "agicap",
+   "pages_read": [
+    "https://agicap.com/fr/nos-integrations/?integrationCategory=ERP#integrations",
+    "https://agicap.com/en/our-integrations/?integrationCategory=ERP#integrations"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://agicap.com/fr/integrations/",
+     "reason": "404 (moved to /fr/nos-integrations/)"
+    },
+    {
+     "url": "https://agicap.com/it/le-nostre-integrazioni/",
+     "reason": "page loaded but integration list text did not render"
+    },
+    {
+     "url": "https://help.agicap.com/",
+     "reason": "not loaded (page budget)"
+    }
+   ],
+   "connections": []
+  },
+  {
+   "editorId": "lightspeed",
+   "pages_read": [
+    "https://www.lightspeedhq.fr/caisse/restaurant/integrations/",
+    "https://www.lightspeedhq.de/integrationen/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.lightspeedhq.fr/caisse-enregistreuse/restaurant/integrations/",
+     "reason": "404 page introuvable (moved to /caisse/restaurant/integrations/)"
+    },
+    {
+     "url": "https://x-series-support.lightspeedhq.com/hc/en-us/articles/25534073571611-Setting-up-the-Xero-integration-with-Retail-POS-X-Series",
+     "reason": "not loaded (Xero already known)"
+    },
+    {
+     "url": "https://www.lightspeedhq.ch/integrationen/",
+     "reason": "not loaded (CH not a target market)"
+    },
+    {
+     "url": "https://fr.lightspeedhq.ch/integrations/",
+     "reason": "not loaded (CH not a target market)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.lightspeedhq.de/integrationen/",
+     "evidence": "Integrationen list (Lightspeed Restaurant, DE): 'Sage — Buchhaltung'.",
+     "kind": "unknown",
+     "countries_stated": [
+      "DE"
+     ]
+    }
+   ]
+  },
+  {
+   "editorId": "qonto",
+   "pages_read": [
+    "https://qonto.com/en/integrations",
+    "https://qonto.com/en/library_search?categories=Accounting&html_variation=integrations",
+    "https://qonto.com/en/integrations/holded"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://qonto.com/en/integrations/sagebob50-sync-ap",
+     "reason": "404 page not found"
+    },
+    {
+     "url": "https://support-fr.qonto.com/hc/fr",
+     "reason": "not loaded (page budget)"
+    },
+    {
+     "url": "https://qonto.com/en/integrations",
+     "reason": "partially read: listing paginated 12 per page via library_search; category filter ignored, full accounting list not enumerated"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Holded",
+     "source_url": "https://qonto.com/en/integrations/holded",
+     "evidence": "Holded integration page: 'Holded optimizes business management: access all your Qonto information... directly from the platform.'",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ]
+  }
+ ]
+}

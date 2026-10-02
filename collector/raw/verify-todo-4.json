@@ -1,0 +1,1052 @@
+[
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/de/unsere-integrationen/",
+  "evidence": "Listed under ERP & Buchhaltung, no mechanism"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/de/unsere-integrationen/datev/",
+  "evidence": "Bidirectional data flows over encrypted API connections"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/de/unsere-integrationen/lexoffice/",
+  "evidence": "Interface transfers invoices automatically in real time"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/de/unsere-integrationen/sevdesk/",
+  "evidence": "Agicap syncs sevdesk orders and invoices automatically"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "sage-intacct",
+  "software": "Sage Intacct",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/en/our-integrations/",
+  "evidence": "Listed under ERP & Accounting, no mechanism"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/en/our-integrations/intuit-quickbooks/",
+  "evidence": "Sync workflow; encrypted API or SFTP connections"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/en/our-integrations/oraclenetsuite/",
+  "evidence": "Data flows through encrypted API or SFTP connections"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/en/our-integrations/xero/",
+  "evidence": "Sync workflow; encrypted API or SFTP connections"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "sage-200",
+  "software": "Sage 200",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/es/articulo/gestion-tesoreria-sage-200-conector-agicap/",
+  "evidence": "Automated connector by Win4Sync (partner)"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "a3-erp",
+  "software": "A3 ERP",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/es/nuestras-integraciones/",
+  "evidence": "Listed under ERP & Contabilidad, no mechanism"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://agicap.com/fr/nos-integrations/",
+  "evidence": "Listed under ERP & Comptabilite, no mechanism. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/fr/nos-integrations/",
+  "evidence": "Listed under ERP & Comptabilite, no mechanism"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/fr/nos-integrations/",
+  "evidence": "Listed under ERP & Comptabilite, no mechanism"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "holded",
+  "software": "Holded",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/fr/nos-integrations/",
+  "evidence": "Listed under ERP & Comptabilite, no mechanism"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/fr/nos-integrations/",
+  "evidence": "Listed under ERP & Comptabilite, no mechanism"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://agicap.com/fr/nos-integrations/odoo/",
+  "evidence": "Bi-directional flows; encrypted API or SFTP connections. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://agicap.com/fr/nos-integrations/pennylane/",
+  "evidence": "Bi-directional flows; data via encrypted API or SFTP. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/fr/nos-integrations/sage100/",
+  "evidence": "Payment files synced automatically to Agicap via API"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "datev-koinos",
+  "software": "DATEV Koinos",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/it/le-nostre-integrazioni/",
+  "evidence": "Listed under ERP & Contabilita, no mechanism"
+ },
+ {
+  "editorId": "agicap",
+  "editor": "Agicap",
+  "softwareId": "profis",
+  "software": "Profis",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://agicap.com/it/le-nostre-integrazioni/",
+  "evidence": "Listed under ERP & Contabilita, no mechanism"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift). Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection (beta); setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift). Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "freeagent",
+  "software": "FreeAgent",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift). Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift). Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection (beta); setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift). Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift). Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift). Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "sage-bob-50",
+  "software": "Sage BOB 50",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/Cr%C3%A9er-une-connexion-API?language=fr",
+  "evidence": "API connection for accounting entries; setup guide hosted on help.chift.app (Chift)"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.luccasoftware.com/s/article/param%C3%A9trage-des-formats-d-export-comptable-dans-lucca-notes-de-frais?language=fr",
+  "evidence": "Page names \"CEGID\" without the product. Export templates; fixed-length native SAGE and CEGID file formats"
+ },
+ {
+  "editorId": "lucca",
+  "editor": "Lucca",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.lucca.fr/finance/notes-de-frais/fonctionnalites/comptabilite/",
+  "evidence": "EBP logo in accounting-entries logo strip; no mechanism stated"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "billy",
+  "software": "Billy",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Factures - API directe"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "cegid-experts",
+  "software": "Cegid Experts",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare, Powens"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "indy",
+  "software": "Indy",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions, factures - API directe. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare, Bridge"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions, Factures - API directe. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via TransfertBANQUE"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Bridge, TransfertBANQUE"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare, TransfertBANQUE"
+ },
+ {
+  "editorId": "shine",
+  "editor": "Shine",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.shine.fr/integrations-comptables/",
+  "evidence": "Listed as: Transactions - via Jedeclare, Powens"
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "cegid-experts",
+  "software": "Cegid Experts",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.libeo.io/fr/articles/6680518-cegid-expert-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+  "evidence": "Export entries with Cegid templates and import into Cegid Expert"
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.libeo.io/fr/articles/6680551-sage-50-ciel-exporter-mes-ecritures-comptables",
+  "evidence": "Export entries with the Sage 50 template, import into Sage 50"
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.libeo.io/fr/articles/6680558-quadratus-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+  "evidence": "Export entries with the Quadratus template and import them"
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.libeo.io/fr/articles/6680564-ebp-exporter-mes-ecritures-comptables-avec-pieces-et-analytique",
+  "evidence": "Export entries with EBP templates and import into EBP"
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://help.libeo.io/fr/articles/8206949-connecter-inqom-et-libeo",
+  "evidence": "Libeo x Inqom API integration retrieves invoices and credit notes. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.libeo.io/fr/collections/3751638-utiliser-libeo-en-tant-que-cabinet-d-experts-comptables",
+  "evidence": "Export entries with documents and analytics into Agiris/Isagri/Isacompta"
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://libeo.io/integrations/acd",
+  "evidence": "Documents and accounting entries are sent by API into ACD. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://libeo.io/integrations/cegid-loop",
+  "evidence": "Documents and accounting entries are sent by API into Cegid Loop. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://libeo.io/integrations/myunisoft",
+  "evidence": "Documents and accounting entries are sent by API into MyUnisoft. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://libeo.io/integrations/odoo",
+  "evidence": "Documents and accounting entries are sent by API into Odoo. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://libeo.io/integrations/pennylane",
+  "evidence": "Documents and accounting entries are sent by API into Pennylane. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://libeo.io/integrations/sage-100",
+  "evidence": "Documents and accounting entries are sent by API into Sage 100"
+ },
+ {
+  "editorId": "libeo",
+  "editor": "Libeo",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://libeo.io/integrations/sage-generation-experts",
+  "evidence": "Entries sent by API into Sage Generation Experts (formerly Sage Coala). Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/en/spendcontrol-en/integrations/datev/",
+  "evidence": "Integration with DATEV via an API; help centre covers DATEV Unternehmen online"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/en/spendcontrol-en/integrations/microsoft-dynamics/",
+  "evidence": "Real-time two-way integration with Microsoft Dynamics 365 Business Central"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/en/spendcontrol-en/integrations/netsuite/",
+  "evidence": "Two-way NetSuite integration via API (Klippa for Netsuite SuiteApp)"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/en/spendcontrol-en/integrations/quickbooks/",
+  "evidence": "Official partners; two-way integration synchronising Quickbooks data"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/en/spendcontrol-en/integrations/xero/",
+  "evidence": "Integration with Xero to synchronize data via an API, two-way"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "afas",
+  "software": "AFAS",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/koppelingen/afas/",
+  "evidence": "SpendControl connects directly with AFAS; books invoices directly to AFAS"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/koppelingen/exact-online/",
+  "evidence": "Connects directly to Exact Online via SpendControl and AI.dp API"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "minox",
+  "software": "Minox",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/koppelingen/minox/",
+  "evidence": "API link; approved invoices and expenses booked directly in Minox"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/koppelingen/odoo/",
+  "evidence": "Connects directly to Odoo; books invoices directly to Odoo"
+ },
+ {
+  "editorId": "klippa",
+  "editor": "Klippa (Doxis SpendControl)",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.klippa.com/koppelingen/twinfield/",
+  "evidence": "Connects directly with Twinfield; books invoices directly incl. ledger, VAT code"
+ },
+ {
+  "editorId": "payfit",
+  "editor": "PayFit",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://payfit.com/fr/go/odoo-by-sodexis/",
+  "evidence": "Payroll data pushed to Odoo Accounting through the Sodexis connector"
+ },
+ {
+  "editorId": "payfit",
+  "editor": "PayFit",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://support.payfit.com/contents/Relier-et-utiliser-l-integration-Pennylane-PayFit-ux9dUkVn",
+  "evidence": "Payroll journal entries synced automatically into Pennylane each month"
+ },
+ {
+  "editorId": "payfit",
+  "editor": "PayFit",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+  "evidence": "Select the export format (Xero, Sage 50, QuickBooks or NetSuite)"
+ },
+ {
+  "editorId": "payfit",
+  "editor": "PayFit",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+  "evidence": "Select the export format (Xero, Sage 50, QuickBooks or NetSuite)"
+ },
+ {
+  "editorId": "payfit",
+  "editor": "PayFit",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+  "evidence": "Select the export format (Xero, Sage 50, QuickBooks or NetSuite)"
+ },
+ {
+  "editorId": "payfit",
+  "editor": "PayFit",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.payfit.com/en-gb/contents/Custom-Payroll-Journals-uyAYKNmy",
+  "evidence": "Select the export format (Xero, Sage 50, QuickBooks or NetSuite)"
+ },
+ {
+  "editorId": "payfit",
+  "editor": "PayFit",
+  "softwareId": "holded",
+  "software": "Holded",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.payfit.com/es-es/contents/Quieres-llevar-un-mejor-control-de-tus-gastos-en-PayFit-Descubre-la-integracion-con-Holded-ux_Yql_R",
+  "evidence": "Download 'Resumen de Nóminas - Holded' report, then import it in Holded"
+ },
+ {
+  "editorId": "commitly",
+  "editor": "Commitly",
+  "softwareId": "fastbill",
+  "software": "FastBill",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://commitly.com/funktionen/integrationen/",
+  "evidence": "Open items from FastBill flow into planning"
+ },
+ {
+  "editorId": "commitly",
+  "editor": "Commitly",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://commitly.com/funktionen/integrationen/lexoffice-integration/",
+  "evidence": "Official interface; authorization, not a file export"
+ },
+ {
+  "editorId": "commitly",
+  "editor": "Commitly",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://commitly.com/funktionen/integrationen/sevdesk-integration/",
+  "evidence": "Authorization, not file export; open items sync automatically"
+ },
+ {
+  "editorId": "commitly",
+  "editor": "Commitly",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.commitly.com/de/articles/13333624-datev-belegbilderservice-rechnungswesen",
+  "evidence": "PDF export via DATEV Rechnungsdatenservice (OAuth); OPOS by file upload"
+ },
+ {
+  "editorId": "commitly",
+  "editor": "Commitly",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.commitly.com/de/articles/14107264-agenda-uploader",
+  "evidence": "Agenda Uploader: export OPOS list, upload file"
+ },
+ {
+  "editorId": "finom",
+  "editor": "Finom",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://finom.co/llms.txt",
+  "evidence": "Listed under Accounting integrations, mechanism not described"
+ },
+ {
+  "editorId": "finom",
+  "editor": "Finom",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://finom.co/llms.txt",
+  "evidence": "Listed under Accounting integrations, mechanism not described"
+ },
+ {
+  "editorId": "finom",
+  "editor": "Finom",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://finom.co/llms.txt",
+  "evidence": "Listed under Accounting integrations, mechanism not described"
+ },
+ {
+  "editorId": "finom",
+  "editor": "Finom",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.finom.co/en/articles/5322886-how-to-connect-your-finom-account-to-lexware-office-integrations",
+  "evidence": "Two integrations: documents sync and PSD2 transactions sync"
+ },
+ {
+  "editorId": "finom",
+  "editor": "Finom",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.finom.co/en/articles/9777018-how-to-connect-finom-account-with-datev",
+  "evidence": "PSD2 connection to DATEV Unternehmen Online, plus Belegbilderservice receipts upload"
+ },
+ {
+  "editorId": "jenji",
+  "editor": "Jenji",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+  "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software"
+ },
+ {
+  "editorId": "jenji",
+  "editor": "Jenji",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+  "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software"
+ },
+ {
+  "editorId": "jenji",
+  "editor": "Jenji",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+  "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software"
+ },
+ {
+  "editorId": "jenji",
+  "editor": "Jenji",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.jenji.io/fr/integrations/erp-comptabilite-finance",
+  "evidence": "Logo in 'ERP & Comptabilité' grid; connector type not specified per software"
+ },
+ {
+  "editorId": "tidely",
+  "editor": "Tidely",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://faq.tidely.com/de/ms-dynamics",
+  "evidence": "Microsoft login redirect; invoices synced every morning"
+ },
+ {
+  "editorId": "tidely",
+  "editor": "Tidely",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.tidely.com/integrationen/datev",
+  "evidence": "OPOS synced via certified DATEV interface partner (unnamed)"
+ },
+ {
+  "editorId": "tidely",
+  "editor": "Tidely",
+  "softwareId": "lexware-office",
+  "software": "Lexware Office",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tidely.com/integrationen/lexoffice",
+  "evidence": "Authorize connection; accounting data synced automatically"
+ },
+ {
+  "editorId": "tidely",
+  "editor": "Tidely",
+  "softwareId": "sevdesk",
+  "software": "sevdesk",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.tidely.com/integrationen/sevdesk-integration",
+  "evidence": "Select sevDesk, enter API key; open items synced"
+ },
+ {
+  "editorId": "mooncard",
+  "editor": "Mooncard",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.mooncard.co/en/use-case/accounting/accounting-software",
+  "evidence": "\"Quickbooks is compatible with Mooncard management software.\""
+ },
+ {
+  "editorId": "mooncard",
+  "editor": "Mooncard",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.mooncard.co/fr/integrations/microsoft-dynamics",
+  "evidence": "\"intégration automatique des données comptables\"; mechanism not described"
+ }
+]

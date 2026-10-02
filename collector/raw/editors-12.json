@@ -1,0 +1,600 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "plancraft",
+   "name": "plancraft",
+   "domain": "plancraft.com",
+   "hq_country": "DE",
+   "integrations_url": "https://plancraft.com/de-de/funktionen/software-schnittstellen",
+   "pages_read": [
+    "https://plancraft.com/de-de/funktionen/software-schnittstellen",
+    "https://plancraft.com/de-at/funktionen/software-schnittstellen",
+    "https://plancraft.com/en-gb/features/interfaces",
+    "https://plancraft.com/it-it/funzioni/interfacce",
+    "https://plancraft.com/es-es/funciones/interfaces",
+    "https://plancraft.com/nl-nl/plancraft-integraties",
+    "https://plancraft.com/nl-nl/plancraft-webinars/moneybird-integratie-webinar",
+    "https://plancraft.com/sitemap.xml",
+    "https://plancraft.com/de-de/preise",
+    "https://plancraft.com/nl-nl/prijzen",
+    "https://plancraft.com/nl-nl/faq",
+    "https://plancraft.com/en-gb/faq",
+    "https://plancraft.com/de-de/faq",
+    "https://help.plancraft.com/de/collections/1440318-integrationen",
+    "https://help.plancraft.com/de/collections/707349-arbeiten-mit-plancraft",
+    "https://help.plancraft.com/de/articles/588043-datev-unternehmen-online-mit-plancraft-verbinden-und-rechnungen-ubertragen",
+    "https://help.plancraft.com/de/articles/382786-rechnungen-als-zip-oder-im-datev-format-exportieren",
+    "https://help.plancraft.com/de/articles/382804-api-und-webhook-integrationen-fur-kontakte-und-projekte-in-plancraft-beta",
+    "https://help.plancraft.com/nl/collections/707349-werken-met-plancraft"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.plancraft.com/en/collections/707348-general",
+     "reason": "HTTP 401"
+    },
+    {
+     "url": "https://help.plancraft.com/nl/?q=moneybird",
+     "reason": "help-center search results loaded in JavaScript"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://help.plancraft.com/de/articles/588043-datev-unternehmen-online-mit-plancraft-verbinden-und-rechnungen-ubertragen",
+     "evidence": "DATEV Unternehmen online interface sends invoices automatically; CSV export also offered",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Moneybird",
+     "source_url": "https://plancraft.com/nl-nl/plancraft-integraties",
+     "evidence": "Connect account; completed jobs land as invoices in Moneybird automatically",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Snelstart",
+     "source_url": "https://plancraft.com/nl-nl/plancraft-integraties",
+     "evidence": "Direct connection sends invoices and receipts to Snelstart automatically",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Exact",
+     "source_url": "https://plancraft.com/nl-nl/plancraft-integraties",
+     "evidence": "Integration of Exact and plancraft; 'most used in the Netherlands'",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    }
+   ],
+   "notes": "DE/AT/UK/IT pages list only DATEV (CSV export); ES page lists no accounting tool. Moneybird, Snelstart, Exact appear only on the nl-nl page (written 'Exact', links to exact.com/nl, product not specified); NL country taken from that locale page. No help article found for the three NL integrations. Open API/webhooks (beta) with Make and n8n mentioned, no accounting use stated. Lexoffice appears only in a customer quote on a comparison page (seen in search results). No mention found of Lexware Office, sevdesk, Xero, QuickBooks, Sage, Holded, Fatture in Cloud, TeamSystem."
+  },
+  {
+   "id": "hero-software",
+   "name": "HERO Software",
+   "domain": "hero-software.de",
+   "hq_country": "DE",
+   "integrations_url": "https://hero-software.de/features/schnittstellen",
+   "pages_read": [
+    "https://hero-software.de/features/schnittstellen",
+    "https://hero-software.de/features/schnittstellen/datev",
+    "https://hero-software.de/features/schnittstellen/lexware-office",
+    "https://hero-software.nl/functionaliteiten/koppelingen",
+    "https://hero-software.nl/",
+    "https://hero-software.at/",
+    "https://hero-software.fr/",
+    "https://hero-software.fr/fonctionnalites/logiciel-facture",
+    "https://hero-software.es/",
+    "https://hero-software.es/funcionalidades/programa-de-contabilidad",
+    "https://hero-software.it/",
+    "https://hero-software.it/funzioni/software-di-contabilita",
+    "https://hero-software.de/alternativen/sevdesk",
+    "https://hero-software.de/features/stammdaten/daten-export",
+    "https://hero-software.de/api-doku",
+    "https://hero-software.de/sitemaps-3-section-contentseite-4-sitemap.xml",
+    "https://hero-software.nl/sitemaps-3-section-contentseite-9-sitemap.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://support.hero-software.de/hc/s/",
+     "reason": "help center content loaded in JavaScript, nothing readable"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://hero-software.de/features/schnittstellen/datev",
+     "evidence": "Automatic scheduled transfer to DATEV Unternehmen online; CSV export also described",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://hero-software.de/features/schnittstellen/lexware-office",
+     "evidence": "Invoices sent to Lexware Office (ex lexoffice); payment status synced back",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://hero-software.nl/functionaliteiten/koppelingen",
+     "evidence": "OAuth login; finished invoices go directly to Exact",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "SnelStart",
+     "source_url": "https://hero-software.nl/functionaliteiten/koppelingen",
+     "evidence": "Outgoing invoices sent to SnelStart on completion; needs API-enabled plan",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    }
+   ],
+   "notes": "DE and AT sites list DATEV and Lexware Office; NL site lists Exact Online and SnelStart (NL taken from the .nl site). NL home FAQ says Moneybird has no direct link (BCC email or export instead), so no line. sevdesk appears only on a comparison page. FR, ES, IT sites name no accounting software (ES/IT mention a generic CSV export for the tax adviser). Help center not readable, so no help-center check."
+  },
+  {
+   "id": "tooltime",
+   "name": "ToolTime",
+   "domain": "tooltime.de",
+   "hq_country": "DE",
+   "integrations_url": "https://www.tooltime.app/schnittstellen-handwerk",
+   "pages_read": [
+    "https://www.tooltime.app/schnittstellen-handwerk",
+    "https://www.tooltime.app/datev-schnittstelle",
+    "https://www.tooltime.app/buchhaltungssoftware",
+    "https://www.tooltime.app/blog/handwerker-software-schnittstellen",
+    "https://www.tooltime.app/sitemap.xml",
+    "https://www.tooltime.app/uk",
+    "https://www.tooltime.app/uk/pricing",
+    "https://www.tooltime.app/uk/quoting-software",
+    "https://www.tooltime.app/uk/field-service-management-software",
+    "https://support.tooltime.app/de/collections/2435635-aktuelle-informationen",
+    "https://support.tooltime.app/de/articles/10300211-xero-integration",
+    "https://support.tooltime.app/de/articles/10309086-lexware-office-integration",
+    "https://support.tooltime.app/de/articles/9531832-datev-export",
+    "https://support.tooltime.app/en/collections/2435635-current-information"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.tooltime.app/datev-schnittstelle",
+     "evidence": "Direct link to DATEV Unternehmen online via Rechnungsdatenservice 1.0; paid add-on",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://www.tooltime.app/schnittstellen-handwerk",
+     "evidence": "Invoices and ToolTime Pay payments synced to Lexware Office in real time",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://support.tooltime.app/de/articles/10300211-xero-integration",
+     "evidence": "Connect with Xero login; invoices transferred automatically or manually",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "tooltime.de redirects to tooltime.app. Xero is documented only in the help center (DE and EN), not on the marketing pages; UK pages read name no accounting tool. A file-based DATEV export (booking batch, master data, receipts zip) also exists. Open REST API in beta. No mention found of sevdesk, QuickBooks, Sage, Addison, Agenda."
+  },
+  {
+   "id": "vertuoza",
+   "name": "Vertuoza",
+   "domain": "vertuoza.com",
+   "hq_country": "BE",
+   "integrations_url": "https://www.vertuoza.com/fr-be/integrations",
+   "pages_read": [
+    "https://www.vertuoza.com/fr-be/integrations",
+    "https://www.vertuoza.com/fr-fr/integrations",
+    "https://www.vertuoza.com/fr-ch/integrations",
+    "https://www.vertuoza.com/nl-be/integrations",
+    "https://www.vertuoza.com/nl-nl/integrations",
+    "https://www.vertuoza.com/fr-be/fonctionnalites/la-finance",
+    "https://www.vertuoza.com/fr-fr/fonctionnalites/la-finance",
+    "https://www.vertuoza.com/fr-ch/fonctionnalites/la-finance",
+    "https://www.vertuoza.com/fr-be/fonctionnalites/factures",
+    "https://www.vertuoza.com/fr-be/nos-packs",
+    "https://www.vertuoza.com/sitemap.xml",
+    "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+    "https://intercom-help.eu/vertuoza/fr/articles/522539-guide-de-configuration-de-la-synchronisation-comptable",
+    "https://intercom-help.eu/vertuoza/fr/articles/148196-liste-des-codes-d-erreurs-de-synchronisation-comptable",
+    "https://intercom-help.eu/vertuoza/fr/collections/211953-integrations"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "AFAS Software",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dynamics 365 Business Central",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Eboekhouden",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online BE / Exact Online FR / Exact Online NL",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Three table rows (BE, FR, NL): sales and purchase send",
+     "kind": "api",
+     "countries_stated": [
+      "BE",
+      "FR",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "FreeAgent",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Fulll",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Horus",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sync supported, purchase retrieval without PDF",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Minox",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Moneybird",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Netsuite",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Octopus",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quickbooks Accounting",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Bob 50",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: full sync; needs local agent install",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Génération Experts",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Snelstart",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Tiime",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales and purchase send; no purchase retrieval",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "TwinField",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Visma eAccounting",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Winbooks Classic",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: full sync; needs local agent install",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: sales, purchase send and purchase retrieval supported",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100 FR",
+     "source_url": "https://intercom-help.eu/vertuoza/fr/articles/522531-synchronisation-comptable-vue-d-ensemble",
+     "evidence": "Compatible-software table: full sync; needs local agent install",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.vertuoza.com/fr-be/fonctionnalites/la-finance",
+     "evidence": "FAQ: 'intégrations natives Sage, EBP, Cegid, Codial, Horus, WinBooks'",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Codial",
+     "source_url": "https://www.vertuoza.com/fr-be/fonctionnalites/la-finance",
+     "evidence": "FAQ: 'intégrations natives Sage, EBP, Cegid, Codial, Horus, WinBooks'",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Help-center table (updated June 2026) is the most complete source; the marketing integrations page shows only 9 (Yuki, Bob50, ACD, WinBooks, Horus, Exact, Odoo, Pennylane, Sage 100), identical in all five locales. Sage 100, Bob 50 and Winbooks Classic need a local agent on the customer server. The finance page FAQ also names generic 'Sage' and 'Cegid' (covered by Sage 100 / Cegid Loop) plus EBP and Codial, which are absent from the help table. Chift is not named on any Vertuoza page read, so kind is api; search results show a Vertuoza case study on chift.eu (third-party page, not opened). Not listed: Cegid Quadra, DATEV, Holded, Sage 50, ClearFacts, Adsolut."
+  },
+  {
+   "id": "graneet",
+   "name": "Graneet",
+   "domain": "graneet.com",
+   "hq_country": "FR",
+   "integrations_url": "https://www.graneet.com/fr/fonctionnalite/integrations",
+   "pages_read": [
+    "https://www.graneet.com/fr/fonctionnalite/integrations",
+    "https://www.graneet.com/es/caracteristicas/integrations",
+    "https://www.graneet.com/fr/fonctionnalite/facturation",
+    "https://www.graneet.com/fr/equipe-finance",
+    "https://www.graneet.com/fr/integrateurs",
+    "https://www.graneet.com/fr/tarifs",
+    "https://www.graneet.com/fr/article/comptabilite-btp",
+    "https://www.graneet.com/sitemap.xml",
+    "https://help.graneet.fr/fr/collections/1453385-comptabilite",
+    "https://help.graneet.fr/fr/articles/769055-connexion-api-graneet-x-pennylane",
+    "https://help.graneet.fr/fr/articles/769162-connexion-api-graneet-x-sage-100",
+    "https://help.graneet.fr/fr/articles/769186-connexion-api-graneet-x-acd",
+    "https://help.graneet.fr/fr/articles/769641-connexion-api-graneet-x-myunisoft",
+    "https://help.graneet.fr/fr/articles/769665-integration-api-graneet-x-cegid-loop",
+    "https://help.graneet.fr/fr/articles/769087-export-comptable-au-format-sage-100",
+    "https://help.graneet.fr/fr/articles/769108-export-comptable-au-format-cegid-quadra",
+    "https://help.graneet.fr/fr/articles/767244-export-comptable-au-format-ebp",
+    "https://help.graneet.fr/fr/articles/769212-exporter-mes-ecritures-comptables"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://help.graneet.fr/fr/articles/769055-connexion-api-graneet-x-pennylane",
+     "evidence": "API connection: chart of accounts synced, entries and PDFs pushed",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://help.graneet.fr/fr/articles/769162-connexion-api-graneet-x-sage-100",
+     "evidence": "API connection; setup follows Chift help pages (on-premise or SPC); file export too",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://help.graneet.fr/fr/articles/769186-connexion-api-graneet-x-acd",
+     "evidence": "API connection; setup procedure links to Chift help center",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://help.graneet.fr/fr/articles/769641-connexion-api-graneet-x-myunisoft",
+     "evidence": "API connection; setup procedure links to Chift help center",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://help.graneet.fr/fr/articles/769665-integration-api-graneet-x-cegid-loop",
+     "evidence": "API integration; setup procedure links to Chift help center",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://help.graneet.fr/fr/articles/769108-export-comptable-au-format-cegid-quadra",
+     "evidence": "Accounting entries exported in a Cegid Quadra compatible format",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://help.graneet.fr/fr/articles/767244-export-comptable-au-format-ebp",
+     "evidence": "Accounting entries exported in an EBP compatible format",
+     "kind": "file_export",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Marketing page presents Sage 100, ACD and MyUnisoft as 'API' connections; the help center setup steps for Sage 100, ACD, MyUnisoft and Cegid Loop point to help.chift.app, hence via_partner (Chift). The Pennylane article names no third party. Cegid Loop is only in the help center, not on the marketing page. Generic FEC and Excel exports also exist. The ES integrations page contains leftover template text naming another vendor and was ignored. No mention found of Inqom, Tiime, Fulll, Isacompta, Sage 50, Cegid Expert."
+  },
+  {
+   "id": "obat",
+   "name": "Obat",
+   "domain": "obat.fr",
+   "hq_country": "FR",
+   "integrations_url": "https://www.obat.fr/export-comptable/",
+   "pages_read": [
+    "https://www.obat.fr/",
+    "https://www.obat.fr/export-comptable/",
+    "https://www.obat.fr/tarifs/",
+    "https://www.obat.fr/trouver-comptable/",
+    "https://partenariats.obat.fr/comptables",
+    "https://aide.obat.fr/",
+    "https://aide.obat.fr/comptabilit%C3%A9",
+    "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+    "https://aide.obat.fr/configuration-des-%C3%A9l%C3%A9ments-du-logiciel-comptable",
+    "https://aide.obat.fr/chift-synchronisation-initiale-du-logiciel-comptable-a-pennylane",
+    "https://aide.obat.fr/les-outils-a-disposition-pour-les-experts-comptables",
+    "https://aide.obat.fr/export-comptable-et-comptes-auxiliaires-sur-obat",
+    "https://aide.obat.fr/export-des-achats-sur-obat",
+    "https://aide.obat.fr/transmission-automatique-de-vos-factures-de-vente-a-votre-expert-comptable-"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.obat.fr/sitemap.xml",
+     "reason": "no sitemap content returned"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "PennyLane",
+     "source_url": "https://aide.obat.fr/chift-synchronisation-initiale-du-logiciel-comptable-a-pennylane",
+     "evidence": "Connected to Obat 'grâce à notre partenaire Chift'; needs Pennylane Essential",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+     "evidence": "Listed as software supported through the Chift integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Full",
+     "source_url": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+     "evidence": "Listed as software supported through the Chift integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid loop",
+     "source_url": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+     "evidence": "Listed as software supported through the Chift integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "InexWeb - In Extenso",
+     "source_url": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+     "evidence": "Listed as software supported through the Chift integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+     "evidence": "Listed as software supported through the Chift integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://aide.obat.fr/obat-chift-la-solution-incontournable-pour-la-comptabilit%C3%A9-des-entreprises-du-b%C3%A2timent",
+     "evidence": "Listed as software supported through the Chift integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    }
+   ],
+   "notes": "No integrations page; marketing site only says 'Pennylane, etc.' and offers generic CSV, XLSX and FEC exports plus Factur-X emailing to the accountant. The help center names Chift as the connector. Help articles disagree: one lists seven tools (written 'Full', presumably Fulll), another lists five (no InexWeb, no MyUnisoft), and a third says API transmission is 'supported only for Pennylane to date'. No mention found of Sage, EBP, Cegid Quadra, Tiime, Indy, Isacompta."
+  }
+ ]
+}

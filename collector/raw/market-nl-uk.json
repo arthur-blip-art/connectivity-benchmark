@@ -1,0 +1,484 @@
+{
+ "collected_at": "2026-10-01",
+ "study_countries": [
+  "FR",
+  "IT",
+  "ES",
+  "DE",
+  "BE",
+  "NL",
+  "NO",
+  "SE",
+  "DK",
+  "GB"
+ ],
+ "study": {
+  "title": "State of European Accounting Tech 2026",
+  "publisher": "Chift",
+  "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+  "method": "Survey of 1,400 companies of 3 to 200 employees (accountants, CEOs, CFOs, finance managers) in ten countries: France, Italy, Spain, Germany, Belgium, the Netherlands, Norway, Sweden, Denmark and the UK. Country samples: NL 100, UK 200. Respondents could cite several tools.",
+  "notes": "Read from the PDF saved at collector/raw/Chift_StateOfAccountingTech2026.pdf (printed pages 7, 18, 22-24 and 27-29) and from Chift's public country guides. The PDF is gated behind a form, so the landing page URL is cited for it. The country charts print no percentages: ranks are read from bar order. The only per-tool shares printed in the text are Twinfield 15% (NL) and FreeAgent 6% (UK). Chift states that country-level samples carry 'a non-negligible margin of error' and that no public market-share data exists.",
+  "sources": [
+   "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+   "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+   "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+   "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country"
+  ]
+ },
+ "importance_method": "Proposed tiers, not market shares. dominant = top of Chift's 2026 survey chart and named by Chift as a leading platform, or a vendor-declared base above 1M in the country. important = ranked in the upper half of the chart or a sizeable vendor-declared base. secondary = low rank, absent from the sample, or no country-specific evidence. Vendor-declared figures are unaudited. single_source=true means the tier rests on one publisher.",
+ "countries": {
+  "NL": {
+   "channel": {
+    "value": "sme",
+    "explanation": "Chift 2026 study: 'the business owner is often the one choosing and operating the software, especially early on'; Dutch entrepreneurs often start without an accountant, who comes in later as a compliance partner. Accountant influence is 'more pronounced for larger companies'. Chift's earlier guide: about 49% of SMEs work with accountants, focused on compliance and advice rather than day-to-day bookkeeping. All three pages are Chift publications (one publisher).",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+     "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-the-netherlands-in-2025"
+    ]
+   },
+   "reform": {
+    "summary": "No B2B e-invoicing obligation in force today. Suppliers to central government must already send e-invoices. On 11 September 2026 the State Secretary for Finance sent parliament an outline letter (Contourenbrief): the cabinet wants e-invoicing mandatory from 1 July 2030 for domestic and intra-EU B2B transactions, digital reporting of intra-EU transactions from 1 July 2030 and of domestic transactions from 1 July 2031. Small businesses under the KOR scheme (turnover up to EUR 20,000) are exempt from the domestic e-invoicing obligation. This is a policy decision, not yet law: internet consultation planned for autumn 2026, bill to parliament before the 2027 summer recess, parliamentary process targeted to end before 1 July 2028.",
+    "milestones": [
+     {
+      "date": "2026-09-11",
+      "what": "Cabinet outline letter (Contourenbrief elektronisch factureren en rapporteren, ref. 2026-0000288216) sent to the House of Representatives."
+     },
+     {
+      "date": "2028-07-01",
+      "what": "Target date to complete the parliamentary process (two years before entry into force)."
+     },
+     {
+      "date": "2030-07-01",
+      "what": "Planned: mandatory e-invoicing for domestic and intra-EU B2B transactions; digital reporting of intra-EU transactions to the Tax Administration."
+     },
+     {
+      "date": "2031-07-01",
+      "what": "Planned: digital reporting of domestic B2B transactions to the Tax Administration."
+     }
+    ],
+    "network": "Format: European standard EN 16931 (outline letter). Network not decided: EY advised prescribing the Peppol network between businesses, and the cabinet is running a follow-up study on the exchange infrastructure (the letter also mentions the European Business Wallet). Peppol is already mandatory for (mainly) invoicing from businesses to central government.",
+    "sources": [
+     "https://open.overheid.nl/documenten/71c66f1c-c2a4-4efb-a4c3-80956ddb04f0/file",
+     "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/11/kabinet-kiest-voor-invoering-e-facturatie-en-rapportage-voor-bedrijven",
+     "https://ondernemersplein.overheid.nl/een-e-factuur-versturen-naar-de-overheid/",
+     "https://www.accountancyvanmorgen.nl/2026/09/11/e-facturatie-verplicht-vanaf-2030-digitale-btw-rapportage-aan-fiscus-een-jaar-later/",
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors"
+    ]
+   },
+   "note": {
+    "text": "Fragmented, best-of-breed market: accounting firms commonly run several bookkeeping systems at once and companies pair a core platform with separate invoicing, expense and payroll tools (Chift 2026 study, 15 tools named by 100 respondents). Yuki was renamed Nmbrs Accounting on 1 September 2026, merged with WeFact, Nmbrs and Visionplanner under the Visma group.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+     "https://www.nmbrs.com/nl/accounting/nmbrs-accounting"
+    ]
+   },
+   "display": {
+    "channel": "The business owner usually picks and runs the accounting software. Accountants tend to come in later, mainly for compliance and annual accounts.",
+    "reform": "No B2B mandate today. The cabinet plans mandatory e-invoicing for domestic and intra-EU B2B from 1 July 2030, with domestic digital reporting from 1 July 2031; the law is still to be passed.",
+    "network": "EN 16931 format. The exchange network is not chosen yet: Peppol is recommended and already mandatory for invoices to central government.",
+    "note": "A fragmented, best-of-breed market: firms and SMEs run several tools side by side. Yuki became Nmbrs Accounting on 1 September 2026."
+   },
+   "survey_sample": "100 respondents (Chift State of European Accounting Tech 2026)",
+   "software": [
+    {
+     "id": "exact-online",
+     "name": "Exact Online",
+     "vendor": "Exact",
+     "target": "both",
+     "url": "https://www.exact.com/nl/software/exact-online",
+     "marketplace_url": "https://www.exact.com/nl/app-store",
+     "importance": "dominant",
+     "evidence": "Ranked 1st in Chift's 2026 survey chart for the Netherlands (100 respondents) and named one of the 'two dominant platforms'. Exact declares more than 675,000 companies, mainly in NL, BE and DE (no NL-only figure). App store lists 301 apps.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.exact.com/nl/over-ons",
+      "https://www.exact.com/nl/software/exact-online",
+      "https://www.exact.com/nl/app-store"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "afas",
+     "name": "AFAS Software (AFAS ERP, AFAS SB)",
+     "vendor": "AFAS Software",
+     "target": "sme",
+     "url": "https://www.afas.nl/",
+     "marketplace_url": "https://www.afas.nl/dienstverlening/partnernetwerk",
+     "importance": "dominant",
+     "evidence": "Ranked 2nd in Chift's 2026 survey chart and named one of the 'two dominant platforms'; Chift warns AFAS 'may be somewhat overstated' because the sample leans mid-market. AFAS declares more than 14,000 organisations. The marketplace link is a partner network page, not an app store. Leadership claim rests on Chift alone.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.afas.nl/",
+      "https://www.afas.nl/dienstverlening/partnernetwerk"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "e-boekhouden",
+     "name": "e-Boekhouden.nl",
+     "vendor": "e-Boekhouden.nl",
+     "target": "both",
+     "url": "https://www.e-boekhouden.nl/",
+     "marketplace_url": "https://www.e-boekhouden.nl/koppelingen",
+     "importance": "important",
+     "evidence": "Ranked 3rd in Chift's 2026 survey chart; Chift lists it as an SME tool. Vendor declares 500,000+ entrepreneurs and has an accountant offering.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.e-boekhouden.nl/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "twinfield",
+     "name": "Twinfield Boekhouden",
+     "vendor": "Wolters Kluwer",
+     "target": "firm",
+     "url": "https://www.wolterskluwer.com/nl-nl/solutions/twinfield-accounting",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Ranked 4th in Chift's 2026 survey chart, cited by 15% of the 100 Dutch respondents (the only per-tool share Chift prints for NL); Chift: 'often cited as a key accounting platform', used by accounting firms. Vendor page returned HTTP 403 to automated access, so no vendor figure and no marketplace page could be read.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "moneybird",
+     "name": "Moneybird",
+     "vendor": "Moneybird",
+     "target": "sme",
+     "url": "https://www.moneybird.nl/",
+     "marketplace_url": "https://www.moneybird.nl/product/koppelingen/",
+     "importance": "important",
+     "evidence": "Ranked 5th in Chift's 2026 survey chart; listed by Chift as an SME tool. Vendor declares more than 400,000 entrepreneurs.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.moneybird.nl/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "visma-eaccounting",
+     "name": "Visma eAccounting",
+     "vendor": "Visma (Visma eAccounting BV)",
+     "target": "both",
+     "url": "https://eaccounting.nl/",
+     "marketplace_url": "https://eaccounting.nl/koppelingen",
+     "importance": "important",
+     "evidence": "Ranked 6th in Chift's 2026 survey chart (shown as used by both SMEs and accountants). Vendor declares more than 300,000 customers.",
+     "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://eaccounting.nl/",
+      "https://eaccounting.nl/koppelingen"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "snelstart",
+     "name": "SnelStart",
+     "vendor": "SnelStart",
+     "target": "both",
+     "url": "https://www.snelstart.nl/",
+     "marketplace_url": "https://www.snelstart.nl/koppelingen",
+     "importance": "important",
+     "evidence": "Ranked 7th in Chift's 2026 survey chart (shown as used by both SMEs and accountants). Vendor declares 175,000+ entrepreneurs.",
+     "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+      "https://www.snelstart.nl/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "minox",
+     "name": "Minox",
+     "vendor": "Minox",
+     "target": "firm",
+     "url": "https://minox.nl/",
+     "marketplace_url": "https://minox.nl/koppelingen/",
+     "importance": "secondary",
+     "evidence": "Ranked 8th in Chift's 2026 survey chart; Chift lists it as accountant software. No customer figure on the vendor site, which addresses accountants and entrepreneurs.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://minox.nl/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "yuki",
+     "name": "Yuki (Nmbrs Accounting since 1 September 2026)",
+     "vendor": "Nmbrs (Visma group)",
+     "target": "both",
+     "url": "https://www.nmbrs.com/nl/accounting/nmbrs-accounting",
+     "marketplace_url": "https://www.nmbrs.com/nl/koppelingen",
+     "importance": "secondary",
+     "evidence": "Ranked 9th in Chift's 2026 survey chart; Chift lists it as accountant software. Renamed Nmbrs Accounting on 1 September 2026. Nmbrs shows '501K+' companies for the merged brand (Yuki, WeFact, Nmbrs, Visionplanner); no Yuki-only figure found.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.nmbrs.com/nl/accounting/nmbrs-accounting",
+      "https://www.nmbrs.com/"
+     ],
+     "single_source": true
+    }
+   ],
+   "excluded": [
+    {
+     "name": "Visma AccountView, King Software, Odoo, Asperion, Reeleezee",
+     "reason": "Ranked 10th to 14th in Chift's 2026 survey chart for the Netherlands.",
+     "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ]
+    },
+    {
+     "name": "InformerOnline, Jortt, Cash, Silvasoft",
+     "reason": "Named by Chift as tools its survey 'may underweight or miss'; no data in the study.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors"
+     ]
+    }
+   ]
+  },
+  "GB": {
+   "channel": {
+    "value": "sme",
+    "explanation": "Chift 2026 study: UK accountants 'act as strategic advisors who help SMEs select, configure and operate their own software'; their influence is 'less about controlling which software is used and more about shaping how it's implemented'. Xero and QuickBooks are built around accountant-client co-usage, so the accountant is a strong influencer but the SME holds the software. Chift does not list the UK among accountant-centric markets (France, Italy, Spain, Belgium). Single publisher (Chift).",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country",
+     "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+   },
+   "reform": {
+    "summary": "Decided, not yet in force. The government confirmed at Budget 2025 that e-invoicing will be mandatory for all VAT invoices, B2B and B2G, from April 2029 (consultation response of 26 November 2025; HMRC roadmap update). A decentralised model was studied and real-time reporting will not be introduced in 2029. An implementation roadmap is due at Budget 2026, and HMRC plans to publish guidance, standards, technical specification and legislation by the end of 2027 to 2028.",
+    "milestones": [
+     {
+      "date": "2025-02-13",
+      "what": "HMRC and DBT open the consultation on promoting e-invoicing (12 weeks, 342 responses)."
+     },
+     {
+      "date": "2025-11-26",
+      "what": "Consultation response: mandatory e-invoicing for all VAT invoices from 2029, announced at Budget 2025."
+     },
+     {
+      "date": "2026-06-23",
+      "what": "Tax update 2026: Peppol announced as the core interoperability network for UK e-invoicing."
+     },
+     {
+      "date": "2029-04-01",
+      "what": "Mandatory e-invoicing for all VAT invoices, B2B and B2G ('from April 2029'; the day is not stated on the gov.uk pages opened)."
+     }
+    ],
+    "network": "Peppol is the core interoperability network (gov.uk, 23 June 2026). Data standard not fixed on the pages opened: the consultation response says the government will weigh an existing standard against a UK-specific one. No real-time reporting to HMRC in 2029.",
+    "sources": [
+     "https://www.gov.uk/government/consultations/promoting-electronic-invoicing-across-uk-businesses-and-the-public-sector/outcome/promoting-electronic-invoicing-across-uk-businesses-and-the-public-sector-consultation-response",
+     "https://www.gov.uk/government/consultations/promoting-electronic-invoicing-across-uk-businesses-and-the-public-sector",
+     "https://www.gov.uk/government/publications/summary-of-tax-update-2026-simplification-modernisation-and-fairness/tax-update-2026-simplification-modernisation-and-fairness-summary",
+     "https://www.gov.uk/government/publications/hmrc-transformation-roadmap-progress-update-2026/hmrc-transformation-roadmap-update-2026",
+     "https://www.gov.uk/government/publications/hmrc-transformation-roadmap-progress-update-2026/annex-summary-of-hmrcs-planned-activities-listed-in-this-transformation-roadmap-progress-update"
+    ]
+   },
+   "note": {
+    "text": "Highest multi-tool rate in Chift's panel: 89 of 200 UK respondents use two or more accounting tools, and Sage is three separate products (Sage 50, Sage 200, Sage Intacct), with Sage 50 and Sage 200 mostly on-premise. FreeAgent (6% in the survey) is likely under-represented given its free distribution through NatWest and RBS.",
+    "sources": [
+     "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+     "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+   },
+   "display": {
+    "channel": "The SME holds the software and its accountant advises on the choice and setup. Xero and QuickBooks are built for both to work in the same file.",
+    "reform": "E-invoicing becomes mandatory for all VAT invoices, B2B and B2G, from April 2029. The implementation roadmap is due at Budget 2026.",
+    "network": "Peppol is the core interoperability network. The data standard is not final and there is no real-time reporting to HMRC in 2029.",
+    "note": "UK companies often run two or more accounting tools. Sage is three separate products, two of them mostly on-premise."
+   },
+   "survey_sample": "200 respondents (Chift State of European Accounting Tech 2026)",
+   "software": [
+    {
+     "id": "xero",
+     "name": "Xero",
+     "vendor": "Xero",
+     "target": "both",
+     "url": "https://www.xero.com/uk/",
+     "marketplace_url": "https://apps.xero.com/uk",
+     "importance": "dominant",
+     "evidence": "Ranked 1st in Chift's 2026 survey chart for the UK (200 respondents). Xero's FY26 investor presentation shows 1,319K UK customers at 31 March 2026.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://brandfolder.xero.com/NE531UQB/as/bx8xwhj65zjm36s5fn4kc4gx/Xero_FY26_Annual_Results_Investor_Presentation",
+      "https://www.xero.com/us/investors/financial-information/",
+      "https://www.xero.com/uk/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "quickbooks-online",
+     "name": "QuickBooks Online",
+     "vendor": "Intuit",
+     "target": "both",
+     "url": "https://quickbooks.intuit.com/uk/",
+     "marketplace_url": "https://quickbooks.intuit.com/app/apps/home/en-gb/",
+     "importance": "dominant",
+     "evidence": "Ranked 2nd in Chift's 2026 survey chart, close to Xero; Chift: Xero, QuickBooks and Sage are 'the most common UK choices'. No UK customer figure found (the UK site only says 'millions of customers worldwide'), so the tier rests on Chift alone.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://quickbooks.intuit.com/uk/"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "sage-50",
+     "name": "Sage 50 Accounts",
+     "vendor": "Sage",
+     "target": "sme",
+     "url": "https://www.sage.com/en-gb/",
+     "marketplace_url": "not_found",
+     "importance": "dominant",
+     "evidence": "Ranked 3rd in Chift's 2026 survey chart; mostly used on-premise. Sage FY25 results: UK & Ireland revenue of GBP 554m, with Sage 50 said to have 'contributed strongly'. No UK customer count published. sage.com returned HTTP 403 to automated access: product and marketplace URLs not verified.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.investegate.co.uk/announcement/rns/sage-group--sge/results-for-the-year-ended-30-september-2025/9242595"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "microsoft-dynamics-365-business-central",
+     "name": "Microsoft Dynamics 365 Business Central",
+     "vendor": "Microsoft",
+     "target": "sme",
+     "url": "https://www.microsoft.com/en-gb/dynamics-365/products/business-central",
+     "marketplace_url": "https://marketplace.microsoft.com/en-gb/",
+     "importance": "important",
+     "evidence": "'Microsoft Dynamics' ranked 4th in Chift's 2026 survey chart; covers the upper end of the SME market, usually alongside a cloud accounting tool. Microsoft declares 55,000 companies worldwide for Business Central (no UK figure).",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.microsoft.com/en-gb/dynamics-365/products/business-central"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "sage-200",
+     "name": "Sage 200",
+     "vendor": "Sage",
+     "target": "sme",
+     "url": "https://www.sage.com/en-gb/",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Ranked 5th in Chift's 2026 survey chart; mostly on-premise, strong in larger SMEs. Sage FY25 results name Sage 200 as a contributor to UK & Ireland growth. sage.com returned HTTP 403: URLs not verified.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.investegate.co.uk/announcement/rns/sage-group--sge/results-for-the-year-ended-30-september-2025/9242595"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "sage-intacct",
+     "name": "Sage Intacct",
+     "vendor": "Sage",
+     "target": "sme",
+     "url": "https://www.sage.com/en-gb/",
+     "marketplace_url": "not_found",
+     "importance": "important",
+     "evidence": "Ranked 6th in Chift's 2026 survey chart; mid-market finance teams. Sage FY25 results: Intacct 'continued to scale rapidly' in the UK & Ireland. sage.com returned HTTP 403: URLs not verified.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.investegate.co.uk/announcement/rns/sage-group--sge/results-for-the-year-ended-30-september-2025/9242595"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "freeagent",
+     "name": "FreeAgent",
+     "vendor": "FreeAgent (NatWest Group)",
+     "target": "both",
+     "url": "https://www.freeagent.com/",
+     "marketplace_url": "https://www.freeagent.com/integrations/",
+     "importance": "important",
+     "evidence": "Cited by 6% of Chift's 200 UK respondents, which Chift calls 'likely under-represented' because it is free with NatWest, Royal Bank of Scotland, Ulster Bank and Mettle business accounts. FreeAgent declares over 250,000 small businesses.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.freeagent.com/company/",
+      "https://www.freeagent.com/"
+     ],
+     "single_source": false
+    },
+    {
+     "id": "sage-accounting",
+     "name": "Sage Accounting (formerly Sage Business Cloud Accounting)",
+     "vendor": "Sage",
+     "target": "sme",
+     "url": "https://www.sage.com/en-gb/",
+     "marketplace_url": "not_found",
+     "importance": "secondary",
+     "evidence": "Not shown as a separate product in Chift's 2026 survey chart. Sage FY25 results say its cloud-native small-business solutions, including Sage Accounting, 'delivered good levels of growth' in the UK & Ireland. No customer count found. sage.com returned HTTP 403: URLs not verified.",
+     "sources": [
+      "https://www.investegate.co.uk/announcement/rns/sage-group--sge/results-for-the-year-ended-30-september-2025/9242595"
+     ],
+     "single_source": true
+    },
+    {
+     "id": "kashflow",
+     "name": "IRIS KashFlow",
+     "vendor": "IRIS Software Group",
+     "target": "sme",
+     "url": "https://www.kashflow.com/",
+     "marketplace_url": "https://www.kashflow.com/apps-category/billinginvoicing/",
+     "importance": "secondary",
+     "evidence": "Absent from Chift's 2026 UK sample; Chift describes it as targeting smaller UK-focused businesses. Vendor declares 58,000 UK businesses. The apps directory is split by category (no single index page found).",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.kashflow.com/",
+      "https://www.kashflow.com/apps-category/billinginvoicing/"
+     ],
+     "single_source": false
+    }
+   ],
+   "excluded": [
+    {
+     "name": "IRIS (Accountancy Suite, Elements)",
+     "reason": "Practice software for accountancy firms; not named in Chift's study. IRIS says it is 'Trusted by 29,000 firms'. Its SME ledger is KashFlow, listed above.",
+     "sources": [
+      "https://www.iris.co.uk/accountancy/why-iris/",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ]
+    },
+    {
+     "name": "Clear Books",
+     "reason": "Ranked 7th in Chift's 2026 survey chart; vendor gives no customer count ('Trusted by thousands of UK businesses'). Left out to keep the list at nine.",
+     "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://clearbooks.co.uk/"
+     ]
+    },
+    {
+     "name": "Unit4, FreshBooks, Infor, Iplicit",
+     "reason": "Ranked 8th to 12th in Chift's 2026 survey chart for the UK.",
+     "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+     ]
+    },
+    {
+     "name": "AccountsIQ",
+     "reason": "Absent from Chift's sample; described by Chift as a mid-market tool.",
+     "sources": [
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors"
+     ]
+    }
+   ]
+  }
+ }
+}

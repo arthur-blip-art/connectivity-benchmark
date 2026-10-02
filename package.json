@@ -1,0 +1,37 @@
+{
+  "name": "chift-connectivity-benchmark",
+  "version": "0.1.0",
+  "private": true,
+  "engines": { "node": ">=22.13" },
+  "type": "module",
+  "scripts": {
+    "dev": "next dev -p 3210",
+    "build": "next build",
+    "start": "next start -p 3210",
+    "test": "vitest run",
+    "validate": "tsx collector/validate-data.ts",
+    "peppol:be": "node collector/peppol-be.mjs",
+    "reset": "rm -rf .data",
+    "data": "node collector/build-measures.mjs && node collector/build-data.mjs"
+  },
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "next": "^16.3.8",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^26.6.3",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/topojson-client": "^3.1.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}

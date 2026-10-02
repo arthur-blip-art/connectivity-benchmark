@@ -1,0 +1,932 @@
+{
+  "source": {
+    "title": "State of European Accounting Tech 2026",
+    "publisher": "Chift",
+    "url": "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+    "method": "Survey of 1,400 companies of 3 to 200 employees in ten countries. For each country the report charts the tools cited by respondents, in order. It publishes no figure per tool, so this file keeps the rank and a level, never a share."
+  },
+  "tiers": "dominant: first of the chart, plus the tools the report itself calls dominant or leading. important: ranks 2 to 5, plus the tools the report says are under-reported. secondary: the rest of the top ten.",
+  "countries": {
+    "FR": {
+      "respondents": 200,
+      "cited": 13,
+      "software": [
+        [
+          "cegid-quadra",
+          "Cegid Quadra",
+          "Cegid",
+          "firm",
+          "dominant",
+          ""
+        ],
+        [
+          "acd",
+          "ACD",
+          "ACD Groupe",
+          "firm",
+          "dominant",
+          ""
+        ],
+        [
+          "sage-100",
+          "Sage 100",
+          "Sage",
+          "sme",
+          "important",
+          "The report calls it the dominant mid-market tool for in-house accounting."
+        ],
+        [
+          "ebp",
+          "EBP",
+          "EBP (Cegid)",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "pennylane",
+          "Pennylane",
+          "Pennylane",
+          "both",
+          "dominant",
+          "Fifth in the survey, and the first platform of the connect-compta barometer by companies reachable on Peppol."
+        ],
+        [
+          "sage-generation-experts",
+          "Sage Génération Experts",
+          "Sage",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "fulll",
+          "Fulll",
+          "Fulll",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "cegid-loop",
+          "Cegid Loop",
+          "Cegid",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "myunisoft",
+          "MyUnisoft",
+          "MyUnisoft",
+          "both",
+          "secondary",
+          ""
+        ],
+        [
+          "sage-50",
+          "Sage 50",
+          "Sage",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "tiime",
+          "Tiime",
+          "Tiime",
+          "both",
+          "secondary",
+          ""
+        ],
+        [
+          "inqom",
+          "Inqom",
+          "Visma",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "isacompta",
+          "Isacompta",
+          "Isagri (Agiris)",
+          "firm",
+          "secondary",
+          ""
+        ]
+      ]
+    },
+    "BE": {
+      "respondents": 100,
+      "cited": 12,
+      "software": [
+        [
+          "winbooks",
+          "WinBooks",
+          "Exact",
+          "firm",
+          "dominant",
+          ""
+        ],
+        [
+          "exact-online",
+          "Exact Online",
+          "Exact",
+          "both",
+          "dominant",
+          "With Yuki, the most prominent cloud platform shared by firms and SMEs, mainly in Flanders."
+        ],
+        [
+          "octopus",
+          "Octopus",
+          "Octopus",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "yuki",
+          "Yuki",
+          "Visma",
+          "both",
+          "important",
+          ""
+        ],
+        [
+          "sage-bob-50",
+          "Sage BOB 50",
+          "Sage",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "adsolut",
+          "Adsolut",
+          "Wolters Kluwer",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "horus",
+          "Horus",
+          "Horus Software",
+          "both",
+          "important",
+          "Adjusted upward by the report: under-counted in a sample weighted toward Flanders."
+        ],
+        [
+          "kluwer-expert",
+          "Kluwer Expert/M",
+          "Wolters Kluwer",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "odoo",
+          "Odoo",
+          "Odoo",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "winauditor",
+          "Winauditor",
+          "Winauditor",
+          "firm",
+          "secondary",
+          ""
+        ]
+      ]
+    },
+    "NL": {
+      "respondents": 100,
+      "cited": 15,
+      "channel": "sme",
+      "display": {
+        "channel": "Entrepreneurs often start without an accountant and keep their own books. Accountants come in later, for compliance and annual accounts.",
+        "reform": "B2B e-invoicing is not mandatory.",
+        "network": "Voluntary. E-invoicing to government is established.",
+        "note": "A fragmented, best-of-breed market: accounting firms often run several bookkeeping systems at once. Exact Online and AFAS anchor it."
+      },
+      "software": [
+        [
+          "exact-online",
+          "Exact Online",
+          "Exact",
+          "both",
+          "dominant",
+          ""
+        ],
+        [
+          "afas",
+          "AFAS",
+          "AFAS Software",
+          "sme",
+          "dominant",
+          "The report names Exact Online and AFAS as the two dominant platforms. AFAS may be overstated by the mid-market weight of the sample."
+        ],
+        [
+          "e-boekhouden",
+          "e-Boekhouden",
+          "e-Boekhouden.nl",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "twinfield",
+          "Twinfield",
+          "Wolters Kluwer",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "moneybird",
+          "Moneybird",
+          "Moneybird",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "visma-eaccounting",
+          "Visma eAccounting",
+          "Visma",
+          "both",
+          "important",
+          ""
+        ],
+        [
+          "snelstart",
+          "SnelStart",
+          "SnelStart",
+          "both",
+          "secondary",
+          ""
+        ],
+        [
+          "minox",
+          "Minox",
+          "Minox",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "yuki",
+          "Yuki",
+          "Visma",
+          "both",
+          "secondary",
+          ""
+        ],
+        [
+          "visma-accountview",
+          "Visma AccountView",
+          "Visma",
+          "firm",
+          "secondary",
+          ""
+        ]
+      ]
+    },
+    "DE": {
+      "respondents": 200,
+      "cited": 21,
+      "software": [
+        [
+          "datev",
+          "DATEV",
+          "DATEV eG",
+          "both",
+          "dominant",
+          "The report reads its survey score as a floor: most SMEs do not see the tool their Steuerberater uses."
+        ],
+        [
+          "microsoft-dynamics",
+          "Microsoft Dynamics",
+          "Microsoft",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "lexware-office",
+          "Lexware Office",
+          "Haufe",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "sevdesk",
+          "sevdesk",
+          "sevdesk (Cegid)",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "sage-100-de",
+          "Sage 100 (Germany)",
+          "Sage",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "fastbill",
+          "FastBill",
+          "FastBill",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "sage-active",
+          "Sage Active",
+          "Sage",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "unit4",
+          "Unit4",
+          "Unit4",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "agenda",
+          "Agenda",
+          "Agenda",
+          "firm",
+          "important",
+          "Barely visible in SME answers; the report says it matters as a DATEV alternative used by tax firms."
+        ],
+        [
+          "exact-online",
+          "Exact Online",
+          "Exact",
+          "both",
+          "secondary",
+          ""
+        ],
+        [
+          "addison",
+          "ADDISON",
+          "Wolters Kluwer",
+          "firm",
+          "important",
+          "Absent from the survey answers; the report names it as a DATEV alternative used by tax firms."
+        ]
+      ],
+      "unranked": [
+        "addison"
+      ]
+    },
+    "GB": {
+      "respondents": 200,
+      "cited": 14,
+      "channel": "shared",
+      "display": {
+        "channel": "Accountants act as advisors: they help SMEs choose, set up and run their own software, on platforms built for shared use.",
+        "reform": "An e-invoicing mandate is planned for 2029.",
+        "network": "Planned on the Peppol network. Making Tax Digital already digitises tax filings.",
+        "note": "Mostly global platforms. Sage is three separate products (Sage 50, Sage 200, Sage Intacct). 89 of the 200 respondents use two tools or more."
+      },
+      "software": [
+        [
+          "xero",
+          "Xero",
+          "Xero",
+          "both",
+          "dominant",
+          ""
+        ],
+        [
+          "quickbooks",
+          "QuickBooks",
+          "Intuit",
+          "both",
+          "dominant",
+          ""
+        ],
+        [
+          "sage-50",
+          "Sage 50",
+          "Sage",
+          "sme",
+          "dominant",
+          "The report confirms Xero, QuickBooks and Sage as the top trio."
+        ],
+        [
+          "microsoft-dynamics",
+          "Microsoft Dynamics",
+          "Microsoft",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "sage-200",
+          "Sage 200",
+          "Sage",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "sage-intacct",
+          "Sage Intacct",
+          "Sage",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "clearbooks",
+          "Clear Books",
+          "Clear Books",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "unit4",
+          "Unit4",
+          "Unit4",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "freeagent",
+          "FreeAgent",
+          "NatWest Group",
+          "both",
+          "important",
+          "Ninth in the survey; the report says it is under-represented because it is distributed free through NatWest and RBS."
+        ],
+        [
+          "freshbooks",
+          "FreshBooks",
+          "FreshBooks",
+          "sme",
+          "secondary",
+          ""
+        ]
+      ]
+    },
+    "ES": {
+      "respondents": 200,
+      "cited": 20,
+      "channel": "accountant",
+      "display": {
+        "channel": "Around 80% of SMEs outsource bookkeeping and tax filing to an asesoría, and most of them never touch the accounting software.",
+        "reform": "Veri*Factu, certified invoicing software, takes effect in 2027. Mandatory B2B e-invoicing starts in late 2027 for large companies and in 2028 for the others.",
+        "network": "Crea y Crece law for e-invoicing; Veri*Factu for invoice records.",
+        "note": "Sage and Wolters Kluwer's A3 dominate accounting firms. The report says A3 is under-reported: SMEs do not know which tool their firm uses."
+      },
+      "software": [
+        [
+          "sage-50",
+          "Sage 50 (Contaplus)",
+          "Sage",
+          "both",
+          "dominant",
+          ""
+        ],
+        [
+          "microsoft-dynamics",
+          "Microsoft Dynamics",
+          "Microsoft",
+          "sme",
+          "dominant",
+          "Business Central, Dynamics and AX are consolidated into one entry by the report."
+        ],
+        [
+          "a3-asesor",
+          "A3 Asesor",
+          "Wolters Kluwer",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "sage-200",
+          "Sage 200",
+          "Sage",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "contasol",
+          "Contasol (Software DELSOL)",
+          "Software DELSOL",
+          "both",
+          "important",
+          ""
+        ],
+        [
+          "sage-despachos",
+          "Sage Despachos",
+          "Sage",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "a3-erp",
+          "A3 ERP",
+          "Wolters Kluwer",
+          "firm",
+          "important",
+          "The report says A3ERP is likely under-reported."
+        ],
+        [
+          "a3-innuva",
+          "A3 Innuva",
+          "Wolters Kluwer",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "holded",
+          "Holded",
+          "Holded (Visma)",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "odoo",
+          "Odoo",
+          "Odoo",
+          "sme",
+          "secondary",
+          ""
+        ]
+      ]
+    },
+    "IT": {
+      "respondents": 200,
+      "cited": 14,
+      "channel": "accountant",
+      "display": {
+        "channel": "Commercialisti handle bookkeeping, tax and payroll for most SMEs and decide which software is used.",
+        "reform": "B2B e-invoicing has been mandatory since 2019.",
+        "network": "Through SDI, the government platform.",
+        "note": "Read Italy by software family: TeamSystem, Zucchetti, Wolters Kluwer. Only 19% of respondents use more than one tool."
+      },
+      "software": [
+        [
+          "teamsystem-studio",
+          "TeamSystem Studio",
+          "TeamSystem",
+          "firm",
+          "dominant",
+          ""
+        ],
+        [
+          "microsoft-dynamics",
+          "Microsoft Dynamics",
+          "Microsoft",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "ago-infinity",
+          "AGO Infinity",
+          "Zucchetti",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "profis",
+          "Profis",
+          "Sistemi",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "teamsystem-azienda",
+          "TeamSystem Azienda",
+          "TeamSystem",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "bpoint",
+          "B.Point",
+          "Wolters Kluwer",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "teamsystem-gamma",
+          "TeamSystem Gamma",
+          "TeamSystem",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "datev-koinos",
+          "DATEV Koinos",
+          "DATEV Koinos",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "teamsystem-reviso",
+          "TeamSystem Reviso",
+          "TeamSystem",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "netsuite",
+          "NetSuite",
+          "Oracle",
+          "sme",
+          "secondary",
+          ""
+        ]
+      ]
+    },
+    "DK": {
+      "respondents": 67,
+      "cited": 14,
+      "channel": "shared",
+      "display": {
+        "channel": "A hybrid model: companies keep day-to-day books themselves and rely on accountants for compliance, annual reporting and tax.",
+        "reform": "No B2B e-invoicing mandate, but certified digital bookkeeping software is compulsory, fully since January 2026.",
+        "network": "Bookkeeping Act of 2022: systems must handle structured e-invoices.",
+        "note": "Any bookkeeping system sold in Denmark must first be registered with the Danish Business Authority."
+      },
+      "software": [
+        [
+          "visma-e-conomic",
+          "Visma e-conomic",
+          "Visma",
+          "both",
+          "dominant",
+          ""
+        ],
+        [
+          "microsoft-dynamics",
+          "Microsoft Dynamics",
+          "Microsoft",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "dinero",
+          "Dinero",
+          "Visma",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "billy",
+          "Billy",
+          "Ageras",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "uniconta",
+          "Uniconta",
+          "Uniconta",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "bjorn-lunden",
+          "Björn Lundén",
+          "Björn Lundén",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "unit4",
+          "Unit4",
+          "Unit4",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "dynaccount",
+          "Dynaccount",
+          "Dynaccount",
+          "sme",
+          "secondary",
+          ""
+        ]
+      ]
+    },
+    "SE": {
+      "respondents": 67,
+      "cited": 13,
+      "channel": "shared",
+      "display": {
+        "channel": "SMEs keep day-to-day books themselves on shared cloud platforms and bring in an accountant for compliance and year-end.",
+        "reform": "B2B e-invoicing is not mandatory. It has been mandatory to government since 2019.",
+        "network": "Widely used on a voluntary basis.",
+        "note": "Fortnox is described as present in 80% or more of accounting firms with five employees or more."
+      },
+      "software": [
+        [
+          "fortnox",
+          "Fortnox",
+          "Fortnox",
+          "both",
+          "dominant",
+          ""
+        ],
+        [
+          "visma-spiris",
+          "Visma Spiris",
+          "Visma",
+          "both",
+          "dominant",
+          "The report names Fortnox and Visma Ekonomi (now Spiris) as the two platforms that dominate Sweden."
+        ],
+        [
+          "microsoft-dynamics",
+          "Microsoft Dynamics",
+          "Microsoft",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "xledger",
+          "Xledger",
+          "Xledger",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "bjorn-lunden",
+          "Björn Lundén",
+          "Björn Lundén",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "unit4",
+          "Unit4",
+          "Unit4",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "finago",
+          "Finago (24SevenOffice)",
+          "Finago",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "sage-active",
+          "Sage Active",
+          "Sage",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "hogia",
+          "Hogia",
+          "Hogia",
+          "firm",
+          "secondary",
+          "",
+          11
+        ]
+      ]
+    },
+    "NO": {
+      "respondents": 66,
+      "cited": 13,
+      "channel": "shared",
+      "display": {
+        "channel": "SMEs and accountants work inside the same platforms. Accountants need a state authorisation.",
+        "reform": "Issuing structured e-invoices becomes mandatory on 1 January 2027. Receiving them follows by 1 January 2030.",
+        "network": "Peppol: about half of all invoices already go through it.",
+        "note": "Tripletex, Fiken and PowerOffice are the core local platforms. Business Central is paired with them in larger SMEs."
+      },
+      "software": [
+        [
+          "microsoft-dynamics",
+          "Microsoft Dynamics",
+          "Microsoft",
+          "sme",
+          "dominant",
+          ""
+        ],
+        [
+          "tripletex",
+          "Tripletex",
+          "Visma",
+          "both",
+          "dominant",
+          ""
+        ],
+        [
+          "fiken",
+          "Fiken",
+          "Fiken",
+          "both",
+          "dominant",
+          "The report names Tripletex, Fiken and PowerOffice as the core platforms."
+        ],
+        [
+          "poweroffice",
+          "PowerOffice",
+          "PowerOffice",
+          "both",
+          "dominant",
+          "The report names Tripletex, Fiken and PowerOffice as the core platforms."
+        ],
+        [
+          "finago",
+          "Finago (24SevenOffice)",
+          "Finago",
+          "firm",
+          "important",
+          ""
+        ],
+        [
+          "xledger",
+          "Xledger",
+          "Xledger",
+          "sme",
+          "important",
+          ""
+        ],
+        [
+          "visma-eaccounting",
+          "Visma eAccounting",
+          "Visma",
+          "both",
+          "secondary",
+          ""
+        ],
+        [
+          "unimicro",
+          "Unimicro",
+          "Unimicro",
+          "firm",
+          "secondary",
+          ""
+        ],
+        [
+          "zirius",
+          "Zirius",
+          "Zirius",
+          "sme",
+          "secondary",
+          ""
+        ],
+        [
+          "visma-e-conomic",
+          "Visma e-conomic",
+          "Visma",
+          "both",
+          "secondary",
+          ""
+        ]
+      ]
+    }
+  }
+}

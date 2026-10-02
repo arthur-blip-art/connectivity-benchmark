@@ -1,0 +1,1028 @@
+[
+  {
+    "country": "FR",
+    "softwareId": "cegid-quadra",
+    "importance": "dominant",
+    "evidence": "1st of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+      "https://www.actuel-expert-comptable.fr/content/cegid-veut-encore-doubler-de-taille-moyen-terme"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "acd",
+    "importance": "dominant",
+    "evidence": "2nd of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.acd-groupe.fr/groupe/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "sage-100",
+    "importance": "important",
+    "evidence": "3rd of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France). The report calls it the dominant mid-market tool for in-house accounting.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/blog/2025-guide-to-integrating-accounting-software-as-a-fintech-in-france"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "ebp",
+    "importance": "important",
+    "evidence": "4th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.ebp.com/wp-content/uploads/2024/04/Communique-de-presse-Cegid-EBP-0424.pdf",
+      "https://www.distributique.com/actualites/lire-logiciels-de-gestion-cegid-va-racheter-ebp-et-se-renforcer-sur-les-tpe-pme-35077.html"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "pennylane",
+    "importance": "dominant",
+    "evidence": "5th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France). Fifth in the survey, and the first platform of the connect-compta barometer by companies reachable on Peppol.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.pennylane.com/fr/",
+      "https://www.pennylane.com/fr/expert-comptable"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "sage-generation-experts",
+    "importance": "important",
+    "evidence": "6th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "fulll",
+    "importance": "important",
+    "evidence": "7th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.fulll.fr/notre-mission",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "cegid-loop",
+    "importance": "important",
+    "evidence": "8th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors",
+      "https://www.actuel-expert-comptable.fr/content/cegid-veut-encore-doubler-de-taille-moyen-terme"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "myunisoft",
+    "importance": "secondary",
+    "evidence": "9th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://myu.fr/qui-sommes-nous/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-france-a-2026-guide-for-saas-vendors"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "sage-50",
+    "importance": "secondary",
+    "evidence": "10th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "tiime",
+    "importance": "secondary",
+    "evidence": "11th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "inqom",
+    "importance": "secondary",
+    "evidence": "12th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.wineriz.com/wineriz-rejoint-inqom-visma/",
+      "https://www.chift.eu/blog/2025-guide-to-integrating-accounting-software-as-a-fintech-in-france"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "isacompta",
+    "importance": "secondary",
+    "evidence": "13th of the 13 tools cited by respondents in Chift's 2026 survey (200 respondents in France).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "cegid-experts",
+    "importance": "secondary",
+    "evidence": "Listed by connect-compta among the production software accountants work with.",
+    "sources": [
+      "https://www.connect-compta.fr/#annuaire"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "indy",
+    "importance": "secondary",
+    "evidence": "Listed by connect-compta among production software; its platform receives e-invoices for about 347,000 companies, mostly sole traders (connect-compta barometer, 28 Sept 2026).",
+    "sources": [
+      "https://www.connect-compta.fr/#annuaire",
+      "https://www.connect-compta.fr/carte"
+    ]
+  },
+  {
+    "country": "FR",
+    "softwareId": "odoo",
+    "importance": "secondary",
+    "evidence": "Listed by connect-compta among production software.",
+    "sources": [
+      "https://www.connect-compta.fr/#annuaire"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "datev",
+    "importance": "dominant",
+    "evidence": "1st of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany). The report reads its survey score as a floor: most SMEs do not see the tool their Steuerberater uses.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.datev.de/web/de/berufsgruppenuebergreifend/presse/presseinformationen/meldungen-2026/datev-mit-cloud-angeboten-weiter-auf-wachstumskurs",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "microsoft-dynamics",
+    "importance": "important",
+    "evidence": "2nd of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "lexware-office",
+    "importance": "important",
+    "evidence": "3rd of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.lexware.de/buchhaltungssoftware/",
+      "https://www.lexware.de/partner/"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "sevdesk",
+    "importance": "important",
+    "evidence": "4th of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://sevdesk.de/produktuebersicht/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "sage-100-de",
+    "importance": "important",
+    "evidence": "5th of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "fastbill",
+    "importance": "secondary",
+    "evidence": "6th of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "sage-active",
+    "importance": "secondary",
+    "evidence": "7th of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "unit4",
+    "importance": "secondary",
+    "evidence": "8th of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "agenda",
+    "importance": "important",
+    "evidence": "9th of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany). Barely visible in SME answers; the report says it matters as a DATEV alternative used by tax firms.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.agenda-karriere.de/agenda-software.php",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "exact-online",
+    "importance": "secondary",
+    "evidence": "10th of the 21 tools cited by respondents in Chift's 2026 survey (200 respondents in Germany).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DE",
+    "softwareId": "addison",
+    "importance": "important",
+    "evidence": "Absent from the survey answers; the report names it as a DATEV alternative used by tax firms.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-germany-a-2026-guide-for-saas-vendors",
+      "https://suitapp.de/software/addison/"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "winbooks",
+    "importance": "dominant",
+    "evidence": "1st of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.exact.com/befr/software/exact-winbooks/fiduciaire",
+      "https://www.exact.com/befr/software/exact-winbooks"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "exact-online",
+    "importance": "dominant",
+    "evidence": "2nd of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium). With Yuki, the most prominent cloud platform shared by firms and SMEs, mainly in Flanders.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide",
+      "https://www.exact.com/benl/over-ons"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "octopus",
+    "importance": "important",
+    "evidence": "3rd of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.octopus.be/nl/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "yuki",
+    "importance": "important",
+    "evidence": "4th of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide",
+      "https://www.visma.com/newsroom/visma-continues-to-expand-in-the-dutch-accounting-office-space-with-the-acquisition-of-yuki-f8476e3c"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "sage-bob-50",
+    "importance": "important",
+    "evidence": "5th of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "adsolut",
+    "importance": "important",
+    "evidence": "6th of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "horus",
+    "importance": "important",
+    "evidence": "7th of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium). Adjusted upward by the report: under-counted in a sample weighted toward Flanders.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.horussoftware.be/fiduciaire/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "kluwer-expert",
+    "importance": "secondary",
+    "evidence": "8th of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "odoo",
+    "importance": "secondary",
+    "evidence": "9th of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-belgium-a-2026-guide",
+      "https://www.odoo.com/app/accounting"
+    ]
+  },
+  {
+    "country": "BE",
+    "softwareId": "winauditor",
+    "importance": "secondary",
+    "evidence": "10th of the 12 tools cited by respondents in Chift's 2026 survey (100 respondents in Belgium).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "exact-online",
+    "importance": "dominant",
+    "evidence": "1st of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "afas",
+    "importance": "dominant",
+    "evidence": "2nd of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands). The report names Exact Online and AFAS as the two dominant platforms. AFAS may be overstated by the mid-market weight of the sample.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "e-boekhouden",
+    "importance": "important",
+    "evidence": "3rd of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "twinfield",
+    "importance": "important",
+    "evidence": "4th of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "moneybird",
+    "importance": "important",
+    "evidence": "5th of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "visma-eaccounting",
+    "importance": "important",
+    "evidence": "6th of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://eaccounting.nl/"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "snelstart",
+    "importance": "secondary",
+    "evidence": "7th of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-state-of-european-accounting-software-in-2026-country-by-country"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "minox",
+    "importance": "secondary",
+    "evidence": "8th of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "yuki",
+    "importance": "secondary",
+    "evidence": "9th of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-netherlands-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NL",
+    "softwareId": "visma-accountview",
+    "importance": "secondary",
+    "evidence": "10th of the 15 tools cited by respondents in Chift's 2026 survey (100 respondents in Netherlands).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "xero",
+    "importance": "dominant",
+    "evidence": "1st of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "quickbooks",
+    "importance": "dominant",
+    "evidence": "2nd of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "sage-50",
+    "importance": "dominant",
+    "evidence": "3rd of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom). The report confirms Xero, QuickBooks and Sage as the top trio.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "microsoft-dynamics",
+    "importance": "important",
+    "evidence": "4th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "sage-200",
+    "importance": "important",
+    "evidence": "5th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "sage-intacct",
+    "importance": "important",
+    "evidence": "6th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "clearbooks",
+    "importance": "secondary",
+    "evidence": "7th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "unit4",
+    "importance": "secondary",
+    "evidence": "8th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "freeagent",
+    "importance": "important",
+    "evidence": "9th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom). Ninth in the survey; the report says it is under-represented because it is distributed free through NatWest and RBS.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-the-uk-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "GB",
+    "softwareId": "freshbooks",
+    "importance": "secondary",
+    "evidence": "10th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in United Kingdom).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "sage-50",
+    "importance": "dominant",
+    "evidence": "1st of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "microsoft-dynamics",
+    "importance": "dominant",
+    "evidence": "2nd of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain). Business Central, Dynamics and AX are consolidated into one entry by the report.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "a3-asesor",
+    "importance": "important",
+    "evidence": "3rd of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "sage-200",
+    "importance": "important",
+    "evidence": "4th of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "contasol",
+    "importance": "important",
+    "evidence": "5th of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.sdelsol.com/software-delsol/",
+      "https://www.sdelsol.com/programa-contabilidad-contasol/"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "sage-despachos",
+    "importance": "important",
+    "evidence": "6th of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-spain-a-2026-guide-for-saas-vendors",
+      "https://www.chift.eu/blog/guide-for-fintechs-integrating-accounting-software-in-spain-in-2025"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "a3-erp",
+    "importance": "important",
+    "evidence": "7th of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain). The report says A3ERP is likely under-reported.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "a3-innuva",
+    "importance": "secondary",
+    "evidence": "8th of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "holded",
+    "importance": "secondary",
+    "evidence": "9th of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.holded.com/es",
+      "https://emprendedores.es/gestion/holded-decimo-aniversario/"
+    ]
+  },
+  {
+    "country": "ES",
+    "softwareId": "odoo",
+    "importance": "secondary",
+    "evidence": "10th of the 20 tools cited by respondents in Chift's 2026 survey (200 respondents in Spain).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "teamsystem-studio",
+    "importance": "dominant",
+    "evidence": "1st of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+      "https://www.teamsystem.com/"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "microsoft-dynamics",
+    "importance": "important",
+    "evidence": "2nd of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "ago-infinity",
+    "importance": "important",
+    "evidence": "3rd of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors",
+      "https://www.zucchetti.it/it/dms/zucchetti-it/gruppo/chi-siamo/factsheet2025_ok.pdf"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "profis",
+    "importance": "important",
+    "evidence": "4th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.sistemi.com/",
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "teamsystem-azienda",
+    "importance": "important",
+    "evidence": "5th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "bpoint",
+    "importance": "secondary",
+    "evidence": "6th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "teamsystem-gamma",
+    "importance": "secondary",
+    "evidence": "7th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "datev-koinos",
+    "importance": "secondary",
+    "evidence": "8th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026",
+      "https://www.datevkoinos.it/",
+      "https://www.chift.eu/blog/the-accounting-software-landscape-in-italy-a-2026-guide-for-saas-vendors"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "teamsystem-reviso",
+    "importance": "secondary",
+    "evidence": "9th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "IT",
+    "softwareId": "netsuite",
+    "importance": "secondary",
+    "evidence": "10th of the 14 tools cited by respondents in Chift's 2026 survey (200 respondents in Italy).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DK",
+    "softwareId": "visma-e-conomic",
+    "importance": "dominant",
+    "evidence": "1st of the 14 tools cited by respondents in Chift's 2026 survey (67 respondents in Denmark).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DK",
+    "softwareId": "microsoft-dynamics",
+    "importance": "important",
+    "evidence": "2nd of the 14 tools cited by respondents in Chift's 2026 survey (67 respondents in Denmark).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DK",
+    "softwareId": "dinero",
+    "importance": "important",
+    "evidence": "3rd of the 14 tools cited by respondents in Chift's 2026 survey (67 respondents in Denmark).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DK",
+    "softwareId": "billy",
+    "importance": "important",
+    "evidence": "4th of the 14 tools cited by respondents in Chift's 2026 survey (67 respondents in Denmark).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DK",
+    "softwareId": "uniconta",
+    "importance": "important",
+    "evidence": "5th of the 14 tools cited by respondents in Chift's 2026 survey (67 respondents in Denmark).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DK",
+    "softwareId": "bjorn-lunden",
+    "importance": "secondary",
+    "evidence": "6th of the 14 tools cited by respondents in Chift's 2026 survey (67 respondents in Denmark).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DK",
+    "softwareId": "unit4",
+    "importance": "secondary",
+    "evidence": "7th of the 14 tools cited by respondents in Chift's 2026 survey (67 respondents in Denmark).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "DK",
+    "softwareId": "dynaccount",
+    "importance": "secondary",
+    "evidence": "8th of the 14 tools cited by respondents in Chift's 2026 survey (67 respondents in Denmark).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "fortnox",
+    "importance": "dominant",
+    "evidence": "1st of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "visma-spiris",
+    "importance": "dominant",
+    "evidence": "2nd of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden). The report names Fortnox and Visma Ekonomi (now Spiris) as the two platforms that dominate Sweden.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "microsoft-dynamics",
+    "importance": "important",
+    "evidence": "3rd of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "xledger",
+    "importance": "important",
+    "evidence": "4th of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "bjorn-lunden",
+    "importance": "important",
+    "evidence": "5th of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "unit4",
+    "importance": "secondary",
+    "evidence": "6th of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "finago",
+    "importance": "secondary",
+    "evidence": "7th of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "sage-active",
+    "importance": "secondary",
+    "evidence": "8th of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "SE",
+    "softwareId": "hogia",
+    "importance": "secondary",
+    "evidence": "11th of the 13 tools cited by respondents in Chift's 2026 survey (67 respondents in Sweden).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "microsoft-dynamics",
+    "importance": "dominant",
+    "evidence": "1st of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "tripletex",
+    "importance": "dominant",
+    "evidence": "2nd of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "fiken",
+    "importance": "dominant",
+    "evidence": "3rd of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway). The report names Tripletex, Fiken and PowerOffice as the core platforms.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "poweroffice",
+    "importance": "dominant",
+    "evidence": "4th of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway). The report names Tripletex, Fiken and PowerOffice as the core platforms.",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "finago",
+    "importance": "important",
+    "evidence": "5th of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "xledger",
+    "importance": "important",
+    "evidence": "6th of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "visma-eaccounting",
+    "importance": "secondary",
+    "evidence": "7th of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "unimicro",
+    "importance": "secondary",
+    "evidence": "8th of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "zirius",
+    "importance": "secondary",
+    "evidence": "9th of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  },
+  {
+    "country": "NO",
+    "softwareId": "visma-e-conomic",
+    "importance": "secondary",
+    "evidence": "10th of the 13 tools cited by respondents in Chift's 2026 survey (66 respondents in Norway).",
+    "sources": [
+      "https://www.chift.eu/white-papers-e-books/state-of-european-accounting-tech-2026"
+    ]
+  }
+]

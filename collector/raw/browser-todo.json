@@ -1,0 +1,1314 @@
+{
+ "accountingSoftwareByCountry": {
+  "FR": [
+   "Cegid Quadra",
+   "ACD",
+   "Sage 100",
+   "EBP",
+   "Pennylane",
+   "Sage Génération Experts",
+   "Fulll",
+   "Cegid Loop",
+   "MyUnisoft",
+   "Sage 50",
+   "Tiime",
+   "Inqom",
+   "Isacompta",
+   "Cegid Experts",
+   "Indy",
+   "Odoo"
+  ],
+  "DE": [
+   "DATEV",
+   "Microsoft Dynamics",
+   "Lexware Office",
+   "sevdesk",
+   "Sage 100 (Germany)",
+   "FastBill",
+   "Sage Active",
+   "Unit4",
+   "Agenda",
+   "Exact Online",
+   "ADDISON"
+  ],
+  "BE": [
+   "WinBooks",
+   "Exact Online",
+   "Octopus",
+   "Yuki",
+   "Sage BOB 50",
+   "Adsolut",
+   "Horus",
+   "Kluwer Expert/M",
+   "Odoo",
+   "Winauditor"
+  ],
+  "NL": [
+   "Exact Online",
+   "AFAS",
+   "e-Boekhouden",
+   "Twinfield",
+   "Moneybird",
+   "Visma eAccounting",
+   "SnelStart",
+   "Minox",
+   "Yuki",
+   "Visma AccountView"
+  ],
+  "GB": [
+   "Xero",
+   "QuickBooks",
+   "Sage 50",
+   "Microsoft Dynamics",
+   "Sage 200",
+   "Sage Intacct",
+   "Clear Books",
+   "Unit4",
+   "FreeAgent",
+   "FreshBooks"
+  ],
+  "ES": [
+   "Sage 50",
+   "Microsoft Dynamics",
+   "A3 Asesor",
+   "Sage 200",
+   "Contasol (Software DELSOL)",
+   "Sage Despachos",
+   "A3 ERP",
+   "A3 Innuva",
+   "Holded",
+   "Odoo"
+  ],
+  "IT": [
+   "TeamSystem Studio",
+   "Microsoft Dynamics",
+   "AGO Infinity",
+   "Profis",
+   "TeamSystem Azienda",
+   "B.Point",
+   "TeamSystem Gamma",
+   "DATEV Koinos",
+   "TeamSystem Reviso",
+   "NetSuite"
+  ],
+  "DK": [
+   "Visma e-conomic",
+   "Microsoft Dynamics",
+   "Dinero",
+   "Billy",
+   "Uniconta",
+   "Björn Lundén",
+   "Unit4",
+   "Dynaccount"
+  ],
+  "SE": [
+   "Fortnox",
+   "Visma Spiris",
+   "Microsoft Dynamics",
+   "Xledger",
+   "Björn Lundén",
+   "Unit4",
+   "Finago (24SevenOffice)",
+   "Sage Active",
+   "Hogia"
+  ],
+  "NO": [
+   "Microsoft Dynamics",
+   "Tripletex",
+   "Fiken",
+   "PowerOffice",
+   "Finago (24SevenOffice)",
+   "Xledger",
+   "Visma eAccounting",
+   "Unimicro",
+   "Zirius",
+   "Visma e-conomic"
+  ]
+ },
+ "vendors": [
+  {
+   "editorId": "revolut-business",
+   "name": "Revolut Business",
+   "domain": "revolut.com",
+   "category": "banking",
+   "hq": "GB",
+   "markets": [
+    "GB"
+   ],
+   "unreadablePages": [
+    "https://www.revolut.com/business/integrations/",
+    "https://www.revolut.com/en-FR/business/integrations/",
+    "https://www.revolut.com/business/accounting-integrations/",
+    "https://help.revolut.com/business/",
+    "https://help.revolut.com/en-FR/business/help/",
+    "https://developer.revolut.com/",
+    "https://www.revolut.com/sitemap-index.xml",
+    "https://www.revolut.com/llms.txt"
+   ],
+   "alreadyKnown": []
+  },
+  {
+   "editorId": "zervant",
+   "name": "Zervant",
+   "domain": "zervant.com",
+   "category": "invoicing",
+   "hq": "FI",
+   "markets": [],
+   "unreadablePages": [
+    "https://www.ageras.com/us/support/360055443532-FAQ"
+   ],
+   "alreadyKnown": []
+  },
+  {
+   "editorId": "combo",
+   "name": "Combo",
+   "domain": "combohr.com",
+   "category": "hr",
+   "hq": "FR",
+   "markets": [
+    "FR"
+   ],
+   "unreadablePages": [
+    "https://combohr.com/fr/integrations",
+    "https://guide.combohr.com/fr/articles/907429-gerer-votre-export-paie",
+    "https://guide.combohr.com/fr/collections/1610545-communiquer-notre-export-paie-a-votre-cabinet-comptable"
+   ],
+   "alreadyKnown": []
+  },
+  {
+   "editorId": "personio",
+   "name": "Personio",
+   "domain": "personio.com",
+   "category": "hr",
+   "hq": "DE",
+   "markets": [
+    "DE"
+   ],
+   "unreadablePages": [
+    "https://www.personio.com/product/integrations/",
+    "https://www.personio.com/robots.txt",
+    "https://www.personio.de/produkt/integrationen/",
+    "https://marketplace.personio.com/",
+    "https://www.marketplace.personio.com/integrations/datev/",
+    "https://www.marketplace.personio.com/collection/personio/",
+    "https://support.personio.de/hc/en-us",
+    "https://support.personio.de/hc/en-us/articles/115003711325",
+    "https://community.personio.com/product-updates/how-does-personio-payroll-influence-the-integration-and-partnership-with-datev-2210"
+   ],
+   "alreadyKnown": []
+  },
+  {
+   "editorId": "billomat",
+   "name": "Billomat",
+   "domain": "billomat.com",
+   "category": "invoicing",
+   "hq": "DE",
+   "markets": [
+    "DE"
+   ],
+   "unreadablePages": [
+    "https://www.billomat.com/schnittstellen/",
+    "https://faq.billomat.com/de/wie-kann-ich-meine-daten-dem-steuerberater-zukommen-lassen"
+   ],
+   "alreadyKnown": [
+    "Agenda",
+    "DATEV"
+   ]
+  },
+  {
+   "editorId": "factorial",
+   "name": "Factorial",
+   "domain": "factorialhr.com",
+   "category": "hr",
+   "hq": "ES",
+   "markets": [
+    "DE",
+    "ES"
+   ],
+   "unreadablePages": [
+    "https://factorial.es/finanzas"
+   ],
+   "alreadyKnown": [
+    "DATEV",
+    "Microsoft Dynamics"
+   ]
+  },
+  {
+   "editorId": "fastbill",
+   "name": "FastBill",
+   "domain": "fastbill.com",
+   "category": "invoicing",
+   "hq": "DE",
+   "markets": [
+    "DE"
+   ],
+   "unreadablePages": [
+    "https://www.fastbill.com/integrationen"
+   ],
+   "alreadyKnown": [
+    "ADDISON",
+    "Agenda",
+    "DATEV"
+   ]
+  },
+  {
+   "editorId": "payplug",
+   "name": "Payplug",
+   "domain": "payplug.com",
+   "category": "pos",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "BE",
+    "ES"
+   ],
+   "unreadablePages": [
+    "https://www.payplug.com/fr/integrations/"
+   ],
+   "alreadyKnown": [
+    "EBP",
+    "Odoo",
+    "Pennylane"
+   ]
+  },
+  {
+   "editorId": "circula",
+   "name": "Circula",
+   "domain": "circula.com",
+   "category": "expense",
+   "hq": "DE",
+   "markets": [
+    "DE",
+    "NL"
+   ],
+   "unreadablePages": [
+    "https://www.circula.com/en/integrations"
+   ],
+   "alreadyKnown": [
+    "ADDISON",
+    "DATEV",
+    "Microsoft Dynamics",
+    "Twinfield"
+   ]
+  },
+  {
+   "editorId": "kontist",
+   "name": "Kontist",
+   "domain": "kontist.com",
+   "category": "banking",
+   "hq": "DE",
+   "markets": [
+    "DE"
+   ],
+   "unreadablePages": [
+    "https://kontist.com/product/lexoffice-video/",
+    "https://kontist.com/product/debitoor-video/",
+    "https://intercom.help/kontist/de/articles/2455128-wie-kann-ich-sehen-ob-meine-kontist-app-richtig-mit-debitoor-fastbill-lexoffice-verbunden-ist"
+   ],
+   "alreadyKnown": [
+    "DATEV",
+    "FastBill",
+    "Lexware Office",
+    "sevdesk"
+   ]
+  },
+  {
+   "editorId": "trezy",
+   "name": "Trezy",
+   "domain": "trezy.io",
+   "category": "cash",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "GB"
+   ],
+   "unreadablePages": [
+    "https://www.trezy.io/fr/integrations"
+   ],
+   "alreadyKnown": [
+    "Cegid Loop",
+    "Cegid Quadra",
+    "Pennylane",
+    "QuickBooks"
+   ]
+  },
+  {
+   "editorId": "plancraft",
+   "name": "plancraft",
+   "domain": "plancraft.com",
+   "category": "construction",
+   "hq": "DE",
+   "markets": [
+    "DE",
+    "BE",
+    "NL"
+   ],
+   "unreadablePages": [
+    "https://help.plancraft.com/en/collections/707348-general",
+    "https://help.plancraft.com/nl/?q=moneybird"
+   ],
+   "alreadyKnown": [
+    "DATEV",
+    "Exact Online",
+    "Moneybird",
+    "SnelStart"
+   ]
+  },
+  {
+   "editorId": "hero-software",
+   "name": "HERO Software",
+   "domain": "hero-software.de",
+   "category": "construction",
+   "hq": "DE",
+   "markets": [
+    "DE",
+    "BE",
+    "NL"
+   ],
+   "unreadablePages": [
+    "https://support.hero-software.de/hc/s/"
+   ],
+   "alreadyKnown": [
+    "DATEV",
+    "Exact Online",
+    "Lexware Office",
+    "SnelStart"
+   ]
+  },
+  {
+   "editorId": "holvi",
+   "name": "Holvi",
+   "domain": "holvi.com",
+   "category": "banking",
+   "hq": "FI",
+   "markets": [
+    "DE",
+    "SE",
+    "NO"
+   ],
+   "unreadablePages": [
+    "https://www.holvi.com/integrations/"
+   ],
+   "alreadyKnown": [
+    "DATEV",
+    "FastBill",
+    "Finago (24SevenOffice)",
+    "Lexware Office",
+    "sevdesk"
+   ]
+  },
+  {
+   "editorId": "commitly",
+   "name": "Commitly",
+   "domain": "commitly.com",
+   "category": "cash",
+   "hq": "DE",
+   "markets": [
+    "DE"
+   ],
+   "unreadablePages": [
+    "https://www.commitly.com/integrationen"
+   ],
+   "alreadyKnown": [
+    "Agenda",
+    "DATEV",
+    "FastBill",
+    "Lexware Office",
+    "sevdesk"
+   ]
+  },
+  {
+   "editorId": "easybill",
+   "name": "easybill",
+   "domain": "easybill.de",
+   "category": "invoicing",
+   "hq": "DE",
+   "markets": [
+    "DE"
+   ],
+   "unreadablePages": [
+    "https://www.easybill.de/schnittstellen"
+   ],
+   "alreadyKnown": [
+    "ADDISON",
+    "Agenda",
+    "DATEV",
+    "Lexware Office",
+    "sevdesk"
+   ]
+  },
+  {
+   "editorId": "rydoo",
+   "name": "Rydoo",
+   "domain": "rydoo.com",
+   "category": "expense",
+   "hq": "BE",
+   "markets": [
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "IT"
+   ],
+   "unreadablePages": [
+    "https://help.rydoo.com/hc/en-be",
+    "https://help.rydoo.com/hc/en-be/articles/8218210851996-ERP-business-software",
+    "https://www.rydoo.com/fr/integrations/"
+   ],
+   "alreadyKnown": [
+    "DATEV",
+    "Exact Online",
+    "Microsoft Dynamics",
+    "NetSuite",
+    "QuickBooks",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "tide",
+   "name": "Tide",
+   "domain": "tide.co",
+   "category": "banking",
+   "hq": "GB",
+   "markets": [
+    "FR",
+    "DE",
+    "GB",
+    "ES"
+   ],
+   "unreadablePages": [
+    "https://www.tide.co/support/features/tide-accounting/accounting-software-integrations/",
+    "https://www.tide.co/support/features/tide-accounting/how-can-i-connect-my-tide-account-to-xero/"
+   ],
+   "alreadyKnown": [
+    "Clear Books",
+    "DATEV",
+    "FreeAgent",
+    "QuickBooks",
+    "Sage 50",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "candis",
+   "name": "Candis",
+   "domain": "candis.io",
+   "category": "payables",
+   "hq": "DE",
+   "markets": [
+    "FR",
+    "DE",
+    "IT"
+   ],
+   "unreadablePages": [
+    "https://www.candis.io/en/integrations"
+   ],
+   "alreadyKnown": [
+    "ADDISON",
+    "Agenda",
+    "DATEV",
+    "Microsoft Dynamics",
+    "NetSuite",
+    "Sage 100"
+   ]
+  },
+  {
+   "editorId": "obat",
+   "name": "Obat",
+   "domain": "obat.fr",
+   "category": "construction",
+   "hq": "FR",
+   "markets": [
+    "FR"
+   ],
+   "unreadablePages": [
+    "https://www.obat.fr/sitemap.xml"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "Cegid Loop",
+    "Fulll",
+    "Inqom",
+    "MyUnisoft",
+    "Pennylane"
+   ]
+  },
+  {
+   "editorId": "payfit",
+   "name": "PayFit",
+   "domain": "payfit.com",
+   "category": "hr",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "BE",
+    "GB",
+    "ES",
+    "IT"
+   ],
+   "unreadablePages": [
+    "https://help.payfit.com/hc/fr/articles/360000633589"
+   ],
+   "alreadyKnown": [
+    "Holded",
+    "NetSuite",
+    "Odoo",
+    "Pennylane",
+    "QuickBooks",
+    "Sage 50",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "sumup",
+   "name": "SumUp",
+   "domain": "sumup.com",
+   "category": "pos",
+   "hq": "GB",
+   "markets": [
+    "FR",
+    "DE",
+    "GB"
+   ],
+   "unreadablePages": [
+    "https://www.sumup.com/fr-fr/integrations/",
+    "https://help.sumup.com/fr-FR/articles/40kv0a4cBysasUUXN3zkpc"
+   ],
+   "alreadyKnown": [
+    "Cegid Experts",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "DATEV",
+    "Inqom",
+    "MyUnisoft",
+    "QuickBooks",
+    "sevdesk",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "jenji",
+   "name": "Jenji",
+   "domain": "jenji.io",
+   "category": "expense",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "GB",
+    "ES"
+   ],
+   "unreadablePages": [
+    "https://support.jenji.io/hc/fr",
+    "https://support.jenji.io/hc/en-us/articles/15804193165842-Set-up-the-accounting-export",
+    "https://www.jenji.io/en/integrations",
+    "https://www.jenji.io/de/integrations"
+   ],
+   "alreadyKnown": [
+    "Cegid Loop",
+    "Cegid Quadra",
+    "DATEV",
+    "Isacompta",
+    "Microsoft Dynamics",
+    "Odoo",
+    "QuickBooks",
+    "Sage 100",
+    "Sage Génération Experts",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "sellsy",
+   "name": "Sellsy",
+   "domain": "sellsy.com",
+   "category": "invoicing",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "GB",
+    "ES"
+   ],
+   "unreadablePages": [
+    "https://www.sellsy.com/integrations",
+    "https://help.sellsy.com/fr/articles/9685281-connexion-outils-comptables-via-chift",
+    "https://go.sellsy.com/en/marketplace"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "Cegid Loop",
+    "EBP",
+    "Fulll",
+    "Inqom",
+    "MyUnisoft",
+    "Pennylane",
+    "Sage 100",
+    "Sage 50",
+    "Sage Génération Experts",
+    "Tiime"
+   ]
+  },
+  {
+   "editorId": "axonaut",
+   "name": "Axonaut",
+   "domain": "axonaut.com",
+   "category": "invoicing",
+   "hq": "FR",
+   "markets": [
+    "FR"
+   ],
+   "unreadablePages": [
+    "https://axonaut.com/integrations"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "EBP",
+    "Fulll",
+    "Inqom",
+    "MyUnisoft",
+    "Pennylane",
+    "Sage 100",
+    "Sage Génération Experts",
+    "Tiime"
+   ]
+  },
+  {
+   "editorId": "memo-bank",
+   "name": "Memo Bank",
+   "domain": "memo.bank",
+   "category": "banking",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "BE",
+    "ES",
+    "IT"
+   ],
+   "unreadablePages": [
+    "https://memo.bank/en/product/integrations/"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "EBP",
+    "Fulll",
+    "Indy",
+    "Isacompta",
+    "MyUnisoft",
+    "NetSuite",
+    "Odoo",
+    "Pennylane",
+    "Sage 100",
+    "Sage Génération Experts",
+    "Tiime"
+   ]
+  },
+  {
+   "editorId": "chaintrust",
+   "name": "Chaintrust",
+   "domain": "chaintrust.io",
+   "category": "payables",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "GB",
+    "ES"
+   ],
+   "unreadablePages": [
+    "https://aide.chaintrust.io/hc/fr/categories/9070906091421-Je-suis-expert-comptable"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "Cegid Experts",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "EBP",
+    "Fulll",
+    "Inqom",
+    "Isacompta",
+    "MyUnisoft",
+    "Pennylane",
+    "Sage 100",
+    "Sage 50",
+    "Sage Génération Experts",
+    "Tiime"
+   ]
+  },
+  {
+   "editorId": "gocardless",
+   "name": "GoCardless",
+   "domain": "gocardless.com",
+   "category": "pos",
+   "hq": "GB",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "GB",
+    "ES",
+    "IT"
+   ],
+   "unreadablePages": [
+    "https://gocardless.com/integrations/",
+    "https://gocardless.com/de-de/partner/lexoffice"
+   ],
+   "alreadyKnown": [
+    "Clear Books",
+    "EBP",
+    "FreeAgent",
+    "Holded",
+    "Lexware Office",
+    "Microsoft Dynamics",
+    "NetSuite",
+    "Odoo",
+    "Pennylane",
+    "QuickBooks",
+    "Sage 200",
+    "Sage 50",
+    "Sage Intacct",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "payhawk",
+   "name": "Payhawk",
+   "domain": "payhawk.com",
+   "category": "expense",
+   "hq": "GB",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "ES",
+    "IT"
+   ],
+   "unreadablePages": [
+    "https://payhawk.com/help/datev",
+    "https://payhawk.com/de/integrations",
+    "https://payhawk.com/nl/integrations",
+    "https://payhawk.com/en-be/integrations"
+   ],
+   "alreadyKnown": [
+    "AFAS",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "DATEV",
+    "Exact Online",
+    "Microsoft Dynamics",
+    "NetSuite",
+    "Odoo",
+    "Pennylane",
+    "QuickBooks",
+    "Sage 100",
+    "Sage 200",
+    "Sage 50",
+    "Sage Intacct",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "shine",
+   "name": "Shine",
+   "domain": "shine.fr",
+   "category": "banking",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "GB",
+    "ES"
+   ],
+   "unreadablePages": [
+    "https://www.shine.fr/integrations/"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "Cegid Experts",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "EBP",
+    "Fulll",
+    "Indy",
+    "Inqom",
+    "Isacompta",
+    "MyUnisoft",
+    "Pennylane",
+    "Sage 100",
+    "Sage 50",
+    "Sage Génération Experts",
+    "Tiime"
+   ]
+  },
+  {
+   "editorId": "bunq",
+   "name": "bunq",
+   "domain": "bunq.com",
+   "category": "banking",
+   "hq": "NL",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "IT",
+    "DK"
+   ],
+   "unreadablePages": [
+    "https://www.bunq.com/en-nl/bookkeeping-integrations",
+    "https://www.bunq.com/features/bookkeeping-software-integrations",
+    "https://developers.bunq.com/benefits/bookkeeping"
+   ],
+   "alreadyKnown": [
+    "ADDISON",
+    "AFAS",
+    "Agenda",
+    "DATEV",
+    "e-Boekhouden",
+    "Exact Online",
+    "FastBill",
+    "FreshBooks",
+    "Microsoft Dynamics",
+    "Minox",
+    "Moneybird",
+    "NetSuite",
+    "Pennylane",
+    "sevdesk",
+    "SnelStart",
+    "Twinfield",
+    "Uniconta",
+    "Yuki"
+   ]
+  },
+  {
+   "editorId": "mollie",
+   "name": "Mollie",
+   "domain": "mollie.com",
+   "category": "pos",
+   "hq": "NL",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "ES",
+    "IT",
+    "NO"
+   ],
+   "unreadablePages": [
+    "https://help.mollie.com/hc/en-us/articles/4407521562130-What-do-I-need-to-know-about-Mollie-s-DATEV-export"
+   ],
+   "alreadyKnown": [
+    "AFAS",
+    "DATEV",
+    "e-Boekhouden",
+    "Exact Online",
+    "Microsoft Dynamics",
+    "Minox",
+    "Moneybird",
+    "NetSuite",
+    "Odoo",
+    "Pennylane",
+    "QuickBooks",
+    "SnelStart",
+    "Twinfield",
+    "Unit4",
+    "Visma AccountView",
+    "Visma eAccounting",
+    "Xero",
+    "Yuki"
+   ]
+  },
+  {
+   "editorId": "zettle",
+   "name": "Zettle by PayPal (PayPal Point of Sale)",
+   "domain": "zettle.com",
+   "category": "pos",
+   "hq": "SE",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "DK",
+    "SE",
+    "NO"
+   ],
+   "unreadablePages": [
+    "https://www.zettle.com/gb/integrations/accounting"
+   ],
+   "alreadyKnown": [
+    "Billy",
+    "Björn Lundén",
+    "Dinero",
+    "e-Boekhouden",
+    "Exact Online",
+    "Fiken",
+    "Fortnox",
+    "Inqom",
+    "MyUnisoft",
+    "Pennylane",
+    "QuickBooks",
+    "Sage Génération Experts",
+    "SnelStart",
+    "Twinfield",
+    "Visma e-conomic",
+    "Visma eAccounting",
+    "Xero",
+    "Yuki"
+   ]
+  },
+  {
+   "editorId": "lucca",
+   "name": "Lucca",
+   "domain": "lucca.fr",
+   "category": "hr",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "ES"
+   ],
+   "unreadablePages": [
+    "https://www.lucca.fr/integration-logiciel/comptabilite"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "AFAS",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "EBP",
+    "Exact Online",
+    "FreeAgent",
+    "Fulll",
+    "Inqom",
+    "Microsoft Dynamics",
+    "MyUnisoft",
+    "Odoo",
+    "Pennylane",
+    "QuickBooks",
+    "Sage 100",
+    "Sage BOB 50",
+    "Sage Génération Experts",
+    "Tiime",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "teamleader",
+   "name": "Teamleader",
+   "domain": "teamleader.eu",
+   "category": "invoicing",
+   "hq": "BE",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "ES",
+    "DK",
+    "SE",
+    "NO"
+   ],
+   "unreadablePages": [
+    "https://support.focus.teamleader.eu/hc/en-150/articles/25691318213393-What-are-the-available-bookkeeping-integrations-in-Teamleader-Focus-per-country",
+    "https://support.focus.teamleader.eu/hc/articles/42086681298577"
+   ],
+   "alreadyKnown": [
+    "Adsolut",
+    "AFAS",
+    "Björn Lundén",
+    "Cegid Quadra",
+    "DATEV",
+    "e-Boekhouden",
+    "Exact Online",
+    "Horus",
+    "Microsoft Dynamics",
+    "Minox",
+    "Moneybird",
+    "Octopus",
+    "Pennylane",
+    "QuickBooks",
+    "Sage 50",
+    "Sage BOB 50",
+    "SnelStart",
+    "Twinfield",
+    "Visma AccountView",
+    "Visma eAccounting",
+    "Xero",
+    "Yuki"
+   ]
+  },
+  {
+   "editorId": "yooz",
+   "name": "Yooz",
+   "domain": "getyooz.com",
+   "category": "payables",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "ES",
+    "IT"
+   ],
+   "unreadablePages": [
+    "https://www.getyooz.com/fr/integrations",
+    "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-A3ECO-SP.pdf"
+   ],
+   "alreadyKnown": [
+    "A3 Asesor",
+    "ACD",
+    "Cegid Experts",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "Contasol (Software DELSOL)",
+    "EBP",
+    "Exact Online",
+    "Fulll",
+    "Inqom",
+    "Isacompta",
+    "Microsoft Dynamics",
+    "MyUnisoft",
+    "NetSuite",
+    "Odoo",
+    "Pennylane",
+    "QuickBooks",
+    "Sage 100",
+    "Sage 200",
+    "Sage 50",
+    "Sage Despachos",
+    "Sage Intacct",
+    "Tiime",
+    "Unit4",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "pleo",
+   "name": "Pleo",
+   "domain": "pleo.io",
+   "category": "expense",
+   "hq": "DK",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "ES",
+    "IT",
+    "DK",
+    "SE",
+    "NO"
+   ],
+   "unreadablePages": [
+    "https://help.pleo.io/en/",
+    "https://help.pleo.io/en/support/solutions/folders/103000630935",
+    "https://www.pleo.io/en/integrations/sage-1",
+    "https://integrations.pleo.io/category/accounting"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "ADDISON",
+    "AFAS",
+    "Billy",
+    "Cegid Loop",
+    "DATEV",
+    "Dinero",
+    "Exact Online",
+    "Fortnox",
+    "FreeAgent",
+    "Holded",
+    "Lexware Office",
+    "Microsoft Dynamics",
+    "MyUnisoft",
+    "NetSuite",
+    "Odoo",
+    "QuickBooks",
+    "Sage 200",
+    "Sage 50",
+    "Sage Intacct",
+    "Twinfield",
+    "Uniconta",
+    "Visma e-conomic",
+    "Visma Spiris",
+    "Xero",
+    "Xledger"
+   ]
+  },
+  {
+   "editorId": "agicap",
+   "name": "Agicap",
+   "domain": "agicap.com",
+   "category": "cash",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "GB",
+    "ES",
+    "IT"
+   ],
+   "unreadablePages": [
+    "https://help.agicap.com/",
+    "https://agicap.com/fr/integrations/"
+   ],
+   "alreadyKnown": [
+    "A3 ERP",
+    "ACD",
+    "Cegid Experts",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "DATEV",
+    "DATEV Koinos",
+    "EBP",
+    "Fulll",
+    "Holded",
+    "Inqom",
+    "Lexware Office",
+    "Microsoft Dynamics",
+    "MyUnisoft",
+    "NetSuite",
+    "Odoo",
+    "Pennylane",
+    "Profis",
+    "QuickBooks",
+    "Sage 100",
+    "Sage 200",
+    "Sage 50",
+    "Sage Génération Experts",
+    "Sage Intacct",
+    "sevdesk",
+    "Tiime",
+    "Xero"
+   ]
+  },
+  {
+   "editorId": "lightspeed",
+   "name": "Lightspeed",
+   "domain": "lightspeedhq.com",
+   "category": "pos",
+   "hq": "CA",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "IT",
+    "NO"
+   ],
+   "unreadablePages": [
+    "https://x-series-support.lightspeedhq.com/hc/en-us/articles/25534073571611-Setting-up-the-Xero-integration-with-Retail-POS-X-Series",
+    "https://www.lightspeedhq.ch/integrationen/",
+    "https://fr.lightspeedhq.ch/integrations/",
+    "https://www.lightspeedhq.fr/caisse-enregistreuse/restaurant/integrations/"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "Adsolut",
+    "AFAS",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "DATEV",
+    "e-Boekhouden",
+    "Exact Online",
+    "Horus",
+    "Inqom",
+    "Kluwer Expert/M",
+    "Minox",
+    "Moneybird",
+    "MyUnisoft",
+    "NetSuite",
+    "Octopus",
+    "Pennylane",
+    "QuickBooks",
+    "Sage 100",
+    "Sage BOB 50",
+    "Sage Génération Experts",
+    "Sage Intacct",
+    "SnelStart",
+    "Tiime",
+    "Twinfield",
+    "Visma eAccounting",
+    "Winauditor",
+    "Xero",
+    "Yuki"
+   ]
+  },
+  {
+   "editorId": "qonto",
+   "name": "Qonto",
+   "domain": "qonto.com",
+   "category": "banking",
+   "hq": "FR",
+   "markets": [
+    "FR",
+    "DE",
+    "BE",
+    "NL",
+    "GB",
+    "ES",
+    "IT",
+    "NO"
+   ],
+   "unreadablePages": [
+    "https://support-fr.qonto.com/hc/fr",
+    "https://qonto.com/en/integrations/sagebob50-sync-ap"
+   ],
+   "alreadyKnown": [
+    "ACD",
+    "ADDISON",
+    "AFAS",
+    "Agenda",
+    "Cegid Experts",
+    "Cegid Loop",
+    "Cegid Quadra",
+    "DATEV",
+    "EBP",
+    "Exact Online",
+    "FastBill",
+    "Fulll",
+    "Horus",
+    "Inqom",
+    "Isacompta",
+    "Lexware Office",
+    "Microsoft Dynamics",
+    "Minox",
+    "Moneybird",
+    "MyUnisoft",
+    "NetSuite",
+    "Octopus",
+    "Odoo",
+    "Pennylane",
+    "Sage 100",
+    "Sage BOB 50",
+    "Sage Despachos",
+    "Sage Génération Experts",
+    "sevdesk",
+    "TeamSystem Azienda",
+    "TeamSystem Gamma",
+    "TeamSystem Studio",
+    "Tiime",
+    "Twinfield",
+    "Visma eAccounting",
+    "Xero",
+    "Yuki"
+   ]
+  }
+ ]
+}

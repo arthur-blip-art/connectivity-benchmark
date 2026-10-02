@@ -1,0 +1,1052 @@
+[
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/en-gb/erp/quickbooks-online",
+  "evidence": "API-based connectivity, bi-directional data flows"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/fr/blog/automatiser-factures-fulll",
+  "evidence": "Native integration, interoperable via Fulll API"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/fr/erp/automatisation-comptabilite-microsoft-dynamics",
+  "evidence": "Yooz connector, automated data exchange; UK infographic says API integration"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/fr/erp/oracle-netsuite",
+  "evidence": "Native integration, REST and SOAP API connectivity"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+  "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+  "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+  "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+  "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "unit4",
+  "software": "Unit4",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/fr/logiciels-comptables-et-erp-connectes",
+  "evidence": "Logo on connected-ERP list (250+ native connectors); mechanism not detailed"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "a3-asesor",
+  "software": "A3 Asesor",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-A3ASESOR-SP.pdf",
+  "evidence": "Conector Yooz - A3ASESOR, automated integration"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "contasol",
+  "software": "Contasol (Software DELSOL)",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-Contasol-SP.pdf",
+  "evidence": "Conector nativo Yooz - CONTASOL, API Yooz"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "sage-despachos",
+  "software": "Sage Despachos",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infografia-Integracion-Sage-Despachos-SP-v07.pdf",
+  "evidence": "Conector Yooz - Sage Despachos, native connector"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "sage-200",
+  "software": "Sage 200",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-Sage-200-Standard-UK.pdf",
+  "evidence": "Connector with Sage 200 Standard"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographic-Sage-50-UK.pdf",
+  "evidence": "Connector with Sage 50 (UK); native connector Sage 50 Contaplus (ES)"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-ACD.pdf",
+  "evidence": "Connecteur API Yooz - ACD Expert, native connector"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Cegid-Loop.pdf",
+  "evidence": "API Cegid Loop, native Yooz connector. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Exact-Online-FR.pdf",
+  "evidence": "Native connector Yooz - Exact Online"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Inqom-FR.pdf",
+  "evidence": "Connecteur API - Yooz / Inqom"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Integration-EBP-v05.pdf",
+  "evidence": "Connecteur Yooz - EBP, API Yooz"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-MyUnisoft-FR-1.pdf",
+  "evidence": "Bidirectional connector, native MyUnisoft & Yooz integration. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Pennylane-FR.pdf",
+  "evidence": "Interface API Yooz <> Pennylane. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "sage-intacct",
+  "software": "Sage Intacct",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Sage-Intacct-FR.pdf",
+  "evidence": "Connecteur (API) Yooz - Sage Intacct"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Sage100-FR-1.pdf",
+  "evidence": "Native connector Yooz - Sage 100; US infographic: API integration"
+ },
+ {
+  "editorId": "yooz",
+  "editor": "Yooz",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getyooz.com/wp-content/uploads/Yooz-Infographie-Xero-FR.pdf",
+  "evidence": "Connecteur (API) Yooz - Xero"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/en/business/product/integrate-with-accounting-software/xero",
+  "evidence": "Receipts and bills reach Xero coded, with tax rate and tracking categories"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/fr/ressources/export-comptable-et-integration/acd",
+  "evidence": "Direct API integration: chart of accounts synced, entries published in one click. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/fr/ressources/export-comptable-et-integration/agiris",
+  "evidence": "Dedicated Agiris export format (purchases and sales with images). Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/fr/ressources/export-comptable-et-integration/ebp",
+  "evidence": "API connection: import chart of accounts, publish purchase entries to EBP"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/fr/ressources/export-comptable-et-integration/fulll",
+  "evidence": "API integration: import chart of accounts and publish entries to Fulll. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/fr/ressources/export-comptable-et-integration/myunisoft",
+  "evidence": "Direct API connection: publish entries directly to MyUnisoft. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/fr/ressources/export-comptable-et-integration/pennylane",
+  "evidence": "Direct API integration: sync chart of accounts, publish entries with images. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/fr/ressources/export-comptable-et-integration/sage",
+  "evidence": "Sage 50 or 100 (Sage Ciel): export entries as FEC without images"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://dext.com/fr/ressources/export-comptable-et-integration/sage",
+  "evidence": "Direct API connection with Sage Generation Expert (GE); also GE export formats. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "sage-50",
+  "software": "Sage 50",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/en/articles/105795-how-to-connect-dext-to-sage-50-uk",
+  "evidence": "Connects to Sage 50 UK through the Dext Connect App"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "freeagent",
+  "software": "FreeAgent",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/en/articles/220009-how-to-connect-dext-to-freeagent",
+  "evidence": "Publish cost items, expense claims and sales directly to FreeAgent"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "twinfield",
+  "software": "Twinfield",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/en/articles/222160-how-dext-works-with-twinfield",
+  "evidence": "Publish Cost and Sales documents directly to your Twinfield organisation"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/en/articles/339551-how-to-connect-dext-to-your-accounting-software",
+  "evidence": "Listed as main accounting software that can be connected to Dext"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "visma-e-conomic",
+  "software": "Visma e-conomic",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/en/articles/758038-what-csv-export-formats-are-available-in-dext",
+  "evidence": "CSV format matching Visma e-conomic purchase voucher layout (Nordic)"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/fr/articles/106302-exporter-ses-ecritures-dans-inqom-cabinets",
+  "evidence": "Import entries and images into Inqom via enhanced FEC + images export"
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "cegid-experts",
+  "software": "Cegid Experts",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/fr/articles/208429-exporter-les-ecritures-vers-cegid-expert-sans-api",
+  "evidence": "Export entries to Cegid Expert without API (Cegid TRA format). Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/fr/articles/208438-connecter-dext-a-loop-par-api",
+  "evidence": "Connect Dext to Cegid Loop by API to sync and publish entries. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "dext",
+  "editor": "Dext",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.dext.com/fr/articles/458456-connecter-dext-a-cegid-quadra-par-api",
+  "evidence": "API key from CegidLife; publish documents to Quadra in one click. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: EBICS (direct EBICS TS connection)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: EBICS (direct EBICS TS connection)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "fulll",
+  "software": "Fulll",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "indy",
+  "software": "Indy",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Bridge (third-party aggregator)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Jedeclare.com (third-party aggregator)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Salt Edge (third-party aggregator)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: EBICS (direct EBICS TS connection)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Bridge (third-party aggregator)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: EBICS (direct EBICS TS connection)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: EBICS (direct EBICS TS connection)"
+ },
+ {
+  "editorId": "memo-bank",
+  "editor": "Memo Bank",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://memo.bank/produit/integrations/",
+  "evidence": "Listed with connector: Powens (third-party aggregator)"
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/de/",
+  "evidence": "FAQ list of compatible accounting/ERP/payroll programs"
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/de/reisekostenabrechnungen/buchhaltungsexport/",
+  "evidence": "booking entries generated directly in the matching format for your system"
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/en/expense-report/accounting-export/",
+  "evidence": "\"entries are generated directly in the format accepted by your ecosystem\""
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/en/expense-report/accounting-export/",
+  "evidence": "\"entries are generated directly in the format accepted by your ecosystem\""
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "isacompta",
+  "software": "Isacompta",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/fr/nos-integrations/agiris/",
+  "evidence": "Dedicated page 'N2F integrates with Agiris'; mechanism not described. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "teamsystem-azienda",
+  "software": "TeamSystem Azienda",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/fr/nos-integrations/teamsystem/",
+  "evidence": "Page names \"TeamSystem\" without the product. Dedicated page 'N2F integrates with TeamSystem'; mechanism not described"
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "teamsystem-gamma",
+  "software": "TeamSystem Gamma",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/fr/nos-integrations/teamsystem/",
+  "evidence": "Page names \"TeamSystem\" without the product. Dedicated page 'N2F integrates with TeamSystem'; mechanism not described"
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "teamsystem-studio",
+  "software": "TeamSystem Studio",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/fr/nos-integrations/teamsystem/",
+  "evidence": "Page names \"TeamSystem\" without the product. Dedicated page 'N2F integrates with TeamSystem'; mechanism not described"
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/fr/nos-integrations/tiime/",
+  "evidence": "Dedicated page 'N2F integrates with Tiime'; mechanism not described. Also listed in connect-compta (direct connection)."
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "unit4",
+  "software": "Unit4",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/fr/nos-integrations/unit4/",
+  "evidence": "Dedicated page 'N2F integrates with UNIT4'; mechanism not described"
+ },
+ {
+  "editorId": "n2f",
+  "editor": "N2F",
+  "softwareId": "ago-infinity",
+  "software": "AGO Infinity",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.n2f.com/fr/nos-integrations/zucchetti/",
+  "evidence": "Page names \"Zucchetti\" without the product. Dedicated page 'N2F integrates with Zucchetti'; mechanism not described"
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://axonaut.com/blog/axonaut-acd/",
+  "evidence": "'les factures clients et fournisseurs sont transmises automatiquement ... au logiciel ACD'. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "cegid-loop",
+  "software": "Cegid Loop",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://axonaut.com/blog/axonaut-cegid/",
+  "evidence": "'intégration directe avec les logiciels comptables de Cegid (Loop et Quadra Plus)'. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://axonaut.com/blog/axonaut-cegid/",
+  "evidence": "'vous pourrez vous connecter à Cegid Loop et Cegid Quadra Plus'. Also listed in connect-compta (built-in connection (same vendor))."
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "inqom",
+  "software": "Inqom",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://axonaut.com/blog/axonaut-inqom/",
+  "evidence": "'Inqom se connecte à la solution de comptabilité Axonaut'. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://axonaut.com/blog/axonaut-myunisoft/",
+  "evidence": "Connect MyUnisoft in accounting portal with folder name and API key. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": true,
+  "sourceUrl": "https://axonaut.com/blog/axonaut-pennylane/",
+  "evidence": "'Sélectionnez Pennylane et renseignez le nom de la connexion et la clé API'. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "ebp",
+  "software": "EBP",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://axonaut.com/portail-comptable",
+  "evidence": "'formats d'exports (prédéfinis pour sage, ebp, cegid, ...)'"
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://support.axonaut.com/gerez-votre-comptabilite/le-portail-comptable-axonaut/",
+  "evidence": "Page names \"SAGE\" without the product. Listed for 'remontée automatique des écritures'; Sage product not specified"
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "via_partner",
+  "viaChift": true,
+  "sourceUrl": "https://support.axonaut.com/gerez-votre-comptabilite/le-portail-comptable-axonaut/",
+  "evidence": "Page names \"SAGE\" without the product. Listed for 'remontée automatique des écritures'; Sage product not specified. Also listed in connect-compta (connection through Chift)."
+ },
+ {
+  "editorId": "axonaut",
+  "editor": "Axonaut",
+  "softwareId": "tiime",
+  "software": "Tiime",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://support.axonaut.com/gerez-votre-comptabilite/le-portail-comptable-axonaut/",
+  "evidence": "Listed for 'remontée automatique des écritures' via accounting portal. Also listed in connect-compta (built-in connection (same vendor))."
+ },
+ {
+  "editorId": "fygr",
+  "editor": "Fygr (rebranded Okimia)",
+  "softwareId": "holded",
+  "software": "Holded",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.okimia.com/fr/articles/10201094-comment-fonctionne-l-integration-entre-okimia-et-holded",
+  "evidence": "Help 'Integrations via API'; invoices retrieved"
+ },
+ {
+  "editorId": "fygr",
+  "editor": "Fygr (rebranded Okimia)",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://help.okimia.com/fr/articles/10437208-comment-fonctionne-l-integration-entre-okimia-et-sage-100",
+  "evidence": "Help 'Autres integrations' (not API); setup by appointment"
+ },
+ {
+  "editorId": "fygr",
+  "editor": "Fygr (rebranded Okimia)",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.okimia.com/fr/articles/15260978-comment-fonctionne-l-integration-entre-okimia-et-microsoft-business-central",
+  "evidence": "Help 'Integrations via API'; invoices retrieved"
+ },
+ {
+  "editorId": "fygr",
+  "editor": "Fygr (rebranded Okimia)",
+  "softwareId": "myunisoft",
+  "software": "MyUnisoft",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.okimia.com/fr/articles/8831851-comment-fonctionne-l-integration-entre-okimia-et-myunisoft",
+  "evidence": "MyUnisoft API key pasted in Okimia; syncs 512/411/401"
+ },
+ {
+  "editorId": "fygr",
+  "editor": "Fygr (rebranded Okimia)",
+  "softwareId": "pennylane",
+  "software": "Pennylane",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.okimia.com/fr/articles/9113684-comment-fonctionne-l-integration-entre-okimia-et-pennylane",
+  "evidence": "Help 'Integrations via API': Pennylane API token"
+ },
+ {
+  "editorId": "fygr",
+  "editor": "Fygr (rebranded Okimia)",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.okimia.com/fr/articles/9173875-comment-fonctionne-l-integration-entre-okimia-et-odoo",
+  "evidence": "Help 'Integrations via API'; automatic invoice retrieval"
+ },
+ {
+  "editorId": "fygr",
+  "editor": "Fygr (rebranded Okimia)",
+  "softwareId": "acd",
+  "software": "ACD",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.okimia.com/fr/integrations/acd",
+  "evidence": "Accounts 401, 411, 512 sync automatically with Okimia"
+ },
+ {
+  "editorId": "fygr",
+  "editor": "Fygr (rebranded Okimia)",
+  "softwareId": "exact-online",
+  "software": "Exact Online",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.okimia.com/fr/integrations/exact",
+  "evidence": "Invoices import automatically once accounts connected"
+ },
+ {
+  "editorId": "candis",
+  "editor": "Candis",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://hilfe.candis.io/de/articles/258714-welche-exportmethode-fur-agenda-verwendet-werden-kann-und-wie-die-daten-hochgeladen-werden-konnen",
+  "evidence": "DATEV format CSV plus DATEV XML files imported into Agenda"
+ },
+ {
+  "editorId": "candis",
+  "editor": "Candis",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://hilfe.candis.io/de/collections/870858-microsoft-dynamics-365-business-central",
+  "evidence": "Sievers Candis Connector via Microsoft AppSource, BC SaaS only"
+ },
+ {
+  "editorId": "candis",
+  "editor": "Candis",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.candis.io/en/erp",
+  "evidence": "Existing integrations with SAP Business One, Sage100, Business Central, Oracle Netsuite"
+ },
+ {
+  "editorId": "candis",
+  "editor": "Candis",
+  "softwareId": "addison",
+  "software": "ADDISON",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.candis.io/en/product-partner/addison-oneclick",
+  "evidence": "Interface partner; exports invoices as XML for import into ADDISON OneClick"
+ },
+ {
+  "editorId": "candis",
+  "editor": "Candis",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.candis.io/funktionen/datev-schnittstelle",
+  "evidence": "Licensed interface partner; direct transfer to DATEV Rechnungswesen and Unternehmen online"
+ },
+ {
+  "editorId": "candis",
+  "editor": "Candis",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "via_partner",
+  "viaChift": false,
+  "sourceUrl": "https://www.candis.io/funktionen/sage-100",
+  "evidence": "Direct Sage interface built with Sage Partner Desk GmbH (Desk.SageConnect)"
+ },
+ {
+  "editorId": "skello",
+  "editor": "Skello",
+  "softwareId": "a3-innuva",
+  "software": "A3 Innuva",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.skello.es/soluciones/integraciones-y-partners",
+  "evidence": "Employee data and payroll variables synced via API; payroll, not accounting"
+ },
+ {
+  "editorId": "skello",
+  "editor": "Skello",
+  "softwareId": "odoo",
+  "software": "Odoo",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.skello.es/soluciones/integraciones-y-partners",
+  "evidence": "Odoo POS sales auto-synced into Skello; POS data, not accounting"
+ },
+ {
+  "editorId": "skello",
+  "editor": "Skello",
+  "softwareId": "cegid-quadra",
+  "software": "Cegid Quadra",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+  "evidence": "Sends payroll variables to Cegid Quadra; payroll scope, not accounting entries"
+ },
+ {
+  "editorId": "skello",
+  "editor": "Skello",
+  "softwareId": "sage-100",
+  "software": "Sage 100",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+  "evidence": "Page names \"Sage\" without the product. Sends payroll variables to Sage; payroll scope, not accounting entries"
+ },
+ {
+  "editorId": "skello",
+  "editor": "Skello",
+  "softwareId": "sage-generation-experts",
+  "software": "Sage Génération Experts",
+  "kind": "unknown",
+  "viaChift": false,
+  "sourceUrl": "https://www.skello.io/fonctionnalites/integrations-et-partenaires",
+  "evidence": "Page names \"Sage\" without the product. Sends payroll variables to Sage; payroll scope, not accounting entries"
+ },
+ {
+  "editorId": "pliant",
+  "editor": "Pliant",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getpliant.com/en/integrations",
+  "evidence": "Accounting category; type 'API integration'"
+ },
+ {
+  "editorId": "pliant",
+  "editor": "Pliant",
+  "softwareId": "netsuite",
+  "software": "NetSuite",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getpliant.com/en/integrations",
+  "evidence": "Accounting category; type 'API integration'"
+ },
+ {
+  "editorId": "pliant",
+  "editor": "Pliant",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getpliant.com/en/integrations",
+  "evidence": "Accounting category; type 'API integration'"
+ },
+ {
+  "editorId": "pliant",
+  "editor": "Pliant",
+  "softwareId": "xero",
+  "software": "Xero",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.getpliant.com/en/integrations",
+  "evidence": "Accounting category; type 'API integration'"
+ },
+ {
+  "editorId": "fastbill",
+  "editor": "FastBill",
+  "softwareId": "addison",
+  "software": "ADDISON",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://support.fastbill.com/hc/de/articles/360016868180-%C3%9Cbertragung-an-Addison-Agenda",
+  "evidence": "'Addison hat eine Integration aufgebaut'; interface provided and supported by Addison"
+ },
+ {
+  "editorId": "fastbill",
+  "editor": "FastBill",
+  "softwareId": "agenda",
+  "software": "Agenda",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://support.fastbill.com/hc/de/articles/360016868180-%C3%9Cbertragung-an-Addison-Agenda",
+  "evidence": "Via DATEV Format Export; 'Eine direkte Schnittstelle gibt es hierfür jedoch nicht'"
+ },
+ {
+  "editorId": "fastbill",
+  "editor": "FastBill",
+  "softwareId": "datev",
+  "software": "DATEV",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://www.fastbill.com/datev",
+  "evidence": "Rechnungsdatenservice 1.0 interface to DATEV Unternehmen online; DATEV-format export also available"
+ },
+ {
+  "editorId": "expensya",
+  "editor": "Expensya",
+  "softwareId": "quickbooks",
+  "software": "QuickBooks",
+  "kind": "api",
+  "viaChift": false,
+  "sourceUrl": "https://help.expensya.com/l/en/article/6qxr64rtt9-configuring-expensya-quick-books-integration",
+  "evidence": "category mapping and login to QuickBooks account; \"no longer available in France\""
+ },
+ {
+  "editorId": "expensya",
+  "editor": "Expensya",
+  "softwareId": "microsoft-dynamics",
+  "software": "Microsoft Dynamics",
+  "kind": "file_export",
+  "viaChift": false,
+  "sourceUrl": "https://www.expensya.com/fr/solutions/integrations/",
+  "evidence": "\"format d'exportation d'Expensya dédié à Microsoft Dynamics ERP\""
+ }
+]

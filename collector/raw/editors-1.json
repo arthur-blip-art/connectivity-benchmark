@@ -1,0 +1,820 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "pleo",
+   "name": "Pleo",
+   "domain": "pleo.io",
+   "hq_country": "DK",
+   "integrations_url": "https://www.pleo.io/en/integrations",
+   "pages_read": [
+    "https://www.pleo.io/en/integrations",
+    "https://www.pleo.io/fr/integrations",
+    "https://www.pleo.io/de/integrations",
+    "https://www.pleo.io/nl/integrations",
+    "https://www.pleo.io/sitemap-en.xml",
+    "https://www.pleo.io/sitemap-fr.xml",
+    "https://www.pleo.io/sitemap-de.xml",
+    "https://www.pleo.io/sitemap-nl.xml",
+    "https://www.pleo.io/en/integrations/xero",
+    "https://www.pleo.io/en/integrations/netsuite-new",
+    "https://www.pleo.io/en/integrations/quickbooks-integration",
+    "https://www.pleo.io/en/integrations/freeagent",
+    "https://www.pleo.io/en/integrations/xledger",
+    "https://www.pleo.io/en/integrations/twinfield",
+    "https://www.pleo.io/en/integrations/afasprofit",
+    "https://www.pleo.io/en/integrations/ledgerbee",
+    "https://www.pleo.io/en/integrations/addison-oneclick",
+    "https://www.pleo.io/en/integrations/bmd",
+    "https://www.pleo.io/en/integrations/billy-new",
+    "https://www.pleo.io/en/integrations/cegid-loop",
+    "https://www.pleo.io/en/integrations/datev",
+    "https://www.pleo.io/en/integrations/dinero",
+    "https://www.pleo.io/en/integrations/microsoft-business-central",
+    "https://www.pleo.io/en/integrations/inventio",
+    "https://www.pleo.io/en/integrations/exact-online",
+    "https://www.pleo.io/en/integrations/fortnox-new",
+    "https://www.pleo.io/en/integrations/holded",
+    "https://www.pleo.io/en/integrations/lexwareoffice",
+    "https://www.pleo.io/en/integrations/netvisor",
+    "https://www.pleo.io/en/integrations/odoo",
+    "https://www.pleo.io/en/integrations/procountor",
+    "https://www.pleo.io/en/integrations/sap-business-one",
+    "https://www.pleo.io/en/integrations/sie",
+    "https://www.pleo.io/en/integrations/sage",
+    "https://www.pleo.io/en/integrations/uniconta",
+    "https://www.pleo.io/en/integrations/visma-economic",
+    "https://www.pleo.io/en/integrations/sage-50",
+    "https://www.pleo.io/en/integrations/sage-200",
+    "https://www.pleo.io/en/integrations/visma"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.pleo.io/en/",
+     "reason": "HTTP 403 Cloudflare block (whole help center, incl. robots.txt and sitemap); not bypassed"
+    },
+    {
+     "url": "https://help.pleo.io/en/support/solutions/folders/103000630935",
+     "reason": "HTTP 403 Cloudflare block; accounting integrations folder seen only in search results"
+    },
+    {
+     "url": "https://www.pleo.io/en/integrations/sage-1",
+     "reason": "HTTP 404 (URL returned by web search)"
+    },
+    {
+     "url": "https://integrations.pleo.io/category/accounting",
+     "reason": "Redirects to https://www.pleo.io/en/integrations (no separate marketplace page)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.pleo.io/en/integrations/xero",
+     "evidence": "Spending data synced in real time",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://www.pleo.io/en/integrations/netsuite-new",
+     "evidence": "Sync and match all expenses, reimbursements, invoices with a single click",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Quickbooks",
+     "source_url": "https://www.pleo.io/en/integrations/quickbooks-integration",
+     "evidence": "Say goodbye to .csv or manual exports to QuickBooks",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FreeAgent",
+     "source_url": "https://www.pleo.io/en/integrations/freeagent",
+     "evidence": "Automatically send expenses, receipts, and card transactions from Pleo to FreeAgent",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "XLedger",
+     "source_url": "https://www.pleo.io/en/integrations/xledger",
+     "evidence": "Every transaction is tagged and synced to Xledger",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://www.pleo.io/en/integrations/twinfield",
+     "evidence": "Enjoy an error-free month-end with our direct API integration",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "AFAS Profit",
+     "source_url": "https://www.pleo.io/en/integrations/afasprofit",
+     "evidence": "Developer listed: Present Connection; webhook-driven export into AFAS Profit",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "LedgerBee",
+     "source_url": "https://www.pleo.io/en/integrations/ledgerbee",
+     "evidence": "Connects Pleo directly to LedgerBee ERP; developer listed: LedgerBee",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ADDISON OneClick",
+     "source_url": "https://www.pleo.io/en/integrations/addison-oneclick",
+     "evidence": "Use Pleo's custom CSV template for ADDISON OneClick",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BMD",
+     "source_url": "https://www.pleo.io/en/integrations/bmd",
+     "evidence": "Export your spending data to BMD NTCS with our custom CSV template",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Billy",
+     "source_url": "https://www.pleo.io/en/integrations/billy-new",
+     "evidence": "Send purchase data, receipts directly to the desired cash journal in Billy",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://www.pleo.io/en/integrations/cegid-loop",
+     "evidence": "Expenses and receipts will automatically sync with the accounting system",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV Unternehmen Online",
+     "source_url": "https://www.pleo.io/en/integrations/datev",
+     "evidence": "Datev KR and UO supported; KR Buchungsdatenservice pushes every transaction",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dinero",
+     "source_url": "https://www.pleo.io/en/integrations/dinero",
+     "evidence": "Pleo's direct integration with Dinero",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Dynamics 365 Business Central",
+     "source_url": "https://www.pleo.io/en/integrations/microsoft-business-central",
+     "evidence": "One-click exports to Business Central; developer listed: Pleo",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Inventio",
+     "source_url": "https://www.pleo.io/en/integrations/inventio",
+     "evidence": "Export using the Inventio SmartApp for Microsoft Dynamics 365 Business Central",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.pleo.io/en/integrations/exact-online",
+     "evidence": "Every Pleo expense is instantly exported to Exact Online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Fortnox",
+     "source_url": "https://www.pleo.io/en/integrations/fortnox-new",
+     "evidence": "Get your API integration code in Fortnox and copy it into Pleo",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Holded",
+     "source_url": "https://www.pleo.io/en/integrations/holded",
+     "evidence": "Marketplace card: export spending data right into Holded in a click",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://www.pleo.io/en/integrations/lexwareoffice",
+     "evidence": "Synced to Lexoffice in real time; built for German businesses",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Netvisor",
+     "source_url": "https://www.pleo.io/en/integrations/netvisor",
+     "evidence": "Use Pleo's custom CSV template for Netvisor",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.pleo.io/en/integrations/odoo",
+     "evidence": "Export every expense into Odoo in one click; syncs tags, VAT codes",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Procountor",
+     "source_url": "https://www.pleo.io/en/integrations/procountor",
+     "evidence": "Pleo's direct integration with Procountor",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://www.pleo.io/en/integrations/sap-business-one",
+     "evidence": "Automatically syncing master data, purchase invoices, payments; no more CSVs",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SIE",
+     "source_url": "https://www.pleo.io/en/integrations/sie",
+     "evidence": "Pre-defined SIE file format (CSV), Swedish bookkeeping standard",
+     "kind": "file_export",
+     "countries_stated": [
+      "SE"
+     ]
+    },
+    {
+     "software_raw": "Sage Intacct",
+     "source_url": "https://www.pleo.io/en/integrations/sage",
+     "evidence": "Exports every expense directly to Sage Intacct in real time",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Uniconta",
+     "source_url": "https://www.pleo.io/en/integrations/uniconta",
+     "evidence": "Pleo's direct integration with Uniconta",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Visma e-conomic",
+     "source_url": "https://www.pleo.io/en/integrations/visma-economic",
+     "evidence": "Pleo's direct integration with Visma e-conomic",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://www.pleo.io/en/integrations/sage-50",
+     "evidence": "Export your spending data to Sage 50 with our custom CSV template",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 200",
+     "source_url": "https://www.pleo.io/en/integrations/sage-200",
+     "evidence": "Export your Pleo spending data to Sage 200 with custom CSV template",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Visma eEkonomi",
+     "source_url": "https://www.pleo.io/en/integrations/visma",
+     "evidence": "Send purchase data, receipts, VAT codes directly to Visma eEkonomi",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Full marketplace list (66 cards, 'Show more' is JS) read in a rendered browser; detail pages read via plain HTTP. Sage 50, Sage 200 and Visma eEkonomi pages are live (sitemap) but not shown in the current marketplace list. FreeAgent: marketplace card still says 'custom CSV template' while detail page says automatic sync. Holded detail page body copy mentions Xledger (template reuse). FR listing highlights NetSuite, Cegid Loop, Xero; DE listing highlights DATEV, Business Central, NetSuite; NL listing highlights Exact Online, NetSuite, Twinfield. Help center blocked (403), so help-only integrations (search snippet hints at Visma.net, Navision, SAP S/4HANA, Dynamics 365 F&O) are not recorded. Not found on readable pages: Pennylane, Cegid Quadra, Sage 100, Sage Generation Experts, ACD, MyUnisoft, EBP, Inqom, Fulll, Tiime, sevdesk, Agenda, Scopevisio, BuchhaltungsButler, Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Adsolut, ClearFacts. Skipped non-accounting cards (Commitly, Agicap, OS/, easyJOB)."
+  },
+  {
+   "id": "spendesk",
+   "name": "Spendesk",
+   "domain": "spendesk.com",
+   "hq_country": "FR",
+   "integrations_url": "https://www.spendesk.com/integrations/",
+   "pages_read": [
+    "https://www.spendesk.com/integrations/",
+    "https://www.spendesk.com/fr/integrations/",
+    "https://www.spendesk.com/de/integrations/",
+    "https://www.spendesk.com/integrations/acd-integration/",
+    "https://www.spendesk.com/integrations/exact-online/",
+    "https://www.spendesk.com/integrations/microsoft-business-central/",
+    "https://www.spendesk.com/integrations/netsuite/",
+    "https://www.spendesk.com/integrations/odoo/",
+    "https://www.spendesk.com/integrations/pennylane-integration/",
+    "https://www.spendesk.com/integrations/quickbooks/",
+    "https://www.spendesk.com/integrations/sage-100/",
+    "https://www.spendesk.com/integrations/spend-management-datev/",
+    "https://www.spendesk.com/integrations/xero-expense-management/",
+    "https://helpcenter.spendesk.com/sitemap.xml",
+    "https://helpcenter.spendesk.com/en/collections/2383252-integrations-with-accounting-software",
+    "https://helpcenter.spendesk.com/en/articles/12991229-introduction-to-native-accounting-integrations",
+    "https://helpcenter.spendesk.com/en/articles/5555895-accounting-base-accounting-software-switch",
+    "https://helpcenter.spendesk.com/en/articles/14635042-overview-of-the-native-integration-with-datev-kanzlei-rechnungswesen",
+    "https://helpcenter.spendesk.com/en/articles/14635062-install-the-chift-local-agent-on-your-datev-server-only-with-the-non-smartit-version",
+    "https://helpcenter.spendesk.com/en/articles/14635059-connect-spendesk-to-datev-rechnungswesen",
+    "https://helpcenter.spendesk.com/en/articles/5543914-overview-of-datev-uo-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/9520662-overview-of-sage-100-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/9521219-prerequisites-to-set-up-the-integration-with-sage-100-on-premise-or-sage-100-cloud-spc",
+    "https://helpcenter.spendesk.com/en/articles/9669280-connect-spendesk-to-sage-100-on-premise-with-an-integrator",
+    "https://helpcenter.spendesk.com/en/articles/9656820-connect-spendesk-to-sage-100-cloud-spc-with-an-integrator",
+    "https://helpcenter.spendesk.com/en/articles/12959621-reconnect-the-sage-100-local-agent-for-connection-or-synchronization-issues",
+    "https://helpcenter.spendesk.com/en/articles/13716946-overview-of-pennylane-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/13717450-connect-spendesk-to-pennylane",
+    "https://helpcenter.spendesk.com/en/articles/13311278-overview-of-acd-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/10087273-connect-spendesk-to-acd",
+    "https://helpcenter.spendesk.com/en/articles/12157278-overview-of-odoo-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/11884910-connect-spendesk-to-odoo",
+    "https://helpcenter.spendesk.com/en/articles/12158608-overview-of-exact-online-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/12158612-connect-spendesk-to-exact-online",
+    "https://helpcenter.spendesk.com/en/articles/12158651-overview-of-microsoft-business-central-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/12158659-connect-spendesk-to-microsoft-business-central",
+    "https://helpcenter.spendesk.com/en/articles/13176842-overview-of-xero-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/5633716-overview-of-quickbooks-online-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/6899573-overview-of-netsuite-native-integration",
+    "https://helpcenter.spendesk.com/en/articles/8153726-import-your-spendesk-purchase-journal-into-exact-online",
+    "https://helpcenter.spendesk.com/fr/articles/7339363-importe-votre-journal-d-achats-spendesk-dans-sage-generation-experts-connect",
+    "https://helpcenter.spendesk.com/fr/articles/7339550-importer-votre-journal-d-achats-spendesk-dans-cegid-quadra",
+    "https://helpcenter.spendesk.com/fr/articles/7669249-importer-votre-journal-d-achats-spendesk-dans-sage-100-spc-ou-sage-50",
+    "https://helpcenter.spendesk.com/fr/articles/7833399-importer-votre-journal-d-achats-spendesk-dans-acd",
+    "https://helpcenter.spendesk.com/fr/articles/7833429-importer-votre-journal-d-achats-spendesk-dans-cegid-ebp-compta",
+    "https://helpcenter.spendesk.com/fr/articles/7833448-importer-votre-journal-d-achats-spendesk-dans-cegid-loop",
+    "https://helpcenter.spendesk.com/fr/articles/4152880-etape-1-creer-votre-export-personnalise",
+    "https://www.spendesk.com/fr/blog/integrer-spendesk-a-pennylane-cegid-et-sage/"
+   ],
+   "pages_unreadable": [],
+   "connections": [
+    {
+     "software_raw": "Xero",
+     "source_url": "https://helpcenter.spendesk.com/en/articles/13176842-overview-of-xero-native-integration",
+     "evidence": "Native integration between Spendesk and Xero; pulls master data",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://www.spendesk.com/integrations/netsuite/",
+     "evidence": "Integrates with NetSuite via a native, two-way sync",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks Online",
+     "source_url": "https://helpcenter.spendesk.com/en/articles/5633716-overview-of-quickbooks-online-native-integration",
+     "evidence": "Native integration; only available for US companies",
+     "kind": "api",
+     "countries_stated": [
+      "US"
+     ]
+    },
+    {
+     "software_raw": "DATEV UO",
+     "source_url": "https://helpcenter.spendesk.com/en/articles/5543914-overview-of-datev-uo-native-integration",
+     "evidence": "Push payables natively to DATEV UO and payments via CSV files",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV Kanzlei Rechnungswesen (beta)",
+     "source_url": "https://helpcenter.spendesk.com/en/articles/14635062-install-the-chift-local-agent-on-your-datev-server-only-with-the-non-smartit-version",
+     "evidence": "Beta; install the Chift Local Agent on your DATEV server",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://www.spendesk.com/integrations/sage-100/",
+     "evidence": "Developed by: Spendesk via Chift; local agent, on-premise and cloud SPC",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.spendesk.com/integrations/odoo/",
+     "evidence": "Developed by: Spendesk via Chift; native two-way integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.spendesk.com/integrations/exact-online/",
+     "evidence": "Developed by: Spendesk via Chift; two-way syncing",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "ACD",
+     "source_url": "https://www.spendesk.com/integrations/acd-integration/",
+     "evidence": "Developed by: Spendesk via Chift; native ACD integration, 2-way sync",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Business Central",
+     "source_url": "https://helpcenter.spendesk.com/en/articles/12158659-connect-spendesk-to-microsoft-business-central",
+     "evidence": "Install an extension from our technical partner Chift",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://helpcenter.spendesk.com/en/articles/13716946-overview-of-pennylane-native-integration",
+     "evidence": "The integration is developed and managed by Pennylane",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Generation Experts Connect",
+     "source_url": "https://helpcenter.spendesk.com/fr/articles/7339363-importe-votre-journal-d-achats-spendesk-dans-sage-generation-experts-connect",
+     "evidence": "Import purchase journal file into Sage Coala / Sage Generation Experts Connect",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Quadra",
+     "source_url": "https://helpcenter.spendesk.com/fr/articles/7339550-importer-votre-journal-d-achats-spendesk-dans-cegid-quadra",
+     "evidence": "Custom export Cegid Quadra; import purchase journal file",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://helpcenter.spendesk.com/fr/articles/7669249-importer-votre-journal-d-achats-spendesk-dans-sage-100-spc-ou-sage-50",
+     "evidence": "Import Spendesk purchase journal into Sage 100 SPC or Sage 50",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid EBP Compta",
+     "source_url": "https://helpcenter.spendesk.com/fr/articles/7833429-importer-votre-journal-d-achats-spendesk-dans-cegid-ebp-compta",
+     "evidence": "Import Spendesk purchase journal file into EBP",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid Loop",
+     "source_url": "https://helpcenter.spendesk.com/fr/articles/7833448-importer-votre-journal-d-achats-spendesk-dans-cegid-loop",
+     "evidence": "Import Spendesk purchase journal file into Cegid Loop",
+     "kind": "file_export",
+     "countries_stated": []
+    }
+   ],
+   "notes": "EN/FR/DE listing pages show the same 10 accounting cards plus generic 'Custom Exports'. Marketing pages for Sage 100, Odoo, Exact Online, ACD, Business Central state 'Developed by: Spendesk via Chift'; help center confirms Chift (BC extension, Sage 100 and DATEV local agents, api.chift.eu). Pennylane: marketing page says 'Developed by: Pennylane'; help-center collection heading still labels it 'coming soon'. QuickBooks is US-only. Sage 100, ACD and Exact Online also have file-import articles (purchase journal) besides the native integration. File-based export bases named in help center: single/double entry, Sage, Cegid, Xero, DATEV. Not found on public pages: Cegid (other), MyUnisoft, Inqom (only a generic blog mention seen in search snippet, not opened), Fulll, Tiime, Lexware Office, sevdesk, Addison, Agenda, SAP, SAP Business One, Scopevisio, BuchhaltungsButler, Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Adsolut, ClearFacts, Sage Intacct."
+  },
+  {
+   "id": "payhawk",
+   "name": "Payhawk",
+   "domain": "payhawk.com",
+   "hq_country": "GB",
+   "integrations_url": "https://payhawk.com/integrations",
+   "pages_read": [
+    "https://payhawk.com/integrations",
+    "https://payhawk.com/fr/integrations",
+    "https://payhawk.com/de/integrationen",
+    "https://payhawk.com/nl/integraties",
+    "https://payhawk.com/en-us/integrations",
+    "https://payhawk.com/integration/sage-intacct",
+    "https://payhawk.com/integration/netsuite",
+    "https://payhawk.com/integration/sap-s4hana",
+    "https://payhawk.com/integration/pennylane",
+    "https://payhawk.com/integration/rillet",
+    "https://payhawk.com/integration/dualentry",
+    "https://payhawk.com/integration/microsoft-dynamics",
+    "https://payhawk.com/integration/microsoft-dynamics-finance",
+    "https://payhawk.com/integration/campfire",
+    "https://payhawk.com/integration/odoo",
+    "https://payhawk.com/integration/exact-globe",
+    "https://payhawk.com/integration/afas",
+    "https://payhawk.com/integration/xero",
+    "https://payhawk.com/integration/exact-online",
+    "https://payhawk.com/integration/datev",
+    "https://payhawk.com/integration/quickbooks",
+    "https://payhawk.com/integration/excel",
+    "https://payhawk.com/integration/visma",
+    "https://payhawk.com/integration/embat",
+    "https://payhawk.com/nl/integratie/visma-net",
+    "https://payhawk.com/sitemap.xml",
+    "https://payhawk.com/de/sitemap.xml",
+    "https://payhawk.com/nl/sitemap.xml",
+    "https://payhawk.com/fr/sitemap.xml",
+    "https://payhawk.com/sitemap-help.xml",
+    "https://payhawk.com/help/overview-of-accounting-templates",
+    "https://payhawk.com/help/faq-on-the-payhawk-sage-solutions-integration"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://payhawk.com/help/datev",
+     "reason": "Help category page renders content in JavaScript; no article text in HTML"
+    },
+    {
+     "url": "https://payhawk.com/de/integrations",
+     "reason": "HTTP 404 (German listing lives at /de/integrationen)"
+    },
+    {
+     "url": "https://payhawk.com/nl/integrations",
+     "reason": "HTTP 404 (Dutch listing lives at /nl/integraties)"
+    },
+    {
+     "url": "https://payhawk.com/en-be/integrations",
+     "reason": "HTTP 404 (no Belgian locale)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage Intacct",
+     "source_url": "https://payhawk.com/integration/sage-intacct",
+     "evidence": "Real-time Sage Intacct integration; automated two-way sync",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://payhawk.com/integration/netsuite",
+     "evidence": "Real-time bidirectional connection; sync expenses, invoices, payments to NetSuite",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP S/4HANA",
+     "source_url": "https://payhawk.com/integration/sap-s4hana",
+     "evidence": "Native in-house integration; no third-party middleware between Payhawk and SAP",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://payhawk.com/integration/pennylane",
+     "evidence": "Native, bi-directional Pennylane integration; real-time sync",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Rillet",
+     "source_url": "https://payhawk.com/integration/rillet",
+     "evidence": "Payhawk connects natively to Rillet; no CSV, no middleware",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DualEntry",
+     "source_url": "https://payhawk.com/integration/dualentry",
+     "evidence": "Payhawk connects natively to DualEntry; no CSV, no middleware",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Campfire",
+     "source_url": "https://payhawk.com/integration/campfire",
+     "evidence": "Payhawk connects natively to Campfire; no CSV, no middleware",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://payhawk.com/integration/microsoft-dynamics",
+     "evidence": "Direct integration; fully synced with Business Central in real time",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Finance",
+     "source_url": "https://payhawk.com/integration/microsoft-dynamics-finance",
+     "evidence": "Native Microsoft Dynamics 365 Finance integration; bidirectional sync",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://payhawk.com/integration/xero",
+     "evidence": "Sync expenses with Xero in real time; automatic bank feed",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact online",
+     "source_url": "https://payhawk.com/integration/exact-online",
+     "evidence": "Direct integration; listed on the Exact Online Marketplace",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "FR",
+      "BE",
+      "DE",
+      "ES",
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://payhawk.com/integration/datev",
+     "evidence": "Sync live with DATEV Unternehmen Online (DUO)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://payhawk.com/integration/quickbooks",
+     "evidence": "Direct API integration with QuickBooks Online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://payhawk.com/integrations",
+     "evidence": "Card: connect with Odoo through our partner-built integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Globe",
+     "source_url": "https://payhawk.com/integrations",
+     "evidence": "Card: connect with Exact Globe through our partner-built integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "AFAS",
+     "source_url": "https://payhawk.com/integration/afas",
+     "evidence": "Titled native AFAS integration; page FAQ describes partner-built integrations",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Visma Net",
+     "source_url": "https://payhawk.com/integration/visma",
+     "evidence": "Sync with Visma Net; page FAQ describes partner-built integrations",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://payhawk.com/integrations",
+     "evidence": "Card: predefined CSV/XLS export templates for SAP Business One",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business ByDesign",
+     "source_url": "https://payhawk.com/integrations",
+     "evidence": "Card: predefined CSV/XLS export templates for SAP Business ByDesign",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50",
+     "source_url": "https://payhawk.com/integrations",
+     "evidence": "Card: predefined CSV/XLS export templates for Sage 50",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 100",
+     "source_url": "https://payhawk.com/integrations",
+     "evidence": "Card: predefined CSV/XLS export templates for Sage 100",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 200",
+     "source_url": "https://payhawk.com/integrations",
+     "evidence": "Card: predefined CSV/XLS export templates for Sage 200",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://payhawk.com/integrations",
+     "evidence": "Card: predefined CSV/XLS export templates for Cegid",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 300",
+     "source_url": "https://payhawk.com/help/faq-on-the-payhawk-sage-solutions-integration",
+     "evidence": "Export unpaid AP invoices (bills) to Sage 300; separate exports",
+     "kind": "file_export",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Cards for SAP Business One, SAP Business ByDesign, Sage 50/100/200 and Cegid have no detail page; evidence is the card image alt text on the listing. Partner-built integrations (Odoo, Exact Globe, AFAS, Visma Net) do not name the partner on the page. SAP S/4HANA card alt text still says CSV/XLS templates but its detail page describes a native in-house integration (used here). Visma Net page exists (EN /integration/visma, NL /integratie/visma-net) but is not on the EN listing. FR listing shows Pennylane and omits Campfire/AFAS; NL listing adds AFAS; DE listing same as EN. 'Cegid' is generic (no product such as Loop or Quadra named). Embat (treasury) listed as ERP by Payhawk, not recorded. Generic Excel/CSV template builder exists for any other software. Not found on public pages: Cegid Loop, Cegid Quadra, Sage Generation Experts, ACD, MyUnisoft, EBP, Inqom, Fulll, Tiime, Lexware Office, sevdesk, Addison, Agenda, Scopevisio, BuchhaltungsButler, Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Adsolut, ClearFacts."
+  },
+  {
+   "id": "rydoo",
+   "name": "Rydoo",
+   "domain": "rydoo.com",
+   "hq_country": "BE",
+   "integrations_url": "https://www.rydoo.com/integrations/",
+   "pages_read": [
+    "https://www.rydoo.com/integrations/",
+    "https://www.rydoo.com/integrations/categories/accounting/",
+    "https://www.rydoo.com/integrations/categories/erp/",
+    "https://www.rydoo.com/integrations/microsoft-dynamics-365-business-central-unitech/",
+    "https://www.rydoo.com/integrations/microsoft-dynamics-365-finance-operations/",
+    "https://www.rydoo.com/integrations/netsuite/",
+    "https://www.rydoo.com/integrations/sap-business-one/",
+    "https://www.rydoo.com/integrations/sap-s4/",
+    "https://www.rydoo.com/integrations/datev/",
+    "https://www.rydoo.com/integrations/exact/",
+    "https://www.rydoo.com/integrations/quickbooks/",
+    "https://www.rydoo.com/integrations/sage/",
+    "https://www.rydoo.com/integrations/xero/",
+    "https://help.rydoo.com/hc/sitemap.xml",
+    "https://www.rydoo.com/sitemap_index.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.rydoo.com/hc/en-be",
+     "reason": "HTTP 403 Cloudflare challenge ('Just a moment...'); not bypassed. Only the help sitemap was readable"
+    },
+    {
+     "url": "https://help.rydoo.com/hc/en-be/articles/8218210851996-ERP-business-software",
+     "reason": "HTTP 403 Cloudflare challenge; not bypassed"
+    },
+    {
+     "url": "https://www.rydoo.com/fr/integrations/",
+     "reason": "Redirects to the English page; no localized integration list (same for /de/integrationen/, /nl/integraties/)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://www.rydoo.com/integrations/microsoft-dynamics-365-business-central-unitech/",
+     "evidence": "Done using the UniTech IT Solutions connector handling the API integration",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Finance & Operations",
+     "source_url": "https://www.rydoo.com/integrations/microsoft-dynamics-365-finance-operations/",
+     "evidence": "Developed by Cosmo Consult",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Netsuite",
+     "source_url": "https://www.rydoo.com/integrations/netsuite/",
+     "evidence": "Automatically export expenses from Rydoo to NetSuite in near real-time",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://www.rydoo.com/integrations/sap-business-one/",
+     "evidence": "Connector developed, owned, and supported by N'ware Technologies",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP S/4HANA",
+     "source_url": "https://www.rydoo.com/integrations/sap-s4/",
+     "evidence": "In-house API-based integration for SAP S/4HANA and SAP ECC",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://www.rydoo.com/integrations/datev/",
+     "evidence": "Direct API via DATEV Buchungsdatenservice (Kanzlei-Rechnungswesen, Rechnungswesen, Mittelstand Faktura)",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact",
+     "source_url": "https://www.rydoo.com/integrations/exact/",
+     "evidence": "Direct integration; connect your Exact Online account, sign in to integrate",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.rydoo.com/integrations/quickbooks/",
+     "evidence": "Connecting QuickBooks: simply click Sign in to integrate",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.rydoo.com/integrations/sage/",
+     "evidence": "Exported to Sage in a CSV or Excel file via SFTP/email",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.rydoo.com/integrations/xero/",
+     "evidence": "Connecting Xero: simply click Sign in to integrate",
+     "kind": "api",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Only 10 accounting/ERP integrations on the marketplace (5 ERP, 5 accounting); no localized lists. 'Sage' is generic (no product named). 'Exact' page refers to Exact Online. SAP page also covers SAP ECC. Help center articles blocked by Cloudflare; its sitemap titles only confirm the same set (Business Central connector by Unitech, NetSuite 1.0/2.0, QuickBooks, Xero, Exact Online, DATEV, SAP, generic CSV/XML/SFTP exports) plus an unidentified 'KATRE Connector'. Not found on public pages: Pennylane, Cegid (any), Sage 100, Sage 50, Sage Generation Experts, ACD, MyUnisoft, EBP, Inqom, Fulll, Tiime, Lexware Office, sevdesk, Addison, Agenda, Scopevisio, BuchhaltungsButler, Octopus, WinBooks, Yuki, Sage BOB 50, Horus, Odoo, Adsolut, ClearFacts, Sage Intacct."
+  }
+ ]
+}

@@ -1,0 +1,1053 @@
+{
+ "verified_at": "2026-10-01",
+ "rows": [
+  {
+   "editorId": "gocardless",
+   "softwareId": "clearbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Clear Books | Easily manage your business' finances and get paid faster",
+   "note": "Listed as a partner card in the Accounting & Invoicing category with no mechanism stated, consistent with kind unknown."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Lorsque GoCardless encaisse un paiement, EBP indique que la facture est payée",
+   "note": "Connection set up inside EBP (Paramètres > Partenaires Market Place > GoCardless) with automatic reconciliation, consistent with api."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "freeagent",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "FreeAgent connects to GoCardless so businesses can collect invoices by Direct Debit or Pay by Bank",
+   "note": "Direct connection with payments synced back to the ledger, consistent with api."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "holded",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "350+ Integraciones Sincroniza con Chargebee, Holded, Salesforce y muchas más",
+   "note": "Holded is named only in the navigation menu text with no mechanism, consistent with kind unknown; weak evidence (menu only)."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "SepaHeld integriert Ihr GoCardless-Konto mit Ihren Lexware Office-Konten.",
+   "note": "Connection goes through the third-party app SepaHeld, consistent with via_partner."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connect to Microsoft Dynamics 365 Business Central through our partners",
+   "note": "Partners Astral, Bam Boom Cloud and Bluefort provide the connector, consistent with via_partner; product is Business Central."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "GoCardless payments are both automatically collected and reconciled in NetSuite.",
+   "note": "GoCardless for NetSuite integration collects and reconciles automatically, consistent with api."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Odoo by Open User Systems | Automate recurring and one-off payments through GoCardless",
+   "note": "Partner card links to openusersystems.com/gocardless, a third-party connector, consistent with via_partner (card present in raw HTML; WebFetch summary truncated the list)."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Prélevez automatiquement vos clients depuis Pennylane ... grâce à l'intégration avec GoCardless.",
+   "note": "Direct integration with automatic reconciliation in Pennylane, consistent with api."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "QuickBooks users add GoCardless from the app store to collect invoice payments by Direct Debit",
+   "note": "App-store integration with automatic reconciliation, consistent with api."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "sage-200",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Connect your GoCardless account in the Sage 200cloud Utilities menu.",
+   "note": "Native connection inside Sage 200cloud with automatic reconciliation, consistent with api."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "sage-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "GoCardless payments are automatically reconciled in Sage 50cloud",
+   "note": "Direct integration from Sage 50cloud invoices, consistent with api."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "sage-intacct",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "GoCardless payments are automatically reconciled in Sage Intacct",
+   "note": "Direct integration from Sage Intacct invoices, consistent with api."
+  },
+  {
+   "editorId": "gocardless",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Create a GoCardless account, link it to Xero via the invoice or online payments section",
+   "note": "Native Xero payment-service connection with automatic reconciliation, consistent with api."
+  },
+  {
+   "editorId": "graneet",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Suivez la procédure décrite ici : https://help.chift.app/articles/9297801393-acd?lang=fr",
+   "note": "ACD is activated under Intégrations > Outil comptable and set up via a Chift help-center procedure, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "graneet",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Suivez la procédure décrite ici : https://help.chift.app/articles/8678889120-cegid-loop?lang=fr",
+   "note": "Cegid Loop API integration is set up via a Chift help-center procedure, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "graneet",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "exporter vos écritures de vente, banque et achat sous un format compatible avec Cegid Quadra",
+   "note": "Export of a Quadra-format .txt entries file plus PDFs in a zip, consistent with file_export."
+  },
+  {
+   "editorId": "graneet",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Télécharger au format EBP",
+   "note": "Zip with a .txt entries file imported into EBP via Import paramétrable, consistent with file_export."
+  },
+  {
+   "editorId": "graneet",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Suivez la procédure décrite ici : https://help.chift.app/articles/7397218254-myunisoft?lang=fr",
+   "note": "MyUnisoft API connection is set up via a Chift help-center procedure, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "graneet",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Synchroniser le plan comptable de Pennylane dans Graneet",
+   "note": "Direct API connection (article titled Connexion API) syncing chart of accounts and pushing entries/PDFs, no third party mentioned, consistent with api."
+  },
+  {
+   "editorId": "graneet",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Suivez la procédure décrite ici : [Sage on premise](https://help.chift.app/articles/4010269569-sage-on-premise-local-agent-installation-process?lang=fr)",
+   "note": "Sage 100 connection set up through Chift local-agent / SPC procedures, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "hero-software",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Über die DATEV-Schnittstelle der Software übermittelst du alle Belege dann auf Knopfdruck an deinen Steuerberater.",
+   "note": "DATEV Unternehmen online interface with scheduled automatic transfer, consistent with api."
+  },
+  {
+   "editorId": "hero-software",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Bij Exact Online koppel je via een gewone OAuth-login in HERO",
+   "note": "OAuth connection, finished invoices go directly to Exact, consistent with api."
+  },
+  {
+   "editorId": "hero-software",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Erstellte Rechnungen in der HERO Handwerkersoftware werden direkt an Lexware Office",
+   "note": "Invoices sent directly and payment status synced back, consistent with api."
+  },
+  {
+   "editorId": "hero-software",
+   "softwareId": "snelstart",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "De verbinding vereist een SnelStart pakket dat HERO toegang tot de API geeft.",
+   "note": "Outgoing invoices sent directly to SnelStart through its API, consistent with api."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "adsolut",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exact Online, Yuki, Octopus, Kluwer Adsolut, Horus, Winauditor, Expert/M, Billit, Clearfacts, OkiOki, BillToBox",
+   "note": "Kluwer Adsolut is listed among the programs Scrada forwards Lightspeed data to, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "afas",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Webwinkelfacturen.nl is de specialist voor webwinkeliers op het gebied van koppelen van webwinkels en kassa's met 20 verschillende boekhoudpakketten",
+   "note": "Connector built by partner Webwinkelfacturen.nl, receipts forwarded to AFAS, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "cegid-loop",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Sage, Cegid, Pennylane, Inqom, MyUnisoft, and Skello already rely on Chift to power their Lightspeed connectivity.",
+   "note": "Page names only the Cegid family, not Cegid Loop; connection via Chift."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "cegid-quadra",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Sage, Cegid, Pennylane, Inqom, MyUnisoft, and Skello already rely on Chift to power their Lightspeed connectivity.",
+   "note": "Page names only the Cegid family, not Cegid Quadra; connection via Chift."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Lightspeed Accounting now integrates directly with DATEV.",
+   "note": "Direct daily transfer to DATEV Kassenarchiv online (DSFinV-K), Germany only, consistent with api."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "e-boekhouden",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Koppel je kassasysteem aan e-Boekhouden.nl ... Webwinkelfacturen is marktleider in het koppelen van webwinkels aan boekhoudsystemen.",
+   "note": "Connector by partner Webwinkelfacturen (winkelboekhouding.nl), consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "all your data is synced accurately and automatically on a daily basis",
+   "note": "Lightspeed Accounting lists Exact Online among supported packages with automatic daily sync, consistent with api."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "horus",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exact Online, Yuki, Octopus, Kluwer Adsolut, Horus, Winauditor, Expert/M, Billit, Clearfacts, OkiOki, BillToBox",
+   "note": "Horus is listed among the programs reached through Scrada, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Sage, Cegid, Pennylane, Inqom, MyUnisoft, and Skello already rely on Chift to power their Lightspeed connectivity.",
+   "note": "Inqom named as connected to Lightspeed through Chift, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "kluwer-expert",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exact Online, Yuki, Octopus, Kluwer Adsolut, Horus, Winauditor, Expert/M, Billit, Clearfacts, OkiOki, BillToBox",
+   "note": "Expert/M is listed among the programs reached through Scrada, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "minox",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Stuur je POS verkopen automatisch door naar Minox",
+   "note": "Listing contact is www.winkelboekhouding.nl and partner Webwinkelfacturen builds the koppeling, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "moneybird",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Webwinkelfacturen is marktleider in het koppelen van webwinkels aan boekhoud",
+   "note": "Moneybird koppeling built by partner Webwinkelfacturen, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Chift connecte Lightspeed à des solutions comme Pennylane, MyUnisoft, Sage et bien d’autres, via une seule intégration standardisée.",
+   "note": "MyUnisoft reached through Chift's integration, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "BFN-certified SuiteApp built to meet NetSuite's standards for security, reliability and performance",
+   "note": "Lightspeed Retail for NetSuite is a SuiteApp with real-time bi-directional sync, consistent with api."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "octopus",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exact Online, Yuki, Octopus, Kluwer Adsolut, Horus, Winauditor, Expert/M, Billit, Clearfacts, OkiOki, BillToBox",
+   "note": "Octopus is listed among the programs reached through Scrada, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Chift connecte Lightspeed à des solutions comme Pennylane, MyUnisoft, Sage et bien d’autres, via une seule intégration standardisée.",
+   "note": "Pennylane reached through Chift's integration, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Simply connect and map your accounts. All you need is a Lightspeed store and an active QuickBooks Online account.",
+   "note": "Direct sync of daily sales, register closures and COGS to QuickBooks Online, consistent with api."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "sage-bob-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Omni-Accounting brengt uw gegevens van Lightspeed en Sage BOB naadloos samen",
+   "note": "Connector by Omniboost (Omni-Accounting), consistent with via_partner; page says Sage BOB without version."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "sage-intacct",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Omni-Accounting seamlessly integrates your data from Lightspeed and Sage Intacct",
+   "note": "Connector by Omniboost, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "snelstart",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "De verkopen kunnen worden doorgezet naar Snelstart verkoopboekingen.",
+   "note": "Koppeling run by Webwinkelfacturen (winkelboekhouding.nl), consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "twinfield",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Omni-Accounting seamlessly integrates your data from Lightspeed and Twinfield",
+   "note": "Connector by Omniboost, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "visma-eaccounting",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "De verkopen kunnen worden doorgezet naar Visma eAccounting boekingen.",
+   "note": "Koppeling run by Webwinkelfacturen (winkelboekhouding.nl), consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "winauditor",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exact Online, Yuki, Octopus, Kluwer Adsolut, Horus, Winauditor, Expert/M, Billit, Clearfacts, OkiOki, BillToBox",
+   "note": "Winauditor is listed among the programs reached through Scrada, consistent with via_partner."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Daily sales, account sales, payment totals, inventory orders, COGS and customer details sync to Xero",
+   "note": "Direct sync with Xero, no partner named, consistent with api."
+  },
+  {
+   "editorId": "lightspeed",
+   "softwareId": "yuki",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Omni-Accounting brengt uw gegevens van Lightspeed en Yuki naadloos samen",
+   "note": "Connector by Omniboost, consistent with via_partner."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "afas",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "This native connection syncs Mollie transaction data straight into your AFAS Profit environment.",
+   "note": "Native connection with payment links and instant ledger reconciliation, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Available for: Exact Online, Twinfield, Yuki, SnelStart, Moneybird, Minox, Datev, QuickBooks.",
+   "note": "Datev listed under Bank Connection, which automatically syncs Mollie Business Account transactions, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "e-boekhouden",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "e-Boekhouden | Bookkeeping and invoicing in a way that you understand. | ... | Categories | Accounting & Invoicing",
+   "note": "Stub integration page in Accounting & Invoicing category with no mechanism described, consistent with kind unknown."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Automate your Exact Online invoicing and get paid faster.",
+   "note": "Payment links on Exact invoices with automatic reconciliation plus Business Account sync, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Transaction files are automatically generated and are sent to your email address or Dropbox ... Microsoft Dynamics 365 Business Central",
+   "note": "Business Central is listed under Automated exports (password-protected files by email/Dropbox), consistent with file_export."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "minox",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Available for: Exact Online, Twinfield, Yuki, SnelStart, Moneybird, Minox, Datev, QuickBooks.",
+   "note": "Minox listed under Bank Connection (automatic sync), consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "moneybird",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Once paid, Moneybird automatically reconciles the payment, keeping your accounts up-to-date without any manual effort.",
+   "note": "Moneybird sends sales data to Mollie and reconciles automatically, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Transaction files are automatically generated and are sent to your email address or Dropbox ... NetSuite",
+   "note": "NetSuite listed under Automated exports, consistent with file_export."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Master your back-office operations with automated reconciliations using Mollie Balance Sync",
+   "note": "Mollie apps for Odoo cover checkout, POS and financial reconciliation, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "All your payments via Mollie are automatically synchronised with your Pennylane account.",
+   "note": "Direct integration syncing payments to Pennylane, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Clients can easily pay your QuickBooks Invoices, while they are automatically paid from your QuickBooks account.",
+   "note": "Direct Mollie & QuickBooks integration, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "snelstart",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Automate your ledger matching and invoice updates while Mollie looks after your transactions.",
+   "note": "Direct Snelstart integration with payment links and automated matching, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "twinfield",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Available for: Exact Online, Twinfield, Yuki, SnelStart, Moneybird, Minox, Datev, QuickBooks.",
+   "note": "Twinfield listed under Bank Connection (automatic sync), consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "unit4",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Transaction files are automatically generated and are sent to your email address or Dropbox ... Unit4 Financials & Unit4",
+   "note": "Unit4 listed under Automated exports, consistent with file_export."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "visma-accountview",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Available for: | AccountView, AFAS & AFAS SB+, Asperion",
+   "note": "AccountView (Visma's product, named without the Visma prefix) is listed under Automated exports by email/Dropbox, consistent with file_export."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "visma-eaccounting",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Transaction files are automatically generated and are sent to your email address or Dropbox ... Visma eAccounting & Visma.net",
+   "note": "Visma eAccounting listed under Automated exports, consistent with file_export."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "accept leading EU payment methods on your Xero invoices, automatically reconcile settled invoices",
+   "note": "Direct Mollie for Xero integration, consistent with api."
+  },
+  {
+   "editorId": "mollie",
+   "softwareId": "yuki",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Available for: Exact Online, Twinfield, Yuki, SnelStart, Moneybird, Minox, Datev, QuickBooks.",
+   "note": "Yuki listed under Bank Connection (automatic sync), consistent with api."
+  },
+  {
+   "editorId": "obat",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pour le moment Chift supporte l'intégration des logiciels : PennyLane | ACD | Full | Cegid loop | InexWeb - In Extenso | Inqom | MyUnisoft",
+   "note": "ACD listed among software reached through the Chift integration, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "obat",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pour le moment Chift supporte l'intégration des logiciels : PennyLane | ACD | Full | Cegid loop | InexWeb - In Extenso | Inqom | MyUnisoft",
+   "note": "Cegid loop listed among software reached through Chift, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "obat",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pour le moment Chift supporte l'intégration des logiciels : PennyLane | ACD | Full | Cegid loop | InexWeb - In Extenso | Inqom | MyUnisoft",
+   "note": "Inqom listed among software reached through Chift, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "obat",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Pour le moment Chift supporte l'intégration des logiciels : PennyLane | ACD | Full | Cegid loop | InexWeb - In Extenso | Inqom | MyUnisoft",
+   "note": "MyUnisoft listed among software reached through Chift, consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "obat",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "connecter votre logiciel comptable à Obat grâce à notre partenaire Chift",
+   "note": "Pennylane connection set up through partner Chift (needs Pennylane Essential or higher), consistent with via_partner; via Chift."
+  },
+  {
+   "editorId": "payplug",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Grâce à notre intégration avec EBP, vous pouvez désormais insérer des liens de paiement Payplug aux factures et devis",
+   "note": "Integration activated via EBP Marketplace and connected from inside EBP, consistent with api."
+  },
+  {
+   "editorId": "payplug",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "générez un lien de paiement et intégrez-le dans une facture émise depuis Odoo",
+   "note": "Payplug module for Odoo (v12-18) covering e-commerce checkout and invoice payment links, consistent with api."
+  },
+  {
+   "editorId": "payplug",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "nous proposons également des intégrations avec des logiciels de gestion et des solutions tierces : Divalto | Evoliz | Agicap | Nout | Dougs | Fygr | Pennylane",
+   "note": "Pennylane listed under 'Intégrations pour ERP et outils comptables' with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "plancraft",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "plancraft sie automatisch an DATEV UO",
+   "note": "DATEV Unternehmen online interface connected in Settings > Interfaces with automatic invoice transfer, consistent with api."
+  },
+  {
+   "editorId": "plancraft",
+   "softwareId": "exact-online",
+   "verdict": "ok_family",
+   "suggested_kind": "",
+   "quote": "Met de integratie van Exact en plancraft heb je alle projecten, facturen en financiële gegevens op één plek.",
+   "note": "Page names 'Exact' without specifying Exact Online; integration stated but no mechanism detail."
+  },
+  {
+   "editorId": "plancraft",
+   "softwareId": "moneybird",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Verbind je plancraft-account met Moneybird en je voltooide opdrachten worden automatisch als factuur in je boekhouding opgenomen",
+   "note": "Account connection with automatic invoice creation, consistent with api."
+  },
+  {
+   "editorId": "plancraft",
+   "softwareId": "snelstart",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Verzend je facturen en bonnetjes automatisch naar Snelstart zonder dubbele gegevensinvoer.",
+   "note": "Direct automatic sending to Snelstart, consistent with api."
+  },
+  {
+   "editorId": "sumup",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Ihre Umsätze und SumUp Gebühren werden täglich automatisch mit DATEV synchronisiert und als Kassenbucheinträge erfasst",
+   "note": "Rendered in browser; OAuth connection from dashboard with daily automatic sync (POS Plus / Payments Plus), consistent with api."
+  },
+  {
+   "editorId": "sumup",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "With these plans, you can link the following software to your SumUp profile: Sage Accounting Xero QuickBooks",
+   "note": "Rendered in browser; QuickBooks linkable on POS Plus / Payment Plus with sales sync, consistent with api."
+  },
+  {
+   "editorId": "sumup",
+   "softwareId": "sage-50",
+   "verdict": "not_supported",
+   "suggested_kind": "",
+   "quote": "SumUp's Sage Accounting integration automatically syncs the previous day's data to Sage Accounting every morning at 4:00 a.m.",
+   "note": "Rendered in browser; the integration is with Sage Accounting (cloud), a different Sage product from Sage 50, which is never mentioned; the real connection is a daily api sync."
+  },
+  {
+   "editorId": "sumup",
+   "softwareId": "sevdesk",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Die sevdesk-Integration von SumUp synchronisiert die Daten des Vortages automatisch jeden Morgen um 4 Uhr mit sevdesk.",
+   "note": "Rendered in browser; daily automatic sync, sales as invoices and fees as expenses, consistent with api."
+  },
+  {
+   "editorId": "sumup",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "With these plans, you can link the following software to your SumUp profile: Sage Accounting Xero QuickBooks",
+   "note": "Rendered in browser; Xero linkable on POS Plus / Payment Plus with sales sync, consistent with api."
+  },
+  {
+   "editorId": "tooltime",
+   "softwareId": "datev",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "DATEV Rechnungsdatenservice 1.0 – vollständig integriert",
+   "note": "Direct link to DATEV Unternehmen online, one-click monthly transfer, paid add-on (19 €/month), consistent with api."
+  },
+  {
+   "editorId": "tooltime",
+   "softwareId": "lexware-office",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Die Lexware Office Schnittstelle überträgt Rechnungen in Echtzeit in Deine Buchhaltungssoftware",
+   "note": "Real-time sync of invoices and ToolTime Pay payments, consistent with api."
+  },
+  {
+   "editorId": "tooltime",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Klicke auf Mit Xero verbinden und Du wirst direkt zu Xero weitergeleitet und aufgefordert, Dich mit Deinen Xero Login Daten anzumelden.",
+   "note": "OAuth connection to Xero with authorised data transfer, consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "acd",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | ACD | ✅ | ✅ | ❌",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "afas",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | AFAS Software | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "cegid-loop",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Cegid Loop | ✅ | ✅ | ❌",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "e-boekhouden",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Eboekhouden | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "ebp",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "ventes, achats, paiements circulent automatiquement entre Vertuoza et la comptabilité. (intégrations natives Sage, EBP, Cegid, Codial, Horus, WinBooks, etc.)",
+   "note": "FAQ claims a native two-way EBP integration, consistent with api; note EBP is absent from the help-center compatible-software table."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Exact Online BE | ✅ | ✅ | ❌ | Exact Online FR | ✅ | ✅ | ❌ | Exact Online NL",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "freeagent",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | FreeAgent | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "fulll",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Fulll | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "horus",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Horus | ✅ | ✅ | ⚠️ on récupère les données, mais sans le PDF",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "inqom",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Inqom | ✅ | ✅ | ❌",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "microsoft-dynamics",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Dynamics 365 Business Central | ✅ | ✅ | ❌",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; product is Dynamics 365 Business Central."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "minox",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Minox | ✅ | ✅ | ❌",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "moneybird",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Moneybird | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "myunisoft",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | MyUnisoft | ✅ | ✅ | ❌",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "netsuite",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Netsuite | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "octopus",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Octopus | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "odoo",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Odoo | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "pennylane",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Pennylane | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Quickbooks Accounting | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "sage-100",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Sage 100 FR | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; listed as Sage 100 FR."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "sage-bob-50",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Sage Bob 50 | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "sage-generation-experts",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Sage Génération Experts | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "snelstart",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Snelstart | ✅ | ✅ | ❌",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "tiime",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Tiime | ✅ | ✅ | ❌",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; this page does not mention Chift (the viaChift flag comes from another source)."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "twinfield",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | TwinField | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "visma-eaccounting",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Visma eAccounting | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "winbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Winbooks Classic | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api; listed as Winbooks Classic."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Xero | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "vertuoza",
+   "softwareId": "yuki",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Logiciels compatibles | ... | Yuki | ✅ | ✅ | ✅",
+   "note": "Listed in the 'Logiciels compatibles' table of the automatic accounting sync (Vertuoza sends invoices automatically), consistent with api."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "billy",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Billy | Regnskabsintegrationer",
+   "note": "Listed on the Danish integrations page under accounting integrations with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "bjorn-lunden",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Björn Lundén | Integrationer för bokföring",
+   "note": "Listed on the Swedish integrations page under bookkeeping integrations with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "dinero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Dinero | Regnskabsintegrationer",
+   "note": "Listed under accounting integrations with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "e-boekhouden",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "e-Boekhouden | Boekhoudkoppelingen",
+   "note": "Listed on the Dutch koppelingen page under Boekhoudkoppelingen with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "exact-online",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "PayPal Point of Sale laat je je verkoop- en betalingsgegevens rechtstreeks in je Exact administratie importeren.",
+   "note": "Direct automatic import; article states only Exact Online and Exact Financials are supported, consistent with api."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "fiken",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Fiken | Skybasert regnskap",
+   "note": "Listed on the Norwegian integrations page under cloud accounting with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "fortnox",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Fortnox | Integrationer för bokföring",
+   "note": "Listed under bookkeeping integrations with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "quickbooks",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "PayPal Point of Sale lets you import your sales and payments data daily into your QuickBooks account.",
+   "note": "Account connection with automatic daily import (QuickBooks Online Essentials/Plus), consistent with api."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "snelstart",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "SnelStart | Boekhoudkoppelingen",
+   "note": "Listed under Boekhoudkoppelingen with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "twinfield",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Twinfield | Boekhoudkoppelingen",
+   "note": "Listed under Boekhoudkoppelingen with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "visma-e-conomic",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "VISMA e-conomic | Regnskabsintegrationer",
+   "note": "Listed under accounting integrations with no mechanism, consistent with kind unknown."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "visma-eaccounting",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Middels de integratie worden je dagelijkse PayPal Point of Sale verkopen automatisch geboekt in Visma eAccounting.",
+   "note": "Direct integration with automatic daily posting, consistent with api."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "xero",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "PayPal Point of Sale lets you import your sales and payments data daily into your Xero account.",
+   "note": "Account connection with automatic daily import, consistent with api."
+  },
+  {
+   "editorId": "zettle",
+   "softwareId": "yuki",
+   "verdict": "ok",
+   "suggested_kind": "",
+   "quote": "Yuki | Boekhoudkoppelingen",
+   "note": "Listed under Boekhoudkoppelingen with no mechanism, consistent with kind unknown."
+  }
+ ]
+}

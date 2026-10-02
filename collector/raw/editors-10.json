@@ -1,0 +1,1417 @@
+{
+ "collected_at": "2026-10-01",
+ "editors": [
+  {
+   "id": "sumup",
+   "name": "SumUp",
+   "domain": "sumup.com",
+   "hq_country": "GB",
+   "integrations_url": "https://help.sumup.com/en-GB/articles/40kv0a4cBysasUUXN3zkpc-link-accounting-software-sumup",
+   "pages_read": [
+    "https://help.sumup.com/en-GB/articles/40kv0a4cBysasUUXN3zkpc-link-accounting-software-sumup",
+    "https://help.sumup.com/en-IE/articles/40kv0a4cBysasUUXN3zkpc",
+    "https://help.sumup.com/de-DE/articles/40kv0a4cBysasUUXN3zkpc",
+    "https://help.sumup.com/de-AT/articles/40kv0a4cBysasUUXN3zkpc",
+    "https://help.sumup.com/en-GB/sections/3aS1iCERM0M7m4yfwJGDVY-sumup-invoices",
+    "https://help.sumup.com/de-DE/sections/3aS1iCERM0M7m4yfwJGDVY-sumup-invoices",
+    "https://help.sumup.com/fr-FR/sections/3aS1iCERM0M7m4yfwJGDVY-sumup-invoices",
+    "https://help.sumup.com/it-IT/sections/3aS1iCERM0M7m4yfwJGDVY-sumup-invoices",
+    "https://help.sumup.com/es-ES/sections/3aS1iCERM0M7m4yfwJGDVY-sumup-invoices",
+    "https://help.sumup.com/nl-NL/sections/3aS1iCERM0M7m4yfwJGDVY-sumup-invoices",
+    "https://help.sumup.com/en-GB/articles/2f55JP9JWvi7zYtOgDnAe3-article-what-do-i-need-to-know-about-the-sage-integration-to-sumup",
+    "https://help.sumup.com/de-DE/articles/2xkoqc6ZHFR2qUDqslqQTr-artikel-datev-integration-mit-sumup",
+    "https://help.sumup.com/de-DE/articles/7r4CNuL3tqwk1jyGNRw8KR-artikel-was-sollte-ich-ueber-die-sevdesk-integration-mit-sumup-wissen",
+    "https://help.sumup.com/de-DE/pos/articles/75000113023-datev-export-funktion",
+    "https://help.sumup.com/fr-FR/pos",
+    "https://help.sumup.com/fr-FR/pos/articles/75000086605-rapport-comment-et-pourquoi-utiliser-l-export-csv-d-taill-du-rapport-comptable-",
+    "https://help.sumup.com/fr-FR/articles/44f1NCVhjK4InnHQI5wnCZ",
+    "https://www.sumup.com/fr-fr/logiciel-de-caisse-sumup/",
+    "https://www.sumup.com/en-gb/business-guide/exporting-payment-data-to-your-accounting-software/",
+    "https://www.sumup.com/en-gb/business-guide/sumup-xero-quickbooks-integration-vat-return/"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.sumup.com/fr-fr/integrations/",
+     "reason": "HTTP 404, no public integrations directory at this URL"
+    },
+    {
+     "url": "https://help.sumup.com/fr-FR/articles/40kv0a4cBysasUUXN3zkpc",
+     "reason": "HTTP 404: accounting-software article not published for fr-FR (same for it-IT, es-ES, nl-NL, fr-BE, nl-BE, pt-PT)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Sage Accounting",
+     "source_url": "https://help.sumup.com/en-GB/articles/2f55JP9JWvi7zYtOgDnAe3-article-what-do-i-need-to-know-about-the-sage-integration-to-sumup",
+     "evidence": "Daily automatic sync of sales and fees to Sage Accounting",
+     "kind": "api",
+     "countries_stated": [
+      "GB",
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://help.sumup.com/en-GB/articles/40kv0a4cBysasUUXN3zkpc-link-accounting-software-sumup",
+     "evidence": "POS Plus/Payments Plus: link Xero; syncs sales, fees, expenses",
+     "kind": "api",
+     "countries_stated": [
+      "GB",
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://help.sumup.com/en-GB/articles/40kv0a4cBysasUUXN3zkpc-link-accounting-software-sumup",
+     "evidence": "POS Plus/Payments Plus: link QuickBooks; syncs sales, fees, expenses",
+     "kind": "api",
+     "countries_stated": [
+      "GB",
+      "IE"
+     ]
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://help.sumup.com/de-DE/articles/2xkoqc6ZHFR2qUDqslqQTr-artikel-datev-integration-mit-sumup",
+     "evidence": "Sales and fees synced daily to DATEV as cash book entries",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "sevdesk",
+     "source_url": "https://help.sumup.com/de-DE/articles/7r4CNuL3tqwk1jyGNRw8KR-artikel-was-sollte-ich-ueber-die-sevdesk-integration-mit-sumup-wissen",
+     "evidence": "Daily sync: sales as invoices, fees as expenses in sevdesk",
+     "kind": "api",
+     "countries_stated": [
+      "DE",
+      "AT"
+     ]
+    }
+   ],
+   "notes": "Accounting integrations are a paid-plan feature (POS Plus / Payments Plus) and country-gated: UK+IE list Sage Accounting, Xero, QuickBooks; DE lists DATEV + sevdesk; AT lists sevdesk only. No such article for FR, IT, ES, NL, BE, PT (404). FR marketing page says Caisse Plus 'integrates with main accounting software' without naming any. POS Pro (ex-Tiller) offers a generic CSV/PDF accounting report and, in DE, a DATEV-format file export (SKR03). Not found on public pages: Pennylane, Cegid, Sage 50/100, EBP, Tiime, Lexware Office, Exact, Moneybird, Holded, Fatture in Cloud, FreeAgent, NetSuite. No third-party connector (Chift/Codat) named."
+  },
+  {
+   "id": "lightspeed",
+   "name": "Lightspeed",
+   "domain": "lightspeedhq.com",
+   "hq_country": "CA",
+   "integrations_url": "https://www.lightspeedhq.com/integrations/",
+   "pages_read": [
+    "https://www.lightspeedhq.com/integrations/",
+    "https://www.lightspeedhq.com/uk/integrations/",
+    "https://www.lightspeedhq.fr/integrations/",
+    "https://www.lightspeedhq.de/integrationen/",
+    "https://www.lightspeedhq.nl/integraties/",
+    "https://www.lightspeedhq.be/integraties/",
+    "https://fr.lightspeedhq.be/integrations/",
+    "https://www.lightspeedhq.com/es/integraciones/",
+    "https://www.lightspeedhq.com/au/integrations/",
+    "https://www.lightspeedhq.com/pos/restaurant/integrations/",
+    "https://www.lightspeedhq.com/pos/retail/integrations/",
+    "https://www.lightspeedhq.com/sitemap-integrations.xml",
+    "https://www.lightspeedhq.fr/integrations/chift/",
+    "https://www.lightspeedhq.com/uk/integrations/chift/",
+    "https://www.lightspeedhq.fr/integrations/pennylane/",
+    "https://www.lightspeedhq.fr/integrations/netsuite/",
+    "https://www.lightspeedhq.fr/integrations/exact-online/",
+    "https://www.lightspeedhq.fr/integrations/quickbooks/",
+    "https://www.lightspeedhq.fr/integrations/azopio/",
+    "https://www.lightspeedhq.fr/integrations/ouilink/",
+    "https://www.lightspeedhq.com/uk/integrations/quickbooks/",
+    "https://www.lightspeedhq.com/uk/integrations/xero/",
+    "https://www.lightspeedhq.com/uk/integrations/sage-intacct/",
+    "https://www.lightspeedhq.com/uk/integrations/sap-business-one/",
+    "https://www.lightspeedhq.com/uk/integrations/twinfield/",
+    "https://www.lightspeedhq.com/uk/integrations/omniboost/",
+    "https://www.lightspeedhq.com/uk/integrations/pos-accounting/",
+    "https://www.lightspeedhq.com/integrations/netsuite/",
+    "https://www.lightspeedhq.com/integrations/shogo/",
+    "https://www.lightspeedhq.de/integrationen/datev-gastrofix/",
+    "https://www.lightspeedhq.de/integrationen/sage/",
+    "https://www.lightspeedhq.de/integrationen/bexio-via-omniboost/",
+    "https://www.lightspeedhq.nl/integraties/afas/",
+    "https://www.lightspeedhq.nl/integraties/exact-online-for-retail-en-restaurant/",
+    "https://www.lightspeedhq.nl/integraties/moneybird-voor-lightspeedpos/",
+    "https://www.lightspeedhq.nl/integraties/snelstart/",
+    "https://www.lightspeedhq.nl/integraties/twinfield-door-possystems/",
+    "https://www.lightspeedhq.nl/integraties/yuki/",
+    "https://www.lightspeedhq.nl/integraties/sage-bob/",
+    "https://www.lightspeedhq.nl/integraties/scrada/",
+    "https://www.lightspeedhq.nl/integraties/visma-eaccounting-voor-retail-restaurant/",
+    "https://www.lightspeedhq.com/au/integrations/myobaccountright/",
+    "https://k-series-support.lightspeedhq.com/hc/en-us/articles/1260806519370-Setting-up-Lightspeed-Accounting-2-0",
+    "https://k-series-support.lightspeedhq.com/hc/en-us/articles/12913382173723-Setting-up-Lightspeed-Accounting-3-0",
+    "https://k-series-support.lightspeedhq.com/hc/en-us/articles/9767000734107-Setting-up-the-DATEV-accounting-integration",
+    "https://resto-support.lightspeedhq.com/hc/en-us/articles/115005519368-About-Lightspeed-Accounting",
+    "https://resto-support.lightspeedhq.com/hc/en-us/articles/115001295513-About-Sage-Business-Cloud-Accounting",
+    "https://retail-support.lightspeedhq.com/hc/en-us/articles/360007852213-Setting-up-and-connecting-Lightspeed-Accounting"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://x-series-support.lightspeedhq.com/hc/en-us/articles/25534073571611-Setting-up-the-Xero-integration-with-Retail-POS-X-Series",
+     "reason": "HTTP 403 (bot protection), not bypassed"
+    },
+    {
+     "url": "https://www.lightspeedhq.ch/integrationen/",
+     "reason": "Redirects to lightspeedhq.com/ch/integrationen/ which returns 404"
+    },
+    {
+     "url": "https://fr.lightspeedhq.ch/integrations/",
+     "reason": "Connection failed"
+    },
+    {
+     "url": "https://www.lightspeedhq.fr/caisse-enregistreuse/restaurant/integrations/",
+     "reason": "HTTP 404"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "QuickBooks Online",
+     "source_url": "https://www.lightspeedhq.com/uk/integrations/quickbooks/",
+     "evidence": "Register closures pushed automatically to QuickBooks Online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickBooks Desktop",
+     "source_url": "https://retail-support.lightspeedhq.com/hc/en-us/articles/360007852213-Setting-up-and-connecting-Lightspeed-Accounting",
+     "evidence": "Lightspeed Accounting integrates with QuickBooks Desktop 2015 or higher",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.lightspeedhq.com/uk/integrations/xero/",
+     "evidence": "Daily sales, payment totals, COGS sync to Xero",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Business Cloud Accounting",
+     "source_url": "https://resto-support.lightspeedhq.com/hc/en-us/articles/115001295513-About-Sage-Business-Cloud-Accounting",
+     "evidence": "Lightspeed Accounting connects a store to a Sage Business Cloud Accounting company",
+     "kind": "api",
+     "countries_stated": [
+      "CA",
+      "DE",
+      "FR",
+      "GB",
+      "IE",
+      "US"
+     ]
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://resto-support.lightspeedhq.com/hc/en-us/articles/115005519368-About-Lightspeed-Accounting",
+     "evidence": "Lightspeed Accounting can sync daily with Exact Online",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "DATEV",
+     "source_url": "https://k-series-support.lightspeedhq.com/hc/en-us/articles/9767000734107-Setting-up-the-DATEV-accounting-integration",
+     "evidence": "Lightspeed Accounting integrates directly with DATEV (Kassenarchiv online)",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://www.lightspeedhq.com/integrations/netsuite/",
+     "evidence": "Lightspeed Retail for NetSuite: SuiteApp integration; elsewhere via Omniboost",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MYOB AccountRight",
+     "source_url": "https://www.lightspeedhq.com/au/integrations/myobaccountright/",
+     "evidence": "Syncs daily reconciliation, invoices, customers with MYOB AccountRight",
+     "kind": "api",
+     "countries_stated": [
+      "AU"
+     ]
+    },
+    {
+     "software_raw": "MYOB Essentials",
+     "source_url": "https://www.lightspeedhq.com/au/integrations/myob-essentials/",
+     "evidence": "Syncs daily reconciliation, invoices, customers with MYOB Essentials",
+     "kind": "api",
+     "countries_stated": [
+      "AU"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://www.lightspeedhq.fr/integrations/chift/",
+     "evidence": "Chift connects Lightspeed to Pennylane; own listing gives no mechanism",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "MyUnisoft",
+     "source_url": "https://www.lightspeedhq.fr/integrations/chift/",
+     "evidence": "Chift connecte Lightspeed à Pennylane, MyUnisoft, Sage",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.lightspeedhq.fr/integrations/chift/",
+     "evidence": "Chift connecte Lightspeed à Pennylane, MyUnisoft, Sage (product unspecified)",
+     "kind": "via_partner",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Cegid",
+     "source_url": "https://www.lightspeedhq.com/uk/integrations/chift/",
+     "evidence": "Sage, Cegid, Pennylane, Inqom, MyUnisoft use Chift for Lightspeed",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Inqom",
+     "source_url": "https://www.lightspeedhq.com/uk/integrations/chift/",
+     "evidence": "Sage, Cegid, Pennylane, Inqom, MyUnisoft use Chift for Lightspeed",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Intacct",
+     "source_url": "https://www.lightspeedhq.com/uk/integrations/sage-intacct/",
+     "evidence": "Via Omniboost Omni-Accounting connector",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP Business One",
+     "source_url": "https://www.lightspeedhq.com/uk/integrations/sap-business-one/",
+     "evidence": "Via Omniboost Omni-Accounting connector",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://www.lightspeedhq.com/uk/integrations/twinfield/",
+     "evidence": "Via Omniboost Omni-Accounting connector; NL also winkelboekhouding.nl, POSsystems",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage BOB",
+     "source_url": "https://www.lightspeedhq.nl/integraties/sage-bob/",
+     "evidence": "Via Omniboost Omni-Accounting connector",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://www.lightspeedhq.nl/integraties/yuki/",
+     "evidence": "Via Omniboost Omni-Accounting connector; also via Scrada",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Bexio",
+     "source_url": "https://www.lightspeedhq.de/integrationen/bexio-via-omniboost/",
+     "evidence": "Listed as 'Bexio via Omniboost'",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "AFAS",
+     "source_url": "https://www.lightspeedhq.nl/integraties/afas/",
+     "evidence": "Via webwinkelfacturen.nl: receipts forwarded to AFAS as invoices",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "e-Boekhouden",
+     "source_url": "https://www.lightspeedhq.nl/integraties/e-boekhouden-voor-retail-en-restaurant/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "MoneyBird",
+     "source_url": "https://www.lightspeedhq.nl/integraties/moneybird-voor-lightspeedpos/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Snelstart",
+     "source_url": "https://www.lightspeedhq.nl/integraties/snelstart/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Visma eAccounting",
+     "source_url": "https://www.lightspeedhq.nl/integraties/visma-eaccounting-voor-retail-restaurant/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Minox Software",
+     "source_url": "https://www.lightspeedhq.nl/integraties/minox-software/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Jortt",
+     "source_url": "https://www.lightspeedhq.nl/integraties/jortt/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Informer",
+     "source_url": "https://www.lightspeedhq.nl/integraties/informer/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Asperion",
+     "source_url": "https://www.lightspeedhq.nl/integraties/asperion/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Reeleezee",
+     "source_url": "https://www.lightspeedhq.nl/integraties/reeleezee/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Rompslomp",
+     "source_url": "https://www.lightspeedhq.nl/integraties/rompslomp/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Silvasoft",
+     "source_url": "https://www.lightspeedhq.nl/integraties/silvasoft/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "MUIS Software",
+     "source_url": "https://www.lightspeedhq.nl/integraties/muis-software-voor-lightspeedpos/",
+     "evidence": "Via winkelboekhouding.nl connector: receipts posted to bookkeeping",
+     "kind": "via_partner",
+     "countries_stated": [
+      "NL",
+      "BE"
+     ]
+    },
+    {
+     "software_raw": "Octopus",
+     "source_url": "https://www.lightspeedhq.nl/integraties/scrada/",
+     "evidence": "Via Scrada: revenue and payment data forwarded to Octopus",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Kluwer Adsolut",
+     "source_url": "https://www.lightspeedhq.nl/integraties/scrada/",
+     "evidence": "Via Scrada: data forwarded to Kluwer Adsolut",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Horus",
+     "source_url": "https://www.lightspeedhq.nl/integraties/scrada/",
+     "evidence": "Via Scrada: data forwarded to Horus",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Clearfacts",
+     "source_url": "https://www.lightspeedhq.nl/integraties/scrada/",
+     "evidence": "Via Scrada: data forwarded to Clearfacts",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Expert/M",
+     "source_url": "https://www.lightspeedhq.nl/integraties/scrada/",
+     "evidence": "Via Scrada: data forwarded to Expert/M",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Winauditor",
+     "source_url": "https://www.lightspeedhq.nl/integraties/scrada/",
+     "evidence": "Via Scrada: data forwarded to Winauditor",
+     "kind": "via_partner",
+     "countries_stated": [
+      "BE",
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Restaurant365",
+     "source_url": "https://www.lightspeedhq.com/integrations/",
+     "evidence": "Listed under Accounting, Inventory Management, Payroll; detail page not opened",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Three layers. (1) Native 'Lightspeed Accounting': QuickBooks Online/Desktop, Xero, Sage Business Cloud Accounting (K-Series doc calls it 'Sage One'), Exact Online, DATEV (DE only), MYOB (AU); K-Series Accounting 3.0 is 'enabled via Omniboost' for Xero/QuickBooks Online/MYOB. (2) Marketplace connectors by third parties: Omniboost (NetSuite, Sage Intacct, SAP Business One, Twinfield, Sage BOB, Yuki, Bexio, also Exact Online and QuickBooks), winkelboekhouding.nl / webwinkelfacturen.nl (NL/BE packages), Scrada (BE), Shogo and POS Accounting (QuickBooks/Xero, US/UK). (3) Chift is listed on FR and UK marketplaces (K-Series): FR page names Pennylane, MyUnisoft, Sage; UK page names Sage, Cegid, Pennylane, Inqom, MyUnisoft. Lists differ strongly by country site: FR accounting = Pennylane, NetSuite, Chift, Exact Online, QuickBooks, Azopio, OuiLink; DE = DATEV, Bexio via Omniboost, PINIT (the DE 'Sage' card is payroll, not accounting); BE-FR page lists only Blent under accounting; ES page has no accounting integration. Not found: Cegid product names (Loop/Quadra/Expert), ACD, EBP, Fulll, Tiime, Isacompta, Indy, Lexware Office, sevdesk, Addison, Agenda, Scopevisio, BuchhaltungsButler, WinBooks, Odoo, Holded, a3, FreeAgent, KashFlow, Italian packages, Business Central. X-Series help centre blocked (403)."
+  },
+  {
+   "id": "mollie",
+   "name": "Mollie",
+   "domain": "mollie.com",
+   "hq_country": "NL",
+   "integrations_url": "https://www.mollie.com/integrations/categories/accounting-invoicing",
+   "pages_read": [
+    "https://www.mollie.com/integrations",
+    "https://www.mollie.com/integrations/categories/accounting-invoicing",
+    "https://www.mollie.com/integrations/categories/erp",
+    "https://www.mollie.com/de/integrations/categories/accounting-invoicing",
+    "https://www.mollie.com/fr/integrations/categories/accounting-invoicing",
+    "https://www.mollie.com/nl/integrations/categories/accounting-invoicing",
+    "https://www.mollie.com/be/integrations/categories/accounting-invoicing",
+    "https://www.mollie.com/gb/integrations/categories/accounting-invoicing",
+    "https://www.mollie.com/it/integrations/categories/accounting-invoicing",
+    "https://www.mollie.com/es/integrations/categories/accounting-invoicing",
+    "https://www.mollie.com/integrations/quickbooks",
+    "https://www.mollie.com/integrations/xero",
+    "https://www.mollie.com/integrations/exact",
+    "https://www.mollie.com/integrations/twinfield",
+    "https://www.mollie.com/integrations/yuki",
+    "https://www.mollie.com/integrations/snelstart",
+    "https://www.mollie.com/integrations/moneybird",
+    "https://www.mollie.com/integrations/moneymonk",
+    "https://www.mollie.com/integrations/eboekhouden",
+    "https://www.mollie.com/integrations/jortt",
+    "https://www.mollie.com/integrations/rompslomp",
+    "https://www.mollie.com/integrations/afas",
+    "https://www.mollie.com/integrations/visma",
+    "https://www.mollie.com/integrations/pennylane",
+    "https://www.mollie.com/integrations/sage",
+    "https://www.mollie.com/integrations/buchhaltungsbutler",
+    "https://www.mollie.com/integrations/easybill",
+    "https://www.mollie.com/integrations/billomat",
+    "https://www.mollie.com/integrations/boekhoudgemak",
+    "https://www.mollie.com/integrations/paperdork",
+    "https://www.mollie.com/integrations/odoo",
+    "https://www.mollie.com/integrations/xentral",
+    "https://www.mollie.com/integrations/mic1",
+    "https://www.mollie.com/integrations/jera",
+    "https://www.mollie.com/integrations/pathway-solutions",
+    "https://www.mollie.com/integrations/dekodi",
+    "https://docs.mollie.com/docs/mollie-bank-statements",
+    "https://www.mollie.com/growth/build-a-small-online-store"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://help.mollie.com/hc/en-us/articles/4407521562130-What-do-I-need-to-know-about-Mollie-s-DATEV-export",
+     "reason": "HTTP 403 (bot protection), not bypassed; DATEV export format seen only in search snippet"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "QuickBooks",
+     "source_url": "https://www.mollie.com/integrations/quickbooks",
+     "evidence": "Clients pay QuickBooks invoices, automatically reconciled; also Bank Connection",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.mollie.com/integrations/xero",
+     "evidence": "Mollie link on Xero invoices, settled invoices auto-reconciled",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Online",
+     "source_url": "https://www.mollie.com/integrations/exact",
+     "evidence": "Automate Exact Online invoicing, reconcile automatically; also Bank Connection",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Bank Connection (auto sync every 30 min) available for it; directory page is a stub",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Bank Connection (auto sync every 30 min) available for it; directory page is a stub",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Snelstart",
+     "source_url": "https://www.mollie.com/integrations/snelstart",
+     "evidence": "Automates ledger matching and invoice updates; also Bank Connection",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Moneybird",
+     "source_url": "https://www.mollie.com/integrations/moneybird",
+     "evidence": "Payment link on invoices, Moneybird reconciles automatically; Bank Connection",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Minox",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Bank Connection (auto sync every 30 min) available for it",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Datev",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Bank Connection (auto sync every 30 min) available for it; Pathway Solutions/JERA listed for DATEV exports",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://www.mollie.com/integrations/pennylane",
+     "evidence": "Mollie payments automatically synchronised with your Pennylane account",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "AFAS",
+     "source_url": "https://www.mollie.com/integrations/afas",
+     "evidence": "Payment links in AFAS invoices, ledger reconciled instantly",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Jortt",
+     "source_url": "https://www.mollie.com/integrations/jortt",
+     "evidence": "Mollie sales processed daily, invoices marked paid in Jortt",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Rompslomp",
+     "source_url": "https://www.mollie.com/integrations/rompslomp",
+     "evidence": "Payment link on Rompslomp invoices, marked paid automatically",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Visma Net",
+     "source_url": "https://www.mollie.com/integrations/visma",
+     "evidence": "Payment links on Visma Net invoices, automatic reconciliation",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "BuchhaltungsButler",
+     "source_url": "https://www.mollie.com/integrations/buchhaltungsbutler",
+     "evidence": "BuchhaltungsButler imports Mollie payments and payouts, matches invoices",
+     "kind": "api",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "easybill",
+     "source_url": "https://www.mollie.com/integrations/easybill",
+     "evidence": "Mollie payment links on easybill invoices",
+     "kind": "api",
+     "countries_stated": [
+      "DE",
+      "AT",
+      "CH"
+     ]
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.mollie.com/integrations/odoo",
+     "evidence": "Mollie apps for Odoo ecommerce, POS and financial reconciliation",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Xentral",
+     "source_url": "https://www.mollie.com/integrations/xentral",
+     "evidence": "Payments and orders reconciled in Xentral via Mollie Connect",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microtech Büro+",
+     "source_url": "https://www.mollie.com/integrations/mic1",
+     "evidence": "MIC1 syncs Microtech Büro+ with Shopware for Mollie users",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "MoneyMonk",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it; directory page is a stub",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Visma eAccounting",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it ('Visma eAccounting & Visma.net')",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "SAP",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Globe",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Exact Multivers",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "AccountView",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Asperion",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Informer",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "King Software",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Reeleezee",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Silvasoft",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Unit4 Financials",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it ('Unit4 Financials & Unit4')",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Davilex",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Oracle",
+     "source_url": "https://docs.mollie.com/docs/mollie-bank-statements",
+     "evidence": "Automated export files (email/Dropbox) available for it",
+     "kind": "file_export",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "e-Boekhouden",
+     "source_url": "https://www.mollie.com/integrations/eboekhouden",
+     "evidence": "Listed in Accounting & Invoicing; stub page, no mechanism",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage",
+     "source_url": "https://www.mollie.com/integrations/sage",
+     "evidence": "Tagline 'Reconcile payments, boost revenue'; stub page, product unspecified",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Billomat",
+     "source_url": "https://www.mollie.com/integrations/billomat",
+     "evidence": "Listed in Accounting & Invoicing; stub page, no mechanism",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Boekhoudgemak",
+     "source_url": "https://www.mollie.com/integrations/boekhoudgemak",
+     "evidence": "Listed in Accounting & Invoicing; stub page, no mechanism",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Paperdork",
+     "source_url": "https://www.mollie.com/integrations/paperdork",
+     "evidence": "Listed in Accounting & Invoicing; stub page, no mechanism",
+     "kind": "unknown",
+     "countries_stated": []
+    }
+   ],
+   "notes": "Two sources. (a) Integration directory, Accounting & Invoicing + ERP categories (about 45 cards on the default EN page; DE/FR/NL/BE/GB/IT/ES pages show subsets, no extra names). Most are invoice payment-link + reconciliation integrations built with the software vendor. (b) Developer docs for the Mollie Business Account: 'Bank Connection' live feed for Exact Online, Twinfield, Yuki, SnelStart, Moneybird, Minox, Datev, QuickBooks, plus scheduled export files for ~25 other packages (also listed: Cash, Kleisteen, generic format). Docs say 'over 30 bookkeeping platforms'. Also Xero appears in the export list. Not found: Lexware Office/lexoffice, sevdesk, Cegid, Sage 100/50 by name, ACD, MyUnisoft, EBP, Inqom, Fulll, Tiime, WinBooks, Octopus, Horus, Holded, a3, FreeAgent, KashFlow, Italian packages, Sage Intacct. No Chift/Codat mention. Help centre DATEV-export article blocked (403)."
+  },
+  {
+   "id": "gocardless",
+   "name": "GoCardless",
+   "domain": "gocardless.com",
+   "hq_country": "GB",
+   "integrations_url": "https://gocardless.com/integrations/",
+   "pages_read": [
+    "https://gocardless.com/integrations/",
+    "https://gocardless.com/integrations/xero",
+    "https://gocardless.com/integrations/sage",
+    "https://gocardless.com/integrations/intuit-quickbooks",
+    "https://gocardless.com/integrations/freeagent",
+    "https://gocardless.com/integrations/zoho-invoice",
+    "https://gocardless.com/integrations/zoho-books",
+    "https://gocardless.com/integrations/quickfile",
+    "https://gocardless.com/integrations/kashflow",
+    "https://gocardless.com/partners",
+    "https://gocardless.com/partners/category/accounting-and-invoicing",
+    "https://gocardless.com/fr-fr/partenaires",
+    "https://gocardless.com/fr-fr/partenaires/categorie/compta-et-facturation",
+    "https://gocardless.com/de-de/partner",
+    "https://gocardless.com/de-de/partner/kategorie/konto-und-fakturierung",
+    "https://gocardless.com/es-es/asociados",
+    "https://gocardless.com/es-es/asociados/categoria/contabilidad-y-facturacion",
+    "https://gocardless.com/partners/quickbooks",
+    "https://gocardless.com/partners/sage50",
+    "https://gocardless.com/partners/sage200",
+    "https://gocardless.com/partners/sageintacct",
+    "https://gocardless.com/partners/freeagent",
+    "https://gocardless.com/partners/kashflow",
+    "https://gocardless.com/partners/netsuite",
+    "https://gocardless.com/partners/microsoft",
+    "https://gocardless.com/partners/astral365",
+    "https://gocardless.com/fr-fr/partenaires/pennylane",
+    "https://gocardless.com/fr-fr/partenaires/ebp",
+    "https://gocardless.com/fr-fr/partenaires/evoliz",
+    "https://gocardless.com/fr-fr/partenaires/sage50",
+    "https://gocardless.com/de-de/partner/lexware-office",
+    "https://gocardless.com/content-platform/sitemap-0.xml",
+    "https://framerusercontent.com/sites/6VxU76hr1dh0h95jZG2niM/searchIndex-LQ3d3kf88BcG.json"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://gocardless.com/integrations/",
+     "reason": "Only first 17 cards in HTML ('Load more' is JavaScript); completed with the site's public search index (55 integration pages) and the legacy /partners directory"
+    },
+    {
+     "url": "https://gocardless.com/de-de/partner/lexoffice",
+     "reason": "HTTP 404 (renamed to /de-de/partner/lexware-office)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Xero",
+     "source_url": "https://gocardless.com/integrations/xero",
+     "evidence": "Partners since 2015; automatically collect Xero invoice payments",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Intuit QuickBooks",
+     "source_url": "https://gocardless.com/integrations/intuit-quickbooks",
+     "evidence": "Added from QuickBooks app store; payments reconciled automatically",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage 50cloud",
+     "source_url": "https://gocardless.com/partners/sage50",
+     "evidence": "Automatic collection of Sage 50cloud invoices; FR page too",
+     "kind": "api",
+     "countries_stated": [
+      "GB",
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Sage 200cloud",
+     "source_url": "https://gocardless.com/partners/sage200",
+     "evidence": "Connect in Sage 200cloud Utilities menu; payments auto-reconciled",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Sage Accounting",
+     "source_url": "https://gocardless.com/integrations/sage",
+     "evidence": "Integrates with Sage 50, 200, Accounting, and Intacct",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Sage Intacct",
+     "source_url": "https://gocardless.com/partners/sageintacct",
+     "evidence": "GoCardless for Sage Intacct: automatic invoice payment collection",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "FreeAgent",
+     "source_url": "https://gocardless.com/integrations/freeagent",
+     "evidence": "FreeAgent connects to GoCardless; invoices collected and reconciled",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "KashFlow",
+     "source_url": "https://gocardless.com/partners/kashflow",
+     "evidence": "Automatic collection of KashFlow invoice payments",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "NetSuite",
+     "source_url": "https://gocardless.com/partners/netsuite",
+     "evidence": "GoCardless for NetSuite: collect and reconcile invoice payments automatically",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://gocardless.com/fr-fr/partenaires/pennylane",
+     "evidence": "Prélevez automatiquement vos clients depuis Pennylane",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "EBP",
+     "source_url": "https://gocardless.com/fr-fr/partenaires/ebp",
+     "evidence": "EBP marque la facture payée et rapproche automatiquement",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://gocardless.com/fr-fr/partenaires/evoliz",
+     "evidence": "Partner page 'GoCardless & Evoliz': automatic invoice direct debit",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Zoho Invoice",
+     "source_url": "https://gocardless.com/integrations/zoho-invoice",
+     "evidence": "Direct debit payments by connecting Zoho Invoice with GoCardless",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Zoho Books",
+     "source_url": "https://gocardless.com/integrations/zoho-books",
+     "evidence": "Dedicated 'Integrate with Zoho Books' page",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "QuickFile",
+     "source_url": "https://gocardless.com/integrations/quickfile",
+     "evidence": "Dedicated integration page; automatically collect payment for invoices",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Microsoft Dynamics 365 Business Central",
+     "source_url": "https://gocardless.com/partners/microsoft",
+     "evidence": "Connect through our partners (Astral 365 app)",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Lexware Office",
+     "source_url": "https://gocardless.com/de-de/partner/lexware-office",
+     "evidence": "Via SepaHeld app linking GoCardless and Lexware Office",
+     "kind": "via_partner",
+     "countries_stated": [
+      "DE"
+     ]
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://gocardless.com/partners/category/accounting-and-invoicing",
+     "evidence": "Listed as 'Odoo by Open User Systems'",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Acumatica",
+     "source_url": "https://gocardless.com/partners/category/accounting-and-invoicing",
+     "evidence": "AcuPower: Direct Debits and payments in Acumatica",
+     "kind": "via_partner",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Clear Books",
+     "source_url": "https://gocardless.com/partners/category/accounting-and-invoicing",
+     "evidence": "Listed in Accounting & Invoicing partners; no mechanism stated",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "iplicit",
+     "source_url": "https://gocardless.com/partners/category/accounting-and-invoicing",
+     "evidence": "Listed in Accounting & Invoicing partners; links to iplicit site",
+     "kind": "unknown",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Sellsy",
+     "source_url": "https://gocardless.com/partners/category/accounting-and-invoicing",
+     "evidence": "Listed: 'Get your invoices paid automatically'; detail not analysed",
+     "kind": "unknown",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Axonaut",
+     "source_url": "https://gocardless.com/fr-fr/partenaires/categorie/compta-et-facturation",
+     "evidence": "Listed: 'Automatisez vos factures avec le prélèvement'",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Holded",
+     "source_url": "https://gocardless.com/es-es/asociados",
+     "evidence": "Menu text only: 'Sincroniza con Chargebee, Holded, Salesforce'",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    }
+   ],
+   "notes": "Integrations are invoice-collection apps (direct debit / pay by bank triggered from the accounting tool, with automatic reconciliation), mostly built with or by the software vendor. Two coexisting public directories: new /integrations (350+ claimed, 55 pages indexed, accounting ones: Xero, QuickBooks, Sage, FreeAgent, KashFlow, QuickFile, Zoho) and legacy localized /partners directories (EN, FR, DE, ES) which carry country-specific names: FR = Pennylane, EBP Facturation, Evoliz, Sellsy, Axonaut, Altoviz, Factomos, Isoftis, Sage Intacct, Sage 50cloud; DE = Lexware Office (via SepaHeld), PayJoe; ES = Xero, Zoho, Billin (Holded only named in menu text). Other accounting-category partners not listed as rows: Fiskl, hibooks, Tide, Kolleno, Upflow, Agicap. Not found: Cegid, Sage 100, ACD, MyUnisoft, Inqom, Fulll, Tiime, DATEV, sevdesk, Exact Online, Twinfield, Moneybird, WinBooks, Yuki, a3, Italian packages, SAP. No Chift/Codat mention."
+  },
+  {
+   "id": "payplug",
+   "name": "Payplug",
+   "domain": "payplug.com",
+   "hq_country": "FR",
+   "integrations_url": "https://www.payplug.com/fr/modules/",
+   "pages_read": [
+    "https://www.payplug.com/fr/modules/",
+    "https://www.payplug.com/modules/",
+    "https://www.payplug.com/it/moduli/",
+    "https://www.payplug.com/fr/partenaires/",
+    "https://www.payplug.com/fr/track/",
+    "https://www.payplug.com/track/",
+    "https://www.payplug.com/it/track/",
+    "https://www.payplug.com/fr/fonctionnalites/",
+    "https://www.payplug.com/fr/modules/ebp/",
+    "https://www.payplug.com/fr/modules/divalto/",
+    "https://www.payplug.com/fr/modules/evoliz/",
+    "https://www.payplug.com/fr/modules/odoo/",
+    "https://www.payplug.com/fr/modules/nout/",
+    "https://www.payplug.com/fr/blog/rapport-comptable-e-commerce/",
+    "https://www.payplug.com/fr/blog/simplifier-comptabilite-independants/",
+    "https://support.payplug.com/hc/fr/articles/4404783507218-Comment-fonctionne-la-comptabilit%C3%A9-sur-Payplug",
+    "https://support.payplug.com/hc/it/articles/4404783507218-Come-funziona-la-contabilit%C3%A0-su-Payplug",
+    "https://support.payplug.com/hc/fr/articles/360021327311-Comment-obtenir-mes-diff%C3%A9rents-documents-comptables",
+    "https://www.payplug.com/sitemap_index.xml"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.payplug.com/fr/integrations/",
+     "reason": "HTTP 404; the directory lives at /fr/modules/"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "EBP",
+     "source_url": "https://www.payplug.com/fr/modules/ebp/",
+     "evidence": "Payplug payment links in EBP invoices and quotes",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Divalto",
+     "source_url": "https://www.payplug.com/fr/modules/divalto/",
+     "evidence": "Payplug payment links on invoices from Divalto ERP",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Evoliz",
+     "source_url": "https://www.payplug.com/fr/modules/evoliz/",
+     "evidence": "Payplug connected to Evoliz invoicing: card payment of invoices",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Odoo",
+     "source_url": "https://www.payplug.com/fr/modules/odoo/",
+     "evidence": "Payplug module for Odoo: checkout and payment links in invoices",
+     "kind": "api",
+     "countries_stated": []
+    },
+    {
+     "software_raw": "Nout",
+     "source_url": "https://www.payplug.com/fr/modules/nout/",
+     "evidence": "Digital payment of invoices generated from NOUT ERP (SIMAX)",
+     "kind": "api",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Pennylane",
+     "source_url": "https://support.payplug.com/hc/fr/articles/4404783507218-Comment-fonctionne-la-comptabilit%C3%A9-sur-Payplug",
+     "evidence": "Listed under 'Intégrations pour ERP et outils comptables'; no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    },
+    {
+     "software_raw": "Dougs",
+     "source_url": "https://support.payplug.com/hc/fr/articles/4404783507218-Comment-fonctionne-la-comptabilit%C3%A9-sur-Payplug",
+     "evidence": "Listed under 'Intégrations pour ERP et outils comptables'; no mechanism",
+     "kind": "unknown",
+     "countries_stated": [
+      "FR"
+     ]
+    }
+   ],
+   "notes": "Key point for Chift: the Track product page states 'Connectez Payplug à votre ERP pour envoyer automatiquement les données de paiement via Chift' (FR, EN and IT versions), without naming any target software, so no row was created for it. The modules page section 'ERP et outils comptables' lists EBP, Divalto, Evoliz, Agicap, Nout, ProGBat: these are payment-link-in-invoice integrations, not accounting-entry sync. Support article additionally lists Dougs, Fygr, Pennylane and Budget Insight ('remontées comptables sur de nombreuses solutions'). Otherwise accounting relies on generic CSV exports from the portal. Cegid appears only as a POS (retail) partner; Axonaut as a partner testimonial. Not found: Sage, Cegid accounting products, ACD, MyUnisoft, Inqom, Fulll, Tiime, Indy, QuickBooks, Xero, DATEV, Italian packages (IT modules page has no ERP section)."
+  },
+  {
+   "id": "zettle",
+   "name": "Zettle by PayPal (PayPal Point of Sale)",
+   "domain": "zettle.com",
+   "hq_country": "SE",
+   "integrations_url": "https://www.zettle.com/gb/integrations",
+   "pages_read": [
+    "https://www.zettle.com/gb/integrations",
+    "https://www.zettle.com/fr/integrations",
+    "https://www.zettle.com/de/integrationen",
+    "https://www.zettle.com/nl/koppelingen",
+    "https://www.zettle.com/es/integraciones",
+    "https://www.zettle.com/it/integrazioni",
+    "https://www.zettle.com/se/integrationer",
+    "https://www.zettle.com/no/integrasjoner",
+    "https://www.zettle.com/dk/integrationer",
+    "https://www.zettle.com/fi/integraatiot",
+    "https://www.zettle.com/gb/help/articles/1904954-integrate-with-xero",
+    "https://www.zettle.com/gb/help/articles/2982932-integrate-with-quickbooks",
+    "https://www.zettle.com/gb/help/articles/1318029-accounting-with-paypal-point-of-sale",
+    "https://www.zettle.com/nl/help/articles/1318029-boekhouding-met-paypal-point-of-sale",
+    "https://www.zettle.com/nl/help/articles/9212016-integreer-met-exact",
+    "https://www.zettle.com/nl/help/articles/2650704-integreren-met-visma",
+    "https://www.zettle.com/de/help/articles/1318029-buchhaltung-mit-paypal-point-of-sale",
+    "https://www.zettle.com/fr/help/articles/1318029-la-comptabilite-avec-paypal-pos",
+    "https://www.zettle.com/es/help/articles/1318029-contabilidad-con-pos-de-paypal",
+    "https://www.zettle.com/it/help/articles/1318029-la-contabilita-con-pos-di-paypal"
+   ],
+   "pages_unreadable": [
+    {
+     "url": "https://www.zettle.com/gb/integrations/accounting",
+     "reason": "Redirects to paypal.com/uk/zettle product page; per-category pages no longer exist (404 on de/nl/es/it/se)"
+    }
+   ],
+   "connections": [
+    {
+     "software_raw": "Xero",
+     "source_url": "https://www.zettle.com/gb/help/articles/1904954-integrate-with-xero",
+     "evidence": "Help article: connect PayPal Point of Sale account with Xero",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "QuickBooks Online",
+     "source_url": "https://www.zettle.com/gb/help/articles/2982932-integrate-with-quickbooks",
+     "evidence": "Help article: connect PayPal Point of Sale account with QuickBooks",
+     "kind": "api",
+     "countries_stated": [
+      "GB"
+     ]
+    },
+    {
+     "software_raw": "Exact",
+     "source_url": "https://www.zettle.com/nl/help/articles/9212016-integreer-met-exact",
+     "evidence": "Sales and payment data imported directly into Exact Online ledger",
+     "kind": "api",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Visma eAccounting",
+     "source_url": "https://www.zettle.com/nl/help/articles/2650704-integreren-met-visma",
+     "evidence": "Daily sales booked automatically in Visma eAccounting",
+     "kind": "api",
+     "countries_stated": [
+      "NL",
+      "NO"
+     ]
+    },
+    {
+     "software_raw": "e-Boekhouden",
+     "source_url": "https://www.zettle.com/nl/koppelingen",
+     "evidence": "Listed under 'Boekhoudkoppelingen'; no mechanism stated",
+     "kind": "unknown",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "SnelStart",
+     "source_url": "https://www.zettle.com/nl/koppelingen",
+     "evidence": "Listed under 'Boekhoudkoppelingen'; no mechanism stated",
+     "kind": "unknown",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Twinfield",
+     "source_url": "https://www.zettle.com/nl/koppelingen",
+     "evidence": "Listed under 'Boekhoudkoppelingen'; no mechanism stated",
+     "kind": "unknown",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Yuki",
+     "source_url": "https://www.zettle.com/nl/koppelingen",
+     "evidence": "Listed under 'Boekhoudkoppelingen'; no mechanism stated",
+     "kind": "unknown",
+     "countries_stated": [
+      "NL"
+     ]
+    },
+    {
+     "software_raw": "Contasimple",
+     "source_url": "https://www.zettle.com/es/integraciones",
+     "evidence": "Listed under accounting: 'Contabilidad y facturación en línea'",
+     "kind": "unknown",
+     "countries_stated": [
+      "ES"
+     ]
+    },
+    {
+     "software_raw": "Fortnox",
+     "source_url": "https://www.zettle.com/se/integrationer",
+     "evidence": "Listed under Accounting & Bookkeeping",
+     "kind": "unknown",
+     "countries_stated": [
+      "SE"
+     ]
+    },
+    {
+     "software_raw": "Visma",
+     "source_url": "https://www.zettle.com/se/integrationer",
+     "evidence": "Listed under Accounting & Bookkeeping (SE, NO)",
+     "kind": "unknown",
+     "countries_stated": [
+      "SE",
+      "NO"
+     ]
+    },
+    {
+     "software_raw": "Björn Lundén",
+     "source_url": "https://www.zettle.com/se/integrationer",
+     "evidence": "Listed under Accounting & Bookkeeping",
+     "kind": "unknown",
+     "countries_stated": [
+      "SE"
+     ]
+    },
+    {
+     "software_raw": "Wrebit",
+     "source_url": "https://www.zettle.com/se/integrationer",
+     "evidence": "Listed under Accounting & Bookkeeping",
+     "kind": "unknown",
+     "countries_stated": [
+      "SE"
+     ]
+    },
+    {
+     "software_raw": "Fiken",
+     "source_url": "https://www.zettle.com/no/integrasjoner",
+     "evidence": "Listed under Accounting & Bookkeeping",
+     "kind": "unknown",
+     "countries_stated": [
+      "NO"
+     ]
+    },
+    {
+     "software_raw": "Billy",
+     "source_url": "https://www.zettle.com/dk/integrationer",
+     "evidence": "Listed under Accounting & Bookkeeping",
+     "kind": "unknown",
+     "countries_stated": [
+      "DK"
+     ]
+    },
+    {
+     "software_raw": "Dinero",
+     "source_url": "https://www.zettle.com/dk/integrationer",
+     "evidence": "Listed under Accounting & Bookkeeping",
+     "kind": "unknown",
+     "countries_stated": [
+      "DK"
+     ]
+    },
+    {
+     "software_raw": "VISMA e-conomic",
+     "source_url": "https://www.zettle.com/dk/integrationer",
+     "evidence": "Listed under Accounting & Bookkeeping",
+     "kind": "unknown",
+     "countries_stated": [
+      "DK"
+     ]
+    }
+   ],
+   "notes": "Brand is being renamed PayPal Point of Sale. Integration lists are per country and short. Accounting entries: GB = Xero, QuickBooks Online (plus ANNA business account, Tenzo analytics); NL = e-Boekhouden, Exact, SnelStart, Twinfield, Visma eAccounting, Yuki; ES = Contasimple; SE/NO/DK = local Nordic packages (NO also lists iizy, a connector). FR lists only Qonto (a bank) under accounting; DE, IT and FI list no accounting integration. Help articles in FR/DE/ES/IT only say 'link an accounting app from my.zettle.com' without naming any, and point to exportable sales reports. Exact help article excludes Exact Globe, Synergy, Consolidation. Not found: Pennylane, Cegid, Sage, EBP, DATEV, Lexware Office, sevdesk, Moneybird, AFAS, Holded, FreeAgent, KashFlow, Fatture in Cloud, NetSuite. No Chift/Codat mention."
+  }
+ ]
+}
